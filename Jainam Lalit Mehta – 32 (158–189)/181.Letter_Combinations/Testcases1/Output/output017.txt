@@ -1,0 +1,12 @@
+dw
+dx
+dy
+dz
+ew
+ex
+ey
+ez
+fw
+fx
+fy
+fz

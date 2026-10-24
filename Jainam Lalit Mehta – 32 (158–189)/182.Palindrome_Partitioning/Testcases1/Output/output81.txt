@@ -1,0 +1,1 @@
+[["a","b","c","d","e","f","f","e","d","c","b","a"],["a","b","c","d","e","ff","e","d","c","b","a"],["a","b","c","d","effe","d","c","b","a"],["a","b","c","deffed","c","b","a"],["a","b","cdeffedc","b","a"],["a","bcdeffedcb","a"],["abcdeffedcba"]]

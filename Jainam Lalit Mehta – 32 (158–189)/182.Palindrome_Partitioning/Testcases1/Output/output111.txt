@@ -1,0 +1,1 @@
+[["a","b","a","b","a","b","a"],["a","b","a","b","aba"],["a","b","a","bab","a"],["a","b","aba","b","a"],["a","b","ababa"],["a","bab","a","b","a"],["a","bab","aba"],["a","babab","a"],["aba","b","a","b","a"],["aba","b","aba"],["aba","bab","a"],["ababa","b","a"],["abababa"]]

@@ -1,0 +1,8 @@
+6 3
+cbc
+abb
+aac
+bac
+aac
+abc
+ccaab

@@ -1,0 +1,1 @@
+[["a","b","c","d","e","f","g","h","g","f","e","d","c","b","a"],["a","b","c","d","e","f","ghg","f","e","d","c","b","a"],["a","b","c","d","e","fghgf","e","d","c","b","a"],["a","b","c","d","efghgfe","d","c","b","a"],["a","b","c","defghgfed","c","b","a"],["a","b","cdefghgfedc","b","a"],["a","bcdefghgfedcb","a"],["abcdefghgfedcba"]]
