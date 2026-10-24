@@ -1,0 +1,1 @@
+[["a","b","c","d","e","d","c","b","a"],["a","b","c","ded","c","b","a"],["a","b","cdedc","b","a"],["a","bcdedcb","a"],["abcdedcba"]]

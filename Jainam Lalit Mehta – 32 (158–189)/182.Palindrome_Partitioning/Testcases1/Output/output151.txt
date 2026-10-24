@@ -1,0 +1,1 @@
+[["b","a","b","a","b","b","b"],["b","a","b","a","b","bb"],["b","a","b","a","bb","b"],["b","a","b","a","bbb"],["b","a","bab","b","b"],["b","a","bab","bb"],["b","aba","b","b","b"],["b","aba","b","bb"],["b","aba","bb","b"],["b","aba","bbb"],["bab","a","b","b","b"],["bab","a","b","bb"],["bab","a","bb","b"],["bab","a","bbb"],["babab","b","b"],["babab","bb"]]
