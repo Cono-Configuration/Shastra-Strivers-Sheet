@@ -1,0 +1,6 @@
+5
+initializeHeap
+insert -100000
+getMin
+extractMin
+isEmpty

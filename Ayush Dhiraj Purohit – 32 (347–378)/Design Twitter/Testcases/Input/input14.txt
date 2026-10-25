@@ -1,0 +1,33 @@
+32
+unfollow 3 4
+follow 3 5
+postTweet 7 31
+follow 5 4
+getNewsFeed 1
+getNewsFeed 7
+postTweet 4 32
+getNewsFeed 1
+unfollow 6 2
+follow 3 1
+getNewsFeed 7
+getNewsFeed 4
+follow 3 6
+postTweet 1 33
+getNewsFeed 6
+unfollow 6 5
+getNewsFeed 6
+follow 5 2
+follow 5 3
+getNewsFeed 1
+postTweet 7 34
+unfollow 3 1
+getNewsFeed 3
+getNewsFeed 5
+unfollow 1 2
+postTweet 7 35
+getNewsFeed 1
+follow 5 4
+getNewsFeed 7
+postTweet 1 36
+postTweet 7 37
+follow 2 6

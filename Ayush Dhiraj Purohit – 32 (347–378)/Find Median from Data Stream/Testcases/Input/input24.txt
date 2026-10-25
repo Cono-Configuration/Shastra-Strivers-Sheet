@@ -1,0 +1,44 @@
+43
+addNum 60720777
+findMedian
+findMedian
+addNum -557232089
+addNum -788274261
+addNum -714570667
+addNum -496871427
+findMedian
+findMedian
+addNum 804745205
+addNum 67363322
+findMedian
+findMedian
+addNum -88163314
+findMedian
+findMedian
+findMedian
+addNum -43123245
+addNum 138715750
+findMedian
+findMedian
+findMedian
+addNum 983171146
+addNum -694507277
+findMedian
+addNum -847111494
+addNum -241438143
+findMedian
+findMedian
+findMedian
+addNum -530917177
+addNum -474341784
+addNum -103196557
+addNum -270003046
+findMedian
+findMedian
+findMedian
+addNum 256825818
+addNum 386685749
+addNum -613390162
+findMedian
+findMedian
+findMedian

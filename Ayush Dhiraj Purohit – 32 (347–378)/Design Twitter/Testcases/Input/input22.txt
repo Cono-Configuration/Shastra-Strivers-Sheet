@@ -1,0 +1,57 @@
+56
+follow 2 6
+follow 6 2
+postTweet 6 120
+getNewsFeed 1
+postTweet 3 121
+getNewsFeed 3
+postTweet 3 122
+getNewsFeed 8
+postTweet 7 123
+unfollow 5 7
+follow 3 4
+postTweet 1 124
+unfollow 5 9
+getNewsFeed 8
+unfollow 1 5
+postTweet 5 125
+getNewsFeed 7
+unfollow 7 4
+unfollow 9 1
+follow 6 8
+postTweet 8 126
+postTweet 3 127
+getNewsFeed 1
+postTweet 6 128
+unfollow 7 1
+follow 7 5
+postTweet 1 129
+getNewsFeed 1
+postTweet 6 130
+getNewsFeed 6
+follow 1 4
+follow 1 6
+unfollow 6 1
+unfollow 9 6
+follow 2 6
+postTweet 7 131
+unfollow 5 6
+getNewsFeed 4
+getNewsFeed 6
+getNewsFeed 9
+follow 7 1
+postTweet 9 132
+getNewsFeed 7
+follow 1 6
+follow 3 8
+getNewsFeed 9
+getNewsFeed 9
+getNewsFeed 2
+getNewsFeed 2
+getNewsFeed 2
+getNewsFeed 2
+getNewsFeed 3
+postTweet 2 133
+follow 3 9
+postTweet 1 134
+getNewsFeed 7

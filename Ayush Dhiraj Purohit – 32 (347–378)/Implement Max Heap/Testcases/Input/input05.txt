@@ -1,0 +1,7 @@
+6
+initializeHeap
+insert 2
+insert 5
+getMax
+extractMax
+getMax

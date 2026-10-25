@@ -1,0 +1,11 @@
+10
+initializeHeap
+insert 10
+insert 20
+insert 30
+heapSize
+initializeHeap
+heapSize
+isEmpty
+insert 99
+getMin

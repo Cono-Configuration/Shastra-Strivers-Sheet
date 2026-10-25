@@ -1,0 +1,18 @@
+17
+initializeHeap
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+insert 77
+getMax
+heapSize
+extractMax
+getMax

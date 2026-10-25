@@ -1,0 +1,4886 @@
+4885
+initializeHeap
+insert -525317
+insert -470379
+insert 865438
+insert -471279
+insert -327210
+insert -403273
+insert 620992
+insert -28984
+insert 279988
+insert 201351
+insert -82614
+insert 46622
+insert -73949
+insert -357481
+insert -115888
+insert 138587
+insert 523449
+insert -249981
+insert 682063
+insert -553901
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+heapSize
+heapSize
+insert 878807
+isEmpty
+changeKey 6 -731427
+extractMax
+extractMax
+changeKey 10 242307
+insert 476763
+extractMax
+insert -161429
+extractMax
+extractMax
+heapSize
+heapSize
+heapSize
+isEmpty
+extractMax
+insert 253897
+insert -82323
+changeKey 5 -353273
+heapSize
+extractMax
+insert -508063
+isEmpty
+heapSize
+insert 904342
+heapSize
+extractMax
+isEmpty
+changeKey 11 238719
+heapSize
+getMax
+insert -955981
+extractMax
+insert -657163
+insert 108058
+insert 196692
+heapSize
+insert -709128
+heapSize
+insert -398645
+heapSize
+getMax
+extractMax
+extractMax
+extractMax
+changeKey 13 94344
+extractMax
+changeKey 12 -850979
+extractMax
+getMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 992934
+insert 747145
+insert -512969
+insert -800461
+insert 612271
+insert -981922
+insert -562207
+insert -706399
+insert 749319
+insert -175071
+insert -929595
+insert 174982
+insert -529146
+insert 33732
+extractMax
+isEmpty
+heapSize
+insert 813730
+extractMax
+extractMax
+getMax
+getMax
+insert -941069
+extractMax
+insert -819882
+insert -298317
+insert 755294
+extractMax
+extractMax
+insert -556206
+insert 970953
+changeKey 13 708213
+insert -584043
+insert 105039
+extractMax
+changeKey 10 78936
+heapSize
+extractMax
+heapSize
+extractMax
+insert -928210
+insert -582756
+getMax
+heapSize
+insert -973403
+extractMax
+extractMax
+insert -565164
+changeKey 2 -560274
+extractMax
+insert 579958
+getMax
+extractMax
+extractMax
+changeKey 22 792264
+getMax
+changeKey 5 -910476
+heapSize
+isEmpty
+insert 727348
+insert 357878
+getMax
+extractMax
+extractMax
+heapSize
+extractMax
+insert 919861
+changeKey 1 124164
+getMax
+getMax
+isEmpty
+insert 175000
+getMax
+changeKey 15 -339639
+getMax
+extractMax
+extractMax
+extractMax
+insert -178105
+heapSize
+extractMax
+insert 222365
+insert -190963
+getMax
+insert -623240
+insert 789349
+extractMax
+getMax
+extractMax
+extractMax
+insert -949471
+insert 904991
+extractMax
+extractMax
+extractMax
+changeKey 16 -913506
+extractMax
+insert -332906
+extractMax
+insert 485057
+extractMax
+extractMax
+insert 339522
+heapSize
+insert 788027
+extractMax
+isEmpty
+extractMax
+extractMax
+getMax
+extractMax
+changeKey 1 -894673
+insert -526995
+extractMax
+getMax
+insert 373619
+extractMax
+heapSize
+extractMax
+extractMax
+extractMax
+getMax
+getMax
+insert -910810
+insert 638119
+extractMax
+insert 904273
+isEmpty
+insert -656752
+insert 856454
+changeKey 8 164079
+getMax
+insert 20213
+extractMax
+getMax
+insert 655222
+extractMax
+insert -975055
+insert 254508
+extractMax
+insert -490265
+extractMax
+heapSize
+heapSize
+insert 10581
+insert 220535
+extractMax
+insert 908353
+getMax
+getMax
+getMax
+insert -859769
+extractMax
+changeKey 18 321006
+extractMax
+extractMax
+extractMax
+getMax
+isEmpty
+heapSize
+insert 933299
+getMax
+isEmpty
+heapSize
+insert -994694
+extractMax
+extractMax
+extractMax
+getMax
+insert 235506
+insert 476568
+isEmpty
+extractMax
+extractMax
+insert 501750
+getMax
+getMax
+extractMax
+getMax
+getMax
+getMax
+extractMax
+heapSize
+extractMax
+getMax
+changeKey 4 -877763
+extractMax
+insert -730826
+insert 838712
+insert 603994
+insert -981354
+changeKey 11 392797
+insert 940472
+extractMax
+insert -766494
+heapSize
+changeKey 4 -520550
+insert -436349
+extractMax
+getMax
+insert -458022
+getMax
+insert 691906
+changeKey 13 813298
+getMax
+insert 596609
+extractMax
+extractMax
+extractMax
+extractMax
+getMax
+insert 814404
+getMax
+isEmpty
+getMax
+insert 316676
+extractMax
+insert -521119
+heapSize
+insert -155769
+insert 647237
+extractMax
+extractMax
+insert 369482
+getMax
+getMax
+getMax
+changeKey 4 -466752
+extractMax
+getMax
+heapSize
+extractMax
+insert 582390
+insert 424896
+insert 362372
+extractMax
+insert -151468
+extractMax
+changeKey 5 993345
+insert -264239
+extractMax
+extractMax
+extractMax
+insert 278990
+extractMax
+extractMax
+insert -68473
+changeKey 11 -557645
+changeKey 10 821158
+changeKey 13 143018
+insert 801287
+heapSize
+insert 630526
+extractMax
+insert -113103
+heapSize
+extractMax
+extractMax
+insert 617056
+insert 123562
+insert -421365
+changeKey 3 -415184
+extractMax
+isEmpty
+insert 244286
+changeKey 1 796348
+extractMax
+insert -775962
+changeKey 13 -770523
+insert -852615
+insert 383382
+extractMax
+heapSize
+changeKey 13 467511
+changeKey 4 -706906
+insert -710358
+isEmpty
+insert -205719
+heapSize
+extractMax
+extractMax
+extractMax
+getMax
+insert 407341
+insert 310783
+extractMax
+getMax
+insert 41305
+changeKey 6 75368
+isEmpty
+insert -815042
+changeKey 20 125557
+isEmpty
+insert 956129
+insert 471848
+changeKey 7 -430153
+heapSize
+extractMax
+extractMax
+insert -767827
+insert 41381
+changeKey 2 -917279
+extractMax
+extractMax
+getMax
+insert 26205
+changeKey 20 942944
+heapSize
+insert -163856
+extractMax
+extractMax
+getMax
+extractMax
+extractMax
+getMax
+insert 964337
+extractMax
+changeKey 18 -341856
+insert 298856
+isEmpty
+changeKey 8 862590
+insert -355451
+extractMax
+insert -151170
+extractMax
+changeKey 19 160616
+extractMax
+insert -875380
+heapSize
+insert -738788
+extractMax
+extractMax
+extractMax
+heapSize
+insert 559625
+extractMax
+changeKey 4 662221
+extractMax
+changeKey 12 484921
+insert 511174
+insert 649573
+getMax
+isEmpty
+getMax
+extractMax
+insert 167533
+insert -645890
+heapSize
+insert -930044
+getMax
+changeKey 16 833675
+insert 263707
+extractMax
+extractMax
+insert -179897
+insert 558223
+extractMax
+insert 530712
+extractMax
+extractMax
+insert 298880
+insert -164222
+getMax
+heapSize
+changeKey 13 492795
+extractMax
+changeKey 16 860093
+insert 881153
+changeKey 23 -217877
+extractMax
+heapSize
+changeKey 14 -426190
+changeKey 6 136078
+extractMax
+insert -758900
+extractMax
+getMax
+extractMax
+getMax
+extractMax
+changeKey 19 -196186
+insert -426237
+insert 861631
+extractMax
+extractMax
+heapSize
+insert 34564
+isEmpty
+insert 959218
+changeKey 4 411671
+insert 661129
+extractMax
+insert -534330
+extractMax
+extractMax
+changeKey 11 -168393
+getMax
+extractMax
+changeKey 13 428322
+changeKey 3 825372
+insert 538735
+heapSize
+heapSize
+insert 258132
+extractMax
+insert 709698
+insert 748140
+extractMax
+changeKey 21 360253
+insert 461696
+extractMax
+heapSize
+getMax
+heapSize
+getMax
+changeKey 10 -903724
+extractMax
+heapSize
+insert 943021
+insert -967052
+extractMax
+getMax
+extractMax
+insert 375222
+insert -214973
+insert 512508
+heapSize
+extractMax
+extractMax
+insert 380584
+insert 910321
+isEmpty
+insert -284900
+insert -710133
+changeKey 3 -170334
+heapSize
+insert -207711
+insert -616273
+insert -603133
+insert -957091
+insert 483556
+extractMax
+getMax
+getMax
+extractMax
+extractMax
+insert 119754
+extractMax
+insert 997222
+extractMax
+isEmpty
+changeKey 5 726029
+changeKey 0 -304547
+isEmpty
+extractMax
+extractMax
+heapSize
+changeKey 9 -564384
+getMax
+isEmpty
+getMax
+changeKey 14 -587325
+heapSize
+extractMax
+insert 942265
+getMax
+extractMax
+insert -686678
+insert 444606
+insert 425010
+insert 951811
+insert 903776
+changeKey 1 648635
+heapSize
+extractMax
+insert 893965
+insert -806018
+heapSize
+heapSize
+extractMax
+changeKey 29 298607
+insert 609342
+heapSize
+getMax
+insert 523742
+heapSize
+getMax
+insert -994931
+isEmpty
+extractMax
+heapSize
+extractMax
+insert 224449
+getMax
+changeKey 21 604136
+extractMax
+extractMax
+insert 425676
+heapSize
+insert 439249
+extractMax
+insert 639650
+isEmpty
+insert -210542
+changeKey 14 -452517
+extractMax
+insert -748101
+getMax
+heapSize
+extractMax
+changeKey 32 -887064
+insert 346701
+changeKey 12 287719
+insert 285206
+extractMax
+getMax
+isEmpty
+insert -343523
+insert 850201
+extractMax
+changeKey 9 -699242
+changeKey 2 594836
+insert -56712
+insert 870892
+insert 200998
+extractMax
+getMax
+insert 356397
+insert 144960
+extractMax
+insert 91222
+insert -230564
+isEmpty
+insert -150176
+extractMax
+extractMax
+heapSize
+heapSize
+getMax
+getMax
+changeKey 4 817556
+insert -595180
+changeKey 16 -277080
+heapSize
+insert 338010
+extractMax
+changeKey 4 581313
+changeKey 21 -908219
+insert -579417
+extractMax
+extractMax
+changeKey 2 113501
+heapSize
+extractMax
+changeKey 17 -56478
+insert 690528
+insert -170778
+extractMax
+heapSize
+insert 158468
+insert -779196
+insert -401774
+insert -51388
+insert -883940
+insert 468007
+insert -82421
+heapSize
+insert 205594
+changeKey 37 -742318
+insert -756966
+insert 767461
+changeKey 28 -172852
+changeKey 16 276627
+getMax
+isEmpty
+extractMax
+extractMax
+getMax
+getMax
+insert -495102
+getMax
+heapSize
+changeKey 19 -769929
+extractMax
+extractMax
+extractMax
+insert -984231
+extractMax
+insert -848815
+getMax
+insert -977696
+changeKey 18 -91829
+heapSize
+isEmpty
+heapSize
+insert 338581
+getMax
+insert 341690
+extractMax
+heapSize
+insert 767051
+changeKey 37 842027
+insert -857551
+heapSize
+insert 785579
+getMax
+insert 805057
+extractMax
+changeKey 4 111130
+heapSize
+getMax
+changeKey 45 -834631
+extractMax
+extractMax
+getMax
+changeKey 38 -729574
+extractMax
+changeKey 47 -175470
+isEmpty
+changeKey 45 62146
+insert 468933
+changeKey 47 -720634
+insert 76137
+insert -822532
+insert -475772
+getMax
+insert -185521
+getMax
+extractMax
+insert -741027
+insert 902137
+extractMax
+insert -129446
+isEmpty
+extractMax
+extractMax
+insert -740657
+getMax
+extractMax
+insert -321378
+extractMax
+insert 344155
+insert 366101
+getMax
+extractMax
+heapSize
+insert 167687
+changeKey 2 -727861
+getMax
+isEmpty
+extractMax
+getMax
+extractMax
+extractMax
+heapSize
+heapSize
+getMax
+extractMax
+changeKey 40 348651
+getMax
+extractMax
+changeKey 5 -632620
+insert 719063
+isEmpty
+getMax
+heapSize
+changeKey 37 -263037
+isEmpty
+extractMax
+extractMax
+heapSize
+isEmpty
+extractMax
+heapSize
+extractMax
+insert 150083
+isEmpty
+changeKey 26 722503
+getMax
+insert 422724
+insert -640472
+insert -420110
+insert -379215
+getMax
+extractMax
+insert 186289
+insert -301
+extractMax
+insert -691948
+changeKey 12 -139926
+getMax
+extractMax
+insert 993657
+insert 257014
+changeKey 33 27866
+getMax
+insert -56544
+insert 267635
+insert -151556
+insert -118839
+isEmpty
+changeKey 12 554597
+getMax
+insert -125958
+extractMax
+extractMax
+extractMax
+isEmpty
+insert -157012
+extractMax
+getMax
+isEmpty
+insert -31149
+insert 187260
+insert 372675
+extractMax
+extractMax
+insert -771830
+insert -892822
+insert 884356
+changeKey 3 -134581
+insert -652712
+insert -558533
+extractMax
+extractMax
+extractMax
+changeKey 12 767659
+insert 903474
+extractMax
+insert 658591
+insert -98437
+changeKey 36 -284094
+insert -514833
+isEmpty
+getMax
+changeKey 57 -317154
+isEmpty
+getMax
+insert 994111
+extractMax
+insert -725649
+extractMax
+insert 849810
+extractMax
+extractMax
+insert 166428
+changeKey 55 766759
+insert 905734
+insert -5736
+changeKey 22 -431946
+extractMax
+getMax
+changeKey 39 579090
+heapSize
+extractMax
+insert -922742
+extractMax
+insert 663696
+changeKey 21 -896072
+insert -311001
+insert 548561
+changeKey 26 412760
+changeKey 46 299201
+insert -836171
+changeKey 1 -305039
+insert 9468
+changeKey 43 597907
+insert 375537
+insert -972290
+insert -59835
+getMax
+isEmpty
+isEmpty
+changeKey 8 972709
+changeKey 42 -52645
+getMax
+extractMax
+insert 460911
+changeKey 62 -429517
+changeKey 15 -489761
+insert 139723
+insert -323130
+insert 185115
+getMax
+insert 590878
+changeKey 63 497760
+extractMax
+extractMax
+getMax
+extractMax
+isEmpty
+extractMax
+changeKey 51 913211
+heapSize
+extractMax
+heapSize
+insert -805357
+heapSize
+extractMax
+insert -430236
+changeKey 50 800049
+getMax
+heapSize
+heapSize
+heapSize
+insert 195009
+extractMax
+extractMax
+insert -2935
+changeKey 35 443519
+insert 201291
+isEmpty
+insert 455019
+heapSize
+extractMax
+extractMax
+insert 753758
+changeKey 43 -419743
+extractMax
+extractMax
+insert 339909
+heapSize
+changeKey 42 -155307
+changeKey 51 498416
+insert 914027
+extractMax
+insert 55706
+changeKey 16 -722279
+insert -398434
+extractMax
+heapSize
+getMax
+extractMax
+insert 420064
+changeKey 17 -258763
+insert -183389
+heapSize
+insert -66769
+heapSize
+getMax
+insert -901115
+getMax
+getMax
+heapSize
+extractMax
+extractMax
+extractMax
+heapSize
+extractMax
+isEmpty
+insert -908012
+extractMax
+getMax
+extractMax
+getMax
+extractMax
+changeKey 33 268997
+isEmpty
+insert 367503
+insert -82294
+insert -627082
+heapSize
+extractMax
+insert -91635
+changeKey 8 937779
+getMax
+extractMax
+insert -966931
+heapSize
+extractMax
+getMax
+insert 140629
+extractMax
+extractMax
+extractMax
+insert 852362
+extractMax
+extractMax
+insert 972798
+getMax
+extractMax
+extractMax
+getMax
+insert -529286
+insert -795829
+extractMax
+insert -773366
+changeKey 10 598409
+changeKey 29 -156083
+extractMax
+heapSize
+getMax
+heapSize
+insert -534514
+insert 738337
+extractMax
+extractMax
+insert -403332
+extractMax
+getMax
+insert -904522
+extractMax
+insert 923980
+extractMax
+heapSize
+isEmpty
+heapSize
+insert -145502
+insert 496413
+insert -36101
+insert -44643
+insert 738321
+isEmpty
+changeKey 63 820195
+insert 294855
+insert -544048
+insert 243993
+extractMax
+insert -766809
+changeKey 42 342798
+extractMax
+extractMax
+changeKey 44 -320561
+changeKey 33 -827386
+insert -75953
+heapSize
+insert -221154
+heapSize
+extractMax
+insert 123569
+extractMax
+heapSize
+extractMax
+insert -983035
+extractMax
+insert 556635
+insert 400622
+isEmpty
+isEmpty
+changeKey 20 124559
+extractMax
+extractMax
+extractMax
+insert 898590
+insert 55980
+getMax
+insert -67248
+changeKey 6 815092
+getMax
+extractMax
+getMax
+insert -924483
+isEmpty
+heapSize
+insert 472320
+changeKey 20 -23319
+changeKey 72 924389
+heapSize
+insert 722929
+changeKey 53 40640
+insert -194736
+extractMax
+extractMax
+isEmpty
+insert 218350
+heapSize
+insert -394735
+insert 125767
+getMax
+insert -648185
+insert -617939
+extractMax
+insert -339938
+heapSize
+extractMax
+changeKey 32 313753
+insert -966331
+insert 278834
+changeKey 32 353097
+extractMax
+insert 855446
+insert -735940
+heapSize
+extractMax
+getMax
+insert -941359
+insert -822024
+extractMax
+insert -274012
+heapSize
+extractMax
+isEmpty
+insert -796476
+extractMax
+insert -464865
+getMax
+isEmpty
+insert 530550
+heapSize
+changeKey 74 -610738
+extractMax
+changeKey 69 -129653
+insert -678377
+getMax
+extractMax
+changeKey 69 -800812
+extractMax
+changeKey 45 770433
+insert 886401
+insert -654425
+extractMax
+insert 217999
+changeKey 32 373143
+changeKey 69 -847693
+extractMax
+changeKey 54 359484
+changeKey 57 -975337
+extractMax
+extractMax
+changeKey 11 648498
+insert -930721
+changeKey 59 -808586
+extractMax
+getMax
+isEmpty
+extractMax
+insert 712941
+insert 265943
+getMax
+insert 770769
+insert 728838
+insert -583878
+extractMax
+insert -813783
+extractMax
+extractMax
+extractMax
+extractMax
+changeKey 65 528075
+isEmpty
+insert 307974
+extractMax
+insert 921466
+extractMax
+heapSize
+changeKey 34 818641
+insert -958605
+insert -666968
+insert -973664
+insert -588860
+heapSize
+insert -584522
+insert 103141
+insert -978301
+heapSize
+getMax
+extractMax
+insert 475148
+extractMax
+changeKey 79 -36781
+extractMax
+changeKey 33 272049
+changeKey 32 -56846
+getMax
+heapSize
+insert -727800
+getMax
+insert 949606
+extractMax
+getMax
+insert 362049
+insert 182279
+extractMax
+extractMax
+extractMax
+insert -544635
+insert 593722
+extractMax
+insert -904073
+extractMax
+insert 727139
+insert 275065
+insert -991416
+extractMax
+changeKey 21 495057
+insert 711693
+insert 963685
+insert 289474
+isEmpty
+getMax
+heapSize
+insert 750861
+changeKey 78 401012
+insert -642881
+extractMax
+heapSize
+changeKey 59 184476
+getMax
+extractMax
+insert 618596
+changeKey 36 703084
+getMax
+changeKey 8 -677470
+changeKey 89 -941375
+extractMax
+extractMax
+changeKey 1 973434
+extractMax
+isEmpty
+changeKey 20 954767
+extractMax
+insert 566861
+extractMax
+heapSize
+isEmpty
+extractMax
+insert -296520
+insert -335430
+getMax
+heapSize
+extractMax
+insert 833108
+extractMax
+insert -828417
+extractMax
+isEmpty
+heapSize
+changeKey 65 189607
+heapSize
+insert -985638
+insert 184688
+changeKey 57 -648999
+changeKey 55 -393026
+changeKey 17 -665184
+heapSize
+extractMax
+insert 337919
+insert 689581
+heapSize
+insert -124995
+insert -839603
+getMax
+getMax
+insert -929967
+changeKey 82 -57943
+insert -531517
+changeKey 85 -248638
+extractMax
+extractMax
+insert 104453
+insert 124106
+changeKey 41 -488327
+insert 127263
+insert -786529
+getMax
+insert 950142
+insert -565890
+extractMax
+insert -322775
+extractMax
+getMax
+insert 970230
+extractMax
+heapSize
+insert 464225
+insert -502643
+getMax
+insert 88485
+heapSize
+insert 359727
+getMax
+heapSize
+isEmpty
+insert 293233
+isEmpty
+changeKey 104 195640
+extractMax
+extractMax
+insert -794425
+insert 345488
+getMax
+insert 48313
+insert 662093
+insert 648141
+insert 696743
+extractMax
+insert -26160
+insert 845245
+changeKey 12 417055
+insert -401313
+heapSize
+insert -523606
+extractMax
+changeKey 8 766572
+extractMax
+extractMax
+changeKey 38 -226228
+getMax
+extractMax
+insert -706699
+isEmpty
+insert 791716
+heapSize
+extractMax
+insert -322451
+extractMax
+getMax
+changeKey 17 922892
+extractMax
+insert 905366
+insert -354529
+isEmpty
+insert 483070
+heapSize
+getMax
+insert -777529
+extractMax
+heapSize
+getMax
+insert 984293
+heapSize
+changeKey 34 -409200
+insert 254688
+insert 382694
+isEmpty
+heapSize
+insert 152377
+changeKey 99 -657680
+insert 780553
+insert -183844
+isEmpty
+getMax
+changeKey 76 698330
+extractMax
+insert -85111
+getMax
+heapSize
+isEmpty
+insert 426232
+extractMax
+heapSize
+getMax
+getMax
+extractMax
+getMax
+insert 718321
+isEmpty
+insert 671079
+changeKey 26 469289
+insert -72702
+getMax
+insert 818559
+insert -455498
+getMax
+insert 42580
+extractMax
+insert 360667
+insert 656753
+getMax
+insert -180882
+getMax
+changeKey 23 775190
+changeKey 104 442432
+insert -228885
+insert -436741
+extractMax
+extractMax
+extractMax
+insert -712074
+extractMax
+insert 101644
+heapSize
+insert 507490
+getMax
+insert -293401
+changeKey 12 -626209
+heapSize
+heapSize
+heapSize
+changeKey 39 891708
+extractMax
+insert 391893
+getMax
+heapSize
+heapSize
+extractMax
+extractMax
+extractMax
+changeKey 74 561562
+extractMax
+insert -828612
+extractMax
+insert -96597
+extractMax
+insert -957663
+insert 302611
+insert -268262
+insert -377713
+extractMax
+extractMax
+isEmpty
+extractMax
+isEmpty
+insert 408929
+getMax
+insert 172515
+insert -59374
+heapSize
+isEmpty
+extractMax
+changeKey 8 55229
+insert -789165
+changeKey 33 223000
+heapSize
+changeKey 116 -75781
+insert 912257
+insert 586946
+insert -696727
+insert 124034
+insert -802608
+insert -608887
+insert 438393
+insert 253520
+getMax
+changeKey 45 -829221
+insert 483138
+changeKey 18 -781420
+extractMax
+extractMax
+changeKey 31 110304
+getMax
+insert -484062
+getMax
+getMax
+insert -423116
+insert 571944
+insert 334388
+insert 825919
+changeKey 81 901809
+insert 775102
+getMax
+changeKey 12 -469336
+insert 353462
+insert 269040
+extractMax
+isEmpty
+getMax
+extractMax
+insert -54752
+insert 948048
+isEmpty
+insert 215248
+insert -541727
+getMax
+heapSize
+changeKey 34 -157332
+insert -978672
+changeKey 114 823280
+insert -624864
+changeKey 50 249936
+isEmpty
+extractMax
+insert 885452
+insert -494213
+insert -439307
+insert 89583
+heapSize
+insert -144679
+heapSize
+getMax
+extractMax
+insert 77695
+extractMax
+isEmpty
+insert -947022
+extractMax
+extractMax
+extractMax
+getMax
+extractMax
+changeKey 82 -256606
+extractMax
+insert -323577
+getMax
+insert -67942
+insert 105612
+insert 629398
+isEmpty
+heapSize
+insert 422653
+insert -692671
+heapSize
+insert 527445
+extractMax
+insert -664291
+extractMax
+getMax
+extractMax
+changeKey 141 556271
+heapSize
+heapSize
+insert 228326
+heapSize
+extractMax
+insert 113382
+changeKey 141 2183
+insert -707981
+insert 919538
+insert -78325
+insert -171909
+heapSize
+extractMax
+insert 903922
+extractMax
+insert 708012
+extractMax
+heapSize
+heapSize
+getMax
+changeKey 75 -875308
+extractMax
+insert -495223
+changeKey 127 920536
+insert -957098
+insert -856892
+heapSize
+insert 350312
+insert -579697
+extractMax
+extractMax
+insert -198465
+insert 812409
+insert 593362
+heapSize
+insert 677187
+getMax
+insert -398308
+getMax
+changeKey 40 -178265
+changeKey 119 93205
+changeKey 61 822653
+insert -1348
+insert -227360
+insert -782550
+insert -705469
+heapSize
+changeKey 39 -856148
+extractMax
+insert -527399
+changeKey 92 956109
+extractMax
+changeKey 94 -508112
+extractMax
+isEmpty
+heapSize
+extractMax
+insert -436926
+insert 750184
+heapSize
+heapSize
+heapSize
+heapSize
+isEmpty
+changeKey 87 624011
+extractMax
+extractMax
+insert -810644
+heapSize
+insert 124693
+changeKey 68 120114
+insert -281059
+insert 544644
+isEmpty
+heapSize
+extractMax
+insert 673838
+insert -618475
+insert -44348
+insert 809821
+extractMax
+extractMax
+heapSize
+extractMax
+changeKey 43 -470775
+getMax
+insert -150
+insert 774096
+insert 266921
+insert -371547
+getMax
+extractMax
+insert 524130
+isEmpty
+extractMax
+changeKey 161 622159
+insert 959306
+heapSize
+getMax
+insert 782762
+extractMax
+changeKey 168 -154850
+insert -893569
+extractMax
+extractMax
+getMax
+heapSize
+insert 346078
+insert 86790
+heapSize
+changeKey 27 -674207
+insert -181324
+extractMax
+insert 939717
+extractMax
+isEmpty
+insert -53757
+changeKey 27 947605
+insert -211738
+changeKey 96 304342
+insert -387440
+getMax
+heapSize
+heapSize
+extractMax
+insert -673003
+heapSize
+isEmpty
+heapSize
+extractMax
+extractMax
+insert -588615
+extractMax
+heapSize
+extractMax
+insert 398693
+insert -33722
+extractMax
+getMax
+insert -886597
+changeKey 62 559843
+extractMax
+getMax
+insert 715578
+insert 165211
+insert -195240
+insert 544949
+heapSize
+changeKey 166 657206
+changeKey 155 132512
+extractMax
+isEmpty
+changeKey 25 206529
+insert 691913
+changeKey 65 534663
+extractMax
+insert -380461
+extractMax
+isEmpty
+isEmpty
+insert 96195
+insert 553605
+heapSize
+insert -593323
+extractMax
+extractMax
+extractMax
+insert 993747
+extractMax
+heapSize
+getMax
+insert 352009
+changeKey 114 -706328
+extractMax
+extractMax
+insert 944266
+insert -262746
+changeKey 141 -831832
+changeKey 110 266611
+extractMax
+extractMax
+extractMax
+insert -169286
+insert 79805
+extractMax
+changeKey 48 -478547
+heapSize
+insert 394926
+changeKey 92 -456440
+extractMax
+insert 649232
+extractMax
+getMax
+extractMax
+insert -518219
+getMax
+heapSize
+changeKey 19 684793
+insert 591904
+insert 78662
+isEmpty
+insert -668386
+isEmpty
+extractMax
+extractMax
+isEmpty
+changeKey 91 894397
+getMax
+heapSize
+changeKey 93 -996270
+insert -148142
+insert -973379
+getMax
+getMax
+extractMax
+insert 384053
+extractMax
+heapSize
+extractMax
+insert -328813
+insert -970406
+extractMax
+extractMax
+insert 195285
+changeKey 34 510348
+insert -273657
+changeKey 35 -190582
+insert -484179
+insert 420152
+insert 629771
+extractMax
+getMax
+extractMax
+insert -755348
+extractMax
+extractMax
+getMax
+insert -194742
+extractMax
+extractMax
+insert 239730
+getMax
+insert -436124
+insert 129259
+insert 252182
+insert 403922
+heapSize
+heapSize
+insert 656159
+extractMax
+insert 47795
+heapSize
+getMax
+insert 317313
+insert 164267
+getMax
+extractMax
+insert 61106
+extractMax
+insert -790010
+changeKey 63 -248001
+changeKey 82 926864
+changeKey 163 412415
+heapSize
+insert 561310
+extractMax
+changeKey 168 283315
+getMax
+insert 120700
+extractMax
+getMax
+extractMax
+insert -94777
+changeKey 36 -497359
+insert -115604
+changeKey 155 -203861
+insert 586931
+getMax
+extractMax
+getMax
+changeKey 92 -671023
+changeKey 84 -382687
+extractMax
+changeKey 114 754898
+insert 909573
+changeKey 11 216291
+extractMax
+heapSize
+heapSize
+extractMax
+getMax
+extractMax
+heapSize
+insert -934878
+heapSize
+extractMax
+insert 90779
+heapSize
+extractMax
+insert 128625
+isEmpty
+extractMax
+insert 420938
+extractMax
+extractMax
+insert 589452
+isEmpty
+insert -152795
+getMax
+extractMax
+isEmpty
+extractMax
+extractMax
+insert 649181
+extractMax
+insert -537746
+insert -958968
+insert -892489
+changeKey 167 17209
+insert 74958
+isEmpty
+changeKey 169 -198755
+getMax
+extractMax
+extractMax
+heapSize
+changeKey 159 -687401
+insert 925183
+extractMax
+getMax
+insert 895115
+changeKey 39 624143
+extractMax
+extractMax
+insert -946963
+insert -913746
+extractMax
+insert 111314
+insert -143126
+insert -822448
+insert 422984
+getMax
+insert 595621
+extractMax
+insert 234569
+insert 763529
+extractMax
+getMax
+insert -301688
+insert -135649
+extractMax
+insert -481245
+changeKey 4 -625757
+extractMax
+changeKey 69 579989
+extractMax
+insert 187396
+heapSize
+getMax
+insert 459965
+insert 652632
+extractMax
+insert 731239
+getMax
+insert 789338
+extractMax
+changeKey 167 585139
+insert -242228
+insert -171182
+extractMax
+heapSize
+heapSize
+insert 384479
+changeKey 9 281428
+insert -991197
+extractMax
+insert 403230
+insert 424918
+insert 198427
+getMax
+insert 46554
+heapSize
+insert -178167
+insert 198788
+insert 972770
+extractMax
+changeKey 130 29939
+insert 925105
+insert -612536
+heapSize
+extractMax
+getMax
+insert 728376
+changeKey 146 -681267
+extractMax
+extractMax
+extractMax
+extractMax
+getMax
+extractMax
+changeKey 141 291425
+insert -185616
+extractMax
+getMax
+extractMax
+changeKey 6 -710322
+insert -127791
+insert 628785
+isEmpty
+extractMax
+insert -450891
+insert -257581
+insert -941983
+extractMax
+insert -6050
+heapSize
+getMax
+heapSize
+insert 374240
+getMax
+insert -762423
+insert 554375
+getMax
+insert -89101
+changeKey 158 -927930
+changeKey 79 808412
+insert 128549
+insert -408090
+insert 380141
+insert -849085
+insert 11691
+insert -426173
+insert 105493
+extractMax
+heapSize
+getMax
+insert -106139
+insert -916205
+changeKey 98 619119
+insert 385128
+heapSize
+insert 855484
+heapSize
+heapSize
+heapSize
+extractMax
+getMax
+insert -23604
+extractMax
+insert -579148
+insert -562412
+getMax
+extractMax
+insert 267775
+getMax
+isEmpty
+getMax
+isEmpty
+heapSize
+insert -593133
+changeKey 91 -920320
+extractMax
+insert 141965
+insert -613993
+getMax
+extractMax
+insert 167565
+insert -583567
+insert 522549
+heapSize
+extractMax
+insert -45988
+insert 824687
+extractMax
+insert -803553
+extractMax
+changeKey 40 -256626
+changeKey 129 -694438
+insert 819651
+changeKey 188 -85426
+insert -978469
+extractMax
+insert -148020
+insert 242722
+changeKey 132 -129334
+changeKey 135 242833
+extractMax
+insert -945297
+insert -608341
+isEmpty
+extractMax
+extractMax
+insert 144321
+heapSize
+heapSize
+insert -754665
+getMax
+insert -101416
+extractMax
+insert -574371
+insert -123549
+changeKey 207 -942896
+isEmpty
+extractMax
+extractMax
+extractMax
+isEmpty
+changeKey 218 -651363
+insert 891038
+insert 842077
+changeKey 111 -805671
+changeKey 64 -851229
+changeKey 167 872922
+extractMax
+extractMax
+extractMax
+insert 948758
+heapSize
+insert 127554
+extractMax
+heapSize
+extractMax
+getMax
+insert -739429
+insert 934446
+insert -547470
+extractMax
+insert -825335
+changeKey 201 961815
+heapSize
+insert 694564
+isEmpty
+insert 835913
+extractMax
+heapSize
+heapSize
+insert 214207
+extractMax
+insert 834324
+extractMax
+isEmpty
+extractMax
+extractMax
+changeKey 35 742572
+getMax
+changeKey 118 595521
+getMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 480281
+extractMax
+insert 642831
+insert 183701
+extractMax
+insert -618174
+heapSize
+changeKey 198 -292921
+changeKey 196 321978
+extractMax
+changeKey 107 -144752
+isEmpty
+insert 724072
+extractMax
+insert 522305
+insert 904646
+heapSize
+changeKey 82 -951964
+insert -436363
+changeKey 157 -585247
+changeKey 178 321344
+heapSize
+extractMax
+insert -229082
+getMax
+extractMax
+changeKey 79 252171
+insert 581188
+insert 99417
+insert -670323
+isEmpty
+insert -686840
+extractMax
+insert 187848
+insert 937511
+heapSize
+insert 470378
+changeKey 79 -742977
+extractMax
+insert 474522
+insert 865760
+getMax
+changeKey 122 900430
+extractMax
+heapSize
+insert 207727
+getMax
+insert 600154
+insert 749396
+getMax
+heapSize
+extractMax
+heapSize
+insert -900777
+heapSize
+extractMax
+extractMax
+extractMax
+insert 115123
+getMax
+getMax
+insert 289101
+insert 941016
+insert 98364
+heapSize
+changeKey 224 718515
+extractMax
+insert -152144
+heapSize
+extractMax
+isEmpty
+getMax
+getMax
+extractMax
+heapSize
+changeKey 62 232692
+getMax
+extractMax
+heapSize
+isEmpty
+insert -480832
+extractMax
+extractMax
+insert -88207
+extractMax
+extractMax
+isEmpty
+changeKey 149 813028
+insert -820975
+extractMax
+extractMax
+insert -891438
+extractMax
+extractMax
+insert -124696
+insert 879975
+extractMax
+extractMax
+extractMax
+heapSize
+getMax
+extractMax
+isEmpty
+insert 95442
+changeKey 189 -835926
+changeKey 95 223609
+changeKey 85 -437074
+insert -869430
+extractMax
+insert -427812
+insert 721085
+insert -623608
+changeKey 13 -703559
+insert -410520
+extractMax
+heapSize
+getMax
+insert -252645
+insert -364305
+changeKey 164 -489744
+changeKey 97 -105787
+extractMax
+insert -758342
+extractMax
+extractMax
+changeKey 14 -85275
+extractMax
+insert 95425
+heapSize
+extractMax
+heapSize
+insert 360855
+extractMax
+changeKey 117 330549
+insert -304403
+insert -298309
+changeKey 24 -732354
+insert 887529
+insert 846567
+isEmpty
+insert -354432
+changeKey 79 535111
+insert -664580
+insert 597934
+extractMax
+insert -877480
+changeKey 106 -861388
+extractMax
+heapSize
+insert -357255
+changeKey 222 273191
+extractMax
+heapSize
+extractMax
+changeKey 121 -593376
+changeKey 204 743172
+extractMax
+heapSize
+changeKey 154 -830349
+heapSize
+heapSize
+insert 776448
+heapSize
+insert 399954
+heapSize
+extractMax
+heapSize
+getMax
+insert -287574
+isEmpty
+insert 549349
+extractMax
+insert 954914
+extractMax
+heapSize
+insert 50790
+extractMax
+extractMax
+extractMax
+insert 691966
+getMax
+getMax
+extractMax
+extractMax
+heapSize
+extractMax
+insert -532163
+insert -122174
+insert -995770
+heapSize
+isEmpty
+extractMax
+insert -150675
+insert -945521
+changeKey 107 -704172
+insert 627812
+isEmpty
+insert 969960
+getMax
+extractMax
+extractMax
+insert -174718
+extractMax
+changeKey 7 298257
+extractMax
+insert 979233
+extractMax
+heapSize
+insert -884156
+extractMax
+changeKey 92 -897728
+extractMax
+getMax
+extractMax
+insert 705559
+heapSize
+extractMax
+insert -871513
+changeKey 60 854482
+insert 321375
+insert -282741
+extractMax
+extractMax
+getMax
+getMax
+insert -426600
+extractMax
+insert 619497
+insert 796172
+insert -124295
+getMax
+getMax
+changeKey 105 889962
+getMax
+extractMax
+insert 416345
+isEmpty
+changeKey 158 -363227
+extractMax
+extractMax
+changeKey 24 -916029
+insert 27053
+extractMax
+extractMax
+insert 387023
+insert 183412
+extractMax
+extractMax
+extractMax
+insert 523890
+changeKey 127 456748
+extractMax
+insert 528807
+extractMax
+changeKey 40 511356
+isEmpty
+heapSize
+extractMax
+insert 282946
+extractMax
+insert -900527
+changeKey 156 797102
+heapSize
+getMax
+insert 873483
+extractMax
+heapSize
+changeKey 203 -387761
+insert -556073
+isEmpty
+getMax
+heapSize
+insert 520140
+changeKey 87 -269784
+extractMax
+changeKey 213 74728
+isEmpty
+extractMax
+insert -723354
+extractMax
+insert 979303
+extractMax
+getMax
+extractMax
+changeKey 189 -806487
+getMax
+heapSize
+changeKey 218 910585
+extractMax
+changeKey 109 198924
+getMax
+changeKey 12 -457022
+changeKey 35 -605739
+heapSize
+extractMax
+extractMax
+insert -855261
+changeKey 131 -847633
+extractMax
+insert 420565
+insert -521035
+extractMax
+extractMax
+insert 753287
+insert 81571
+extractMax
+changeKey 153 -627247
+insert 202137
+extractMax
+insert -154225
+insert 934479
+insert 357433
+changeKey 156 -326111
+extractMax
+extractMax
+insert -657404
+changeKey 84 -877599
+extractMax
+insert 649784
+insert -585360
+extractMax
+changeKey 64 571861
+extractMax
+insert -812543
+insert -971432
+extractMax
+changeKey 136 429823
+insert -465577
+insert -561846
+getMax
+insert 56449
+insert -823206
+insert 91111
+insert -925135
+extractMax
+insert 834563
+insert 221077
+changeKey 94 686371
+insert 28430
+getMax
+heapSize
+insert 13091
+getMax
+insert 758927
+getMax
+getMax
+getMax
+extractMax
+extractMax
+insert 861293
+changeKey 86 128621
+heapSize
+changeKey 120 378052
+extractMax
+extractMax
+changeKey 103 -390756
+changeKey 117 -841403
+getMax
+insert 217167
+heapSize
+insert 39051
+insert 499247
+getMax
+heapSize
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+heapSize
+getMax
+changeKey 222 558745
+insert -526250
+insert -815335
+heapSize
+heapSize
+extractMax
+insert -836805
+insert -40619
+heapSize
+insert 26180
+insert -528060
+insert 180075
+changeKey 231 93528
+heapSize
+getMax
+heapSize
+extractMax
+insert -914117
+getMax
+extractMax
+changeKey 233 640034
+getMax
+insert -518081
+extractMax
+insert 986255
+insert -575430
+extractMax
+insert 444062
+getMax
+heapSize
+changeKey 37 142580
+insert -556382
+insert 113040
+insert -191025
+insert -147875
+heapSize
+insert -353418
+heapSize
+heapSize
+insert -338504
+insert -744934
+extractMax
+insert -534879
+extractMax
+getMax
+insert 250842
+extractMax
+extractMax
+insert 873581
+extractMax
+changeKey 145 -137301
+extractMax
+isEmpty
+insert 645295
+getMax
+insert 860313
+changeKey 150 -874248
+insert -672953
+insert 634307
+insert -915450
+extractMax
+insert 159601
+insert 744414
+insert -95801
+changeKey 145 -372320
+insert 579580
+insert -492253
+isEmpty
+changeKey 133 -7918
+isEmpty
+getMax
+extractMax
+isEmpty
+insert -189809
+extractMax
+changeKey 207 -324925
+insert 370159
+isEmpty
+changeKey 115 198325
+insert 593396
+extractMax
+heapSize
+changeKey 247 -45986
+changeKey 204 -889515
+insert -882456
+getMax
+insert -84316
+changeKey 33 398247
+insert -203299
+getMax
+insert -100327
+isEmpty
+extractMax
+extractMax
+insert -745812
+heapSize
+insert 694033
+insert 785021
+getMax
+heapSize
+extractMax
+extractMax
+extractMax
+insert -377906
+extractMax
+insert -353708
+insert 553741
+insert -717373
+extractMax
+extractMax
+extractMax
+insert -590273
+extractMax
+isEmpty
+heapSize
+insert 761355
+changeKey 251 338288
+insert -59980
+changeKey 35 584773
+getMax
+changeKey 156 519085
+isEmpty
+heapSize
+extractMax
+heapSize
+insert 76030
+changeKey 135 -17305
+extractMax
+insert -443405
+changeKey 104 102737
+getMax
+extractMax
+insert -841142
+extractMax
+insert 523589
+insert -448359
+extractMax
+insert -758719
+extractMax
+heapSize
+insert 395157
+getMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -602280
+insert -163114
+extractMax
+changeKey 23 -661776
+extractMax
+changeKey 189 386213
+insert 383993
+changeKey 41 -192867
+insert 670376
+extractMax
+heapSize
+changeKey 33 879312
+heapSize
+extractMax
+insert 502357
+heapSize
+changeKey 221 765585
+extractMax
+heapSize
+getMax
+heapSize
+extractMax
+insert -135975
+changeKey 74 -414679
+changeKey 198 -988832
+insert 605887
+extractMax
+insert -106409
+changeKey 247 -410775
+heapSize
+changeKey 20 818418
+extractMax
+extractMax
+insert -174100
+changeKey 86 -253843
+insert 169755
+changeKey 170 163924
+extractMax
+getMax
+heapSize
+changeKey 28 -97094
+getMax
+insert -263646
+heapSize
+insert -313761
+insert -644780
+changeKey 36 -665229
+insert -969200
+extractMax
+insert 181442
+heapSize
+getMax
+extractMax
+insert -46485
+insert -940286
+getMax
+insert -243604
+insert 967938
+insert -539012
+extractMax
+insert -698727
+insert -45040
+isEmpty
+insert 980622
+insert -865749
+getMax
+insert 541381
+isEmpty
+changeKey 27 297366
+insert -844703
+isEmpty
+extractMax
+extractMax
+changeKey 188 378863
+changeKey 163 533549
+extractMax
+getMax
+getMax
+insert 62478
+insert 486532
+heapSize
+extractMax
+heapSize
+insert 256876
+insert 206647
+insert 859545
+heapSize
+getMax
+getMax
+insert -100639
+extractMax
+extractMax
+getMax
+extractMax
+changeKey 171 -795682
+extractMax
+changeKey 91 817663
+extractMax
+heapSize
+insert 561646
+heapSize
+changeKey 141 -580381
+extractMax
+insert -632976
+heapSize
+changeKey 0 612366
+extractMax
+insert 788771
+extractMax
+changeKey 82 811371
+extractMax
+changeKey 97 387985
+extractMax
+insert -562021
+changeKey 233 -49509
+insert -144790
+extractMax
+extractMax
+isEmpty
+insert -598828
+insert -588934
+changeKey 79 -808482
+insert -400904
+heapSize
+getMax
+changeKey 248 201320
+insert -792571
+heapSize
+extractMax
+insert 696495
+getMax
+insert 987113
+extractMax
+insert 734758
+getMax
+changeKey 55 424532
+getMax
+extractMax
+extractMax
+insert -780526
+extractMax
+getMax
+extractMax
+extractMax
+insert 64409
+changeKey 156 -564566
+insert 16201
+insert -514098
+insert -701485
+getMax
+extractMax
+insert 589462
+extractMax
+changeKey 225 -855041
+heapSize
+insert -793413
+changeKey 88 -989534
+heapSize
+heapSize
+insert 317451
+getMax
+insert 760696
+getMax
+insert 968995
+extractMax
+changeKey 48 172503
+getMax
+heapSize
+insert -960321
+insert -311451
+changeKey 58 -510869
+extractMax
+insert 516369
+extractMax
+extractMax
+insert -90958
+getMax
+extractMax
+changeKey 256 387047
+insert 949973
+insert 869346
+insert 948609
+isEmpty
+insert -979596
+getMax
+changeKey 184 618315
+extractMax
+insert 132734
+heapSize
+isEmpty
+insert 780060
+changeKey 43 274468
+insert -389187
+extractMax
+insert -98530
+heapSize
+getMax
+extractMax
+insert 439804
+changeKey 138 461044
+extractMax
+extractMax
+changeKey 194 64769
+insert -903754
+insert -441136
+extractMax
+heapSize
+insert -314672
+changeKey 230 132260
+insert 968653
+changeKey 185 -686619
+insert 742752
+changeKey 113 -352862
+insert -734479
+extractMax
+insert -242821
+changeKey 147 120261
+isEmpty
+changeKey 111 -401763
+getMax
+heapSize
+extractMax
+extractMax
+heapSize
+changeKey 76 -161594
+getMax
+extractMax
+insert -60393
+changeKey 104 749100
+changeKey 218 218017
+changeKey 150 -378252
+extractMax
+insert 837409
+insert -381456
+changeKey 189 601845
+extractMax
+extractMax
+insert 302340
+insert 433115
+insert 576226
+insert -587329
+isEmpty
+getMax
+changeKey 157 -813960
+extractMax
+getMax
+insert 27704
+extractMax
+isEmpty
+isEmpty
+extractMax
+extractMax
+changeKey 225 454688
+insert -294346
+insert 751916
+extractMax
+getMax
+heapSize
+insert -275319
+extractMax
+extractMax
+changeKey 158 -832207
+insert -189326
+extractMax
+insert 594068
+insert -156393
+insert -622135
+insert -170209
+getMax
+extractMax
+insert 929993
+changeKey 175 -255043
+insert 792713
+changeKey 233 -515731
+insert 659816
+insert 416342
+insert -555090
+insert -195998
+getMax
+heapSize
+heapSize
+changeKey 195 30885
+extractMax
+extractMax
+insert -694452
+insert -571908
+insert -18621
+extractMax
+insert 136213
+extractMax
+insert 70526
+insert -750726
+insert -105238
+getMax
+getMax
+insert -429678
+extractMax
+insert -958874
+insert 870327
+extractMax
+insert 445814
+insert 9467
+insert 5551
+getMax
+getMax
+insert 905595
+insert -530596
+extractMax
+insert -403788
+insert 801571
+insert 638556
+insert -73279
+changeKey 225 -914469
+insert -892962
+insert -792068
+insert -522361
+isEmpty
+isEmpty
+getMax
+changeKey 128 -544433
+insert 278115
+extractMax
+extractMax
+extractMax
+insert 171148
+insert -400906
+extractMax
+heapSize
+insert 481301
+insert 410878
+extractMax
+insert 611993
+insert 704316
+insert 606069
+heapSize
+changeKey 292 264720
+extractMax
+getMax
+extractMax
+changeKey 238 634308
+changeKey 211 -902910
+changeKey 173 -800110
+getMax
+extractMax
+extractMax
+isEmpty
+changeKey 184 37476
+getMax
+extractMax
+heapSize
+extractMax
+changeKey 47 74704
+insert -434858
+insert -166075
+changeKey 270 -386213
+changeKey 62 681089
+insert -808554
+insert -408902
+insert -276626
+extractMax
+insert 521458
+insert -943200
+insert 76545
+insert 950324
+changeKey 69 4285
+extractMax
+extractMax
+extractMax
+getMax
+extractMax
+changeKey 209 -628331
+changeKey 105 80888
+extractMax
+isEmpty
+insert -476970
+insert -448534
+changeKey 52 -818227
+heapSize
+heapSize
+heapSize
+insert -205470
+isEmpty
+changeKey 212 -583133
+heapSize
+changeKey 12 -858935
+changeKey 3 793034
+insert -973106
+changeKey 290 -180576
+insert 649202
+extractMax
+changeKey 232 -586370
+getMax
+heapSize
+extractMax
+insert -896159
+heapSize
+isEmpty
+insert -600952
+heapSize
+changeKey 202 -330026
+insert 615581
+changeKey 125 -827736
+changeKey 256 354144
+insert 432751
+insert -328767
+insert 836565
+extractMax
+insert 278183
+extractMax
+insert 225239
+heapSize
+insert -428731
+changeKey 134 591683
+changeKey 126 -5251
+extractMax
+changeKey 47 -25812
+insert -418049
+extractMax
+insert -293371
+insert -743901
+insert -488526
+changeKey 224 -931906
+insert -888316
+changeKey 102 224640
+insert 653742
+changeKey 1 884913
+isEmpty
+extractMax
+insert 931744
+extractMax
+insert -576131
+extractMax
+insert 394463
+extractMax
+insert -930702
+extractMax
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 253 -729641
+changeKey 59 -950912
+extractMax
+extractMax
+extractMax
+changeKey 137 390987
+insert 488535
+insert -139546
+changeKey 209 28294
+extractMax
+heapSize
+insert 461391
+extractMax
+extractMax
+heapSize
+insert -440145
+extractMax
+insert 289565
+changeKey 57 -276936
+getMax
+heapSize
+getMax
+insert 125935
+getMax
+insert 621522
+insert 487404
+insert -492267
+insert -668755
+heapSize
+changeKey 293 -703902
+extractMax
+extractMax
+changeKey 160 42756
+insert -602401
+changeKey 137 -714636
+extractMax
+changeKey 259 767077
+extractMax
+insert 647039
+getMax
+insert -71436
+changeKey 288 -71487
+heapSize
+heapSize
+insert 586883
+insert -807548
+isEmpty
+heapSize
+changeKey 174 824172
+extractMax
+insert -336747
+insert -536799
+insert 572516
+extractMax
+insert -638483
+extractMax
+extractMax
+insert 215063
+changeKey 93 -38631
+insert -272569
+changeKey 160 421346
+insert 597369
+extractMax
+insert -831656
+getMax
+insert -244292
+isEmpty
+extractMax
+heapSize
+heapSize
+heapSize
+extractMax
+insert 972266
+insert -84981
+heapSize
+isEmpty
+isEmpty
+insert 729633
+heapSize
+insert 294393
+getMax
+extractMax
+extractMax
+insert 637152
+changeKey 262 -808315
+extractMax
+changeKey 284 728814
+extractMax
+insert 684148
+getMax
+heapSize
+extractMax
+extractMax
+getMax
+isEmpty
+extractMax
+getMax
+extractMax
+getMax
+extractMax
+isEmpty
+extractMax
+extractMax
+heapSize
+changeKey 295 136069
+insert 881692
+insert 637897
+getMax
+heapSize
+insert -692855
+heapSize
+getMax
+insert 527548
+getMax
+insert 12995
+heapSize
+extractMax
+getMax
+insert -29082
+extractMax
+extractMax
+getMax
+heapSize
+heapSize
+heapSize
+extractMax
+insert 755606
+insert -544294
+isEmpty
+changeKey 248 103089
+extractMax
+changeKey 165 -304869
+heapSize
+insert 308657
+changeKey 282 306555
+insert 83282
+getMax
+getMax
+insert 507184
+heapSize
+insert 762140
+insert 336223
+changeKey 302 -701405
+extractMax
+changeKey 266 215383
+insert 836030
+heapSize
+changeKey 219 419569
+isEmpty
+changeKey 243 -381710
+isEmpty
+extractMax
+changeKey 81 -64965
+insert -682282
+insert 651127
+insert 991699
+extractMax
+isEmpty
+extractMax
+extractMax
+insert -904258
+extractMax
+insert 884296
+extractMax
+extractMax
+insert -228221
+insert -18454
+extractMax
+changeKey 135 497363
+insert 146145
+insert 985981
+getMax
+insert 838671
+extractMax
+getMax
+insert 102754
+heapSize
+heapSize
+changeKey 264 -163364
+insert -823516
+extractMax
+extractMax
+changeKey 3 -98288
+extractMax
+changeKey 298 -745348
+insert -185069
+insert 607131
+insert -265465
+extractMax
+changeKey 257 -369478
+insert 157616
+changeKey 92 -87213
+extractMax
+heapSize
+extractMax
+extractMax
+insert 557156
+isEmpty
+insert 64270
+extractMax
+heapSize
+insert 438930
+extractMax
+insert 964197
+getMax
+extractMax
+changeKey 303 -231929
+getMax
+extractMax
+extractMax
+getMax
+isEmpty
+extractMax
+changeKey 117 -37450
+extractMax
+insert 765894
+insert 312744
+extractMax
+heapSize
+insert -642960
+changeKey 184 430028
+extractMax
+extractMax
+insert -65158
+getMax
+getMax
+insert -241079
+insert 686850
+heapSize
+heapSize
+getMax
+getMax
+insert 944041
+insert -368621
+insert -257045
+changeKey 251 -996885
+heapSize
+insert -640613
+getMax
+extractMax
+insert 967973
+extractMax
+extractMax
+extractMax
+changeKey 100 -187479
+extractMax
+insert 804192
+extractMax
+getMax
+heapSize
+insert 744149
+insert -933391
+changeKey 90 757091
+getMax
+getMax
+extractMax
+insert -749347
+heapSize
+extractMax
+insert 188656
+isEmpty
+extractMax
+isEmpty
+insert 682725
+changeKey 167 -235259
+extractMax
+getMax
+extractMax
+getMax
+insert 368783
+insert -851265
+insert -541789
+changeKey 262 -383149
+heapSize
+insert 110355
+getMax
+changeKey 193 482414
+heapSize
+extractMax
+extractMax
+getMax
+insert 148662
+changeKey 92 -101030
+extractMax
+insert 17616
+heapSize
+getMax
+insert -519155
+insert 264872
+insert -886715
+extractMax
+extractMax
+insert 56409
+heapSize
+insert 157325
+extractMax
+changeKey 238 -939053
+isEmpty
+insert 851698
+changeKey 142 -671073
+isEmpty
+extractMax
+changeKey 172 -518919
+insert -435830
+changeKey 67 131005
+insert -676748
+getMax
+insert -112334
+extractMax
+getMax
+insert -534622
+insert 85113
+heapSize
+insert -879345
+extractMax
+extractMax
+insert -738423
+heapSize
+extractMax
+insert -345519
+heapSize
+isEmpty
+insert -423336
+changeKey 92 -487264
+insert 614012
+insert 969234
+insert -503350
+changeKey 206 251199
+isEmpty
+changeKey 194 854104
+insert 473355
+insert 574128
+insert 714138
+changeKey 301 -711345
+changeKey 177 212002
+getMax
+insert 35593
+heapSize
+getMax
+insert 421718
+insert 206985
+getMax
+getMax
+extractMax
+extractMax
+changeKey 103 -32197
+getMax
+insert 63226
+isEmpty
+changeKey 57 -187785
+changeKey 84 -445691
+heapSize
+insert -105132
+getMax
+extractMax
+insert 962871
+heapSize
+insert -784837
+extractMax
+changeKey 113 413963
+changeKey 42 -371769
+insert 618122
+insert 921103
+heapSize
+extractMax
+heapSize
+extractMax
+getMax
+insert 289438
+getMax
+isEmpty
+extractMax
+extractMax
+insert -944850
+extractMax
+extractMax
+insert -55857
+extractMax
+extractMax
+insert -760815
+heapSize
+heapSize
+extractMax
+heapSize
+extractMax
+insert -590786
+extractMax
+insert -925435
+getMax
+changeKey 171 -200070
+extractMax
+insert 411895
+insert 242355
+insert 867301
+extractMax
+extractMax
+insert -276056
+insert -138048
+insert -605060
+extractMax
+insert 87608
+changeKey 29 858264
+getMax
+extractMax
+extractMax
+insert 960239
+changeKey 25 -40523
+extractMax
+extractMax
+extractMax
+extractMax
+insert 432657
+changeKey 207 -19815
+extractMax
+changeKey 175 -354027
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+changeKey 210 963189
+changeKey 323 414551
+heapSize
+heapSize
+heapSize
+changeKey 130 -53416
+insert -833654
+insert -30117
+getMax
+extractMax
+extractMax
+changeKey 81 354670
+getMax
+changeKey 295 -869066
+heapSize
+insert 184001
+extractMax
+changeKey 177 -273380
+insert 70620
+extractMax
+getMax
+heapSize
+extractMax
+extractMax
+isEmpty
+extractMax
+insert 765020
+heapSize
+changeKey 41 573948
+isEmpty
+insert 764631
+extractMax
+insert -244750
+extractMax
+changeKey 21 944708
+extractMax
+changeKey 210 -363486
+changeKey 279 631240
+insert -648220
+extractMax
+heapSize
+extractMax
+insert -713420
+extractMax
+extractMax
+getMax
+getMax
+insert -379843
+insert -884025
+insert 687945
+insert 641679
+getMax
+heapSize
+extractMax
+isEmpty
+isEmpty
+getMax
+insert -945497
+heapSize
+extractMax
+insert 995130
+changeKey 218 -113278
+insert 588994
+extractMax
+insert 529203
+heapSize
+changeKey 319 -586168
+insert -128528
+insert 421576
+getMax
+getMax
+insert -123299
+insert -667787
+insert 677292
+insert 187200
+getMax
+heapSize
+changeKey 63 -12701
+isEmpty
+insert -448537
+changeKey 285 -867435
+insert 810801
+insert -774884
+insert -15591
+isEmpty
+insert 200244
+changeKey 181 767737
+changeKey 65 -979415
+insert -637603
+insert -954150
+insert -134860
+insert 537691
+extractMax
+changeKey 18 -481014
+extractMax
+extractMax
+insert -980337
+extractMax
+changeKey 159 -317422
+extractMax
+changeKey 5 522037
+extractMax
+insert -390404
+heapSize
+insert -762371
+extractMax
+heapSize
+isEmpty
+extractMax
+insert 96818
+insert -921666
+insert 789117
+extractMax
+changeKey 217 800391
+isEmpty
+insert -200165
+changeKey 95 410514
+changeKey 167 -682420
+changeKey 216 436494
+insert -663161
+insert 497918
+changeKey 6 594089
+changeKey 31 195071
+isEmpty
+insert 686421
+changeKey 213 -199706
+extractMax
+insert 981743
+insert -755010
+insert -850346
+extractMax
+heapSize
+isEmpty
+insert -211955
+extractMax
+changeKey 336 473431
+extractMax
+heapSize
+isEmpty
+insert -217035
+isEmpty
+changeKey 19 302528
+insert 556306
+changeKey 222 771484
+changeKey 54 530861
+changeKey 342 210268
+extractMax
+changeKey 67 851560
+insert -289062
+extractMax
+insert -732715
+extractMax
+insert -986265
+changeKey 125 -837683
+isEmpty
+insert 978564
+insert -655598
+heapSize
+extractMax
+getMax
+extractMax
+insert -22004
+extractMax
+getMax
+getMax
+insert -117060
+extractMax
+changeKey 212 -947476
+insert 741783
+extractMax
+insert 176878
+extractMax
+changeKey 151 129786
+extractMax
+insert -692868
+extractMax
+getMax
+changeKey 10 -25145
+getMax
+getMax
+heapSize
+insert -448924
+insert 90981
+extractMax
+insert 361263
+insert -103067
+getMax
+insert -686430
+getMax
+insert -616331
+insert 7269
+getMax
+changeKey 238 -153490
+insert -296378
+changeKey 25 534578
+changeKey 211 -470677
+extractMax
+insert -938004
+heapSize
+extractMax
+heapSize
+insert 55245
+extractMax
+insert 499018
+insert 687545
+heapSize
+insert 944150
+insert -476618
+heapSize
+insert -949784
+extractMax
+extractMax
+heapSize
+extractMax
+changeKey 247 -467236
+extractMax
+extractMax
+extractMax
+extractMax
+insert 215399
+getMax
+isEmpty
+extractMax
+heapSize
+extractMax
+insert -725698
+extractMax
+insert -483679
+getMax
+changeKey 127 857982
+isEmpty
+extractMax
+extractMax
+heapSize
+extractMax
+insert -480721
+insert 893402
+extractMax
+changeKey 82 729869
+insert -68881
+insert 700944
+extractMax
+extractMax
+extractMax
+insert 300961
+getMax
+insert 279602
+insert -169310
+insert 965312
+insert 831291
+insert 628562
+changeKey 348 210005
+isEmpty
+insert -502129
+insert 259738
+insert 418532
+insert 254096
+insert -669775
+getMax
+insert -379833
+insert -501530
+extractMax
+getMax
+extractMax
+changeKey 160 501895
+extractMax
+getMax
+insert 619623
+insert 330860
+heapSize
+insert 601606
+extractMax
+getMax
+extractMax
+insert -674258
+extractMax
+insert -111419
+insert 700438
+getMax
+insert 462355
+insert -571528
+heapSize
+changeKey 120 992063
+changeKey 281 37818
+changeKey 93 -11553
+getMax
+insert -881313
+extractMax
+changeKey 41 -148985
+extractMax
+isEmpty
+extractMax
+insert 58748
+extractMax
+insert -879075
+extractMax
+insert -367094
+extractMax
+insert 811106
+extractMax
+extractMax
+extractMax
+insert -792567
+extractMax
+insert -3301
+extractMax
+changeKey 183 -504353
+heapSize
+insert 726944
+getMax
+extractMax
+insert -574407
+extractMax
+insert -55638
+insert 554835
+extractMax
+insert -682530
+extractMax
+heapSize
+extractMax
+extractMax
+changeKey 49 -177599
+getMax
+insert -43698
+changeKey 123 759784
+changeKey 175 -175070
+changeKey 125 508933
+extractMax
+insert -583300
+insert 342335
+changeKey 157 -462912
+insert 575171
+changeKey 19 -475170
+changeKey 316 -701400
+changeKey 290 -388164
+insert 867585
+insert 538185
+insert 780722
+insert -269069
+insert -507495
+insert 954535
+isEmpty
+extractMax
+getMax
+changeKey 148 -990940
+insert 673495
+changeKey 269 -972994
+changeKey 115 -839587
+extractMax
+insert -759213
+getMax
+insert -440955
+extractMax
+extractMax
+insert -955864
+changeKey 68 -658194
+isEmpty
+insert 921516
+insert 341793
+changeKey 319 -414577
+extractMax
+isEmpty
+heapSize
+heapSize
+extractMax
+getMax
+extractMax
+extractMax
+changeKey 245 -246808
+insert 517851
+insert 952898
+changeKey 8 522318
+changeKey 228 983304
+extractMax
+getMax
+changeKey 254 648706
+insert -816870
+extractMax
+insert -279500
+extractMax
+extractMax
+changeKey 6 48521
+heapSize
+changeKey 5 672877
+changeKey 118 -3507
+changeKey 286 -729376
+extractMax
+heapSize
+heapSize
+insert -696925
+extractMax
+heapSize
+extractMax
+insert -777135
+getMax
+extractMax
+changeKey 140 705247
+extractMax
+changeKey 218 -281571
+changeKey 77 -145134
+insert -258809
+insert 722150
+extractMax
+heapSize
+extractMax
+insert 281483
+extractMax
+heapSize
+insert -593890
+insert -517182
+heapSize
+getMax
+changeKey 9 978008
+insert 964414
+insert -654769
+extractMax
+extractMax
+extractMax
+insert 915802
+changeKey 11 973140
+changeKey 46 925994
+isEmpty
+changeKey 59 -59218
+heapSize
+insert -143479
+insert 202226
+getMax
+isEmpty
+extractMax
+insert 636677
+insert 23291
+insert -266955
+insert -708429
+insert 956382
+getMax
+heapSize
+insert 590248
+changeKey 226 -795427
+changeKey 355 463747
+insert 992953
+isEmpty
+extractMax
+changeKey 114 -620835
+extractMax
+isEmpty
+getMax
+isEmpty
+extractMax
+extractMax
+extractMax
+extractMax
+changeKey 326 -717503
+changeKey 194 25957
+insert -924577
+heapSize
+insert -126764
+insert -735300
+changeKey 214 -656008
+extractMax
+extractMax
+insert 506203
+changeKey 72 691351
+getMax
+insert -449580
+extractMax
+insert -131786
+insert -582807
+insert 733257
+changeKey 224 938964
+heapSize
+getMax
+insert 393012
+extractMax
+heapSize
+heapSize
+extractMax
+changeKey 30 -95355
+insert -316396
+changeKey 166 30178
+insert -386497
+changeKey 361 257926
+changeKey 335 -814956
+changeKey 326 -381757
+extractMax
+changeKey 32 -27606
+extractMax
+insert -30585
+changeKey 142 -599368
+heapSize
+insert -323831
+getMax
+extractMax
+getMax
+extractMax
+extractMax
+getMax
+getMax
+extractMax
+getMax
+extractMax
+changeKey 109 -751319
+insert 186496
+insert 85459
+heapSize
+extractMax
+extractMax
+insert 250614
+isEmpty
+insert -401143
+insert 890177
+heapSize
+insert -704098
+extractMax
+changeKey 25 -597126
+extractMax
+extractMax
+extractMax
+changeKey 325 625638
+isEmpty
+changeKey 268 379645
+extractMax
+insert -132473
+insert -629465
+changeKey 269 -719136
+insert -324009
+heapSize
+extractMax
+insert 666180
+heapSize
+insert 262884
+extractMax
+extractMax
+insert -590426
+extractMax
+insert 511466
+changeKey 69 359944
+insert 368246
+extractMax
+extractMax
+insert 446396
+insert 281705
+changeKey 366 -468778
+changeKey 316 -187271
+extractMax
+isEmpty
+insert 139342
+insert 64515
+insert 372355
+heapSize
+extractMax
+insert 791599
+insert 175983
+extractMax
+insert 99433
+getMax
+insert -643319
+insert 225255
+insert -279197
+insert -913712
+insert 144115
+extractMax
+extractMax
+changeKey 345 377296
+heapSize
+insert -678907
+insert 138087
+heapSize
+changeKey 29 -537019
+extractMax
+insert -769645
+changeKey 150 -287456
+changeKey 290 132719
+extractMax
+changeKey 254 327088
+getMax
+isEmpty
+getMax
+getMax
+changeKey 132 -541524
+insert -176740
+insert 830660
+insert 789880
+getMax
+extractMax
+changeKey 126 -732430
+extractMax
+getMax
+extractMax
+heapSize
+heapSize
+insert -282586
+insert 488876
+insert -73656
+extractMax
+insert 544684
+insert 748974
+heapSize
+insert 599058
+extractMax
+extractMax
+getMax
+insert 749044
+insert -660643
+extractMax
+getMax
+getMax
+changeKey 133 776493
+extractMax
+extractMax
+extractMax
+heapSize
+extractMax
+insert -785318
+getMax
+changeKey 128 -177903
+getMax
+extractMax
+getMax
+changeKey 111 -316870
+isEmpty
+insert -574523
+extractMax
+extractMax
+getMax
+extractMax
+getMax
+insert 724194
+heapSize
+isEmpty
+extractMax
+extractMax
+insert -428940
+insert -266323
+extractMax
+getMax
+insert -715178
+insert 962292
+changeKey 63 85213
+extractMax
+insert -279405
+isEmpty
+extractMax
+insert 858540
+getMax
+heapSize
+insert -399714
+insert -170927
+extractMax
+insert -189499
+insert -180489
+heapSize
+insert -588613
+extractMax
+insert 593770
+extractMax
+insert 60692
+extractMax
+changeKey 223 954908
+insert -855206
+getMax
+changeKey 371 -489096
+extractMax
+heapSize
+extractMax
+heapSize
+extractMax
+insert 251021
+extractMax
+isEmpty
+changeKey 184 749199
+changeKey 344 -447761
+insert 89900
+insert -549676
+extractMax
+insert -825927
+insert -769850
+changeKey 100 -863669
+isEmpty
+getMax
+insert -627904
+insert 33731
+changeKey 330 812196
+changeKey 157 -761933
+insert -21427
+heapSize
+changeKey 45 -472439
+changeKey 264 -851502
+insert 796357
+heapSize
+insert -594725
+insert 103589
+extractMax
+getMax
+extractMax
+getMax
+changeKey 209 -850325
+extractMax
+insert 253466
+insert -366467
+heapSize
+getMax
+insert -122912
+insert -335441
+getMax
+insert 694425
+changeKey 206 667938
+isEmpty
+extractMax
+extractMax
+changeKey 179 602948
+extractMax
+insert -606411
+changeKey 366 26904
+extractMax
+extractMax
+insert 582997
+insert -18140
+getMax
+insert -203562
+changeKey 323 -908284
+changeKey 287 999942
+extractMax
+heapSize
+getMax
+extractMax
+insert -70477
+extractMax
+extractMax
+heapSize
+insert -146317
+getMax
+heapSize
+changeKey 369 -366995
+extractMax
+extractMax
+extractMax
+insert 204001
+changeKey 22 70245
+insert -358551
+heapSize
+insert 895038
+extractMax
+changeKey 166 474930
+extractMax
+insert 995540
+heapSize
+heapSize
+changeKey 310 379071
+insert -464833
+extractMax
+extractMax
+extractMax
+changeKey 159 273232
+extractMax
+insert -49292
+insert -90475
+insert 233157
+isEmpty
+isEmpty
+heapSize
+insert -296147
+insert -186879
+insert -746233
+extractMax
+extractMax
+getMax
+insert 216703
+getMax
+extractMax
+insert 755250
+heapSize
+extractMax
+getMax
+insert 494429
+extractMax
+heapSize
+isEmpty
+insert -401109
+changeKey 300 -154869
+heapSize
+insert -307074
+getMax
+changeKey 196 777786
+insert -395712
+extractMax
+getMax
+insert 575314
+changeKey 47 720289
+extractMax
+heapSize
+insert -81658
+insert 757954
+insert 569744
+changeKey 361 848463
+isEmpty
+insert -116973
+changeKey 107 -111615
+insert 229044
+changeKey 306 -512589
+changeKey 89 446739
+isEmpty
+insert -395261
+extractMax
+extractMax
+heapSize
+insert 526360
+heapSize
+insert 382401
+extractMax
+insert 900242
+changeKey 64 -314786
+insert 119783
+insert 885176
+changeKey 381 -595453
+extractMax
+getMax
+extractMax
+insert 676850
+heapSize
+extractMax
+insert 92425
+insert -989344
+changeKey 62 958493
+getMax
+getMax
+extractMax
+extractMax
+extractMax
+getMax
+insert 927406
+heapSize
+changeKey 163 -687902
+insert -988552
+insert 414748
+insert -747824
+insert 770433
+getMax
+changeKey 244 -11333
+extractMax
+extractMax
+extractMax
+heapSize
+insert 147237
+extractMax
+extractMax
+insert 160725
+changeKey 103 -513326
+extractMax
+isEmpty
+heapSize
+changeKey 228 -66509
+getMax
+changeKey 52 -338228
+extractMax
+heapSize
+insert -56755
+changeKey 379 207795
+extractMax
+changeKey 372 373275
+extractMax
+extractMax
+insert -771396
+insert -548953
+insert 452239
+insert 439373
+getMax
+extractMax
+insert -990072
+extractMax
+extractMax
+extractMax
+extractMax
+insert 603830
+extractMax
+insert 41321
+insert -387971
+heapSize
+insert -766919
+insert -794050
+changeKey 140 -661648
+extractMax
+insert 931954
+insert -922178
+extractMax
+changeKey 225 748184
+extractMax
+getMax
+isEmpty
+getMax
+insert 867042
+changeKey 346 -76334
+changeKey 203 -271397
+changeKey 187 82382
+changeKey 53 -896681
+getMax
+insert 302841
+extractMax
+changeKey 52 290997
+extractMax
+insert -697330
+extractMax
+insert -412402
+getMax
+extractMax
+extractMax
+insert 466315
+insert -404571
+getMax
+heapSize
+changeKey 314 -847357
+changeKey 259 -953984
+extractMax
+extractMax
+extractMax
+insert -209505
+isEmpty
+isEmpty
+extractMax
+changeKey 308 -866306
+extractMax
+changeKey 158 -627599
+extractMax
+extractMax
+insert 644573
+insert -449712
+insert -305004
+insert 554554
+insert -288234
+isEmpty
+insert -459691
+changeKey 219 -639659
+insert 945837
+changeKey 289 -828106
+insert 758837
+extractMax
+extractMax
+insert 620164
+heapSize
+extractMax
+changeKey 234 648773
+extractMax
+getMax
+insert -529347
+heapSize
+isEmpty
+insert 531903
+extractMax
+extractMax
+insert -995990
+extractMax
+changeKey 148 -372029
+changeKey 319 903892
+isEmpty
+insert 434249
+insert -578421
+insert 336932
+insert 618153
+extractMax
+extractMax
+extractMax
+insert 339783
+heapSize
+changeKey 288 -575877
+extractMax
+heapSize
+extractMax
+heapSize
+insert 447591
+heapSize
+changeKey 18 -155003
+isEmpty
+insert 453400
+extractMax
+heapSize
+changeKey 346 -476853
+heapSize
+extractMax
+insert 309237
+getMax
+insert 772180
+heapSize
+heapSize
+insert -426426
+extractMax
+insert -902118
+extractMax
+extractMax
+isEmpty
+extractMax
+getMax
+insert -723491
+changeKey 175 -156840
+insert -750343
+extractMax
+extractMax
+extractMax
+insert 818394
+changeKey 143 -34301
+insert 834713
+insert -395559
+insert 527246
+extractMax
+insert -61491
+heapSize
+heapSize
+getMax
+insert -26111
+isEmpty
+insert -482457
+heapSize
+isEmpty
+insert -520809
+insert 526907
+insert -531915
+insert 726423
+changeKey 63 747250
+heapSize
+insert 991047
+extractMax
+insert -274803
+insert -516986
+getMax
+extractMax
+insert 602853
+extractMax
+extractMax
+extractMax
+changeKey 64 923655
+insert -142395
+insert 641675
+insert -303077
+extractMax
+extractMax
+getMax
+extractMax
+insert 561420
+extractMax
+insert 78001
+insert 573740
+insert -84206
+extractMax
+heapSize
+getMax
+heapSize
+insert 171874
+changeKey 55 -100169
+insert -324133
+extractMax
+extractMax
+extractMax
+getMax
+extractMax
+getMax
+insert 2498
+extractMax
+insert 451117
+isEmpty
+isEmpty
+insert 591831
+extractMax
+getMax
+extractMax
+getMax
+extractMax
+extractMax
+insert -880523
+extractMax
+changeKey 311 462604
+insert -846948
+extractMax
+getMax
+extractMax
+isEmpty
+extractMax
+insert 288368
+insert 205896
+insert 530722
+extractMax
+extractMax
+insert -235745
+insert -906460
+extractMax
+changeKey 247 -283441
+heapSize
+getMax
+extractMax
+heapSize
+extractMax
+extractMax
+getMax
+changeKey 158 471205
+insert 308966
+extractMax
+insert -209935
+insert 418991
+extractMax
+changeKey 340 402114
+insert -706997
+getMax
+heapSize
+insert -7710
+extractMax
+changeKey 126 641752
+insert 36775
+changeKey 378 743730
+insert -299084
+heapSize
+getMax
+insert -169849
+extractMax
+extractMax
+extractMax
+heapSize
+isEmpty
+insert 464064
+insert 884129
+insert 33954
+extractMax
+insert 772545
+insert -424692
+insert -6058
+insert 519048
+changeKey 340 -727014
+heapSize
+insert 84898
+heapSize
+insert 94586
+extractMax
+heapSize
+insert -50059
+insert 764973
+changeKey 201 -93207
+insert 350111
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+changeKey 137 -940449
+insert 331442
+heapSize
+changeKey 252 239864
+insert -645203
+getMax
+getMax
+insert -957668
+insert -930257
+extractMax
+insert 31948
+extractMax
+heapSize
+heapSize
+extractMax
+insert 656110
+heapSize
+insert 90452
+extractMax
+insert -736381
+extractMax
+changeKey 360 83902
+changeKey 92 885992
+getMax
+extractMax
+insert -37232
+insert -829070
+getMax
+insert 600830
+insert 73707
+extractMax
+insert 190932
+insert -536613
+extractMax
+insert 155371
+extractMax
+extractMax
+insert -892118
+insert 146675
+extractMax
+extractMax
+heapSize
+changeKey 333 87952
+heapSize
+extractMax
+changeKey 129 634206
+extractMax
+heapSize
+heapSize
+extractMax
+getMax
+changeKey 107 -527048
+extractMax
+extractMax
+isEmpty
+insert 545184
+insert -429634
+insert -493504
+extractMax
+extractMax
+extractMax
+insert -236224
+extractMax
+insert 746109
+changeKey 237 812339
+getMax
+insert -72141
+extractMax
+heapSize
+insert 901003
+getMax
+insert -183075
+insert -488036
+changeKey 159 -170624
+insert -689125
+insert 800984
+heapSize
+insert 128177
+insert 387198
+insert -737911
+changeKey 135 951343
+extractMax
+insert -894484
+changeKey 161 -369090
+changeKey 223 299018
+insert -470871
+changeKey 238 -367209
+changeKey 123 -90857
+insert 86377
+insert -216198
+extractMax
+changeKey 321 -127399
+extractMax
+insert 884606
+extractMax
+changeKey 252 301423
+changeKey 242 -809303
+extractMax
+extractMax
+changeKey 293 717151
+insert -212119
+heapSize
+insert -258253
+extractMax
+insert 48101
+extractMax
+insert -726873
+getMax
+heapSize
+changeKey 192 -791949
+heapSize
+extractMax
+heapSize
+insert -964282
+extractMax
+insert 215949
+insert 290866
+extractMax
+insert 633945
+isEmpty
+insert 331314
+insert -257386
+extractMax
+changeKey 290 786733
+insert 663061
+isEmpty
+extractMax
+insert 918559
+insert 674451
+insert -84047
+extractMax
+extractMax
+heapSize
+heapSize
+extractMax
+extractMax
+getMax
+insert -202259
+changeKey 363 -178149
+isEmpty
+extractMax
+getMax
+insert -803331
+changeKey 12 847009
+insert 758159
+insert 779738
+heapSize
+getMax
+insert 391321
+isEmpty
+heapSize
+insert 692600
+insert 108293
+heapSize
+extractMax
+extractMax
+insert 835992
+heapSize
+getMax
+extractMax
+getMax
+insert -282646
+heapSize
+changeKey 177 -233605
+insert 616273
+changeKey 406 26605
+getMax
+extractMax
+getMax
+insert 471387
+extractMax
+changeKey 399 354068
+extractMax
+heapSize
+extractMax
+insert -577530
+insert -562060
+extractMax
+heapSize
+getMax
+changeKey 381 -312825
+changeKey 372 221944
+extractMax
+changeKey 278 377928
+extractMax
+insert 439824
+extractMax
+insert 693147
+extractMax
+heapSize
+extractMax
+insert -785568
+changeKey 143 -43607
+insert 288891
+changeKey 25 427377
+extractMax
+insert 508440
+heapSize
+insert 356754
+getMax
+isEmpty
+insert 773131
+getMax
+heapSize
+insert -546026
+insert 463317
+insert -308421
+insert 547507
+getMax
+isEmpty
+extractMax
+insert -579387
+extractMax
+getMax
+insert -23174
+insert 448372
+insert 263670
+insert -594915
+insert -816917
+insert -383473
+heapSize
+heapSize
+insert -638535
+getMax
+insert 191846
+insert 101782
+getMax
+extractMax
+changeKey 232 -233885
+changeKey 407 692640
+insert 567000
+heapSize
+extractMax
+changeKey 83 -918548
+insert 166222
+extractMax
+insert 846158
+insert 441753
+changeKey 90 -770398
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -784633
+extractMax
+getMax
+insert -632453
+extractMax
+extractMax
+extractMax
+getMax
+insert 378003
+extractMax
+extractMax
+insert -490221
+heapSize
+insert 20623
+insert 675765
+changeKey 280 -850140
+getMax
+heapSize
+heapSize
+isEmpty
+insert 362322
+extractMax
+extractMax
+insert 524287
+insert 869595
+getMax
+insert 639158
+heapSize
+isEmpty
+extractMax
+insert -249564
+getMax
+changeKey 85 -334239
+extractMax
+extractMax
+extractMax
+extractMax
+getMax
+insert 659262
+getMax
+changeKey 38 -225219
+insert 270146
+insert 112870
+extractMax
+heapSize
+changeKey 204 -976022
+extractMax
+extractMax
+insert -104560
+extractMax
+changeKey 95 434196
+isEmpty
+getMax
+insert 248700
+changeKey 86 -632704
+changeKey 178 293885
+insert 192655
+changeKey 409 430524
+isEmpty
+extractMax
+changeKey 269 813260
+insert 342752
+extractMax
+isEmpty
+insert -69243
+insert -372503
+heapSize
+insert 906192
+insert 500336
+insert -166420
+extractMax
+changeKey 188 -77259
+changeKey 84 -125529
+heapSize
+extractMax
+extractMax
+insert 991331
+extractMax
+extractMax
+extractMax
+insert 527412
+changeKey 382 187817
+extractMax
+heapSize
+extractMax
+heapSize
+isEmpty
+extractMax
+extractMax
+insert -443483
+extractMax
+extractMax

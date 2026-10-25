@@ -1,0 +1,53 @@
+52
+initializeHeap
+insert -29033
+isEmpty
+insert 75448
+extractMin
+isEmpty
+isEmpty
+isEmpty
+getMin
+insert -66957
+insert -40726
+isEmpty
+getMin
+insert 74420
+insert -51412
+insert 18911
+getMin
+insert -15544
+isEmpty
+insert 20591
+insert -79785
+isEmpty
+extractMin
+isEmpty
+extractMin
+insert 74554
+insert 43432
+extractMin
+extractMin
+extractMin
+extractMin
+heapSize
+insert -14956
+getMin
+isEmpty
+insert 52141
+insert 48696
+insert 18165
+getMin
+insert -37095
+isEmpty
+insert -99168
+isEmpty
+extractMin
+insert 52685
+insert 75503
+getMin
+insert 76433
+extractMin
+insert -12079
+getMin
+insert -47496

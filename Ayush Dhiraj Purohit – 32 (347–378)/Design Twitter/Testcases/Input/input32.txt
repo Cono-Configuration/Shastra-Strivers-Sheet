@@ -1,0 +1,161 @@
+160
+follow 46 27
+getNewsFeed 38
+unfollow 31 46
+getNewsFeed 8
+postTweet 33 349
+getNewsFeed 42
+unfollow 38 39
+follow 47 37
+getNewsFeed 3
+getNewsFeed 36
+getNewsFeed 35
+follow 27 3
+follow 6 19
+postTweet 21 350
+postTweet 29 351
+postTweet 41 352
+follow 48 6
+postTweet 8 353
+unfollow 24 27
+unfollow 23 43
+postTweet 34 354
+getNewsFeed 25
+getNewsFeed 44
+postTweet 48 355
+getNewsFeed 11
+follow 38 33
+follow 26 39
+unfollow 38 27
+follow 22 2
+getNewsFeed 10
+postTweet 37 356
+unfollow 4 21
+postTweet 36 357
+postTweet 13 358
+postTweet 2 359
+unfollow 37 19
+unfollow 32 13
+postTweet 28 360
+follow 28 18
+follow 44 17
+follow 35 21
+postTweet 41 361
+getNewsFeed 19
+getNewsFeed 43
+postTweet 39 362
+getNewsFeed 38
+getNewsFeed 17
+getNewsFeed 11
+follow 7 27
+getNewsFeed 46
+postTweet 44 363
+postTweet 38 364
+postTweet 5 365
+postTweet 19 366
+follow 15 2
+postTweet 44 367
+getNewsFeed 31
+postTweet 36 368
+getNewsFeed 29
+postTweet 37 369
+postTweet 36 370
+postTweet 27 371
+getNewsFeed 24
+follow 24 42
+postTweet 37 372
+postTweet 44 373
+postTweet 16 374
+postTweet 1 375
+getNewsFeed 45
+postTweet 8 376
+postTweet 48 377
+follow 13 22
+postTweet 34 378
+follow 1 43
+getNewsFeed 26
+unfollow 6 15
+follow 27 48
+getNewsFeed 39
+postTweet 20 379
+unfollow 3 7
+follow 1 34
+unfollow 33 16
+getNewsFeed 12
+follow 19 29
+postTweet 16 380
+getNewsFeed 13
+getNewsFeed 30
+getNewsFeed 44
+getNewsFeed 8
+postTweet 41 381
+getNewsFeed 9
+getNewsFeed 36
+follow 32 11
+postTweet 10 382
+getNewsFeed 47
+follow 26 18
+getNewsFeed 9
+follow 20 44
+getNewsFeed 45
+getNewsFeed 36
+getNewsFeed 27
+getNewsFeed 43
+postTweet 11 383
+getNewsFeed 2
+getNewsFeed 18
+postTweet 37 384
+getNewsFeed 26
+follow 28 15
+postTweet 29 385
+getNewsFeed 39
+postTweet 36 386
+getNewsFeed 41
+postTweet 9 387
+postTweet 43 388
+postTweet 40 389
+postTweet 32 390
+getNewsFeed 9
+getNewsFeed 8
+postTweet 45 391
+follow 3 47
+unfollow 46 34
+postTweet 11 392
+postTweet 30 393
+follow 2 17
+postTweet 7 394
+getNewsFeed 9
+postTweet 28 395
+getNewsFeed 29
+getNewsFeed 14
+postTweet 41 396
+getNewsFeed 24
+postTweet 32 397
+getNewsFeed 42
+postTweet 13 398
+unfollow 17 29
+postTweet 27 399
+postTweet 3 400
+postTweet 34 401
+follow 45 15
+unfollow 5 29
+getNewsFeed 45
+follow 12 13
+postTweet 46 402
+postTweet 3 403
+postTweet 28 404
+postTweet 37 405
+postTweet 17 406
+follow 12 14
+postTweet 45 407
+getNewsFeed 5
+getNewsFeed 40
+getNewsFeed 32
+follow 48 9
+follow 41 27
+follow 41 26
+postTweet 38 408
+postTweet 40 409
+unfollow 1 10
+getNewsFeed 16
+postTweet 26 410

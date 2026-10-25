@@ -1,0 +1,18 @@
+17
+initializeHeap
+isEmpty
+heapSize
+insert 10
+isEmpty
+heapSize
+insert 20
+isEmpty
+heapSize
+insert 30
+isEmpty
+heapSize
+insert 40
+isEmpty
+heapSize
+insert 50
+getMax

@@ -1,0 +1,13 @@
+12
+addNum -267390594
+addNum 981987608
+findMedian
+addNum -737440728
+addNum 304953626
+addNum 636216705
+addNum -868021183
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian

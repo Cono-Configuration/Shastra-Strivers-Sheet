@@ -1,0 +1,27 @@
+26
+addNum 4
+findMedian
+addNum -1
+addNum 6
+addNum -6
+findMedian
+addNum 3
+addNum 6
+addNum -6
+findMedian
+addNum 4
+addNum 4
+addNum 1
+findMedian
+addNum -3
+addNum 6
+addNum -9
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian

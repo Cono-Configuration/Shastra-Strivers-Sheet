@@ -1,0 +1,5 @@
+4
+addNum 1000000000
+addNum -1000000000
+findMedian
+addNum 0

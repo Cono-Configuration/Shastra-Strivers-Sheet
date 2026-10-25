@@ -1,0 +1,1742 @@
+1741
+addNum 6
+addNum 4
+findMedian
+addNum 5
+addNum 8
+addNum 0
+findMedian
+findMedian
+addNum 1
+findMedian
+findMedian
+findMedian
+addNum 2
+addNum 2
+addNum 1
+findMedian
+addNum 6
+findMedian
+addNum 6
+addNum 2
+addNum 4
+findMedian
+addNum 7
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7
+addNum 0
+addNum 9
+addNum 2
+findMedian
+findMedian
+addNum 5
+addNum 8
+addNum 3
+addNum 1
+findMedian
+findMedian
+findMedian
+addNum 6
+addNum 9
+addNum 6
+findMedian
+addNum 7
+addNum 1
+addNum 0
+addNum 6
+addNum 1
+addNum 8
+findMedian
+findMedian
+addNum 1
+addNum 4
+addNum 7
+addNum 0
+addNum 9
+findMedian
+addNum 8
+addNum 2
+addNum 4
+findMedian
+addNum 0
+findMedian
+addNum 8
+addNum 3
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 9
+findMedian
+addNum 7
+addNum 8
+findMedian
+addNum 8
+addNum 9
+findMedian
+findMedian
+addNum 5
+findMedian
+addNum 8
+addNum 9
+addNum 2
+addNum 8
+addNum 8
+addNum 0
+addNum 3
+findMedian
+findMedian
+addNum 6
+addNum 7
+addNum 3
+addNum 6
+addNum 1
+addNum 1
+findMedian
+addNum 1
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 0
+addNum 7
+findMedian
+addNum 8
+addNum 5
+findMedian
+addNum 5
+addNum 1
+findMedian
+addNum 9
+addNum 8
+addNum 6
+findMedian
+addNum 8
+findMedian
+addNum 8
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 2
+addNum 8
+addNum 6
+addNum 5
+addNum 9
+addNum 7
+addNum 8
+addNum 0
+findMedian
+addNum 9
+addNum 9
+addNum 7
+addNum 8
+findMedian
+findMedian
+addNum 9
+addNum 5
+addNum 3
+addNum 9
+addNum 7
+findMedian
+addNum 8
+findMedian
+findMedian
+findMedian
+addNum 4
+addNum 3
+findMedian
+findMedian
+addNum 7
+addNum 6
+findMedian
+addNum 8
+addNum 4
+findMedian
+findMedian
+addNum 5
+addNum 8
+addNum 5
+addNum 1
+addNum 5
+addNum 9
+findMedian
+findMedian
+addNum 1
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 9
+addNum 0
+addNum 6
+addNum 7
+addNum 8
+findMedian
+addNum 9
+addNum 3
+addNum 5
+findMedian
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 1
+addNum 4
+addNum 6
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 0
+addNum 5
+findMedian
+addNum 2
+findMedian
+addNum 8
+addNum 7
+findMedian
+findMedian
+addNum 8
+addNum 5
+addNum 5
+findMedian
+addNum 0
+addNum 8
+findMedian
+addNum 5
+addNum 6
+findMedian
+findMedian
+addNum 4
+addNum 5
+findMedian
+findMedian
+addNum 4
+addNum 9
+addNum 0
+addNum 1
+findMedian
+findMedian
+addNum 8
+addNum 4
+findMedian
+addNum 9
+addNum 1
+findMedian
+addNum 4
+addNum 9
+findMedian
+addNum 2
+addNum 0
+findMedian
+findMedian
+findMedian
+addNum 2
+addNum 0
+findMedian
+addNum 8
+addNum 2
+findMedian
+findMedian
+addNum 7
+findMedian
+addNum 4
+addNum 1
+addNum 2
+findMedian
+addNum 3
+addNum 2
+findMedian
+addNum 0
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 5
+addNum 1
+findMedian
+addNum 8
+addNum 9
+addNum 5
+addNum 4
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+addNum 1
+addNum 0
+addNum 8
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+addNum 1
+addNum 8
+addNum 0
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+addNum 7
+findMedian
+addNum 4
+addNum 8
+findMedian
+addNum 2
+findMedian
+addNum 4
+addNum 5
+addNum 2
+findMedian
+findMedian
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 4
+addNum 4
+findMedian
+addNum 1
+addNum 8
+addNum 6
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 6
+addNum 7
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 9
+addNum 6
+addNum 7
+findMedian
+addNum 7
+addNum 9
+findMedian
+addNum 9
+addNum 2
+findMedian
+addNum 5
+addNum 7
+addNum 5
+addNum 8
+addNum 0
+addNum 0
+findMedian
+findMedian
+addNum 3
+findMedian
+addNum 9
+findMedian
+addNum 9
+addNum 5
+addNum 4
+findMedian
+addNum 9
+addNum 5
+addNum 7
+addNum 1
+findMedian
+findMedian
+addNum 0
+addNum 9
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 5
+addNum 4
+addNum 5
+addNum 0
+addNum 0
+addNum 7
+addNum 3
+findMedian
+addNum 7
+findMedian
+addNum 9
+addNum 2
+findMedian
+addNum 2
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7
+addNum 0
+findMedian
+addNum 7
+addNum 7
+addNum 9
+findMedian
+findMedian
+findMedian
+addNum 8
+addNum 3
+addNum 8
+addNum 1
+addNum 7
+addNum 3
+addNum 0
+findMedian
+addNum 5
+addNum 0
+findMedian
+addNum 4
+addNum 3
+addNum 0
+findMedian
+findMedian
+addNum 5
+addNum 0
+addNum 8
+findMedian
+addNum 1
+addNum 9
+addNum 8
+findMedian
+findMedian
+addNum 9
+addNum 1
+addNum 0
+addNum 9
+findMedian
+addNum 7
+addNum 3
+addNum 9
+addNum 6
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 8
+addNum 4
+addNum 6
+findMedian
+addNum 5
+addNum 6
+addNum 2
+addNum 7
+findMedian
+addNum 0
+addNum 9
+addNum 9
+addNum 2
+addNum 2
+findMedian
+addNum 4
+findMedian
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 6
+addNum 5
+findMedian
+findMedian
+addNum 4
+addNum 8
+addNum 1
+addNum 6
+findMedian
+addNum 5
+addNum 6
+addNum 0
+addNum 8
+addNum 4
+findMedian
+findMedian
+findMedian
+addNum 9
+addNum 6
+addNum 8
+findMedian
+addNum 3
+addNum 5
+findMedian
+addNum 4
+addNum 1
+addNum 6
+addNum 2
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 7
+addNum 0
+addNum 9
+findMedian
+findMedian
+addNum 7
+addNum 7
+findMedian
+addNum 4
+findMedian
+findMedian
+addNum 6
+addNum 9
+addNum 9
+addNum 3
+addNum 7
+addNum 3
+addNum 8
+addNum 9
+addNum 0
+addNum 8
+findMedian
+addNum 7
+addNum 8
+findMedian
+addNum 5
+findMedian
+addNum 5
+addNum 5
+findMedian
+findMedian
+addNum 8
+addNum 2
+findMedian
+addNum 7
+addNum 3
+findMedian
+addNum 8
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+addNum 2
+addNum 6
+addNum 8
+findMedian
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 4
+findMedian
+addNum 1
+addNum 7
+addNum 0
+addNum 1
+addNum 5
+addNum 6
+addNum 9
+addNum 7
+addNum 5
+addNum 9
+addNum 7
+findMedian
+addNum 4
+findMedian
+addNum 1
+findMedian
+findMedian
+addNum 1
+addNum 1
+addNum 9
+findMedian
+findMedian
+addNum 4
+findMedian
+addNum 1
+addNum 7
+addNum 7
+addNum 1
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 6
+addNum 2
+addNum 2
+findMedian
+findMedian
+addNum 0
+addNum 4
+addNum 4
+addNum 7
+findMedian
+findMedian
+addNum 5
+findMedian
+addNum 3
+findMedian
+findMedian
+findMedian
+addNum 9
+addNum 4
+addNum 3
+addNum 9
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 8
+addNum 8
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3
+addNum 3
+addNum 3
+addNum 2
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 4
+addNum 0
+addNum 5
+addNum 4
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 0
+findMedian
+findMedian
+addNum 9
+addNum 7
+findMedian
+addNum 5
+findMedian
+addNum 1
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 9
+addNum 6
+findMedian
+addNum 2
+addNum 9
+findMedian
+findMedian
+addNum 8
+addNum 6
+addNum 3
+addNum 0
+addNum 6
+addNum 6
+findMedian
+findMedian
+addNum 9
+addNum 3
+addNum 8
+findMedian
+addNum 1
+addNum 3
+addNum 4
+addNum 3
+addNum 2
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 6
+addNum 5
+addNum 2
+addNum 7
+findMedian
+findMedian
+addNum 1
+addNum 5
+addNum 3
+findMedian
+addNum 7
+addNum 2
+addNum 4
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+addNum 2
+addNum 5
+addNum 1
+findMedian
+addNum 2
+findMedian
+addNum 5
+addNum 3
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 1
+findMedian
+findMedian
+addNum 1
+findMedian
+addNum 8
+addNum 8
+findMedian
+findMedian
+addNum 1
+addNum 4
+addNum 8
+addNum 1
+addNum 1
+addNum 9
+addNum 2
+findMedian
+addNum 9
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3
+addNum 9
+addNum 0
+findMedian
+addNum 2
+findMedian
+addNum 9
+addNum 5
+addNum 0
+findMedian
+findMedian
+addNum 6
+addNum 6
+findMedian
+addNum 2
+addNum 5
+findMedian
+addNum 4
+findMedian
+addNum 3
+findMedian
+addNum 6
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+addNum 9
+addNum 0
+addNum 8
+addNum 2
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+findMedian
+findMedian
+addNum 0
+addNum 5
+findMedian
+findMedian
+addNum 9
+findMedian
+addNum 7
+findMedian
+addNum 1
+addNum 2
+findMedian
+addNum 3
+findMedian
+addNum 3
+findMedian
+addNum 9
+addNum 3
+findMedian
+addNum 0
+findMedian
+addNum 3
+addNum 8
+addNum 2
+addNum 2
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 2
+addNum 0
+addNum 6
+addNum 3
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 5
+findMedian
+addNum 8
+addNum 3
+addNum 6
+addNum 2
+addNum 8
+addNum 0
+addNum 2
+addNum 0
+addNum 3
+findMedian
+addNum 2
+addNum 0
+addNum 2
+findMedian
+addNum 2
+addNum 8
+addNum 3
+addNum 8
+addNum 2
+addNum 5
+findMedian
+addNum 6
+addNum 5
+addNum 8
+addNum 0
+findMedian
+addNum 8
+addNum 4
+findMedian
+addNum 6
+findMedian
+addNum 4
+addNum 1
+addNum 0
+findMedian
+findMedian
+addNum 3
+addNum 5
+addNum 3
+findMedian
+findMedian
+addNum 4
+addNum 1
+addNum 5
+addNum 6
+findMedian
+addNum 1
+addNum 3
+findMedian
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 4
+addNum 9
+findMedian
+addNum 3
+findMedian
+addNum 6
+addNum 9
+addNum 8
+addNum 0
+addNum 2
+findMedian
+addNum 2
+addNum 6
+addNum 2
+addNum 0
+addNum 5
+findMedian
+addNum 5
+addNum 6
+addNum 8
+findMedian
+addNum 2
+addNum 6
+findMedian
+addNum 8
+addNum 3
+addNum 7
+addNum 0
+findMedian
+addNum 0
+addNum 1
+addNum 0
+findMedian
+findMedian
+addNum 2
+findMedian
+addNum 6
+addNum 1
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+addNum 4
+addNum 5
+findMedian
+addNum 8
+addNum 8
+findMedian
+addNum 3
+addNum 4
+findMedian
+addNum 8
+findMedian
+addNum 9
+addNum 9
+findMedian
+findMedian
+addNum 4
+addNum 5
+addNum 3
+addNum 7
+addNum 0
+findMedian
+findMedian
+addNum 8
+findMedian
+addNum 5
+findMedian
+addNum 5
+findMedian
+findMedian
+addNum 1
+findMedian
+addNum 4
+addNum 0
+addNum 1
+addNum 9
+addNum 1
+addNum 5
+findMedian
+addNum 3
+addNum 8
+findMedian
+findMedian
+addNum 5
+addNum 4
+addNum 6
+findMedian
+findMedian
+addNum 2
+addNum 7
+findMedian
+addNum 2
+addNum 9
+addNum 4
+findMedian
+addNum 7
+findMedian
+addNum 8
+addNum 6
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 2
+findMedian
+addNum 1
+addNum 8
+findMedian
+findMedian
+addNum 2
+findMedian
+addNum 1
+findMedian
+addNum 3
+addNum 9
+findMedian
+findMedian
+addNum 9
+addNum 8
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 7
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 2
+addNum 2
+addNum 1
+addNum 5
+addNum 9
+findMedian
+addNum 4
+findMedian
+addNum 7
+addNum 0
+findMedian
+addNum 4
+findMedian
+addNum 5
+findMedian
+findMedian
+addNum 7
+findMedian
+addNum 6
+findMedian
+addNum 0
+addNum 0
+addNum 2
+addNum 7
+addNum 3
+addNum 1
+findMedian
+findMedian
+addNum 6
+addNum 2
+findMedian
+findMedian
+addNum 6
+findMedian
+addNum 9
+findMedian
+addNum 6
+addNum 4
+findMedian
+addNum 8
+addNum 2
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 7
+findMedian
+findMedian
+addNum 3
+findMedian
+addNum 0
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 8
+findMedian
+addNum 6
+addNum 6
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 6
+addNum 8
+findMedian
+addNum 0
+addNum 3
+addNum 7
+addNum 2
+findMedian
+addNum 7
+addNum 0
+addNum 0
+addNum 7
+addNum 0
+addNum 2
+addNum 3
+addNum 0
+findMedian
+findMedian
+findMedian
+addNum 3
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 6
+findMedian
+addNum 5
+addNum 8
+addNum 0
+addNum 3
+addNum 3
+addNum 3
+addNum 2
+addNum 3
+addNum 1
+findMedian
+addNum 7
+findMedian
+addNum 6
+addNum 6
+addNum 4
+addNum 7
+addNum 5
+findMedian
+findMedian
+addNum 3
+addNum 0
+addNum 7
+addNum 3
+addNum 6
+findMedian
+addNum 0
+findMedian
+findMedian
+addNum 1
+addNum 0
+findMedian
+addNum 7
+findMedian
+addNum 6
+addNum 8
+addNum 8
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 3
+findMedian
+findMedian
+addNum 6
+addNum 2
+addNum 6
+addNum 8
+findMedian
+addNum 2
+findMedian
+addNum 0
+addNum 7
+addNum 7
+addNum 2
+addNum 6
+addNum 0
+addNum 0
+addNum 3
+addNum 3
+findMedian
+findMedian
+addNum 2
+addNum 7
+addNum 0
+addNum 6
+addNum 9
+addNum 0
+addNum 5
+addNum 5
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 7
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 9
+findMedian
+addNum 7
+findMedian
+findMedian
+findMedian
+addNum 9
+findMedian
+addNum 1
+addNum 4
+addNum 1
+findMedian
+addNum 8
+findMedian
+findMedian
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 3
+findMedian
+addNum 8
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 2
+addNum 5
+addNum 4
+findMedian
+findMedian
+addNum 4
+addNum 2
+addNum 5
+addNum 0
+findMedian
+addNum 9
+addNum 0
+addNum 2
+addNum 7
+findMedian
+addNum 3
+addNum 4
+addNum 4
+addNum 7
+addNum 5
+findMedian
+addNum 8
+findMedian
+addNum 0
+findMedian
+addNum 7
+findMedian
+findMedian
+addNum 7
+addNum 7
+addNum 0
+addNum 4
+findMedian
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 7
+addNum 4
+findMedian
+addNum 9
+addNum 7
+addNum 2
+findMedian
+findMedian
+addNum 5
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3
+addNum 7
+addNum 2
+addNum 6
+addNum 0
+addNum 5
+addNum 7
+findMedian
+addNum 4
+addNum 4
+findMedian
+addNum 2
+findMedian
+addNum 9
+findMedian
+addNum 9
+addNum 8
+addNum 5
+addNum 7
+findMedian
+addNum 2
+addNum 3
+addNum 7
+addNum 2
+addNum 2
+findMedian
+addNum 2
+findMedian
+addNum 8
+findMedian
+addNum 3
+findMedian
+findMedian
+findMedian
+addNum 0
+addNum 9
+addNum 5
+addNum 1
+addNum 1
+addNum 6
+addNum 2
+addNum 2
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 0
+addNum 4
+addNum 0
+addNum 6
+findMedian
+addNum 6
+addNum 7
+findMedian
+addNum 5
+addNum 7
+addNum 5
+addNum 6
+addNum 4
+addNum 2
+findMedian
+addNum 8
+addNum 9
+addNum 2
+addNum 3
+addNum 3
+addNum 7
+addNum 9
+addNum 5
+addNum 9
+findMedian
+addNum 1
+addNum 4
+addNum 3
+findMedian
+addNum 6
+addNum 6
+findMedian
+addNum 6
+addNum 0
+findMedian
+findMedian
+findMedian
+addNum 2
+addNum 6
+findMedian
+findMedian
+addNum 2
+addNum 6
+addNum 2
+findMedian
+addNum 6
+addNum 3
+addNum 1
+addNum 8
+addNum 9
+findMedian
+addNum 4
+addNum 3
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7
+findMedian
+addNum 3
+addNum 9
+addNum 0
+addNum 5
+addNum 6
+addNum 3
+addNum 6
+addNum 2
+addNum 5
+addNum 7
+findMedian
+findMedian
+addNum 1
+addNum 5
+findMedian
+findMedian
+addNum 2
+findMedian
+addNum 5
+addNum 7
+findMedian
+findMedian
+addNum 5
+addNum 5
+findMedian
+findMedian
+addNum 2
+addNum 4
+findMedian
+addNum 5
+findMedian
+addNum 4
+addNum 6
+findMedian
+findMedian
+addNum 1
+findMedian
+addNum 2
+findMedian
+addNum 1
+addNum 0
+findMedian
+findMedian
+addNum 8
+findMedian
+addNum 6
+addNum 9
+addNum 9
+addNum 4
+addNum 3
+findMedian
+findMedian
+addNum 9
+addNum 6
+addNum 9
+addNum 8
+addNum 9
+findMedian
+addNum 2
+addNum 2
+addNum 0
+findMedian
+addNum 4
+addNum 1
+addNum 8
+findMedian
+findMedian
+addNum 0
+addNum 7
+findMedian
+findMedian
+addNum 4
+addNum 7
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+addNum 2
+addNum 3
+findMedian
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 2
+addNum 7
+addNum 0
+addNum 4
+findMedian
+findMedian
+addNum 3
+addNum 8
+addNum 6
+addNum 7
+addNum 2
+addNum 2
+findMedian
+addNum 7
+findMedian
+findMedian
+addNum 6
+addNum 3
+addNum 7
+addNum 3
+findMedian
+addNum 1
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 5
+addNum 2
+addNum 3
+addNum 5
+findMedian
+addNum 6
+findMedian
+addNum 0
+findMedian
+addNum 1
+findMedian
+addNum 7
+findMedian
+addNum 9
+addNum 5
+addNum 3
+addNum 5
+findMedian
+addNum 5
+addNum 3
+findMedian
+addNum 1
+addNum 9
+addNum 5
+addNum 3
+addNum 9
+findMedian
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+addNum 5
+findMedian
+addNum 8
+findMedian
+findMedian
+addNum 8
+addNum 5
+findMedian
+addNum 8
+addNum 0
+findMedian
+findMedian
+findMedian
+addNum 4
+findMedian
+findMedian
+findMedian
+addNum 2
+findMedian
+addNum 6
+findMedian
+addNum 0
+findMedian
+addNum 6
+findMedian
+addNum 1
+addNum 8
+findMedian
+addNum 1
+findMedian
+addNum 3
+addNum 4
+findMedian
+findMedian
+addNum 5
+addNum 5
+findMedian
+addNum 4
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 6
+addNum 0
+findMedian
+findMedian
+findMedian
+addNum 1
+addNum 1
+addNum 4
+addNum 8
+addNum 8
+addNum 1
+addNum 8
+findMedian
+addNum 5
+addNum 8
+addNum 4
+addNum 2
+addNum 5
+addNum 2
+findMedian
+addNum 4
+addNum 7
+findMedian
+findMedian
+findMedian
+addNum 8
+findMedian
+findMedian
+addNum 6
+addNum 8
+addNum 1
+addNum 9
+addNum 9
+findMedian
+addNum 0
+findMedian
+addNum 3
+addNum 6
+addNum 5
+addNum 0
+addNum 1
+findMedian
+addNum 2
+findMedian
+addNum 0
+addNum 0
+findMedian
+findMedian
+addNum 0
+addNum 4
+addNum 6
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 4
+addNum 5
+addNum 2
+addNum 0
+addNum 5
+addNum 8
+findMedian
+addNum 6
+findMedian
+addNum 8
+findMedian
+addNum 2
+findMedian
+addNum 2
+addNum 0
+addNum 2
+findMedian
+findMedian
+findMedian
+addNum 0
+findMedian
+addNum 8
+findMedian
+addNum 0
+findMedian
+findMedian
+addNum 5
+addNum 2
+addNum 6
+addNum 8
+findMedian
+addNum 9
+findMedian
+addNum 4
+findMedian
+addNum 7
+addNum 6
+findMedian
+findMedian
+addNum 0
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 4
+findMedian
+addNum 2
+addNum 6
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 2
+addNum 3
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3
+addNum 7
+findMedian
+addNum 3
+findMedian
+findMedian
+addNum 5
+findMedian
+addNum 2
+findMedian
+findMedian
+addNum 4
+findMedian
+addNum 6
+findMedian
+findMedian
+addNum 1
+addNum 3
+addNum 6
+addNum 6
+findMedian
+addNum 4
+findMedian
+addNum 2
+findMedian
+addNum 9
+addNum 5
+addNum 5
+addNum 9
+findMedian
+addNum 2
+addNum 9
+addNum 9
+addNum 6
+addNum 8
+addNum 5
+findMedian
+findMedian
+addNum 9
+addNum 8
+addNum 8
+addNum 4
+findMedian
+findMedian
+addNum 2
+addNum 1
+findMedian
+addNum 6
+addNum 9
+addNum 6
+addNum 1
+addNum 5
+addNum 8
+addNum 4
+findMedian
+findMedian
+addNum 9
+findMedian
+findMedian
+addNum 5
+findMedian
+addNum 3
+findMedian
+addNum 1
+addNum 4
+addNum 5
+addNum 7
+findMedian
+addNum 9
+addNum 4
+addNum 8
+findMedian
+addNum 5
+addNum 2
+addNum 1
+addNum 5

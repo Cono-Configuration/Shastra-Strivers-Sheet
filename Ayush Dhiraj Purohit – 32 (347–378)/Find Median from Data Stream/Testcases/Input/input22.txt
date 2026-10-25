@@ -1,0 +1,47 @@
+46
+addNum 3
+findMedian
+findMedian
+addNum 12
+findMedian
+findMedian
+addNum 21
+findMedian
+addNum 27
+addNum 30
+addNum 33
+addNum 36
+addNum 39
+findMedian
+addNum 45
+addNum 48
+addNum 51
+addNum 54
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 69
+findMedian
+findMedian
+addNum 78
+addNum 81
+findMedian
+addNum 87
+findMedian
+findMedian
+findMedian
+addNum 99
+addNum 102
+addNum 105
+addNum 108
+findMedian
+addNum 114
+addNum 117
+addNum 120
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian

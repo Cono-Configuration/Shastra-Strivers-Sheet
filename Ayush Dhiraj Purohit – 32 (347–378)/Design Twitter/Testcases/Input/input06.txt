@@ -1,0 +1,7 @@
+6
+postTweet 1 11
+postTweet 2 22
+follow 1 2
+follow 2 1
+getNewsFeed 1
+getNewsFeed 2

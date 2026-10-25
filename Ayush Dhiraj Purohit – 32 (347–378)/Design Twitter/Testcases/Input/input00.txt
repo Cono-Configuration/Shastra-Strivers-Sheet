@@ -1,0 +1,8 @@
+7
+postTweet 1 5
+getNewsFeed 1
+follow 1 2
+postTweet 2 6
+getNewsFeed 1
+unfollow 1 2
+getNewsFeed 1

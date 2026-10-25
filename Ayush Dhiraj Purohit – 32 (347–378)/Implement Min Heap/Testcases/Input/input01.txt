@@ -1,0 +1,12 @@
+11
+initializeHeap
+insert 4
+insert 1
+extractMin
+getMin
+insert 1
+heapSize
+isEmpty
+extractMin
+changeKey 0 2
+getMin

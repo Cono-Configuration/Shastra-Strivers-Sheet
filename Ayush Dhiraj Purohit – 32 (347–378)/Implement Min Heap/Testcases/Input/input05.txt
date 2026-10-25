@@ -1,0 +1,7 @@
+6
+initializeHeap
+insert 5
+insert 2
+getMin
+extractMin
+getMin

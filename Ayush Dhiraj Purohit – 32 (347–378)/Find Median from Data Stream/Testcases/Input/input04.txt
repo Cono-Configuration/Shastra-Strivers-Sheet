@@ -1,0 +1,3 @@
+2
+addNum 42
+findMedian

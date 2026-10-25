@@ -1,0 +1,7 @@
+6
+initializeHeap
+isEmpty
+insert 42
+getMax
+heapSize
+isEmpty

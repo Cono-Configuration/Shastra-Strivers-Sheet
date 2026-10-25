@@ -1,0 +1,527 @@
+526
+addNum 4280
+addNum 4074
+addNum 7335
+findMedian
+findMedian
+addNum -8913
+findMedian
+findMedian
+addNum 3564
+addNum -2028
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 4596
+addNum 9178
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 1673
+findMedian
+addNum -6739
+addNum 9215
+addNum -7718
+addNum -9353
+addNum 8115
+findMedian
+addNum 3999
+findMedian
+addNum -3006
+addNum 7972
+addNum -7372
+addNum -410
+addNum 8461
+findMedian
+addNum 8873
+findMedian
+addNum -2676
+addNum 8637
+addNum 7604
+addNum -2654
+findMedian
+addNum 9201
+findMedian
+findMedian
+addNum 8425
+addNum -7860
+findMedian
+findMedian
+addNum -5738
+addNum 8890
+addNum -2559
+findMedian
+findMedian
+addNum 405
+addNum 9944
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3804
+addNum -8500
+addNum -890
+findMedian
+findMedian
+addNum 5710
+addNum 2511
+findMedian
+findMedian
+addNum 1390
+addNum 997
+findMedian
+addNum 5876
+addNum -4043
+addNum 1526
+addNum 5421
+addNum 9943
+addNum -2741
+addNum -2283
+addNum 5893
+findMedian
+findMedian
+findMedian
+findMedian
+addNum -4008
+findMedian
+addNum -9080
+addNum 1653
+findMedian
+findMedian
+addNum 8606
+findMedian
+findMedian
+findMedian
+addNum 2341
+findMedian
+addNum -5233
+findMedian
+addNum -6513
+findMedian
+findMedian
+addNum -1424
+findMedian
+addNum -4628
+addNum 630
+findMedian
+findMedian
+findMedian
+addNum -6242
+addNum -4482
+findMedian
+addNum 9861
+findMedian
+addNum 4043
+addNum -9523
+findMedian
+addNum 5005
+addNum 4838
+findMedian
+findMedian
+findMedian
+addNum -6745
+addNum -2153
+findMedian
+findMedian
+findMedian
+addNum -5232
+addNum 1114
+findMedian
+findMedian
+addNum -1546
+findMedian
+addNum -6318
+findMedian
+findMedian
+addNum 3668
+findMedian
+addNum 1495
+addNum -7911
+findMedian
+addNum 4310
+addNum 2389
+findMedian
+addNum -7695
+addNum -5727
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7708
+addNum -9307
+addNum -1561
+addNum -1372
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 3209
+findMedian
+findMedian
+addNum 4081
+findMedian
+findMedian
+addNum -3053
+addNum -8328
+addNum 1713
+addNum 4795
+addNum -475
+addNum 8600
+findMedian
+findMedian
+addNum 4064
+addNum -3735
+findMedian
+addNum -4435
+findMedian
+addNum 5757
+addNum 3104
+findMedian
+addNum -1262
+addNum 2827
+addNum 5250
+addNum -6943
+addNum -407
+findMedian
+findMedian
+addNum 2437
+addNum -5609
+addNum 9311
+addNum -984
+findMedian
+addNum -7902
+addNum 1845
+findMedian
+findMedian
+findMedian
+findMedian
+addNum -7729
+findMedian
+addNum 4578
+addNum -9837
+addNum -8761
+addNum -6488
+addNum 8636
+addNum -616
+addNum 7263
+addNum 3607
+findMedian
+findMedian
+addNum 7888
+addNum 5023
+addNum -4124
+addNum 3891
+addNum 2558
+addNum 5249
+addNum 9455
+addNum 4478
+findMedian
+addNum -8961
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 7408
+findMedian
+addNum -9600
+addNum -8774
+addNum -1630
+addNum 8831
+addNum 8596
+addNum -3386
+findMedian
+addNum -6277
+findMedian
+addNum -3003
+addNum 8815
+findMedian
+addNum 3857
+findMedian
+addNum -3102
+addNum -7474
+addNum -5370
+findMedian
+addNum -8276
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum -1222
+addNum 8281
+addNum -1734
+findMedian
+findMedian
+addNum -8127
+addNum 7975
+addNum 8858
+findMedian
+addNum -4753
+addNum -4222
+addNum -1189
+addNum -1549
+addNum -310
+addNum 872
+addNum 4421
+findMedian
+addNum -9115
+findMedian
+addNum 5375
+addNum 440
+findMedian
+addNum -5644
+addNum -8389
+addNum 7309
+findMedian
+addNum 5349
+findMedian
+addNum -4626
+findMedian
+findMedian
+findMedian
+addNum -3882
+addNum -2054
+findMedian
+addNum -8060
+addNum 2124
+addNum 7464
+findMedian
+addNum 280
+addNum 3535
+addNum 5323
+addNum -4834
+addNum -767
+findMedian
+addNum 1238
+addNum -8901
+addNum -1790
+findMedian
+addNum 9309
+addNum 1201
+addNum 8575
+addNum 6868
+addNum -8770
+addNum -6387
+addNum -9375
+findMedian
+addNum 6192
+addNum -6694
+addNum 7473
+addNum -2353
+findMedian
+findMedian
+addNum 7107
+findMedian
+findMedian
+addNum 5947
+findMedian
+addNum 5418
+findMedian
+addNum 6663
+findMedian
+addNum 4634
+addNum 8962
+findMedian
+addNum -9974
+addNum 1728
+addNum -6562
+addNum -9234
+findMedian
+addNum 6440
+findMedian
+findMedian
+addNum 1087
+addNum -832
+addNum -4854
+addNum -4874
+addNum 4261
+addNum 577
+addNum 692
+addNum -4693
+findMedian
+addNum -5329
+addNum -2813
+findMedian
+addNum 3191
+findMedian
+findMedian
+findMedian
+addNum 738
+findMedian
+addNum 677
+addNum -3397
+findMedian
+findMedian
+addNum 2334
+findMedian
+findMedian
+addNum -9392
+addNum -9136
+addNum 6166
+addNum 7756
+findMedian
+addNum 6872
+addNum -3721
+addNum 3236
+addNum 9246
+findMedian
+addNum -4148
+findMedian
+addNum -3319
+addNum 9666
+findMedian
+addNum 1183
+addNum -8736
+findMedian
+addNum -7887
+addNum 4149
+findMedian
+addNum -6741
+findMedian
+addNum 999
+addNum -6566
+addNum 1793
+addNum 7630
+findMedian
+addNum 9477
+addNum 477
+findMedian
+addNum 3216
+addNum 9036
+addNum -4134
+findMedian
+findMedian
+findMedian
+addNum 1468
+findMedian
+findMedian
+addNum -1971
+addNum -1850
+findMedian
+findMedian
+findMedian
+findMedian
+addNum -3477
+findMedian
+addNum -4271
+addNum 6113
+findMedian
+addNum 3455
+addNum -3224
+addNum 4252
+addNum 4623
+findMedian
+findMedian
+addNum -4104
+addNum 9329
+addNum 535
+addNum -9615
+findMedian
+findMedian
+addNum 616
+findMedian
+addNum 6790
+addNum 5492
+addNum -2616
+findMedian
+addNum -1451
+findMedian
+addNum -3154
+findMedian
+addNum 9204
+findMedian
+addNum 779
+addNum 6169
+addNum -5389
+findMedian
+findMedian
+findMedian
+addNum -821
+addNum 4583
+addNum -6629
+findMedian
+addNum -3619
+findMedian
+addNum 6696
+addNum -6691
+addNum 1759
+addNum -7836
+addNum 6554
+findMedian
+addNum -1798
+addNum 2952
+addNum -975
+addNum -7576
+addNum -3930
+findMedian
+findMedian
+findMedian
+addNum -1339
+addNum -8525
+findMedian
+addNum -4401
+findMedian
+findMedian
+addNum 5847
+addNum -5247
+addNum -913
+addNum 2783
+findMedian
+findMedian
+addNum 4918
+addNum -9182
+addNum 7345
+addNum -4643
+addNum -8481
+addNum -3888
+findMedian
+addNum 3135
+findMedian
+addNum 4197
+findMedian
+addNum -9151
+findMedian
+addNum 1044
+addNum -2686
+addNum 1573
+addNum 8219
+addNum -3484
+addNum 861
+addNum -476
+addNum 8851
+addNum 4365
+addNum 4931
+addNum 8050
+findMedian
+findMedian
+findMedian
+addNum 7245
+addNum 9065
+findMedian
+addNum 2585
+addNum 1481
+findMedian
+findMedian
+addNum 8987
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 8692
+addNum 8031
+addNum -620
+findMedian
+findMedian
+findMedian

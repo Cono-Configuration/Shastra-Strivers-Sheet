@@ -1,0 +1,24 @@
+23
+unfollow 2 4
+follow 4 5
+getNewsFeed 5
+postTweet 3 8
+getNewsFeed 1
+unfollow 6 4
+getNewsFeed 1
+postTweet 2 9
+getNewsFeed 4
+postTweet 1 10
+follow 3 4
+postTweet 1 11
+postTweet 3 12
+unfollow 5 4
+unfollow 3 1
+getNewsFeed 2
+follow 3 1
+unfollow 2 3
+follow 4 1
+getNewsFeed 4
+follow 6 3
+unfollow 1 4
+getNewsFeed 1

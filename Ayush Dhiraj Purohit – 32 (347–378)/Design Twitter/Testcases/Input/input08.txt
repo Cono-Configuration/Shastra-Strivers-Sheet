@@ -1,0 +1,13 @@
+12
+postTweet 1 2
+postTweet 2 3
+postTweet 1 4
+postTweet 2 5
+postTweet 1 6
+postTweet 2 7
+postTweet 1 8
+postTweet 2 9
+postTweet 1 10
+postTweet 2 11
+follow 1 2
+getNewsFeed 1

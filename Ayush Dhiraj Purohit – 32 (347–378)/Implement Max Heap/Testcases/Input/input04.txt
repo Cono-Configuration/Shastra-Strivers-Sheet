@@ -1,0 +1,6 @@
+5
+initializeHeap
+insert 1000000000
+getMax
+changeKey 0 -1000000000
+getMax

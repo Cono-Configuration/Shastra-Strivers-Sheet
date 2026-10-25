@@ -1,0 +1,42 @@
+41
+postTweet 9 55
+unfollow 6 9
+follow 3 8
+unfollow 8 4
+getNewsFeed 4
+getNewsFeed 7
+unfollow 5 8
+getNewsFeed 6
+getNewsFeed 4
+postTweet 7 56
+follow 2 9
+follow 8 7
+unfollow 3 1
+getNewsFeed 4
+postTweet 5 57
+getNewsFeed 2
+getNewsFeed 9
+postTweet 6 58
+unfollow 2 5
+follow 6 8
+postTweet 6 59
+unfollow 7 5
+postTweet 5 60
+getNewsFeed 6
+follow 1 2
+follow 4 9
+postTweet 4 61
+getNewsFeed 9
+getNewsFeed 7
+unfollow 5 4
+getNewsFeed 3
+getNewsFeed 4
+getNewsFeed 8
+postTweet 4 62
+unfollow 4 8
+unfollow 7 4
+postTweet 7 63
+postTweet 1 64
+getNewsFeed 5
+follow 5 8
+postTweet 9 65

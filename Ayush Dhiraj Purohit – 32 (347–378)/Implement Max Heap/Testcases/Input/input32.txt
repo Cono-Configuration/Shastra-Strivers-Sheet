@@ -1,0 +1,159 @@
+158
+initializeHeap
+insert -69851
+insert -72996
+insert -40834
+insert -5880
+getMax
+isEmpty
+isEmpty
+getMax
+insert -9992
+insert 39081
+changeKey 2 -23399
+heapSize
+extractMax
+insert 94596
+changeKey 5 -59264
+changeKey 3 -38166
+isEmpty
+insert 92376
+insert -49449
+changeKey 1 80681
+changeKey 2 -66636
+isEmpty
+changeKey 2 -61828
+getMax
+insert 85901
+insert 77794
+isEmpty
+insert -58391
+insert 24347
+insert -95307
+heapSize
+insert 56439
+insert 57025
+insert 75529
+insert 26398
+changeKey 2 7307
+isEmpty
+isEmpty
+isEmpty
+insert 21257
+insert -6649
+insert 43194
+extractMax
+getMax
+heapSize
+extractMax
+insert 99969
+heapSize
+insert -32568
+insert -33136
+insert 25507
+heapSize
+heapSize
+insert 32758
+changeKey 11 -53313
+insert -80639
+isEmpty
+insert -37718
+insert -46678
+extractMax
+getMax
+heapSize
+insert -45237
+insert -22822
+insert 9160
+extractMax
+insert 18009
+insert -9465
+changeKey 19 -52665
+insert 71659
+extractMax
+insert 94713
+insert 86575
+heapSize
+heapSize
+isEmpty
+isEmpty
+changeKey 18 9209
+extractMax
+heapSize
+getMax
+insert -62210
+insert 38643
+insert 24444
+isEmpty
+changeKey 22 47413
+insert 65960
+heapSize
+extractMax
+insert -18983
+heapSize
+insert -64940
+insert -2223
+isEmpty
+heapSize
+insert 13283
+extractMax
+insert -58486
+getMax
+isEmpty
+insert 37686
+insert -42615
+insert -46911
+insert -22840
+changeKey 11 74783
+heapSize
+extractMax
+getMax
+insert 66590
+insert -81362
+insert -34302
+getMax
+insert 99859
+insert 23266
+getMax
+changeKey 1 90317
+extractMax
+extractMax
+insert 30791
+heapSize
+extractMax
+extractMax
+extractMax
+insert -1943
+heapSize
+extractMax
+changeKey 32 1598
+insert 13937
+extractMax
+getMax
+changeKey 36 30571
+changeKey 29 24437
+insert 40605
+insert -36143
+insert 87706
+isEmpty
+insert 6743
+extractMax
+insert -68837
+heapSize
+isEmpty
+extractMax
+changeKey 29 55447
+getMax
+heapSize
+extractMax
+insert 89166
+insert 58833
+heapSize
+insert 53431
+insert 98454
+insert 28777
+getMax
+insert -38549
+insert 68620
+extractMax
+extractMax

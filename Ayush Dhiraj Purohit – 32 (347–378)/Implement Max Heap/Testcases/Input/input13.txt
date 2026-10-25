@@ -1,0 +1,9 @@
+8
+initializeHeap
+insert 100
+insert 200
+extractMax
+extractMax
+isEmpty
+insert 300
+getMax

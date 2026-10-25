@@ -1,0 +1,21 @@
+20
+postTweet 7 1
+unfollow 5 2
+unfollow 2 7
+unfollow 2 6
+postTweet 7 2
+unfollow 5 3
+follow 8 7
+unfollow 5 4
+follow 6 7
+follow 5 4
+unfollow 6 1
+postTweet 7 3
+unfollow 5 1
+postTweet 4 4
+unfollow 5 2
+follow 5 1
+postTweet 2 5
+postTweet 7 6
+getNewsFeed 3
+postTweet 1 7

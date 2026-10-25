@@ -1,0 +1,11501 @@
+11500
+initializeHeap
+insert 6690278
+insert 2065450
+insert -8492069
+insert -9288724
+insert -7909341
+insert -6290436
+insert 9179315
+insert -1637089
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1611407
+insert -4590459
+insert -1367004
+insert -3701618
+extractMax
+extractMax
+extractMax
+insert 6676980
+extractMax
+insert 8679670
+insert 8953386
+insert 1737782
+insert -2093697
+insert -8109899
+extractMax
+extractMax
+insert 6854322
+insert 1326755
+extractMax
+insert 1672548
+extractMax
+insert 8412478
+extractMax
+extractMax
+insert 2089896
+extractMax
+extractMax
+extractMax
+insert -471728
+insert -5845172
+extractMax
+insert -180932
+extractMax
+extractMax
+extractMax
+insert -6687303
+extractMax
+extractMax
+insert -882089
+insert 6163631
+extractMax
+insert -3514862
+insert 3649580
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7460895
+extractMax
+insert -83468
+insert 8655119
+extractMax
+extractMax
+extractMax
+insert 9653031
+extractMax
+extractMax
+insert -1682080
+extractMax
+insert -8024753
+insert -4696057
+extractMax
+insert -4438686
+insert 8475502
+insert -8966621
+extractMax
+extractMax
+extractMax
+insert -2438162
+insert 5056646
+extractMax
+insert -440086
+extractMax
+extractMax
+insert -8361378
+extractMax
+extractMax
+insert 6150876
+extractMax
+insert 9801052
+insert 6445506
+insert 1750023
+insert 4399844
+insert -7518440
+extractMax
+insert -5580252
+insert -7879845
+extractMax
+insert 4758636
+insert 63116
+extractMax
+insert 1264985
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5504248
+extractMax
+extractMax
+extractMax
+insert -7543787
+insert -1704770
+extractMax
+insert -6364222
+insert -4902562
+insert -3665489
+extractMax
+extractMax
+extractMax
+insert -429429
+extractMax
+extractMax
+insert 6758106
+insert -2955869
+insert -4491760
+extractMax
+insert 5474688
+insert -7866381
+insert 3254900
+insert 5449289
+extractMax
+insert 3510393
+insert -8518837
+extractMax
+extractMax
+extractMax
+insert -1054412
+extractMax
+insert -7315499
+insert -8871052
+extractMax
+extractMax
+insert -2537466
+extractMax
+insert 6629406
+insert -6067542
+insert -7326724
+insert 3984378
+insert 5696827
+extractMax
+extractMax
+insert -8050052
+insert -560406
+extractMax
+insert -6438599
+insert -9637765
+insert -3976996
+extractMax
+insert 3577844
+insert -4014482
+extractMax
+extractMax
+extractMax
+insert -912154
+insert -1606484
+extractMax
+extractMax
+insert 3622933
+extractMax
+extractMax
+insert 5400422
+extractMax
+extractMax
+insert 621656
+extractMax
+extractMax
+insert -8847091
+insert -8689984
+extractMax
+insert 1862469
+extractMax
+insert 2811924
+extractMax
+extractMax
+insert 3696709
+insert -7832948
+insert 68650
+insert -7024665
+insert 6834495
+extractMax
+insert 9910564
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4190533
+insert 6478054
+insert 1394133
+insert -2944793
+extractMax
+insert -1412142
+insert -8626860
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3681
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1564485
+extractMax
+extractMax
+insert 9552692
+extractMax
+extractMax
+insert 1114617
+insert 9205764
+extractMax
+extractMax
+insert 2337347
+insert 778265
+extractMax
+insert 8134091
+insert -733138
+extractMax
+insert 1150303
+insert 1123055
+insert -1341546
+insert 9746918
+extractMax
+insert 2749929
+insert -3103788
+insert 8356108
+extractMax
+insert -7068521
+extractMax
+insert 3813736
+insert -3450483
+extractMax
+insert -2176360
+extractMax
+insert -5256814
+extractMax
+insert 9685835
+insert -5300595
+extractMax
+insert 3272390
+insert -8842847
+insert 2747230
+extractMax
+insert 7795951
+extractMax
+extractMax
+insert 8600808
+extractMax
+extractMax
+insert 1818905
+extractMax
+extractMax
+extractMax
+insert 1900731
+insert 4383037
+insert 5477088
+insert -134370
+extractMax
+insert -304130
+extractMax
+extractMax
+insert 5753932
+insert 7884927
+extractMax
+insert -6477257
+extractMax
+insert 3025736
+insert 3763901
+extractMax
+insert 9794823
+extractMax
+extractMax
+insert 6314217
+insert -4731293
+insert -8114018
+insert 127263
+insert 3743609
+extractMax
+extractMax
+insert -1980700
+insert 282674
+extractMax
+insert -7189164
+insert 1857156
+extractMax
+insert -1136384
+insert -4854744
+insert -8233486
+insert -8046536
+extractMax
+extractMax
+insert -7426773
+extractMax
+insert 3730044
+extractMax
+insert 773850
+insert -6898519
+extractMax
+extractMax
+insert -3064499
+extractMax
+extractMax
+insert 4023699
+insert 6471305
+insert 3137057
+insert 4620707
+insert 6833405
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8641898
+extractMax
+extractMax
+extractMax
+insert -8759770
+insert 5689687
+insert 6761856
+extractMax
+insert 2736733
+insert 3599731
+insert -298279
+insert 2497195
+extractMax
+extractMax
+insert 4572587
+insert -4364191
+extractMax
+extractMax
+insert -7769699
+extractMax
+extractMax
+insert -9621504
+insert -1502631
+extractMax
+insert 2639009
+insert -3728718
+extractMax
+extractMax
+insert 2893158
+insert -1864254
+extractMax
+extractMax
+insert 154169
+insert 4660784
+insert 3887243
+extractMax
+insert -6202316
+extractMax
+extractMax
+extractMax
+insert -3451800
+insert 826529
+insert 4496663
+extractMax
+extractMax
+insert 5003311
+extractMax
+extractMax
+extractMax
+insert -4900560
+extractMax
+extractMax
+insert -2766161
+insert -2666820
+extractMax
+extractMax
+extractMax
+insert 7907355
+extractMax
+extractMax
+insert 2301088
+insert -5723716
+insert 9781882
+extractMax
+extractMax
+extractMax
+insert 6757546
+insert -1496944
+insert -5475788
+extractMax
+extractMax
+insert -2444989
+insert 8596209
+extractMax
+extractMax
+extractMax
+insert 5137102
+insert 8490663
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9684662
+extractMax
+insert 7534084
+extractMax
+insert -7375578
+insert 1737794
+extractMax
+extractMax
+insert -9247560
+extractMax
+insert 7317625
+insert 9315767
+insert 4397841
+insert -7792887
+insert 2435750
+extractMax
+insert 4347824
+insert -2168879
+extractMax
+insert -8874165
+insert -3102075
+extractMax
+insert 5447480
+extractMax
+extractMax
+extractMax
+insert 4476505
+insert -2191636
+insert 9693125
+insert 3148936
+insert 9726279
+insert 8867275
+extractMax
+extractMax
+insert 4058925
+insert 4996773
+extractMax
+extractMax
+insert -8089122
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8995496
+insert 7218432
+extractMax
+extractMax
+insert 1830359
+extractMax
+insert -4527226
+insert 4138164
+insert -3022840
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7019709
+extractMax
+extractMax
+insert -8528692
+insert 7092096
+extractMax
+extractMax
+insert -4111971
+extractMax
+insert 2200695
+extractMax
+insert -8067001
+insert 2890023
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8145025
+insert -9187975
+extractMax
+extractMax
+insert 1455173
+extractMax
+extractMax
+insert 8452383
+extractMax
+extractMax
+insert -4476199
+insert 3151244
+extractMax
+extractMax
+extractMax
+insert 9434596
+insert 7275341
+extractMax
+extractMax
+insert -6770365
+extractMax
+insert -5376724
+insert 3722709
+insert -2246397
+insert -2590436
+extractMax
+insert 6157306
+insert 7326418
+insert -6578618
+extractMax
+insert 7140439
+extractMax
+insert 7722971
+insert -6457830
+extractMax
+insert 9814280
+insert 3119058
+extractMax
+insert 7710415
+extractMax
+insert 4346972
+insert -2435463
+extractMax
+insert 6232747
+extractMax
+insert -2710782
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2918425
+insert 8182251
+insert -969553
+insert 6615449
+insert -9666190
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -881161
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7691216
+insert -8098939
+extractMax
+insert 2388884
+insert 9916289
+insert 9063522
+insert 1607088
+extractMax
+insert 3431629
+insert 1225370
+insert 1559707
+extractMax
+insert 8020274
+insert 2664826
+insert 6860849
+insert 646521
+insert -7172737
+extractMax
+insert -3581555
+extractMax
+extractMax
+extractMax
+insert 597090
+insert -7667299
+extractMax
+insert 1882212
+extractMax
+extractMax
+insert 9965586
+insert 3523312
+insert 3432420
+insert 2256172
+extractMax
+insert 6965451
+insert 7451914
+insert 3215732
+insert 119741
+insert -7550577
+insert 3218206
+insert -856508
+insert -3494000
+insert -5425237
+insert 372736
+extractMax
+extractMax
+extractMax
+insert 2457291
+insert 8469866
+insert 5404208
+insert -6991086
+insert -9838310
+insert -2049376
+insert 5043972
+extractMax
+insert 3988208
+insert -1296357
+insert 3471509
+extractMax
+extractMax
+insert 3880066
+insert 8710649
+insert -7064588
+insert 1479249
+extractMax
+extractMax
+extractMax
+insert 1852076
+extractMax
+extractMax
+extractMax
+insert -9576857
+insert -6961332
+extractMax
+insert 2290104
+extractMax
+insert -2524021
+insert -8411432
+extractMax
+insert -531075
+insert -3369927
+extractMax
+insert 3707632
+extractMax
+insert 1751563
+insert -3110641
+insert 2228015
+extractMax
+insert 3135529
+insert 1269649
+extractMax
+insert 55881
+insert -8159989
+insert -2097172
+insert 6400840
+insert -6992517
+insert 3380163
+extractMax
+insert 6267132
+extractMax
+extractMax
+extractMax
+insert 7606986
+insert 8212145
+extractMax
+insert -6510996
+extractMax
+insert 47945
+insert 1480661
+insert 6249903
+insert -7721150
+extractMax
+extractMax
+insert -308154
+extractMax
+extractMax
+insert 2015820
+insert -6368864
+insert -7889676
+insert 8098214
+extractMax
+extractMax
+insert 579437
+extractMax
+extractMax
+insert 7748048
+insert 1565248
+insert 7589032
+extractMax
+insert -762539
+insert 9452567
+insert 893529
+extractMax
+extractMax
+extractMax
+insert -3552806
+extractMax
+insert 7699029
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7959261
+insert -5173094
+insert 6775235
+extractMax
+insert -3870544
+insert -7475249
+insert -7745428
+extractMax
+insert 4283750
+extractMax
+extractMax
+insert -9548682
+insert 5565690
+extractMax
+insert -3844999
+extractMax
+insert 7926530
+insert 4927952
+extractMax
+insert 8566116
+insert -5501051
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6826263
+insert 7704384
+extractMax
+extractMax
+extractMax
+insert -7755788
+extractMax
+extractMax
+extractMax
+insert 1921556
+extractMax
+insert 5554502
+insert 131811
+insert -107466
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1725630
+insert 1130802
+insert 3009806
+insert 1228132
+insert -111514
+extractMax
+insert 7102020
+insert 72417
+insert -9124890
+insert -490588
+insert -8161488
+extractMax
+insert 1517179
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4691790
+extractMax
+insert -74306
+insert 3256659
+insert 1926878
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5004589
+insert -8292412
+extractMax
+insert 8502174
+insert -3246277
+extractMax
+insert -9665207
+insert -7960193
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6257712
+insert 4264841
+insert -5865376
+insert 5616687
+extractMax
+insert -124916
+extractMax
+insert -7120954
+extractMax
+insert 870005
+extractMax
+insert 3264222
+insert -6366492
+insert 9042976
+insert -8944596
+extractMax
+extractMax
+insert -5339427
+insert 5762867
+extractMax
+extractMax
+insert 7792267
+insert 2443308
+extractMax
+extractMax
+insert -1592960
+extractMax
+insert 569128
+insert -6871314
+extractMax
+insert -1081684
+extractMax
+insert 1541288
+insert 8954984
+extractMax
+insert -931157
+insert 3351220
+extractMax
+extractMax
+insert 4812659
+extractMax
+extractMax
+extractMax
+insert -2024696
+insert -3781292
+extractMax
+insert -5744751
+extractMax
+extractMax
+extractMax
+insert -5374552
+extractMax
+insert -8158564
+extractMax
+insert 6454456
+insert 8826355
+insert 9752420
+insert 7980528
+insert 3578152
+extractMax
+extractMax
+insert -1860260
+insert -5243484
+insert -25805
+extractMax
+insert 6541442
+insert 941102
+insert -4603325
+insert -7533883
+extractMax
+insert 6430353
+extractMax
+insert -9639127
+insert 2720218
+insert 6611094
+insert -4609684
+insert -6527960
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1109103
+insert 1736760
+insert 3543268
+insert -7953367
+extractMax
+insert -1053261
+extractMax
+extractMax
+insert -8343217
+extractMax
+insert -9598900
+extractMax
+insert -7026485
+extractMax
+extractMax
+extractMax
+insert -3317805
+extractMax
+extractMax
+insert -2858150
+insert 1363808
+insert -3067757
+extractMax
+insert 1584015
+insert -9175337
+extractMax
+insert -2988616
+insert 4563874
+insert 999733
+extractMax
+insert -6074345
+insert 8134163
+extractMax
+extractMax
+insert 4680326
+extractMax
+insert 9457285
+insert 7051404
+insert -3813062
+extractMax
+insert -9384467
+extractMax
+insert 870514
+extractMax
+extractMax
+extractMax
+insert 9654568
+insert -1815326
+extractMax
+insert 950301
+extractMax
+extractMax
+extractMax
+insert 6037041
+extractMax
+insert 9128784
+insert -7173367
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7718617
+extractMax
+insert 6530449
+extractMax
+extractMax
+extractMax
+extractMax
+insert -87188
+extractMax
+insert 8119499
+extractMax
+extractMax
+insert 3910895
+insert -8324998
+extractMax
+insert -3455027
+insert 2357572
+extractMax
+insert -7950432
+insert -3999051
+extractMax
+extractMax
+insert -7103897
+insert -6620729
+extractMax
+insert 1197355
+extractMax
+insert -4664673
+extractMax
+insert 1983846
+extractMax
+insert -7902612
+insert 7731768
+extractMax
+insert 669340
+insert 194252
+insert 7635023
+extractMax
+insert 7639301
+insert 443564
+extractMax
+insert 2701331
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4467583
+insert 9229099
+insert 8466997
+extractMax
+insert 4322042
+insert -4096580
+insert -5387484
+extractMax
+insert 6466964
+insert 859437
+insert 2802206
+extractMax
+insert 7793569
+insert -8576106
+extractMax
+insert -2826249
+insert 4806468
+insert -6909219
+extractMax
+extractMax
+insert 9786003
+extractMax
+extractMax
+insert 6878994
+extractMax
+insert -6584119
+insert 5237454
+insert -7848070
+insert 6599307
+insert 8074772
+extractMax
+insert -9763517
+insert -4771273
+insert 978480
+insert -3620325
+extractMax
+insert -863006
+extractMax
+extractMax
+insert -1415909
+insert 7255939
+extractMax
+insert 1346995
+extractMax
+extractMax
+extractMax
+insert 9438371
+insert -6508215
+extractMax
+extractMax
+extractMax
+insert 9505259
+extractMax
+insert 4059194
+extractMax
+insert -8899707
+insert 4893868
+insert -9912951
+insert 2843681
+extractMax
+extractMax
+extractMax
+insert 3921975
+insert 4438094
+insert 6848236
+extractMax
+extractMax
+extractMax
+insert 2398037
+insert -1176948
+insert 3932610
+insert -8193466
+insert 7327988
+insert -8875475
+extractMax
+insert -4956035
+insert 7293859
+insert -3484187
+extractMax
+insert -9752797
+insert -6201758
+insert -6549898
+insert 5811127
+insert 8907575
+insert 8273564
+insert 6453757
+extractMax
+insert -3584130
+extractMax
+extractMax
+insert -4301747
+insert -5263779
+extractMax
+insert 6478284
+extractMax
+insert -4029657
+extractMax
+extractMax
+insert 359194
+extractMax
+insert 4960979
+insert 6657197
+insert 9686855
+insert -293380
+insert -2265893
+insert 2216803
+insert -1950034
+insert 2640322
+extractMax
+insert 1473222
+insert -9573385
+insert -7285356
+extractMax
+insert -6652471
+insert -3792856
+insert 4188416
+insert -4916217
+extractMax
+insert -2314365
+extractMax
+insert 7596150
+insert -3151337
+extractMax
+insert -7945212
+extractMax
+insert -5034141
+extractMax
+insert 8803840
+insert -7134638
+insert -1723048
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8503740
+extractMax
+extractMax
+extractMax
+insert -897052
+insert -6500999
+insert 3812949
+insert 165767
+extractMax
+insert 6939699
+insert -895652
+extractMax
+insert 4605814
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8325694
+extractMax
+insert 3957182
+insert -5572737
+extractMax
+insert -9453084
+insert -7329683
+extractMax
+insert 6216832
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7171685
+insert -515772
+insert -8344462
+insert 1752574
+insert -6996599
+insert -3934746
+insert 2261377
+insert 425019
+insert -8141447
+insert 1104246
+insert -9840166
+insert -2450356
+extractMax
+insert -8241936
+insert -643260
+insert 6785207
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3975023
+insert 2427818
+insert -3963782
+extractMax
+insert 7617522
+extractMax
+insert -6560285
+insert -8522520
+extractMax
+insert -3696705
+extractMax
+insert 6040151
+extractMax
+insert 7258522
+insert -2660178
+insert 2448837
+extractMax
+extractMax
+insert 7196075
+extractMax
+insert -8751642
+insert -806338
+insert 4292995
+insert -5216986
+extractMax
+insert 480919
+insert -2855938
+insert -9380191
+extractMax
+insert -749930
+insert 3655670
+extractMax
+insert -4297726
+extractMax
+extractMax
+insert 8720704
+extractMax
+extractMax
+insert 1770938
+extractMax
+insert -7759309
+insert -5040381
+insert 4597439
+insert 402319
+extractMax
+extractMax
+insert 8509371
+insert 5338536
+extractMax
+insert -6012414
+insert 2341025
+extractMax
+extractMax
+insert 9847603
+extractMax
+extractMax
+insert 54840
+extractMax
+insert 9139052
+insert 6074889
+insert -8408404
+extractMax
+insert -1562498
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9500209
+insert -5569114
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5994000
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3506703
+extractMax
+insert -3054782
+insert 190949
+insert -4986911
+extractMax
+insert 2102544
+insert -6594768
+extractMax
+insert 7648765
+extractMax
+extractMax
+extractMax
+insert -8139340
+extractMax
+insert -4382546
+insert 7255665
+insert 3479113
+insert -5702570
+extractMax
+extractMax
+insert -9450345
+extractMax
+insert 7479758
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6501253
+extractMax
+extractMax
+extractMax
+insert -5813194
+extractMax
+insert -378681
+insert 4891306
+extractMax
+insert 376714
+insert 9880081
+insert 1219231
+extractMax
+extractMax
+insert 8439561
+extractMax
+insert 5481554
+insert 3677940
+insert -5794079
+insert 8822785
+extractMax
+extractMax
+extractMax
+extractMax
+insert -427982
+extractMax
+extractMax
+insert -2661030
+extractMax
+extractMax
+insert 5876681
+extractMax
+insert -7942249
+insert 8300589
+insert 1044576
+extractMax
+insert 5797447
+insert 366705
+extractMax
+extractMax
+extractMax
+insert -1590779
+insert -4425039
+extractMax
+extractMax
+extractMax
+insert -9314603
+extractMax
+insert 6424796
+insert 8331749
+insert -4053920
+extractMax
+extractMax
+insert -2335315
+extractMax
+extractMax
+extractMax
+insert 6653272
+insert -4006253
+insert 8221468
+insert -5032269
+insert 1872920
+extractMax
+insert 6356677
+insert -8980620
+insert 5033839
+insert 708461
+insert -2398952
+extractMax
+insert 6216766
+insert -5462164
+insert -1806328
+insert 8353597
+insert 783199
+insert -9067638
+insert 4667014
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1459913
+insert 9060951
+extractMax
+extractMax
+insert 926718
+extractMax
+insert -4084575
+extractMax
+extractMax
+insert 8882707
+insert 9199384
+extractMax
+insert -2379406
+insert 2994930
+insert 8529328
+insert 9341896
+extractMax
+extractMax
+insert -3669649
+insert -7726015
+insert 8754527
+insert 4713203
+extractMax
+extractMax
+extractMax
+insert -2838935
+insert -2005865
+insert 4235005
+extractMax
+extractMax
+insert 9938433
+insert 5175797
+extractMax
+insert 567600
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7575089
+insert 9772578
+insert -63681
+extractMax
+insert -3373784
+insert 642946
+insert -3349091
+insert 4897495
+insert 1040262
+extractMax
+insert 4904455
+insert -2564927
+extractMax
+insert 8237962
+extractMax
+insert -238620
+insert -8527844
+insert -6354279
+extractMax
+insert 5380339
+insert 6501832
+insert 6171836
+insert -1379707
+extractMax
+extractMax
+insert 8967527
+insert -7400730
+insert 7702701
+insert -2655539
+extractMax
+extractMax
+insert 9010710
+insert -2337611
+extractMax
+insert -622100
+extractMax
+insert 9666932
+insert -8493558
+insert -9921140
+insert -749292
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1444226
+extractMax
+extractMax
+insert -8892683
+insert 7711588
+extractMax
+insert 8765915
+extractMax
+insert 750162
+extractMax
+insert 927690
+extractMax
+insert -688903
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3097077
+extractMax
+insert -5724353
+extractMax
+insert 2642504
+insert 1255215
+extractMax
+extractMax
+insert 6052400
+extractMax
+insert -5089702
+insert -1429070
+insert 1649963
+insert -7186856
+insert 6437759
+extractMax
+insert -383045
+extractMax
+insert -575756
+insert 3664291
+insert 7379861
+insert -5071535
+insert -5328591
+insert -6331147
+extractMax
+insert -2918875
+insert -9296638
+extractMax
+insert 614061
+insert 5020182
+insert -4897296
+extractMax
+extractMax
+insert 1925852
+extractMax
+insert -8982627
+extractMax
+insert 7629719
+extractMax
+insert 2081625
+insert -7111279
+extractMax
+insert 8189615
+extractMax
+insert 8565474
+insert -1423059
+insert 5589945
+extractMax
+extractMax
+extractMax
+insert 7179307
+insert 9385968
+insert -535815
+insert 7521195
+insert 3901723
+extractMax
+extractMax
+insert -2404562
+insert 3772189
+insert -2977395
+insert -8591917
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9367680
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6634868
+extractMax
+insert 1414022
+insert 5915083
+extractMax
+insert 879687
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2009779
+extractMax
+insert -8344873
+insert 7056202
+extractMax
+insert -2134526
+insert -3497654
+extractMax
+insert -1281594
+insert -4947325
+insert 5203333
+insert 3828655
+insert -6760974
+insert 7708036
+extractMax
+extractMax
+insert -2647348
+extractMax
+insert 5058637
+insert -7804644
+extractMax
+extractMax
+insert 1780687
+extractMax
+extractMax
+insert -5604319
+insert -7430715
+insert -2869769
+extractMax
+insert 6615121
+insert -382575
+insert 6897777
+insert 2459685
+extractMax
+extractMax
+insert -5740051
+insert 8648178
+extractMax
+insert 6995166
+extractMax
+insert -8759374
+insert 5657221
+insert -8054462
+insert 8094777
+insert 9074755
+extractMax
+extractMax
+insert 1531363
+insert -6201806
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5964465
+insert -2311425
+extractMax
+extractMax
+extractMax
+insert -4990360
+insert 9031180
+insert -746880
+extractMax
+extractMax
+insert -6095697
+extractMax
+extractMax
+insert -1942827
+extractMax
+extractMax
+insert 6256140
+insert 9175124
+insert -7844126
+insert -8069825
+insert 164440
+insert -9812277
+insert -8771130
+insert -6183536
+insert -3721248
+extractMax
+extractMax
+insert 6182314
+insert 2910666
+extractMax
+insert 1275940
+insert -3785056
+extractMax
+insert 4759844
+insert 5682092
+extractMax
+extractMax
+insert 704159
+insert 4523847
+extractMax
+insert 8695938
+insert 7263394
+extractMax
+extractMax
+insert -3614321
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4892689
+extractMax
+extractMax
+insert -7951192
+insert -4917801
+insert 7120534
+insert -8486177
+extractMax
+extractMax
+insert -3545267
+insert 9555954
+extractMax
+extractMax
+insert -6063590
+insert 1898063
+insert 2643671
+extractMax
+extractMax
+insert 5653855
+extractMax
+extractMax
+extractMax
+insert -603123
+extractMax
+extractMax
+insert 4939421
+insert 3615294
+extractMax
+insert 4177108
+insert 3412923
+extractMax
+insert 8346490
+extractMax
+extractMax
+insert -2767207
+insert -8206977
+insert 1888671
+insert -4083156
+insert -5291402
+extractMax
+insert 7909947
+extractMax
+insert 2201674
+insert -5194010
+extractMax
+extractMax
+insert -6002091
+insert -7961192
+extractMax
+insert 3569576
+extractMax
+insert -5879915
+insert 2727015
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8600902
+insert -8491124
+insert -9232068
+extractMax
+insert 5501818
+extractMax
+extractMax
+extractMax
+insert -575281
+extractMax
+insert 9873240
+insert 1612095
+insert -7530989
+insert -4259840
+extractMax
+extractMax
+insert 3278895
+extractMax
+insert 1952100
+insert 7515993
+extractMax
+insert 2360472
+extractMax
+insert 4228032
+extractMax
+insert -251606
+insert 8172450
+extractMax
+insert -1176002
+extractMax
+insert 3925469
+insert -716548
+extractMax
+insert 9521792
+extractMax
+insert -4368577
+extractMax
+insert -2258137
+insert -229307
+extractMax
+insert -5044396
+insert 3580450
+extractMax
+extractMax
+insert 140792
+extractMax
+extractMax
+insert -5684403
+insert 7746528
+insert -7254416
+insert -518683
+extractMax
+insert 8752888
+insert 9169910
+extractMax
+extractMax
+extractMax
+insert 9056240
+extractMax
+insert 5623546
+insert -488742
+extractMax
+extractMax
+extractMax
+insert -1078637
+extractMax
+insert 3710897
+insert -6709813
+insert -3230861
+extractMax
+insert -4032514
+insert 263585
+insert 6798567
+insert 3826055
+extractMax
+extractMax
+insert 5215272
+insert -7918002
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5794121
+extractMax
+insert 3514368
+extractMax
+extractMax
+extractMax
+insert -3440754
+insert -9914856
+insert 3599555
+extractMax
+insert -657062
+insert 5536841
+insert 5988508
+insert 4454166
+insert 2450288
+extractMax
+insert 2766878
+insert -2294291
+insert 5338417
+extractMax
+extractMax
+insert -9552089
+insert 3818658
+insert 1010001
+insert -551580
+extractMax
+extractMax
+insert -4213105
+extractMax
+insert -3251896
+insert 5804896
+insert -4957476
+extractMax
+insert 873254
+insert 5077156
+extractMax
+insert 313684
+insert -7266552
+insert 9488200
+extractMax
+extractMax
+insert -9024872
+insert -9498280
+insert 2580826
+extractMax
+insert 4946248
+extractMax
+extractMax
+insert -8797527
+insert -6037794
+extractMax
+insert -5026388
+extractMax
+extractMax
+insert -3779367
+insert -4513317
+insert -1603441
+extractMax
+insert -8524054
+extractMax
+insert -8718089
+insert -2622993
+insert 389111
+insert -580510
+extractMax
+insert -5217623
+extractMax
+extractMax
+insert -2811831
+insert 7869590
+extractMax
+extractMax
+extractMax
+insert 7013738
+extractMax
+insert -8819283
+insert -3349585
+extractMax
+extractMax
+insert -4385321
+extractMax
+insert -1205197
+extractMax
+insert -1673901
+extractMax
+insert -4673619
+insert 5292399
+insert 1722008
+insert -1888489
+insert -955033
+insert 2424939
+insert 8877290
+extractMax
+extractMax
+extractMax
+insert 2575282
+insert -5015467
+extractMax
+insert -4823402
+extractMax
+insert 4866501
+insert -5673006
+extractMax
+insert 4328689
+insert -7304510
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2591947
+insert 249581
+insert 5780573
+extractMax
+insert -9439483
+extractMax
+extractMax
+insert -6912378
+extractMax
+insert 2145108
+insert 1015490
+extractMax
+extractMax
+insert 7604383
+insert -144497
+extractMax
+insert -3276838
+extractMax
+extractMax
+insert -7147637
+extractMax
+insert -896194
+insert -3086054
+insert -4477250
+insert 7859120
+insert 7697257
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7829997
+insert 1523192
+extractMax
+insert -9196254
+insert -3859485
+extractMax
+insert 7622542
+insert -9879835
+extractMax
+insert -8000245
+extractMax
+insert -4435622
+extractMax
+insert -9957221
+insert 8851432
+extractMax
+insert 7538921
+insert -1030657
+insert -9358490
+extractMax
+insert 639970
+extractMax
+extractMax
+extractMax
+insert 1094285
+extractMax
+extractMax
+insert -1618287
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6272980
+extractMax
+insert 9771421
+extractMax
+insert -5243252
+insert -2973354
+extractMax
+extractMax
+extractMax
+insert 5862623
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6955897
+insert -5761933
+insert 3974914
+insert 8543503
+extractMax
+extractMax
+insert 2494176
+extractMax
+insert -7274057
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3904862
+extractMax
+insert 2696354
+extractMax
+insert -6593525
+extractMax
+insert -7014953
+insert -1608401
+insert -8122593
+insert 1647004
+insert -1849732
+insert 4389504
+extractMax
+extractMax
+insert -385271
+insert 669675
+insert 8486866
+extractMax
+insert 7051042
+extractMax
+insert -440550
+insert 3162500
+insert -5052305
+insert -1545228
+insert -9972240
+insert 9831782
+extractMax
+insert 8686445
+insert -8708387
+insert -3857863
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8272257
+insert 4284216
+insert -9505893
+extractMax
+extractMax
+insert -8189597
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2451403
+insert 4575276
+extractMax
+insert -8845637
+insert 9192330
+extractMax
+extractMax
+extractMax
+insert -941740
+extractMax
+insert 7047171
+extractMax
+extractMax
+insert 666089
+insert 4510765
+extractMax
+extractMax
+insert -809920
+insert 1235899
+insert 861571
+insert -8097932
+extractMax
+insert -49426
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6356505
+extractMax
+insert 4536876
+extractMax
+extractMax
+extractMax
+insert -7275827
+extractMax
+extractMax
+extractMax
+insert -1339909
+extractMax
+extractMax
+insert 7458864
+extractMax
+insert -5776212
+extractMax
+extractMax
+insert 9149257
+insert 8330323
+extractMax
+insert -8316718
+insert -3955492
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5042570
+insert -9617945
+extractMax
+insert -2185264
+extractMax
+insert 1729600
+insert -8330981
+extractMax
+extractMax
+insert -9063558
+extractMax
+extractMax
+insert 2496161
+extractMax
+insert 9936117
+insert 978392
+extractMax
+extractMax
+insert -9600086
+insert -9529409
+extractMax
+insert 3818608
+insert 7313146
+insert -9207856
+extractMax
+extractMax
+insert 3715537
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4274705
+extractMax
+extractMax
+insert -5853516
+extractMax
+extractMax
+insert -3168476
+insert -2647213
+extractMax
+insert -517396
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1427186
+insert -6313208
+extractMax
+insert 6289133
+insert -9542105
+insert -2142482
+insert -8265498
+insert 4441503
+extractMax
+insert -3620873
+extractMax
+insert -77503
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6969293
+insert -3996961
+insert 7431360
+extractMax
+insert -6951097
+insert 5863465
+extractMax
+insert 8288433
+insert -5338380
+insert 7466313
+insert 5299782
+extractMax
+extractMax
+insert -5032735
+extractMax
+extractMax
+insert 9772639
+extractMax
+extractMax
+extractMax
+insert -6859574
+insert 4481012
+insert -4783699
+extractMax
+insert 9866534
+extractMax
+insert -2187542
+insert 3123036
+insert 2206173
+insert -7594273
+insert 9102824
+insert -7289982
+insert 1288895
+insert -7127912
+insert 2520983
+insert -7492297
+insert -1667144
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4716838
+insert 2257202
+extractMax
+insert -7773695
+insert 7338152
+insert 2782219
+insert -3220441
+insert 5091602
+insert 9405843
+extractMax
+extractMax
+insert -9659077
+insert -5704246
+extractMax
+extractMax
+extractMax
+insert 1909112
+insert 8188290
+insert -9864878
+insert -2600810
+insert -7413157
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -961160
+insert 4658785
+insert 9199481
+extractMax
+insert 3701604
+insert 223306
+insert 2520582
+insert -3462488
+insert 5605986
+extractMax
+extractMax
+insert 8890067
+extractMax
+insert -6979903
+insert -3909335
+extractMax
+insert 464232
+extractMax
+insert -1437240
+insert 3079697
+insert 7965615
+extractMax
+insert 7930601
+extractMax
+extractMax
+insert -7940131
+insert 5973986
+extractMax
+extractMax
+insert 312087
+insert 9853484
+insert -5376847
+extractMax
+extractMax
+insert -3787408
+insert -401383
+extractMax
+extractMax
+insert 7717530
+insert -9888048
+insert 9992794
+extractMax
+extractMax
+insert 6058139
+insert 9405153
+insert -9885851
+insert -422061
+extractMax
+insert -201896
+insert -6793409
+insert -51646
+insert -4915576
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2129025
+extractMax
+insert -7584406
+extractMax
+insert 9622489
+insert 3003548
+insert -2138753
+insert 2312421
+extractMax
+extractMax
+insert 2869704
+extractMax
+extractMax
+insert -964147
+insert -973132
+insert 9196911
+extractMax
+insert 4708202
+extractMax
+insert 1393474
+insert 8507521
+extractMax
+extractMax
+insert -4137281
+insert -2521544
+extractMax
+extractMax
+insert -6421396
+extractMax
+extractMax
+extractMax
+insert -4672234
+insert -1336550
+insert 6220454
+insert -2498848
+extractMax
+extractMax
+insert -8915964
+insert -9962798
+insert 19914
+extractMax
+insert 9015118
+insert -4136180
+extractMax
+insert 6806823
+extractMax
+insert -272295
+insert -6687028
+extractMax
+insert 424991
+extractMax
+extractMax
+insert 3398830
+insert 7885619
+extractMax
+extractMax
+insert -6447099
+insert -8730221
+extractMax
+insert -7582252
+extractMax
+insert 5655067
+insert 2659496
+insert -4947701
+extractMax
+insert 7274685
+insert 785964
+extractMax
+extractMax
+insert 2373282
+extractMax
+insert 8230821
+extractMax
+insert -3216387
+extractMax
+insert 9212562
+insert -5259057
+extractMax
+extractMax
+extractMax
+insert 6202016
+insert -6093917
+extractMax
+insert -8830948
+insert -607487
+insert 5653662
+insert -6018317
+extractMax
+extractMax
+insert 3238916
+extractMax
+insert 5909915
+extractMax
+extractMax
+insert -3810422
+insert -1930967
+insert -2214292
+extractMax
+insert -3319430
+insert -6881420
+insert -4489328
+insert -7157315
+insert -2449256
+extractMax
+extractMax
+insert -1955282
+extractMax
+insert 2545681
+insert 2183958
+extractMax
+insert -3726277
+insert -987599
+insert 9369247
+insert 9129197
+insert -5761013
+insert 4818314
+extractMax
+insert -896663
+extractMax
+extractMax
+insert -6249943
+extractMax
+insert -5405338
+insert -7316797
+extractMax
+extractMax
+insert -5682747
+insert -6979117
+extractMax
+extractMax
+insert -7436543
+extractMax
+insert -9043858
+extractMax
+insert -7052339
+extractMax
+extractMax
+extractMax
+insert 1910952
+insert 9857080
+insert 5505890
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3768117
+extractMax
+extractMax
+insert -9652192
+insert -2559476
+extractMax
+insert 5017724
+extractMax
+extractMax
+insert 8911262
+insert 5795000
+insert 9751298
+insert -2696581
+insert 9377905
+insert 504975
+extractMax
+insert 3957003
+insert -2436982
+extractMax
+insert -5802421
+extractMax
+insert -6618724
+insert -4816953
+insert -4120070
+insert -7132335
+extractMax
+extractMax
+insert -1860032
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 725343
+extractMax
+extractMax
+insert -2483598
+extractMax
+insert 4535407
+extractMax
+extractMax
+extractMax
+insert -3958096
+extractMax
+insert 4972240
+insert 4843890
+insert -6599531
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3275240
+insert -6503967
+insert -3206448
+extractMax
+extractMax
+insert -2614793
+extractMax
+insert -4118840
+extractMax
+insert 5951948
+extractMax
+insert -1369746
+insert 4687747
+insert 9826119
+insert 9924907
+insert -5546111
+extractMax
+insert 8588364
+insert -2777570
+insert 7356690
+extractMax
+insert 3424
+extractMax
+insert -4986562
+insert -3028200
+extractMax
+insert -5633377
+insert -6479736
+insert 5390615
+insert -5799482
+extractMax
+insert -150834
+extractMax
+insert -1214276
+insert 601528
+extractMax
+extractMax
+extractMax
+insert 7742426
+insert -9200001
+extractMax
+insert 5187006
+insert -5881522
+extractMax
+insert -8132855
+extractMax
+insert 4866401
+insert 2917255
+extractMax
+insert 2374005
+extractMax
+insert -5640490
+insert 1362035
+insert 8228176
+insert 6411855
+extractMax
+insert 3463946
+insert -9133607
+extractMax
+extractMax
+insert -4798320
+insert -3026163
+insert -967693
+extractMax
+insert -2325274
+extractMax
+extractMax
+insert 3507477
+insert 3579054
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7801856
+extractMax
+insert -5258493
+insert -5212643
+insert 1868508
+insert -271019
+extractMax
+insert -2615863
+insert 3327762
+insert 1194736
+extractMax
+insert 5429888
+extractMax
+insert -8586740
+insert -961754
+extractMax
+insert -1997619
+insert -2410304
+insert -2639076
+extractMax
+extractMax
+extractMax
+insert 5147521
+insert -6824212
+extractMax
+extractMax
+extractMax
+insert -2942895
+insert 678219
+insert 5551653
+extractMax
+insert -2824636
+insert 2549709
+insert -9126559
+insert -8546154
+insert -6271938
+extractMax
+insert -1987847
+insert 2224736
+insert -6072980
+insert -9232858
+insert 3943954
+extractMax
+extractMax
+insert 5774758
+extractMax
+extractMax
+insert -5131166
+extractMax
+insert -6024551
+insert 3419352
+insert -1450405
+extractMax
+extractMax
+insert 8174138
+insert 361638
+insert -7161857
+insert -5296460
+insert 1734663
+extractMax
+insert 744039
+insert 9298582
+insert -1616697
+insert -1751452
+extractMax
+extractMax
+insert -7775183
+insert 3978608
+insert -6569994
+insert -1532929
+insert -8293192
+insert 679382
+insert -2949473
+extractMax
+insert 7210888
+extractMax
+extractMax
+extractMax
+insert -1518185
+insert -604093
+extractMax
+insert 1195814
+insert 5325931
+insert 3843970
+insert -6434196
+extractMax
+insert -5416964
+extractMax
+extractMax
+insert 828002
+insert 7151638
+insert 1673025
+extractMax
+insert 8986818
+insert 9586321
+extractMax
+insert 6644698
+extractMax
+insert -6812588
+extractMax
+extractMax
+insert -8557546
+extractMax
+extractMax
+insert -6546433
+insert -660478
+insert -3549370
+insert -8268108
+insert -4704707
+extractMax
+insert -7687630
+extractMax
+extractMax
+insert -2328803
+insert -7272628
+extractMax
+extractMax
+extractMax
+insert -1374820
+insert 8159976
+extractMax
+extractMax
+insert -1488834
+extractMax
+insert 5195544
+insert 7637164
+extractMax
+insert 1266822
+insert -5842311
+extractMax
+insert 1030605
+extractMax
+extractMax
+extractMax
+insert 1749499
+extractMax
+insert -5357324
+insert 8690659
+extractMax
+extractMax
+insert -669483
+extractMax
+insert -3626749
+insert 2486975
+insert 2898724
+extractMax
+extractMax
+extractMax
+insert 1780023
+extractMax
+extractMax
+insert -9139243
+insert -8972148
+insert -4151486
+insert 1096805
+insert 9652302
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2153192
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 283512
+insert 8385439
+insert 6938839
+extractMax
+insert -4415196
+extractMax
+extractMax
+extractMax
+insert 652111
+insert 7876178
+insert -6754961
+extractMax
+insert 4646696
+insert -9634595
+insert -2032254
+insert -931066
+insert -5762368
+insert -6768503
+insert -8394534
+extractMax
+extractMax
+extractMax
+insert 454400
+extractMax
+insert 1330895
+extractMax
+extractMax
+insert 4555247
+extractMax
+extractMax
+insert -5946754
+insert 5265396
+insert 2394038
+insert 8272969
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5376863
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5252680
+insert -5645810
+extractMax
+insert 9214135
+insert 8562996
+insert -3927115
+extractMax
+extractMax
+insert -5679256
+insert 9284003
+insert -4381165
+insert 9341786
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6190468
+extractMax
+extractMax
+insert -7546523
+extractMax
+extractMax
+extractMax
+insert 7628604
+extractMax
+extractMax
+insert 3584817
+insert 7526324
+insert -2073403
+insert -4693812
+extractMax
+extractMax
+insert 4234244
+insert -6203301
+insert 7713775
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5866220
+insert -2138808
+insert 1911809
+extractMax
+insert 7334079
+insert 9866459
+extractMax
+extractMax
+extractMax
+insert -2162037
+insert 6542024
+extractMax
+extractMax
+extractMax
+insert -8465738
+extractMax
+extractMax
+extractMax
+insert 2372437
+extractMax
+extractMax
+insert -2929219
+extractMax
+extractMax
+insert 6019378
+insert -6967755
+insert 540357
+insert -5575197
+insert 2609813
+insert 8943784
+insert 9296735
+insert -5391768
+extractMax
+extractMax
+insert 7388743
+insert -7407999
+extractMax
+insert 5517799
+insert 4399
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3663113
+insert 9080909
+extractMax
+extractMax
+extractMax
+insert -462784
+insert 7280271
+extractMax
+extractMax
+extractMax
+insert -1218159
+insert 303114
+insert 3206395
+insert -1238260
+extractMax
+extractMax
+insert -6956124
+extractMax
+insert -5849813
+extractMax
+extractMax
+extractMax
+insert -8156177
+insert -4664056
+extractMax
+extractMax
+extractMax
+insert -76540
+extractMax
+extractMax
+insert 50371
+extractMax
+insert 5387186
+insert -1713945
+insert 3440250
+extractMax
+extractMax
+insert -6390289
+extractMax
+insert 8804252
+insert 51291
+insert -2109843
+extractMax
+insert 3377058
+insert 9430791
+insert 8444676
+insert 6638080
+extractMax
+insert 5764663
+extractMax
+extractMax
+insert -5653127
+extractMax
+insert 8047919
+insert 8396563
+insert -8313935
+insert 1230556
+extractMax
+extractMax
+insert -7360848
+insert 9146611
+extractMax
+extractMax
+extractMax
+insert -2905252
+extractMax
+extractMax
+insert 2650501
+insert 3568177
+extractMax
+extractMax
+insert 4689059
+insert -6466307
+insert 1486036
+extractMax
+insert -3342731
+extractMax
+insert 6366726
+insert 4065994
+insert 4005251
+extractMax
+extractMax
+extractMax
+insert -2407808
+extractMax
+extractMax
+insert 3258625
+extractMax
+insert -6193148
+insert 6681737
+insert 7194867
+extractMax
+extractMax
+insert -855498
+insert -8794479
+insert -8129935
+insert 2580306
+insert 3076621
+extractMax
+extractMax
+extractMax
+insert -3038468
+extractMax
+insert -972108
+insert -994446
+extractMax
+insert 2875624
+insert -7616638
+insert -1555457
+extractMax
+extractMax
+extractMax
+insert -3605772
+insert 7574854
+extractMax
+extractMax
+extractMax
+insert 3286783
+insert 5189373
+insert 7262435
+insert 1567689
+extractMax
+insert -2214454
+insert 6170756
+insert -5344398
+insert 8817090
+extractMax
+extractMax
+insert 9293678
+insert 9679546
+insert 723728
+insert -6489150
+insert -53693
+insert -4149226
+extractMax
+extractMax
+insert -3466252
+extractMax
+extractMax
+insert 1698498
+insert -2027585
+extractMax
+extractMax
+insert 7616634
+insert -7247161
+insert 9539008
+extractMax
+insert 3396027
+insert -3564906
+extractMax
+insert -9314599
+insert 6790092
+insert -6770167
+insert -2520240
+extractMax
+insert 821745
+insert 7911123
+extractMax
+extractMax
+extractMax
+insert -9907787
+extractMax
+insert 7070645
+insert -2540956
+extractMax
+insert -3741253
+insert 9571714
+extractMax
+extractMax
+insert -5960731
+insert -4995602
+extractMax
+insert -7528714
+extractMax
+extractMax
+extractMax
+insert -4299101
+extractMax
+extractMax
+extractMax
+insert -9840625
+insert -6391809
+insert -8414436
+insert -4739577
+insert 7908829
+insert -2118761
+extractMax
+insert 5758076
+insert 9561548
+insert 8486451
+insert 490234
+extractMax
+insert -7701805
+extractMax
+extractMax
+insert 3653489
+extractMax
+extractMax
+extractMax
+insert 3734858
+insert -5480644
+insert -3055271
+insert 145820
+extractMax
+insert 8709185
+extractMax
+insert 6219536
+insert 4825416
+extractMax
+extractMax
+extractMax
+insert 7981900
+extractMax
+insert 6769613
+extractMax
+insert 6650484
+insert -4693180
+insert -4513977
+insert -1907563
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2369932
+insert -1796443
+extractMax
+extractMax
+extractMax
+insert 6162938
+insert -5373662
+insert 4621313
+extractMax
+insert -8139254
+insert -88698
+insert -9947272
+extractMax
+extractMax
+insert -258081
+extractMax
+extractMax
+extractMax
+insert 9984951
+insert -690524
+insert -5048636
+insert -7381961
+extractMax
+extractMax
+insert -7754998
+insert -955378
+extractMax
+extractMax
+insert 6914987
+extractMax
+extractMax
+insert -2609127
+insert -1077047
+insert 7105079
+insert 5044643
+insert -9456699
+extractMax
+insert 5007410
+extractMax
+insert -4741505
+extractMax
+insert -7523769
+insert 8586469
+insert -5471671
+insert -8283023
+insert 2950382
+insert 1348710
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5881884
+insert 3644549
+insert 9834572
+extractMax
+insert -9962719
+extractMax
+extractMax
+insert -5038047
+insert -3012363
+insert -3041914
+extractMax
+insert 2638329
+extractMax
+extractMax
+insert -1782047
+insert 6102489
+insert 3493193
+insert 778960
+insert 9872941
+extractMax
+insert 1396486
+extractMax
+insert -1281117
+insert -9644154
+insert 2717144
+extractMax
+extractMax
+insert -4422711
+extractMax
+insert -4504476
+insert 3824639
+extractMax
+extractMax
+insert -9173664
+insert -4638844
+extractMax
+insert -838484
+extractMax
+insert 6461989
+insert -3937219
+insert -905781
+insert -4328624
+insert -4011430
+extractMax
+insert 3198790
+insert -7975998
+extractMax
+insert 4405996
+insert -8198019
+extractMax
+insert -5911142
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7904217
+extractMax
+insert -3300705
+extractMax
+insert -7259933
+extractMax
+extractMax
+insert 7021244
+extractMax
+insert 3206156
+extractMax
+insert -8296029
+insert 4106607
+extractMax
+insert -2290724
+insert -6318319
+insert -8173329
+insert -8481884
+insert 4541720
+insert -9345977
+extractMax
+insert -6885807
+extractMax
+insert 687148
+insert -3453443
+insert -9844269
+insert 3237321
+insert -1563546
+insert 129139
+insert -4118222
+insert -9413681
+extractMax
+insert -8576267
+insert 9671893
+extractMax
+insert -9503424
+extractMax
+insert -1500458
+insert 1430894
+insert 3372823
+insert -9713899
+insert -8212667
+insert -5499036
+insert -7611379
+insert 932035
+extractMax
+insert -2008539
+insert 9346993
+insert 5860160
+extractMax
+insert 7887861
+insert -4554455
+insert -5734445
+extractMax
+insert 5795241
+insert 3349648
+insert 3543004
+insert -3355782
+insert -8216002
+extractMax
+extractMax
+extractMax
+insert 638668
+insert -6341195
+insert 4112093
+extractMax
+insert -8437032
+insert -5406464
+extractMax
+insert -8341829
+insert -8469437
+insert 9999939
+extractMax
+insert -6746791
+insert 8715767
+insert -2372487
+extractMax
+insert -2096546
+extractMax
+insert 3504019
+insert 4909748
+insert 5248846
+insert 8415280
+extractMax
+insert 2492555
+insert 5915379
+insert 3496319
+insert -8627304
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6417429
+extractMax
+insert -2556830
+extractMax
+insert -5234561
+insert -4193777
+insert -8511904
+insert 8595038
+extractMax
+insert -3646781
+insert -5827505
+insert -3671409
+extractMax
+insert 8028294
+insert -9377939
+insert 3329304
+extractMax
+extractMax
+insert 8852047
+insert 2543653
+insert 8716332
+insert 9484363
+extractMax
+insert 5616336
+extractMax
+insert 5579157
+insert -3511085
+extractMax
+insert -7226539
+insert -5882364
+insert 27120
+extractMax
+extractMax
+insert 3600591
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4158534
+insert 9951669
+insert 8710734
+insert 9489053
+insert -9812957
+insert -9074430
+insert -1598776
+extractMax
+insert -1253535
+extractMax
+insert -672362
+extractMax
+insert 14019
+extractMax
+insert -4302659
+extractMax
+extractMax
+insert -9544973
+insert 4939953
+extractMax
+extractMax
+insert -7426980
+insert 6934962
+insert -3254078
+extractMax
+insert -4866858
+insert 6446278
+insert -2313937
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5215889
+insert -5361641
+extractMax
+extractMax
+insert -8838488
+extractMax
+extractMax
+insert -2427959
+insert 4107395
+extractMax
+insert -708347
+insert -5724211
+insert 1598673
+insert 4619003
+extractMax
+extractMax
+insert 5009281
+insert -6018825
+extractMax
+insert 1168279
+insert -4725530
+extractMax
+extractMax
+extractMax
+insert 8932383
+insert 2038182
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1685707
+insert -7840625
+extractMax
+insert 4818882
+extractMax
+insert 7083388
+insert -4235699
+insert 567537
+extractMax
+insert -5866743
+extractMax
+insert -7700615
+extractMax
+insert 8223136
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9390929
+insert -351496
+insert -8174853
+extractMax
+extractMax
+extractMax
+insert -76921
+insert -6244128
+insert 5974518
+extractMax
+insert -5066355
+extractMax
+extractMax
+insert 7279514
+extractMax
+insert -3885474
+insert -8668007
+extractMax
+insert 7855582
+extractMax
+insert -2167000
+extractMax
+extractMax
+insert -6241377
+insert 1071307
+insert 9627766
+insert 6877936
+extractMax
+extractMax
+extractMax
+insert -626817
+extractMax
+extractMax
+insert -3303352
+insert 2316093
+insert 2638648
+extractMax
+insert -6496796
+insert 9261019
+extractMax
+insert -1708170
+extractMax
+insert -4953166
+extractMax
+insert -8353922
+insert 4663401
+extractMax
+insert -5931192
+extractMax
+extractMax
+insert 3986419
+insert 1648286
+extractMax
+extractMax
+insert -4634745
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9553891
+insert -2354598
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3895440
+extractMax
+extractMax
+extractMax
+insert -7081404
+extractMax
+insert 8701944
+insert -4258885
+insert 5211247
+insert -3839506
+insert 5835413
+extractMax
+extractMax
+insert -4631188
+insert 9523780
+insert 3482210
+insert -1436896
+insert 592204
+insert -6121733
+extractMax
+insert 4528776
+insert 200019
+insert -3116553
+extractMax
+insert 8832805
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8185478
+insert -6416340
+insert 595413
+insert -8798747
+insert -5832539
+insert -2321843
+insert 138500
+extractMax
+insert -9126863
+extractMax
+insert -7100170
+extractMax
+insert -3235995
+insert -6007872
+extractMax
+insert -9594418
+insert -7018881
+extractMax
+insert -4818175
+insert -5399635
+insert -2952082
+insert 897121
+insert -7032792
+insert -9149550
+insert 4624474
+insert 9589186
+insert -5426638
+insert 3698126
+insert 5229634
+insert -9226533
+insert 3406858
+insert 1881187
+insert 4130691
+insert 9298268
+extractMax
+extractMax
+extractMax
+insert 8297705
+insert 7312059
+insert -3687392
+extractMax
+extractMax
+insert -5838368
+insert 6516957
+extractMax
+insert 6363942
+insert -7070708
+extractMax
+insert -6757740
+extractMax
+extractMax
+insert -4538155
+insert -9555939
+insert -4587600
+insert -3031724
+insert 8594589
+extractMax
+insert -7419085
+insert -4895764
+extractMax
+extractMax
+insert -772412
+insert 5107154
+insert 6401320
+insert -9614299
+extractMax
+insert 3507208
+extractMax
+insert 541492
+extractMax
+insert 2935462
+insert -8160608
+insert 8850848
+extractMax
+extractMax
+insert -6315652
+extractMax
+insert -4698339
+insert -8680021
+extractMax
+extractMax
+extractMax
+insert -8396553
+insert -7587961
+insert -8298807
+insert -2077452
+extractMax
+insert -2897622
+extractMax
+extractMax
+extractMax
+insert -4909446
+insert -7801365
+insert -5343871
+extractMax
+extractMax
+insert -5234012
+insert -7453152
+extractMax
+extractMax
+insert 1865409
+extractMax
+insert 8825640
+insert 7228209
+extractMax
+insert 3924630
+extractMax
+extractMax
+insert -6289443
+insert 1367060
+insert 7460374
+extractMax
+insert -4556911
+insert -1115312
+insert 5694715
+extractMax
+extractMax
+insert 1401077
+extractMax
+extractMax
+extractMax
+insert 5632026
+insert -8403778
+insert 936738
+insert -7699430
+insert 7369911
+insert -2624368
+extractMax
+extractMax
+insert -610166
+extractMax
+extractMax
+insert 9691752
+extractMax
+insert 8948563
+insert 7676716
+insert 1548158
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3934140
+extractMax
+extractMax
+extractMax
+insert -9276356
+insert 1259703
+insert -3109213
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3532305
+insert -9627491
+extractMax
+extractMax
+insert 439297
+insert -4331554
+extractMax
+insert -8334022
+insert -9546904
+extractMax
+insert -7796333
+insert 4710110
+insert 6647107
+extractMax
+insert -4112504
+insert 9816824
+extractMax
+extractMax
+insert 3559149
+extractMax
+insert -211978
+extractMax
+insert 6482237
+insert 967126
+insert -8622532
+extractMax
+insert -4752382
+insert 4167031
+insert -643635
+insert -7727036
+insert -7925376
+extractMax
+insert 2769610
+insert -4620131
+extractMax
+insert -8447124
+insert 2386119
+insert -3349062
+insert -9720171
+insert -227689
+insert -6811502
+insert 8931260
+extractMax
+insert -8293169
+extractMax
+insert 5903318
+insert -9035838
+extractMax
+insert -4410909
+insert -3395049
+insert 7818510
+insert 6415475
+extractMax
+insert 7737615
+extractMax
+insert 3645039
+insert 2439313
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1105744
+insert 2934612
+extractMax
+extractMax
+insert -8830653
+insert 6069781
+insert -4256104
+extractMax
+extractMax
+insert -4686592
+insert -8731547
+extractMax
+extractMax
+extractMax
+insert -3103122
+insert -5939104
+extractMax
+insert -9076910
+insert 3098207
+insert 4255701
+insert 3854489
+insert -7498998
+insert 5350626
+extractMax
+insert -4531139
+insert 914764
+insert 3206195
+insert 7250066
+insert 1658043
+insert -4890810
+extractMax
+extractMax
+extractMax
+insert 992962
+extractMax
+insert -2769482
+insert 1459942
+extractMax
+extractMax
+insert 2936341
+extractMax
+insert 319415
+extractMax
+extractMax
+insert -7130297
+extractMax
+insert -6228952
+insert -3180780
+extractMax
+insert -9415374
+insert 924479
+insert 1311774
+insert -5416074
+insert -2478120
+extractMax
+insert -3787215
+insert -972723
+insert 6734194
+insert 393057
+insert -7446170
+extractMax
+extractMax
+insert 773347
+insert -2975986
+extractMax
+insert 5574958
+extractMax
+insert -8852914
+insert 1754157
+extractMax
+insert -7450367
+insert -2881454
+insert -5799042
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1277028
+insert -3389739
+insert 9594361
+extractMax
+insert -1136840
+extractMax
+insert -2896859
+insert 414707
+extractMax
+extractMax
+insert 918099
+extractMax
+insert 3468056
+extractMax
+extractMax
+extractMax
+insert -5643988
+insert 961989
+insert 9056544
+extractMax
+extractMax
+insert -1970092
+insert -9295229
+insert 7278290
+extractMax
+extractMax
+extractMax
+insert -9606610
+extractMax
+extractMax
+extractMax
+insert 1209798
+insert 6851127
+insert 3134526
+extractMax
+insert -8476471
+extractMax
+extractMax
+extractMax
+insert -3120987
+insert -9010516
+insert -7178782
+extractMax
+extractMax
+insert 7599715
+extractMax
+insert -2821860
+insert 9973226
+insert 243279
+insert -9339916
+insert -7425743
+insert 3228974
+extractMax
+extractMax
+insert -294217
+extractMax
+extractMax
+insert 1705188
+insert -7275068
+insert 6322414
+insert 9983048
+insert 8148345
+extractMax
+insert 2450487
+insert 2614519
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -457586
+extractMax
+insert 4063227
+extractMax
+insert -9413406
+insert -729903
+insert 216617
+insert 5689877
+insert -4005776
+extractMax
+insert 3749775
+insert -2323636
+insert -9136898
+extractMax
+extractMax
+insert -5512938
+insert -6533035
+insert 8494854
+extractMax
+extractMax
+insert 3234877
+insert -9269359
+insert -9098369
+insert 3070153
+extractMax
+extractMax
+insert 4321624
+extractMax
+insert 373132
+insert -6745805
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4187064
+extractMax
+extractMax
+insert 2564948
+extractMax
+insert -8317840
+insert 4844058
+insert -1614666
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8109076
+extractMax
+extractMax
+extractMax
+insert -5325541
+insert -9554558
+insert -4104494
+extractMax
+extractMax
+insert 1679390
+insert 412490
+insert 7842219
+insert 8255829
+insert -325585
+extractMax
+insert -5846242
+insert 2787306
+insert 9981427
+insert 7117885
+extractMax
+insert 7889439
+insert 2328582
+insert -6963923
+insert 6985770
+extractMax
+insert 5075690
+extractMax
+insert 8469095
+insert -2025598
+extractMax
+extractMax
+extractMax
+insert 9689801
+extractMax
+extractMax
+insert -7530479
+insert -759003
+insert -8188814
+extractMax
+extractMax
+insert 4030056
+extractMax
+extractMax
+extractMax
+insert 4220702
+insert -5633187
+insert 7762078
+insert -3294015
+insert -6412446
+insert 9226751
+insert 637642
+extractMax
+insert 9962801
+insert 9851343
+insert -8485447
+insert 2911771
+insert -7278633
+insert -5803962
+extractMax
+extractMax
+insert 2445369
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5936735
+extractMax
+extractMax
+extractMax
+insert -4916355
+extractMax
+insert 3552977
+insert 1912908
+insert 953004
+insert 5865638
+insert -5225667
+insert -6393772
+extractMax
+extractMax
+extractMax
+insert -1202294
+insert -5537289
+extractMax
+extractMax
+extractMax
+insert -789173
+insert -1433601
+insert 2597273
+insert -537624
+insert 7136234
+insert -88773
+insert 3506293
+extractMax
+insert 8983267
+insert -2415089
+extractMax
+extractMax
+insert -4305064
+extractMax
+extractMax
+insert 7735416
+extractMax
+extractMax
+insert 8864867
+extractMax
+extractMax
+extractMax
+insert -3075711
+insert 9932524
+insert -1896774
+insert 4543029
+insert 9378548
+extractMax
+insert -5876912
+extractMax
+insert 5224516
+insert 4716617
+extractMax
+insert 8056565
+extractMax
+insert 6867484
+extractMax
+insert 1859380
+insert 4305393
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5404664
+extractMax
+insert 3094682
+insert -3692738
+insert 5990740
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5666425
+insert -7943609
+insert 6347483
+insert -1498358
+insert 6119613
+extractMax
+insert -3277626
+extractMax
+insert 927070
+extractMax
+insert 3138807
+insert 6120715
+insert -7256805
+extractMax
+extractMax
+extractMax
+insert 6038047
+extractMax
+insert 4920206
+insert -5891671
+extractMax
+extractMax
+insert -6690802
+insert -6795428
+extractMax
+insert 4854106
+extractMax
+insert 7218005
+insert 8053014
+extractMax
+extractMax
+insert -8745963
+insert 96213
+insert 3634454
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5283541
+insert -4819641
+insert -181596
+insert -7546289
+extractMax
+insert -8881100
+extractMax
+insert 1473146
+insert 9166623
+extractMax
+insert -4833225
+extractMax
+insert 9574938
+insert -9178248
+extractMax
+extractMax
+insert 4760466
+extractMax
+insert -3390409
+insert -7552650
+extractMax
+insert -455731
+insert -1730980
+extractMax
+extractMax
+insert 2387812
+insert -3980354
+insert -9780195
+extractMax
+extractMax
+insert -1498877
+insert -5418761
+extractMax
+extractMax
+extractMax
+insert 2468519
+insert 4889589
+extractMax
+extractMax
+insert -2307346
+extractMax
+extractMax
+insert -4567627
+extractMax
+extractMax
+extractMax
+extractMax
+insert -504023
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2122374
+extractMax
+extractMax
+insert -3829277
+extractMax
+extractMax
+insert -9514793
+extractMax
+insert -8814670
+insert -908028
+insert -8296424
+extractMax
+insert -9442842
+extractMax
+extractMax
+insert 9989934
+extractMax
+extractMax
+insert 2696137
+insert -7661676
+extractMax
+insert -5172235
+insert -8999258
+insert -1616272
+extractMax
+extractMax
+insert 3744907
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9607767
+insert -8764322
+insert 1566786
+insert -9480453
+insert 8030596
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4716786
+insert 8108881
+insert 5709578
+insert 3200650
+extractMax
+insert -1296946
+extractMax
+insert 3526557
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1158297
+insert -4062216
+extractMax
+insert 7005990
+extractMax
+insert 9219026
+insert 2141288
+extractMax
+extractMax
+extractMax
+insert -9773671
+extractMax
+insert -5861696
+insert -9039132
+insert -6144078
+extractMax
+extractMax
+extractMax
+insert -3089965
+insert -2329517
+insert -7466818
+insert 2916501
+extractMax
+insert 784143
+extractMax
+insert -3588300
+extractMax
+extractMax
+extractMax
+insert -6774169
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3862170
+extractMax
+insert -7869943
+extractMax
+extractMax
+insert 5531559
+extractMax
+extractMax
+insert 8811037
+insert 2713147
+insert -6474118
+insert 9797300
+insert -3742264
+extractMax
+insert -8880934
+insert 3916409
+insert -7914211
+insert 8006645
+insert -4284629
+insert -1599794
+insert 2003567
+extractMax
+insert 4795476
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2736679
+extractMax
+insert 1419714
+extractMax
+insert 6604566
+insert 6918482
+insert 1958586
+insert -1682701
+extractMax
+insert -680681
+insert -9550940
+insert 2438653
+insert 4530757
+insert 72058
+extractMax
+extractMax
+insert -772139
+extractMax
+insert -2349155
+extractMax
+insert 5553978
+extractMax
+insert 8751395
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8534337
+extractMax
+insert 3263676
+insert 8071963
+extractMax
+extractMax
+extractMax
+insert -4633167
+insert -7491351
+extractMax
+insert -2043815
+insert -2989870
+extractMax
+insert 4671341
+insert 5846656
+extractMax
+insert -774107
+extractMax
+insert 562641
+insert -7944394
+insert -5123328
+extractMax
+insert -7132688
+extractMax
+extractMax
+insert 3055395
+extractMax
+extractMax
+insert 7230608
+insert -719312
+extractMax
+insert -3026120
+extractMax
+extractMax
+insert 485193
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6802520
+insert 5339977
+insert -4039245
+insert 7760190
+insert 9443080
+insert 8997213
+insert 2856228
+insert 2697599
+insert 4817798
+extractMax
+extractMax
+insert -4155335
+insert 5237067
+extractMax
+extractMax
+insert 7126987
+insert 7459327
+insert -5891290
+extractMax
+extractMax
+insert 8497178
+insert 7560840
+insert -7934042
+insert -390407
+extractMax
+insert -2894887
+insert -6720858
+extractMax
+extractMax
+insert -6101178
+extractMax
+extractMax
+insert 4085979
+insert 7525130
+extractMax
+insert 895269
+extractMax
+insert -2694589
+insert 7652063
+extractMax
+insert -9474088
+insert -8090969
+extractMax
+insert 1376605
+insert -6779283
+extractMax
+extractMax
+extractMax
+insert -8985307
+insert 7280667
+extractMax
+insert -4429218
+insert -8948014
+extractMax
+insert 8186586
+insert -9048410
+insert 6241050
+extractMax
+extractMax
+insert -3718205
+insert -7377161
+insert -2816788
+extractMax
+insert 6303401
+insert 4391884
+insert -1628448
+insert 5791127
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3335360
+insert 2406526
+insert -2600958
+insert -9753243
+extractMax
+insert -4031205
+insert 1955538
+extractMax
+extractMax
+insert 9065655
+insert 481202
+insert -9728911
+extractMax
+insert 2259750
+extractMax
+insert 1852583
+insert 2160156
+insert 3101030
+extractMax
+insert 122676
+extractMax
+insert 519401
+insert -3623604
+insert -6637614
+extractMax
+insert 5564952
+insert 7369078
+extractMax
+extractMax
+insert 2881781
+extractMax
+insert 5386998
+extractMax
+extractMax
+extractMax
+insert -9181355
+insert 1260988
+extractMax
+insert -3765287
+insert -5979868
+insert -6172637
+extractMax
+extractMax
+insert -3930189
+insert -2706802
+insert -6414322
+insert -3101079
+insert 9846549
+insert -5455584
+extractMax
+insert 1023486
+insert 6982662
+extractMax
+extractMax
+insert 5475256
+insert -4062696
+extractMax
+extractMax
+extractMax
+insert -8667528
+extractMax
+insert 575434
+insert 9970091
+insert -4521119
+extractMax
+extractMax
+extractMax
+insert 435205
+insert 3345908
+insert -7913893
+insert -6904745
+insert 7064522
+extractMax
+insert 7529224
+extractMax
+insert 123462
+extractMax
+insert 4488582
+insert 7946159
+insert 9587476
+extractMax
+insert -2343120
+insert 5207015
+insert 3570591
+extractMax
+extractMax
+insert -1675079
+insert 4825610
+insert 7601802
+extractMax
+insert -1231276
+insert 9329490
+extractMax
+insert 8266053
+insert 1578441
+extractMax
+insert -921506
+extractMax
+extractMax
+insert -838259
+insert -5321686
+extractMax
+extractMax
+insert -3449124
+insert 8926650
+insert 1084410
+insert -4648949
+extractMax
+insert 5472055
+insert 9116722
+extractMax
+insert -7134401
+insert 3566901
+insert 6092082
+extractMax
+insert 4403117
+insert -3625028
+extractMax
+extractMax
+insert 1558653
+insert -3656630
+insert -8005122
+extractMax
+extractMax
+extractMax
+insert 6946152
+extractMax
+extractMax
+insert 4133239
+insert 1663588
+insert -8431946
+extractMax
+extractMax
+insert 3918409
+insert -4047665
+insert 5263348
+insert 9148195
+extractMax
+extractMax
+insert -3914350
+extractMax
+extractMax
+extractMax
+insert -3880628
+extractMax
+insert 710066
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5311732
+insert -6567964
+extractMax
+extractMax
+insert -7976738
+extractMax
+insert -1302503
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6338378
+extractMax
+extractMax
+extractMax
+insert -8524525
+extractMax
+insert -9956522
+extractMax
+insert 7973833
+extractMax
+extractMax
+insert 7938053
+insert 5853602
+insert 2824774
+extractMax
+insert 3026103
+extractMax
+extractMax
+extractMax
+insert -602802
+extractMax
+extractMax
+insert 4955668
+extractMax
+insert 5498088
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5524101
+extractMax
+extractMax
+extractMax
+insert -5542891
+insert -6069708
+insert 6250815
+extractMax
+extractMax
+extractMax
+insert -4428627
+extractMax
+insert 937433
+insert -7096827
+insert -2841637
+insert 5068015
+insert 8325679
+extractMax
+insert 6031007
+extractMax
+insert 9697317
+extractMax
+extractMax
+insert -5498727
+insert 9626800
+insert -7889447
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7818426
+insert -49012
+insert -502766
+insert -2886188
+insert -4750471
+extractMax
+insert -2943169
+insert 9752833
+insert 2559430
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3968700
+insert -589765
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8384438
+extractMax
+extractMax
+insert -3590487
+extractMax
+insert -5015559
+insert 4834222
+insert -6499301
+insert 3846728
+insert -4556510
+extractMax
+extractMax
+insert -6009303
+insert -3735912
+insert -6680080
+extractMax
+insert -6716003
+insert 5224545
+insert 63190
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6597936
+insert -4339694
+insert 5827237
+insert 9134258
+extractMax
+insert -4163572
+insert -4256135
+insert 4076870
+extractMax
+extractMax
+insert -3133434
+insert 4821558
+extractMax
+extractMax
+insert 65065
+insert -8777742
+insert -9809146
+insert -3788866
+insert 9511082
+extractMax
+insert 7745910
+insert 4493479
+insert -5240387
+extractMax
+insert 5556135
+insert -3055561
+extractMax
+insert -2991238
+insert -7682955
+extractMax
+extractMax
+extractMax
+insert 1485057
+insert 7905727
+insert 7076424
+insert 7141296
+insert 3007299
+insert 4744610
+insert 4129550
+extractMax
+extractMax
+insert 7309903
+extractMax
+insert -8132118
+extractMax
+insert 19341
+insert 7994710
+extractMax
+insert 9811191
+extractMax
+insert 8376702
+extractMax
+insert -2621621
+insert -7685509
+insert -8127975
+insert 1462987
+insert -5781446
+insert 5242615
+extractMax
+insert -5791195
+extractMax
+insert -1431537
+insert -4355594
+extractMax
+insert -2828585
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5461660
+insert -6187273
+extractMax
+insert 9119822
+insert -8212046
+extractMax
+insert 5890683
+insert 6120870
+insert 7694204
+extractMax
+insert -4242512
+insert -7591822
+extractMax
+extractMax
+insert -819699
+extractMax
+insert -8166390
+insert 1329437
+insert -7845966
+extractMax
+insert -1409970
+insert -2795552
+extractMax
+extractMax
+extractMax
+insert 4723344
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -145041
+extractMax
+extractMax
+extractMax
+insert 5032802
+insert 3101341
+extractMax
+insert 7730185
+insert -4888620
+extractMax
+extractMax
+insert 1371707
+extractMax
+insert 1046758
+extractMax
+insert -623086
+insert -5924578
+insert 1877917
+extractMax
+insert 5564115
+extractMax
+extractMax
+insert -2046612
+insert -156688
+insert 7371351
+insert -7070327
+extractMax
+insert 2175049
+insert -3689465
+insert 6591840
+insert 4777482
+insert 6940120
+insert -7651255
+extractMax
+insert 9512820
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9316448
+extractMax
+extractMax
+insert -8127791
+insert 5300108
+extractMax
+extractMax
+extractMax
+insert 8405685
+extractMax
+insert -43650
+extractMax
+extractMax
+insert 2341347
+insert -1269543
+extractMax
+insert -7628541
+extractMax
+extractMax
+insert -6660397
+insert 1843895
+extractMax
+extractMax
+insert -2396625
+insert 9724912
+extractMax
+insert 2899895
+extractMax
+extractMax
+insert -8800600
+extractMax
+insert 3126697
+extractMax
+extractMax
+extractMax
+insert -9859115
+extractMax
+extractMax
+extractMax
+insert -4995514
+insert 954266
+insert -9245816
+extractMax
+extractMax
+extractMax
+insert 4450828
+insert -866251
+extractMax
+extractMax
+extractMax
+insert -1380874
+insert -3550065
+extractMax
+insert 5927588
+insert -5558866
+insert 8089425
+insert -2692437
+insert 6708855
+extractMax
+extractMax
+insert 3892921
+extractMax
+insert -3277714
+insert -1105774
+insert 6479373
+insert 6448305
+extractMax
+insert 6521810
+insert 3428451
+extractMax
+extractMax
+extractMax
+insert 8411911
+insert -9011819
+extractMax
+insert 2939660
+extractMax
+extractMax
+extractMax
+insert 1069089
+insert -3476671
+insert -1132634
+extractMax
+extractMax
+insert 6939665
+extractMax
+insert -388673
+insert -2678535
+insert 807760
+extractMax
+insert -7845198
+insert 6547095
+insert -162090
+insert -300517
+insert -403323
+insert -3367903
+insert 7778011
+insert 350697
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9740075
+extractMax
+insert 3315286
+insert -4254396
+extractMax
+extractMax
+insert -275291
+insert -2002504
+extractMax
+extractMax
+insert 9541580
+extractMax
+insert -3831005
+insert 3864030
+insert 6634164
+insert -6230110
+insert -2196510
+extractMax
+insert 1172488
+insert -9221684
+insert 5775114
+insert 1256663
+extractMax
+extractMax
+insert 1054862
+insert 4614735
+insert -6109538
+insert 7895842
+extractMax
+insert 3946333
+insert -8714013
+insert 1971415
+insert -5760912
+extractMax
+insert 4492158
+insert 8741329
+insert 6859671
+extractMax
+insert -7115248
+insert -3223880
+insert 3844990
+extractMax
+extractMax
+extractMax
+insert -1276512
+extractMax
+extractMax
+extractMax
+insert -4699259
+insert -9492223
+insert -4285656
+extractMax
+insert 5577935
+extractMax
+extractMax
+insert -8217993
+insert -4910491
+extractMax
+insert -1819197
+insert 3362934
+insert 8179139
+insert -3082419
+insert 9917911
+insert 4105404
+extractMax
+extractMax
+insert -6224642
+extractMax
+extractMax
+insert 717711
+insert -2862011
+extractMax
+extractMax
+extractMax
+insert -1021424
+extractMax
+extractMax
+insert -5349748
+insert 7116664
+insert -8018905
+insert 4047769
+extractMax
+extractMax
+extractMax
+insert 4696310
+insert -1767208
+extractMax
+insert 2658757
+insert 5749496
+extractMax
+insert -9211965
+insert -2794238
+insert -3084922
+extractMax
+extractMax
+extractMax
+insert 6432507
+insert 4875688
+insert 1803616
+insert -7798625
+insert -5459043
+insert -8322569
+extractMax
+extractMax
+insert -1294919
+extractMax
+insert 1564173
+insert 6395057
+extractMax
+insert -6755654
+extractMax
+extractMax
+insert -8531432
+insert 7052008
+extractMax
+insert -7860720
+insert 328422
+extractMax
+extractMax
+extractMax
+insert -9501124
+extractMax
+insert -4101807
+extractMax
+extractMax
+extractMax
+insert 2699747
+extractMax
+extractMax
+insert -1662192
+extractMax
+insert 7275210
+insert -1437346
+extractMax
+extractMax
+insert 7400007
+extractMax
+extractMax
+extractMax
+insert 3493246
+extractMax
+insert -1178634
+extractMax
+extractMax
+insert -2187499
+extractMax
+extractMax
+insert -818353
+insert 797752
+extractMax
+insert 2130722
+extractMax
+insert -7282439
+insert -9349207
+insert -5497747
+insert 6364703
+insert -6275142
+insert 5706612
+extractMax
+insert -7172908
+extractMax
+insert -3976617
+insert -6868404
+extractMax
+extractMax
+insert -4174176
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5020066
+extractMax
+extractMax
+insert 489534
+extractMax
+extractMax
+insert -7370028
+insert -5191993
+extractMax
+insert -7361004
+insert 6148125
+insert -9226761
+insert 6442667
+extractMax
+extractMax
+insert 4552558
+insert -8935542
+extractMax
+extractMax
+insert 5855169
+extractMax
+extractMax
+insert -2507753
+extractMax
+extractMax
+insert -2005158
+insert -1561554
+insert 8748917
+insert -4072370
+insert 6231259
+extractMax
+insert -3084607
+insert -1003794
+insert 5483210
+extractMax
+extractMax
+insert -2368602
+insert 7437373
+insert 8772836
+extractMax
+insert -6752303
+extractMax
+insert -7296362
+insert -7251249
+extractMax
+insert -2584646
+insert -9193235
+extractMax
+extractMax
+insert -736405
+insert -2468440
+insert 3407677
+extractMax
+insert 2239470
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3894920
+extractMax
+insert 6496704
+insert 4102344
+insert -1020872
+extractMax
+extractMax
+extractMax
+insert -9525078
+extractMax
+extractMax
+insert -4864889
+insert -1497185
+insert 917774
+insert -1287639
+insert 6105819
+insert -7688394
+insert 7303372
+extractMax
+extractMax
+insert -5594050
+extractMax
+insert -9032989
+extractMax
+extractMax
+insert -9352447
+insert 7065928
+insert 5114613
+insert -1062951
+extractMax
+extractMax
+extractMax
+insert -8489563
+extractMax
+extractMax
+insert 6349105
+extractMax
+extractMax
+insert -3636645
+insert 2302509
+extractMax
+extractMax
+extractMax
+insert 637650
+insert -8297950
+insert 9352380
+insert -2534160
+insert 7489354
+insert -4606515
+insert -1879761
+insert 9307105
+insert -5598475
+insert -7645717
+insert 3090137
+insert -599526
+extractMax
+insert -3393383
+insert -1516994
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6414270
+extractMax
+insert -1223881
+insert 2000469
+insert 1296960
+insert 5869309
+insert -1602172
+insert 5297766
+extractMax
+insert -8679795
+insert -2381440
+extractMax
+insert -4035240
+insert 4448803
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7966064
+extractMax
+insert 5751585
+extractMax
+extractMax
+insert -7617852
+insert 2524360
+insert -7975581
+extractMax
+extractMax
+insert -2797324
+extractMax
+insert 3166283
+extractMax
+extractMax
+extractMax
+insert 172954
+extractMax
+insert -2888631
+insert 7207980
+insert -2776885
+extractMax
+extractMax
+extractMax
+insert -5086439
+extractMax
+extractMax
+extractMax
+insert -7536514
+extractMax
+extractMax
+extractMax
+insert 1279904
+insert -4696547
+extractMax
+insert -5713709
+extractMax
+insert 3011089
+extractMax
+insert 579583
+insert -1074062
+extractMax
+insert -6151207
+extractMax
+extractMax
+insert 2349669
+extractMax
+insert -7626281
+insert 5271960
+extractMax
+insert 3216233
+insert -294724
+insert -5144309
+insert -565693
+extractMax
+insert 7572633
+insert 5082509
+insert 6334203
+insert 2518623
+insert 6446181
+insert 2801867
+extractMax
+insert 4990372
+extractMax
+extractMax
+extractMax
+insert -3185370
+insert 9175760
+extractMax
+insert 8942176
+extractMax
+extractMax
+extractMax
+insert 3312082
+insert -1996166
+extractMax
+extractMax
+insert 7995306
+extractMax
+insert 1925757
+insert 828714
+insert 2737134
+extractMax
+extractMax
+extractMax
+extractMax
+insert -462880
+insert -8485658
+extractMax
+insert 9392388
+extractMax
+insert -8846610
+extractMax
+insert -9312649
+insert 6941650
+insert 1903034
+insert -4620724
+extractMax
+insert 6045545
+extractMax
+insert -6947869
+extractMax
+insert 6011284
+insert -4219499
+insert -1957513
+insert 3074291
+extractMax
+insert -1742072
+extractMax
+insert 2930905
+extractMax
+extractMax
+insert 6922551
+insert -1692459
+insert 9994237
+extractMax
+insert -4362858
+insert 8267015
+insert -6629503
+extractMax
+insert 1838165
+insert 6481839
+insert -2648124
+insert 517848
+insert 4741155
+insert -4825427
+extractMax
+insert 2619319
+insert -6214986
+extractMax
+insert 9915827
+insert -2081644
+insert 4029431
+insert 5492736
+insert 8674224
+insert -3000821
+insert 9996956
+insert 6824349
+insert -4862343
+insert -5272103
+insert 5509557
+extractMax
+extractMax
+insert 2981648
+insert -95117
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3863431
+extractMax
+insert 3038756
+extractMax
+insert -8094521
+insert 5342739
+insert 9351828
+extractMax
+insert -617096
+extractMax
+insert 539043
+insert -774323
+extractMax
+insert 324905
+extractMax
+extractMax
+extractMax
+insert 5070648
+insert 7745198
+insert -686346
+insert 9882085
+extractMax
+insert 1668496
+insert 532665
+extractMax
+extractMax
+insert 8458134
+extractMax
+insert 6730787
+extractMax
+insert -6607213
+extractMax
+extractMax
+insert 8488342
+insert 5482297
+insert -9391298
+extractMax
+insert -245220
+extractMax
+extractMax
+insert -2816592
+insert 5547565
+insert 1954484
+extractMax
+insert 4679254
+insert 5762748
+extractMax
+extractMax
+insert -4805397
+insert -5763380
+extractMax
+insert 3461863
+insert -8031144
+insert 4738033
+insert 7992119
+insert 6489513
+extractMax
+insert -5173795
+insert 2263855
+extractMax
+insert -3626651
+extractMax
+insert 586945
+insert -3327774
+extractMax
+extractMax
+insert 1500078
+extractMax
+insert -3921343
+insert 9097413
+insert -2343190
+insert -854957
+insert -9823180
+insert 3709424
+extractMax
+insert 7968649
+extractMax
+extractMax
+insert -831418
+extractMax
+extractMax
+insert -923815
+insert 4761151
+extractMax
+extractMax
+insert 2996964
+insert -2916750
+extractMax
+insert -4753457
+insert 2575456
+extractMax
+extractMax
+insert -2922594
+extractMax
+extractMax
+insert 4269917
+insert -4044746
+extractMax
+extractMax
+insert 680962
+extractMax
+extractMax
+insert 671429
+insert 668043
+insert 8166177
+insert -8570075
+extractMax
+insert -9589806
+insert -9673506
+extractMax
+extractMax
+extractMax
+insert -9516745
+insert -1818304
+extractMax
+insert 4802125
+extractMax
+extractMax
+insert 1617259
+extractMax
+insert -1807973
+insert -3730056
+insert 8565368
+insert 2556635
+insert 5964817
+extractMax
+insert -7253650
+insert -844606
+insert -2396869
+extractMax
+insert 5320629
+extractMax
+insert -1067216
+extractMax
+insert -2479633
+insert -1493586
+extractMax
+extractMax
+insert -8715462
+insert 3233935
+insert 6588933
+extractMax
+insert 4374154
+extractMax
+insert -1241805
+insert -4940340
+insert -2267516
+insert -8316200
+insert 1671861
+extractMax
+insert -4672097
+insert -6817551
+insert -7607880
+extractMax
+insert 8751523
+extractMax
+extractMax
+extractMax
+insert -9313032
+insert -4540731
+insert 3269497
+insert -1359054
+extractMax
+extractMax
+insert -8517352
+insert 1190528
+insert -8457871
+insert -5011759
+extractMax
+insert 8916341
+insert 1768350
+extractMax
+insert 9607557
+extractMax
+insert -9557037
+extractMax
+insert 5920668
+insert -3455008
+insert -9837393
+insert 328368
+insert 2293808
+extractMax
+extractMax
+insert -3533194
+insert -2240163
+extractMax
+insert 2325575
+insert 9580685
+insert 4820352
+insert -5984269
+insert 9679796
+extractMax
+extractMax
+insert -7573558
+insert 3574543
+insert 1506237
+extractMax
+extractMax
+extractMax
+insert 1186676
+insert -8826729
+extractMax
+insert -3221037
+extractMax
+insert -3855426
+extractMax
+insert -7729778
+extractMax
+insert 2718917
+insert -9105041
+insert -9600386
+extractMax
+extractMax
+insert 7523775
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4258035
+extractMax
+insert 2829820
+insert -5679238
+extractMax
+insert 9128440
+insert -2206747
+extractMax
+extractMax
+insert 9270976
+insert 3841079
+insert -4847142
+insert -7362358
+insert 2437186
+insert -9445969
+extractMax
+insert -56350
+insert -9760406
+extractMax
+insert 786255
+insert -2414683
+insert -3327926
+insert -7614060
+extractMax
+extractMax
+insert -5278841
+insert 6418169
+insert 1325341
+insert 7464946
+extractMax
+extractMax
+insert 921125
+insert 8459898
+insert -1861824
+insert -9655849
+insert -4063034
+extractMax
+insert 4731218
+extractMax
+extractMax
+insert -5191195
+extractMax
+extractMax
+insert 7206493
+extractMax
+extractMax
+insert -9035191
+insert 9177083
+extractMax
+extractMax
+insert -9640353
+extractMax
+insert -7214748
+insert -1047812
+insert -4936978
+extractMax
+insert 5336589
+insert -1044368
+extractMax
+extractMax
+insert 8013581
+insert -2447930
+extractMax
+insert -5110375
+extractMax
+insert -8870230
+extractMax
+insert 2633318
+insert 2070570
+insert -3142749
+extractMax
+extractMax
+extractMax
+insert 7059528
+insert -941776
+extractMax
+insert 9253204
+extractMax
+insert 7364243
+insert 5433843
+insert 1380838
+insert 1327445
+extractMax
+extractMax
+insert 1032189
+extractMax
+extractMax
+insert -5971675
+insert 4298483
+extractMax
+insert 5050413
+extractMax
+insert -1262820
+extractMax
+extractMax
+extractMax
+insert 776376
+extractMax
+extractMax
+insert 8939739
+extractMax
+extractMax
+insert 2080545
+insert 9484208
+extractMax
+insert 1987841
+insert -8344878
+extractMax
+insert 8274820
+insert -9658614
+insert -456093
+extractMax
+extractMax
+insert -9017266
+insert -3578097
+extractMax
+insert -6028693
+insert 1371237
+extractMax
+insert -261856
+extractMax
+extractMax
+insert -3826482
+extractMax
+insert 5875150
+insert -4686484
+extractMax
+extractMax
+insert -5224997
+insert 6162623
+insert -563776
+extractMax
+insert 3103608
+extractMax
+insert -9471885
+insert 7988502
+extractMax
+insert 8489969
+insert 1883185
+insert -4207820
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7774258
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5173107
+extractMax
+extractMax
+insert 2428164
+extractMax
+extractMax
+extractMax
+insert 437268
+extractMax
+extractMax
+extractMax
+insert 8252067
+insert -7153452
+extractMax
+insert 3473182
+extractMax
+extractMax
+insert 1814557
+extractMax
+insert -1808048
+extractMax
+insert -8644732
+insert 1424371
+insert 4685553
+insert 6982381
+extractMax
+extractMax
+insert -4420885
+extractMax
+insert 9704993
+insert -7534680
+extractMax
+insert 3618870
+insert -9580303
+extractMax
+extractMax
+insert 9904967
+insert -1197255
+insert 8479574
+extractMax
+insert -506029
+insert -5735952
+insert 2536253
+insert 9425384
+extractMax
+insert -128540
+extractMax
+extractMax
+extractMax
+insert 7550054
+insert -8229757
+extractMax
+insert -5247863
+extractMax
+insert -4988035
+insert 7097725
+insert -9727416
+insert -4688950
+insert -9434668
+insert 6694703
+insert 4201434
+insert -4640902
+insert -4984670
+insert 3257107
+extractMax
+extractMax
+extractMax
+insert -9486494
+insert -8314908
+insert 1100235
+insert 3985754
+insert -673400
+insert -1550744
+extractMax
+insert 9866613
+insert 6005536
+insert -2380070
+insert -2491019
+extractMax
+insert 6623369
+insert -96757
+insert -3718375
+extractMax
+insert -5351814
+insert 6832061
+insert 1819345
+extractMax
+insert 9147257
+extractMax
+extractMax
+insert -8120885
+extractMax
+insert -4106571
+insert 9377799
+insert 1333762
+extractMax
+insert -326353
+insert -5950117
+extractMax
+extractMax
+insert 8291857
+insert -7777283
+extractMax
+insert 4263926
+insert 5364910
+extractMax
+extractMax
+insert 6056691
+extractMax
+insert 8952821
+insert -6607713
+insert -342789
+extractMax
+insert 292223
+extractMax
+insert -2750282
+extractMax
+insert -1271496
+extractMax
+insert 2862908
+insert 3917897
+extractMax
+extractMax
+insert -2470019
+insert 1511569
+extractMax
+insert 5417629
+extractMax
+extractMax
+insert -601730
+extractMax
+extractMax
+insert 1332268
+extractMax
+insert -1418942
+extractMax
+extractMax
+insert -5365042
+insert -4172188
+insert 6359606
+insert -2447397
+insert 2655831
+extractMax
+insert -5459639
+insert -2005099
+insert 7078925
+insert 6547368
+extractMax
+insert 2842197
+extractMax
+insert -6340755
+insert -2180187
+insert -7587110
+insert -9551536
+extractMax
+insert 9051076
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9884098
+extractMax
+insert -6433148
+extractMax
+extractMax
+extractMax
+insert 5890250
+insert -9982656
+insert -900999
+extractMax
+insert -9712565
+insert -7106725
+insert 2860845
+extractMax
+insert 9174129
+insert -4376202
+insert 3257315
+insert -1725163
+insert 5360250
+extractMax
+extractMax
+insert -2558065
+extractMax
+extractMax
+insert -4270920
+extractMax
+extractMax
+extractMax
+insert -5910440
+insert -2503744
+insert -8141066
+insert -490125
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7115061
+extractMax
+insert -2085213
+insert 843833
+insert -7482061
+extractMax
+extractMax
+insert 4103673
+insert -717788
+insert 9458510
+extractMax
+extractMax
+extractMax
+insert -1950844
+extractMax
+insert -2411811
+extractMax
+extractMax
+insert 5126967
+insert 5475584
+insert 7915337
+extractMax
+insert -7828594
+extractMax
+insert -4878663
+extractMax
+insert -187943
+insert 5256032
+insert -2341591
+insert -8827279
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1336182
+insert 1743486
+insert 6557334
+extractMax
+insert 3276706
+insert -5734870
+insert -4691374
+insert -4970967
+extractMax
+insert 9250549
+extractMax
+insert -1009194
+extractMax
+insert 4494364
+insert -8062713
+extractMax
+insert 7313365
+insert 2549678
+insert -5982953
+insert 4252571
+insert 3066031
+insert -5810661
+extractMax
+extractMax
+insert -3476223
+insert 1696379
+insert -6990441
+extractMax
+extractMax
+extractMax
+insert 5913172
+extractMax
+insert -9693879
+insert 4201584
+extractMax
+extractMax
+extractMax
+extractMax
+insert 70011
+extractMax
+insert 1301637
+extractMax
+insert 2159123
+insert -7427574
+extractMax
+extractMax
+insert 6572734
+insert 2664061
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4347804
+insert -5010819
+insert 5316197
+extractMax
+extractMax
+extractMax
+extractMax
+insert -829859
+extractMax
+extractMax
+insert -8852129
+extractMax
+extractMax
+extractMax
+insert -6824783
+insert -3316659
+extractMax
+extractMax
+extractMax
+insert 6712649
+insert -6693056
+extractMax
+insert -9044645
+insert 7543763
+insert 3586449
+extractMax
+insert -3655095
+insert -6616179
+extractMax
+insert 9548132
+insert 9543205
+insert -7762359
+insert -9276367
+extractMax
+insert -1047945
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6760774
+extractMax
+extractMax
+extractMax
+insert -2313175
+insert 272538
+insert 3279046
+insert -1421904
+insert 1314827
+insert -6067703
+insert 2111982
+insert 6075765
+insert -4597023
+extractMax
+extractMax
+insert -8193322
+insert 1059278
+extractMax
+extractMax
+insert -9296313
+insert 8804434
+insert -651743
+insert -5429744
+extractMax
+extractMax
+extractMax
+insert 6180584
+extractMax
+insert -6079609
+extractMax
+insert -3243838
+extractMax
+insert -1142678
+extractMax
+extractMax
+insert 6002810
+insert 175080
+extractMax
+insert -4675796
+extractMax
+insert 5749587
+extractMax
+extractMax
+insert 6065727
+insert -8265547
+extractMax
+insert 1944925
+insert 5731169
+extractMax
+insert 5670414
+insert 6414372
+insert 1215331
+insert -289777
+insert -6679485
+insert -2958038
+extractMax
+insert 9283079
+extractMax
+extractMax
+extractMax
+insert -8643351
+insert -4989673
+insert 2236026
+extractMax
+extractMax
+extractMax
+insert 8744484
+insert 3393524
+insert 7835360
+insert -111699
+insert -2454299
+insert -4716018
+insert -6402668
+insert -3816429
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 15264
+insert 4317439
+extractMax
+insert -2085133
+extractMax
+insert -4011434
+insert -6847796
+extractMax
+insert -1026931
+insert -5642269
+extractMax
+extractMax
+insert -1006254
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9399914
+extractMax
+extractMax
+insert -3752355
+extractMax
+insert 2061528
+insert 3668088
+insert 4450449
+insert -2572238
+extractMax
+extractMax
+extractMax
+insert -3138947
+insert -7281967
+extractMax
+insert 6952862
+extractMax
+extractMax
+insert 20393
+insert 1146856
+insert 6617962
+insert -6377153
+insert 3231384
+insert -4963134
+insert 40669
+insert 8222440
+extractMax
+extractMax
+insert -9967785
+insert 8271586
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5358073
+extractMax
+extractMax
+extractMax
+insert 985744
+extractMax
+insert 3452651
+insert 2911947
+insert 3788453
+extractMax
+insert -7302853
+extractMax
+insert 173836
+extractMax
+extractMax
+insert 4248017
+insert 9239197
+insert -69393
+insert 3363569
+extractMax
+insert -9349651
+insert -5931548
+insert 7990013
+insert -1192850
+insert -7147795
+insert 4815626
+insert -7006609
+insert -5400141
+extractMax
+extractMax
+insert -6383625
+extractMax
+insert -6784335
+extractMax
+extractMax
+insert -7217302
+extractMax
+insert -6459428
+extractMax
+extractMax
+insert -5489644
+extractMax
+insert -3638310
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1163762
+insert 6598114
+extractMax
+extractMax
+extractMax
+insert -9027793
+insert -1673916
+insert -3906291
+extractMax
+insert -1871533
+insert -3386891
+insert 9992527
+insert -683607
+insert -7600784
+insert 4897049
+insert -490952
+extractMax
+extractMax
+extractMax
+insert 3313451
+insert 7089904
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9236539
+extractMax
+extractMax
+extractMax
+insert -4263681
+extractMax
+insert -2454753
+extractMax
+insert 8142643
+insert -8131466
+extractMax
+insert 3619030
+extractMax
+insert -6719886
+extractMax
+extractMax
+extractMax
+insert 5656378
+insert 9526044
+extractMax
+insert -2025269
+insert -9814669
+insert -8231358
+insert -145640
+insert -3177064
+insert 4669020
+insert 8126613
+extractMax
+extractMax
+insert 2650229
+insert -4946738
+insert -6905061
+extractMax
+insert 6627829
+insert 6498203
+extractMax
+extractMax
+extractMax
+insert -2063049
+insert 5602632
+extractMax
+insert -4765772
+extractMax
+extractMax
+extractMax
+insert 3098092
+insert -9201668
+extractMax
+insert 1413174
+insert -919082
+extractMax
+extractMax
+insert 9333378
+extractMax
+insert -2607
+extractMax
+extractMax
+insert -3401116
+extractMax
+extractMax
+insert -5837313
+extractMax
+insert -7221933
+insert -4407004
+insert -2007369
+extractMax
+extractMax
+insert 4989202
+insert -5172393
+extractMax
+insert -325163
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3546167
+extractMax
+insert 5941817
+insert -2789566
+extractMax
+insert -4491958
+insert -2552866
+extractMax
+insert -2744642
+insert -5998622
+insert -6050171
+insert -2686347
+insert -7196633
+insert 1239397
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8754413
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5916979
+insert 992727
+insert 9888709
+insert -7631543
+extractMax
+insert -6677024
+insert -6106718
+insert 9007287
+extractMax
+extractMax
+insert -3337532
+insert -5677812
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4509037
+insert -5551920
+extractMax
+insert 6181660
+insert 1836973
+extractMax
+insert 8556422
+extractMax
+insert 7749175
+extractMax
+extractMax
+extractMax
+insert 7188475
+insert 593411
+extractMax
+insert 8044796
+extractMax
+insert 7473624
+insert 5648318
+insert -6112704
+extractMax
+insert 1353360
+extractMax
+insert 8310406
+extractMax
+insert -2669352
+extractMax
+insert 1318370
+extractMax
+extractMax
+extractMax
+insert -907014
+insert -8173902
+extractMax
+extractMax
+extractMax
+insert -9970928
+insert 5220010
+insert 149691
+insert -6011700
+extractMax
+extractMax
+insert 776872
+insert -633852
+extractMax
+insert -7291685
+insert 4863543
+insert 9572248
+extractMax
+extractMax
+extractMax
+insert 2991459
+insert -3583847
+extractMax
+extractMax
+insert 6665269
+extractMax
+extractMax
+insert -40955
+extractMax
+extractMax
+insert -2903231
+insert 8129365
+insert -1273896
+extractMax
+insert -5444666
+extractMax
+extractMax
+extractMax
+extractMax
+insert 444920
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -154964
+insert -6937796
+insert -6571348
+insert 8753876
+extractMax
+insert -5601033
+extractMax
+insert 8678773
+extractMax
+extractMax
+insert 3318109
+extractMax
+insert 6016274
+insert -919690
+extractMax
+insert 1665463
+extractMax
+insert -3751576
+extractMax
+extractMax
+insert -6459496
+extractMax
+insert -4991120
+extractMax
+insert 9961588
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3431651
+extractMax
+insert -9915752
+extractMax
+extractMax
+extractMax
+insert -6791288
+insert 8232437
+insert 7514097
+extractMax
+insert 762559
+insert 4592953
+insert -5811386
+insert 5030714
+extractMax
+insert 5017315
+insert 4067967
+extractMax
+insert -6656917
+insert -4093541
+extractMax
+extractMax
+insert -8552396
+extractMax
+extractMax
+extractMax
+insert 8207996
+insert -522837
+insert -9810712
+insert 8134425
+insert -9474079
+insert 215510
+insert 3302282
+insert 6473684
+insert -5804742
+extractMax
+insert 8758027
+extractMax
+insert 1516162
+extractMax
+extractMax
+insert 1923420
+insert 9477646
+insert 7744368
+insert 4712419
+insert -3674832
+extractMax
+insert -2719655
+insert 8510056
+insert -5865264
+extractMax
+insert 8474035
+insert -1070801
+insert -5535735
+insert -8054902
+insert -9013531
+extractMax
+insert -310627
+insert 6805857
+extractMax
+insert -6406519
+insert 7285935
+insert 1695154
+insert -2610319
+extractMax
+insert -5936026
+extractMax
+insert 2571621
+extractMax
+insert -3001149
+insert -1812706
+insert -4042682
+extractMax
+insert -1090086
+extractMax
+insert 1143387
+extractMax
+extractMax
+insert -7819423
+insert -6382107
+extractMax
+insert -13229
+extractMax
+extractMax
+extractMax
+insert 5718405
+insert 3645317
+extractMax
+insert -6461035
+insert 8656001
+extractMax
+insert 6934002
+extractMax
+insert 4458496
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4437100
+insert -5400576
+insert 2723568
+extractMax
+extractMax
+extractMax
+insert 5206165
+extractMax
+extractMax
+extractMax
+insert -2294919
+insert -3375620
+extractMax
+insert -1875610
+insert -7669603
+insert 9402407
+insert -8074806
+extractMax
+insert 7920685
+insert -7950539
+insert -4438244
+extractMax
+extractMax
+insert -3299416
+extractMax
+extractMax
+insert 3272520
+extractMax
+extractMax
+extractMax
+insert -3875545
+insert 5881650
+extractMax
+extractMax
+insert 6814794
+insert -8917694
+insert 4435760
+insert -9852797
+extractMax
+insert 479104
+insert 3733139
+insert 6634664
+insert -6183535
+insert 3160612
+insert 7207200
+insert 7542877
+extractMax
+insert -6664849
+insert -180241
+insert 5493275
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8231094
+extractMax
+insert -2694297
+extractMax
+insert 3174737
+extractMax
+extractMax
+insert -5645699
+extractMax
+extractMax
+insert 7021830
+insert 9969189
+extractMax
+insert -2860614
+extractMax
+insert 8873769
+insert 4892124
+extractMax
+insert -8800096
+extractMax
+insert -6174802
+insert 2740482
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4994258
+insert 5880379
+extractMax
+extractMax
+extractMax
+insert 6655463
+insert 2727886
+insert -520209
+extractMax
+insert -4733661
+extractMax
+insert -4310203
+extractMax
+insert -7401313
+insert -40170
+extractMax
+insert -8539173
+insert 9257074
+insert -3069445
+insert 4206740
+insert -5200073
+extractMax
+insert 2311778
+extractMax
+extractMax
+insert 4570921
+insert -4962171
+insert -7067766
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9175910
+extractMax
+extractMax
+extractMax
+insert 4743262
+extractMax
+insert -8918574
+extractMax
+insert 6189210
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7876284
+extractMax
+extractMax
+insert 203311
+insert -3109049
+extractMax
+insert 4548533
+insert 7442240
+insert -7194689
+insert 7872077
+extractMax
+insert 1855256
+extractMax
+insert -2356672
+extractMax
+extractMax
+insert 8624699
+insert -41146
+extractMax
+insert 808380
+extractMax
+insert -3420920
+insert -3751713
+insert -9094708
+extractMax
+extractMax
+insert 8069630
+extractMax
+insert 8854290
+extractMax
+extractMax
+insert -2370550
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2846512
+insert 831556
+extractMax
+insert 3790307
+insert -5802924
+extractMax
+extractMax
+insert -1172813
+extractMax
+extractMax
+insert 1632811
+insert 3358714
+insert 9049027
+insert -7165640
+insert -1076502
+insert 534151
+insert 6133656
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1013962
+insert 6651160
+extractMax
+insert -9635710
+insert 9406679
+insert -9425009
+insert 3895692
+insert -7977714
+insert 1079869
+insert 8021566
+extractMax
+insert 2814750
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6096824
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6435494
+insert -7062811
+insert -6697020
+insert -5993705
+insert -4163985
+insert -9179252
+insert -8051372
+extractMax
+extractMax
+extractMax
+insert -9739559
+insert 3132025
+insert -2425763
+extractMax
+insert 4063488
+extractMax
+extractMax
+extractMax
+insert -4694816
+insert 5621025
+insert -5635409
+insert -9992321
+insert -1868371
+insert -9777623
+extractMax
+insert 8297395
+insert 737693
+insert 3586042
+insert 2471808
+extractMax
+extractMax
+insert -7035875
+insert -7466452
+insert -1133043
+insert -9493
+extractMax
+insert -3233519
+insert -416637
+insert 6845960
+extractMax
+insert 8966232
+insert 1533516
+extractMax
+extractMax
+insert 5243081
+insert 9148231
+insert 6176598
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8301667
+insert 3641800
+extractMax
+insert 7170414
+insert -9873645
+insert -7602975
+extractMax
+extractMax
+extractMax
+insert -1860057
+insert -79414
+extractMax
+insert 9890356
+insert -6132649
+insert 1670865
+insert 3572707
+insert 268653
+extractMax
+insert -9459849
+extractMax
+insert -6356161
+insert -9119429
+insert 4623927
+insert -824162
+insert -5649132
+extractMax
+insert -3241193
+insert 403374
+insert -9592038
+insert -861127
+insert -4233894
+extractMax
+insert 6501583
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5951909
+insert -3063560
+insert 9165776
+insert -9979513
+insert 9529079
+insert 1141619
+extractMax
+extractMax
+extractMax
+insert -2383692
+extractMax
+extractMax
+insert 7993809
+insert 9778678
+insert -1850189
+extractMax
+insert 3990844
+insert -1813661
+insert -1224059
+extractMax
+insert 2405769
+extractMax
+extractMax
+insert 9895599
+extractMax
+insert 8323625
+extractMax
+extractMax
+insert 5092052
+extractMax
+insert -8449964
+extractMax
+insert -5092447
+insert -1501206
+insert 1900842
+extractMax
+insert -3543594
+insert -7629405
+insert -3349683
+extractMax
+insert 6714376
+insert 9310173
+insert 3811020
+extractMax
+insert -2954393
+extractMax
+extractMax
+insert -2481554
+insert 4141774
+extractMax
+insert 6364944
+insert 7594259
+insert 6935574
+insert 3900848
+insert -8799128
+insert -6160311
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4060294
+extractMax
+insert -13608
+extractMax
+insert 3595193
+insert 3982849
+extractMax
+extractMax
+insert -791101
+insert -1554629
+extractMax
+insert -3373187
+insert -7477470
+insert -8896658
+extractMax
+insert -3483565
+insert 3533598
+insert -312990
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1853809
+insert -3385558
+insert -2329779
+extractMax
+insert -6976781
+insert 7053786
+extractMax
+insert -3546202
+insert -8746990
+extractMax
+insert 3854726
+extractMax
+insert -9989959
+insert -4571185
+extractMax
+insert -7113226
+insert -7278409
+extractMax
+insert 8379595
+insert 5459985
+extractMax
+insert -8103535
+extractMax
+extractMax
+insert -2082727
+extractMax
+insert 9607100
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4699230
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -601594
+insert -2105981
+insert -2457922
+extractMax
+extractMax
+insert 2377038
+extractMax
+insert 7132636
+insert 6696342
+extractMax
+insert 5744565
+insert -1651172
+extractMax
+insert 9404588
+insert -9249520
+extractMax
+extractMax
+insert 8354134
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9789125
+insert -3578544
+insert 2354862
+insert 3965705
+insert 9458724
+insert 5986069
+insert -6242451
+extractMax
+extractMax
+insert 3275554
+extractMax
+insert -8526362
+extractMax
+insert -7522178
+extractMax
+insert 8545291
+insert 2019701
+insert 5138234
+insert -667402
+insert -4448257
+extractMax
+extractMax
+insert 5588214
+extractMax
+insert 2227232
+extractMax
+insert -2792303
+extractMax
+insert -8817010
+insert 9678360
+extractMax
+extractMax
+insert -5828324
+insert 5290090
+extractMax
+insert -3692962
+extractMax
+extractMax
+insert 6884116
+insert -2650106
+extractMax
+extractMax
+extractMax
+insert 3081278
+insert 6192880
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3692048
+extractMax
+insert -1655391
+insert 6992792
+insert -3670461
+insert 2930013
+insert -3264547
+insert 8913296
+insert 4079203
+insert -6915831
+insert -8624208
+insert 1093143
+extractMax
+insert 8038348
+insert 3683562
+insert -9536647
+insert 5445749
+insert -9382518
+extractMax
+insert 486741
+extractMax
+insert -440582
+extractMax
+insert 8271104
+insert -3209795
+insert -259295
+insert -7072374
+insert 2523682
+insert -4053768
+insert 5783823
+extractMax
+extractMax
+extractMax
+insert 4226221
+insert 4176126
+insert 4532110
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2318137
+insert 3953754
+extractMax
+extractMax
+extractMax
+insert 4613714
+extractMax
+extractMax
+insert 8361150
+extractMax
+extractMax
+insert -4532103
+insert -7117296
+insert 3560479
+insert -674537
+insert -5603969
+insert 2230109
+extractMax
+extractMax
+extractMax
+insert 9409166
+extractMax
+insert -6587732
+extractMax
+insert 5614154
+extractMax
+insert 1485166
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8680203
+insert -6329837
+insert 1338976
+insert -2783898
+extractMax
+insert 9288549
+insert 3033513
+insert -4762433
+insert 2904772
+extractMax
+insert -844398
+insert 8146185
+insert 3470980
+extractMax
+extractMax
+extractMax
+insert -9659683
+extractMax
+insert 7498152
+extractMax
+insert 1830979
+insert 3640828
+extractMax
+extractMax
+insert 1412502
+insert 4283641
+insert 9982080
+insert -6832081
+extractMax
+insert -4309983
+extractMax
+insert 2153530
+insert 7302832
+insert -372339
+insert 3470246
+insert -6638034
+extractMax
+extractMax
+insert -637435
+extractMax
+extractMax
+insert 9329600
+extractMax
+extractMax
+extractMax
+insert -6715724
+extractMax
+insert -2271402
+extractMax
+insert -8860613
+insert -6363314
+insert 6133463
+insert 1361289
+insert -9201501
+extractMax
+extractMax
+insert -6300292
+insert -965743
+extractMax
+insert 149531
+extractMax
+extractMax
+extractMax
+insert 7643376
+insert 9328296
+insert -5756647
+extractMax
+insert 2251399
+extractMax
+extractMax
+extractMax
+insert 4893696
+insert 779566
+extractMax
+insert 3774366
+extractMax
+extractMax
+insert -5758113
+insert -6038175
+insert 9525566
+insert 9970756
+insert -5173196
+insert -4258746
+extractMax
+extractMax
+insert -6936609
+extractMax
+insert 1025041
+extractMax
+insert -2699242
+insert 3942859
+insert 4665268
+extractMax
+extractMax
+insert -5482224
+insert 8000993
+insert 2777548
+extractMax
+insert -774416
+insert 9230498
+extractMax
+insert -4874537
+insert -6950406
+insert -7566189
+extractMax
+extractMax
+insert 5542702
+insert -1121896
+insert 3692122
+insert -3533787
+insert 1178449
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7502177
+extractMax
+extractMax
+insert -9090690
+insert -1952421
+extractMax
+insert 3531702
+insert -736337
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7013079
+insert 5985356
+extractMax
+insert 8177929
+insert -7217914
+extractMax
+extractMax
+extractMax
+insert 4200428
+extractMax
+insert -4807031
+insert -8980354
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8767429
+extractMax
+insert 5952406
+insert -564322
+insert 4384071
+insert -5031890
+extractMax
+extractMax
+insert -4417511
+extractMax
+extractMax
+insert -7396200
+extractMax
+insert -6721113
+extractMax
+insert -5879029
+extractMax
+insert -3103396
+extractMax
+insert 5371467
+extractMax
+insert -269265
+insert -9413099
+insert -5883123
+insert 9138744
+insert -6254270
+insert -7425523
+extractMax
+extractMax
+insert -5328830
+extractMax
+insert 7090519
+extractMax
+insert 9241855
+insert -5509530
+insert -4886845
+insert 7155624
+extractMax
+insert -3198641
+insert -5118224
+insert -36358
+insert 3291828
+insert 8106635
+insert 6711339
+insert -3324424
+insert -7593752
+insert 9433539
+insert -5788810
+extractMax
+insert -2276727
+insert 5555687
+insert -3502650
+insert 1026783
+extractMax
+insert -4777419
+extractMax
+insert 7103156
+insert 902110
+insert 5420958
+insert 9898098
+extractMax
+insert 3513408
+insert 3168784
+extractMax
+insert 7888812
+extractMax
+insert -8258818
+insert -8114168
+extractMax
+extractMax
+insert 5503559
+extractMax
+extractMax
+extractMax
+insert -5516990
+insert 6040853
+extractMax
+insert -103055
+insert 9825247
+insert -7356233
+insert 2353516
+insert 4649116
+extractMax
+extractMax
+extractMax
+insert 6195505
+insert 6308743
+extractMax
+extractMax
+insert 9676951
+extractMax
+insert 524650
+extractMax
+extractMax
+insert -325822
+insert 3567366
+insert 9059599
+extractMax
+extractMax
+insert 4021
+insert -9743669
+insert -5352683
+insert 3057279
+extractMax
+extractMax
+extractMax
+insert 5099822
+insert 3192918
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6609836
+extractMax
+insert -7171357
+extractMax
+insert 4979060
+insert 6142034
+insert 5925393
+extractMax
+extractMax
+extractMax
+insert 4082870
+extractMax
+extractMax
+extractMax
+insert 6589149
+insert 3518455
+insert -1936149
+extractMax
+insert -552810
+extractMax
+insert -9624871
+extractMax
+extractMax
+insert 2962224
+insert 322906
+extractMax
+insert 1627243
+extractMax
+extractMax
+extractMax
+insert 2954806
+insert -9225530
+insert 8366068
+extractMax
+extractMax
+insert 1456487
+extractMax
+extractMax
+extractMax
+insert -6482612
+extractMax
+extractMax
+insert -5839556
+insert -7030984
+insert -4744040
+insert 8935463
+insert -1251510
+insert -3135933
+insert 3340400
+insert 4068108
+insert -9799814
+extractMax
+extractMax
+insert -8435102
+extractMax
+insert -3302929
+extractMax
+insert 2007229
+extractMax
+extractMax
+insert -5732112
+insert -8362972
+insert 1551126
+insert 1308226
+insert 5376561
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7265369
+insert -1078292
+extractMax
+insert 2179629
+insert 4873066
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4994509
+extractMax
+insert -1585906
+extractMax
+extractMax
+insert -9823087
+extractMax
+extractMax
+insert 9287729
+extractMax
+insert 5832753
+extractMax
+extractMax
+insert -4547614
+extractMax
+extractMax
+insert 671237
+extractMax
+insert 3186311
+insert 8798029
+extractMax
+insert 8777237
+insert -6593765
+insert -3050426
+insert -7391188
+extractMax
+insert -667683
+extractMax
+extractMax
+insert 6076174
+insert -8875719
+insert -2848620
+extractMax
+insert 8672138
+insert 3746764
+insert 1910568
+insert 4851407
+insert 4367907
+extractMax
+insert 7533353
+extractMax
+extractMax
+insert -4696231
+extractMax
+insert 6126503
+insert 1272348
+extractMax
+insert 9599686
+extractMax
+extractMax
+insert 5152376
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1798153
+extractMax
+extractMax
+insert 4066699
+insert -4697135
+extractMax
+extractMax
+extractMax
+insert -3800526
+insert 361026
+extractMax
+insert 4827825
+insert -1138762
+insert -6010228
+insert 6097108
+insert -2610042
+insert 8480664
+insert 2840039
+insert -772135
+insert 787175
+extractMax
+extractMax
+extractMax
+insert 6581296
+extractMax
+extractMax
+insert 9110629
+insert -8955017
+insert 6066877
+extractMax
+insert -8821795
+extractMax
+insert 8290599
+extractMax
+insert 6230530
+insert -370849
+extractMax
+insert 48933
+insert -1122000
+extractMax
+extractMax
+insert 117097
+extractMax
+insert 3228246
+extractMax
+insert 3243057
+insert -8887326
+insert 4339961
+insert 2344455
+insert 5552266
+insert -9258001
+insert 1120586
+extractMax
+insert 4563993
+insert -4370598
+extractMax
+insert -3202780
+extractMax
+insert -848687
+extractMax
+extractMax
+insert 7952887
+insert -445938
+insert 480785
+extractMax
+extractMax
+extractMax
+insert -9557163
+insert 192622
+extractMax
+extractMax
+extractMax
+insert 9973773
+insert -7953903
+insert -3957212
+insert -7922335
+insert 4998002
+extractMax
+insert 4735
+insert 7236223
+extractMax
+extractMax
+insert -7475447
+insert -3792517
+extractMax
+insert 4455320
+extractMax
+insert -9583427
+insert 9513932
+extractMax
+extractMax
+insert 133330
+insert 3072343
+extractMax
+insert -9894803
+insert 3607186
+insert 5987102
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9276824
+insert 2270044
+insert -3281095
+insert -9054670
+extractMax
+extractMax
+insert 462971
+insert 7764597
+insert -4288487
+insert -4838381
+extractMax
+extractMax
+insert -2996660
+extractMax
+insert 8188788
+insert -8257296
+insert 973670
+insert -3260820
+extractMax
+extractMax
+insert 6298028
+extractMax
+insert -8452628
+extractMax
+insert 3463046
+extractMax
+insert 9732714
+extractMax
+extractMax
+insert -6542252
+extractMax
+extractMax
+extractMax
+insert 4580054
+extractMax
+extractMax
+extractMax
+insert 3669200
+extractMax
+extractMax
+insert -9486054
+extractMax
+insert -2994378
+insert -2830536
+insert -7387602
+extractMax
+extractMax
+insert 151757
+insert 4390846
+insert 1010904
+extractMax
+insert -6159245
+extractMax
+insert 2881640
+insert -9303255
+insert -5246228
+insert 7057576
+insert 6732390
+extractMax
+insert 1932091
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2625121
+extractMax
+extractMax
+insert 5502371
+extractMax
+insert 3659373
+insert 187838
+insert 903862
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9944056
+insert 5469100
+insert 5133785
+insert -9621434
+extractMax
+extractMax
+extractMax
+insert 3628594
+extractMax
+insert -9783449
+extractMax
+insert 7994748
+extractMax
+insert -744354
+extractMax
+insert -3047155
+insert -2488237
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6424843
+extractMax
+extractMax
+insert 8757124
+insert 7896206
+insert 9446587
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3352256
+extractMax
+insert 9220608
+insert -203594
+insert 3954548
+insert 5710556
+insert 8314328
+insert 8217243
+insert 9017043
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5283819
+insert -968539
+extractMax
+extractMax
+insert -1152557
+insert 7627943
+extractMax
+insert 6559111
+extractMax
+insert -3006638
+insert -5970833
+insert -6290458
+insert -9269904
+insert -7362127
+insert -6510821
+extractMax
+extractMax
+insert -516907
+extractMax
+insert 7330424
+extractMax
+insert -1721959
+extractMax
+insert 405219
+extractMax
+extractMax
+extractMax
+insert -3707311
+insert -8664837
+insert -8172634
+extractMax
+insert 1849707
+insert 6824326
+insert -5765972
+insert 7436372
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9225054
+insert -1819089
+insert -1795208
+extractMax
+insert -1244997
+extractMax
+insert 3001375
+insert 381276
+extractMax
+insert 2888727
+insert -8856242
+insert 7487932
+extractMax
+insert -5074051
+insert -8945423
+extractMax
+extractMax
+extractMax
+insert 7178818
+insert 9970752
+insert -5144727
+insert 150858
+insert 9145565
+extractMax
+insert 9475919
+insert 870905
+insert 2789004
+insert -3575831
+extractMax
+extractMax
+insert -6506815
+insert -6361520
+extractMax
+extractMax
+extractMax
+insert 8632049
+extractMax
+extractMax
+extractMax
+insert -2150766
+insert -5589822
+insert -2765560
+extractMax
+extractMax
+insert 8501029
+extractMax
+extractMax
+extractMax
+insert -6373826
+insert 2390392
+insert -4725872
+insert 1618436
+extractMax
+extractMax
+insert -3642335
+extractMax
+extractMax
+insert -8063633
+insert 1131291
+extractMax
+insert -2807214
+insert 7256170
+extractMax
+insert -5547084
+extractMax
+insert -6276927
+insert -98547
+insert -368003
+extractMax
+extractMax
+insert -9442994
+insert -8467368
+insert 1210114
+extractMax
+insert -9122639
+insert 4156194
+insert 6032671
+insert 5859689
+extractMax
+insert -4445347
+insert 6156001
+insert -5853679
+insert -2057062
+extractMax
+extractMax
+insert -352085
+insert 3558283
+extractMax
+insert -1827738
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3696962
+extractMax
+insert 9507715
+insert -3582454
+extractMax
+extractMax
+insert -3280919
+insert -4742475
+insert -8464480
+insert -1550576
+insert 4160709
+insert 4417237
+extractMax
+insert -1521153
+insert 7386913
+insert 7743903
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2526214
+insert -1951870
+insert -2267353
+extractMax
+insert -6907012
+insert -505579
+extractMax
+insert 3677409
+extractMax
+extractMax
+insert 6660617
+insert -2952595
+insert -8063451
+extractMax
+insert 1757847
+extractMax
+extractMax
+insert -5203323
+extractMax
+insert -2608882
+insert 1994071
+extractMax
+insert 6687692
+extractMax
+extractMax
+insert -6130710
+insert -7096473
+extractMax
+insert 8411097
+extractMax
+extractMax
+extractMax
+insert 517055
+extractMax
+extractMax
+insert 145201
+extractMax
+insert 9195828
+insert -2393758
+extractMax
+extractMax
+extractMax
+insert -6413249
+extractMax
+insert -7630223
+extractMax
+extractMax
+insert 3563125
+insert -5090133
+insert 808296
+insert -8852050
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9604759
+insert -6377070
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8821611
+insert 440086
+insert 9338871
+insert -2005532
+extractMax
+insert 2968140
+insert 2609534
+extractMax
+insert 2321926
+insert 1904334
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1656073
+extractMax
+insert -2193321
+insert -2860603
+extractMax
+extractMax
+insert 2637722
+insert -60465
+insert -1512698
+extractMax
+insert -6119617
+insert -7410410
+extractMax
+insert -7636693
+extractMax
+insert 3231916
+insert 866029
+extractMax
+extractMax
+extractMax
+insert 6313936
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1371457
+insert 1925245
+insert 4812808
+insert -2644452
+extractMax
+extractMax
+extractMax
+insert 9854933
+insert 1796244
+extractMax
+insert 3531595
+extractMax
+extractMax
+extractMax
+insert 9525213
+extractMax
+extractMax
+extractMax
+insert 3174652
+insert -4196460
+extractMax
+extractMax
+insert 9018350
+extractMax
+insert 5815228
+extractMax
+extractMax
+insert -2038695
+insert -6344763
+extractMax
+insert -4815905
+insert -8519348
+insert 3128659
+insert 2710435
+insert 9032221
+insert -7957369
+extractMax
+extractMax
+extractMax
+insert 1273689
+insert 1310175
+extractMax
+extractMax
+insert 6817767
+insert -79866
+insert -6826689
+extractMax
+insert 4284074
+insert 6254340
+extractMax
+insert -3034787
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7913768
+insert -9522505
+insert -1776994
+extractMax
+insert -2992035
+extractMax
+insert 3103676
+insert 4082434
+insert -1992956
+extractMax
+extractMax
+extractMax
+insert 958372
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8963898
+extractMax
+insert -4231256
+insert 3916975
+insert 3664327
+extractMax
+extractMax
+insert -3201991
+insert 218496
+extractMax
+extractMax
+insert 2800146
+insert -8586858
+extractMax
+insert 6177614
+insert 6952737
+extractMax
+extractMax
+insert -8916636
+insert 518315
+insert -1930593
+extractMax
+extractMax
+insert 3148747
+extractMax
+insert 9972340
+insert -6507709
+extractMax
+insert -4807524
+extractMax
+insert 4185995
+insert 5318793
+insert -5755317
+insert -768159
+extractMax
+extractMax
+insert 8194858
+extractMax
+insert 4507455
+extractMax
+extractMax
+insert -9017134
+insert -8912712
+extractMax
+insert 2504362
+extractMax
+insert 5387931
+insert -6561880
+insert -8355565
+insert -1363381
+extractMax
+insert 1118289
+insert -5291970
+extractMax
+extractMax
+extractMax
+insert 8161447
+insert 9909605
+insert 2199009
+extractMax
+extractMax
+insert -7457376
+insert 1617334
+extractMax
+insert -1159878
+extractMax
+insert 4260374
+insert -186059
+insert 3302313
+extractMax
+insert 6202688
+extractMax
+insert -6672570
+insert -1807698
+extractMax
+insert -8809703
+extractMax
+extractMax
+insert -8184616
+insert -7884447
+extractMax
+extractMax
+insert -7988481
+insert 9354804
+insert 9890182
+insert 8739142
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1143013
+insert 1271436
+insert 757338
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8569602
+extractMax
+extractMax
+insert -2170521
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -858369
+insert 633954
+extractMax
+insert -1669178
+extractMax
+insert 3045211
+extractMax
+insert -1832870
+insert 4741701
+insert 7364779
+extractMax
+extractMax
+insert 7554953
+extractMax
+insert -1388096
+insert 2566651
+insert 6396157
+extractMax
+extractMax
+insert 2810175
+extractMax
+insert -3004661
+insert -3554708
+insert 1698672
+insert 6234240
+extractMax
+insert 7309233
+insert 2693882
+insert 9493955
+extractMax
+extractMax
+insert -2010885
+extractMax
+insert 545893
+insert -2824726
+extractMax
+extractMax
+insert -5209248
+extractMax
+extractMax
+extractMax
+extractMax
+insert -7321598
+insert -4217395
+extractMax
+insert 7699434
+insert -6694537
+extractMax
+insert -2524857
+insert 479188
+insert -6856737
+extractMax
+extractMax
+extractMax
+insert -8745849
+extractMax
+insert 4846116
+extractMax
+insert -9327704
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8637345
+extractMax
+extractMax
+extractMax
+insert -4322035
+insert 1521318
+extractMax
+extractMax
+extractMax
+insert -4286275
+extractMax
+insert -1691960
+insert -6401813
+insert -417109
+insert -5994282
+insert -2570640
+insert 7169714
+insert 9792619
+insert 8166679
+extractMax
+insert -8140624
+insert 3103647
+insert -1333510
+insert 7366004
+extractMax
+insert -4380687
+extractMax
+insert -4670379
+insert -4587542
+insert -5459996
+extractMax
+insert -724688
+insert -1742448
+insert 4644187
+insert -4131995
+insert -2698672
+insert 8598230
+insert 4512305
+insert -1765091
+insert 5687215
+insert 398605
+insert -6519539
+extractMax
+extractMax
+insert -3085799
+extractMax
+insert -6236177
+insert 5034863
+extractMax
+insert 6719239
+insert -5885620
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4744726
+extractMax
+extractMax
+extractMax
+insert -7279592
+insert 3508683
+insert -7467732
+insert 4692172
+extractMax
+insert 8134448
+extractMax
+extractMax
+extractMax
+insert -3600265
+insert 7724840
+insert -671964
+insert -6355750
+insert 6714644
+extractMax
+insert -8731450
+extractMax
+extractMax
+extractMax
+insert 7272276
+extractMax
+extractMax
+insert 8679816
+insert -8882994
+extractMax
+extractMax
+extractMax
+insert -5874828
+insert -920891
+extractMax
+extractMax
+insert -3951118
+insert -9239891
+extractMax
+extractMax
+insert 4182599
+insert 60867
+extractMax
+insert 9020476
+insert 6061691
+extractMax
+insert -58847
+insert 5472846
+insert -5714087
+insert 5342867
+extractMax
+insert 7681868
+insert -6902726
+extractMax
+extractMax
+insert -1508003
+insert -4450600
+insert -4554174
+insert 587811
+insert -7502305
+insert -9643706
+insert -7802691
+insert -1717969
+extractMax
+insert 2834418
+insert 5745551
+insert 3916137
+extractMax
+extractMax
+insert -6483261
+extractMax
+insert 767433
+extractMax
+extractMax
+insert 9696994
+extractMax
+extractMax
+insert -9255851
+extractMax
+extractMax
+extractMax
+insert -9342990
+insert -2298889
+insert 9063684
+extractMax
+extractMax
+extractMax
+insert 3443136
+insert 7737458
+insert -3032047
+extractMax
+insert -4455524
+insert 7806322
+insert 2446738
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3386241
+extractMax
+insert 5357561
+insert 4788349
+insert -966206
+insert -5740793
+extractMax
+extractMax
+insert -7556446
+insert -8641399
+insert -3670255
+insert -1565322
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6518208
+insert -1064829
+insert -5684717
+extractMax
+extractMax
+extractMax
+extractMax
+insert -848484
+insert -4131366
+extractMax
+insert 4789346
+insert 4166682
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8617167
+extractMax
+insert -5026954
+extractMax
+insert 9325376
+extractMax
+extractMax
+insert 2565742
+insert 5895223
+insert -696202
+insert 2986717
+extractMax
+insert -9261501
+insert -810256
+insert -2930090
+insert -2713725
+extractMax
+insert -1950059
+extractMax
+extractMax
+insert -6102792
+insert -3909402
+extractMax
+insert -6348766
+insert 4954838
+extractMax
+insert 4123983
+insert 9247540
+insert 8979113
+insert 1165422
+insert 749439
+insert -2674719
+extractMax
+extractMax
+insert -6654815
+insert -4697138
+insert -9260378
+extractMax
+extractMax
+insert -1740477
+extractMax
+insert 3281789
+insert 1238323
+extractMax
+insert 998338
+insert 3200049
+insert 1813765
+insert -2119461
+extractMax
+extractMax
+insert -1573105
+insert -6557800
+insert -1940520
+insert 2089090
+extractMax
+extractMax
+insert 4811486
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9540155
+insert -2123144
+insert -9185549
+extractMax
+insert 483389
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3819095
+extractMax
+insert 9631188
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2669732
+insert 1384731
+insert 2657144
+extractMax
+insert 1024044
+extractMax
+extractMax
+insert 4816127
+insert -3757372
+extractMax
+insert 5037090
+insert -6540764
+insert -2432600
+insert 8220880
+extractMax
+insert -3990427
+extractMax
+insert 4088548
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3054115
+insert 4808473
+extractMax
+extractMax
+insert 3564555
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9496839
+extractMax
+extractMax
+insert 1946016
+extractMax
+insert 6439035
+extractMax
+insert -2087969
+extractMax
+insert 1567746
+insert 2113181
+extractMax
+extractMax
+insert -9019863
+insert 5130474
+insert 9613210
+insert 6429756
+insert -6627551
+extractMax
+extractMax
+insert 2535445
+insert 6762526
+insert 7889365
+insert -4910395
+extractMax
+insert 863213
+insert -8778246
+extractMax
+insert -837874
+insert -1242457
+extractMax
+insert -293739
+insert -5593313
+insert 9271123
+insert -6508862
+insert 2863141
+extractMax
+insert 7461790
+extractMax
+insert 8625367
+insert 9648126
+extractMax
+insert -7126972
+insert -7317259
+extractMax
+extractMax
+extractMax
+insert -7799221
+insert -1354190
+extractMax
+extractMax
+extractMax
+insert -8362637
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4242479
+extractMax
+extractMax
+insert -7151541
+extractMax
+extractMax
+insert -1121211
+insert -5422971
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5954869
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8263928
+insert 6006540
+extractMax
+extractMax
+extractMax
+insert -3648094
+insert 8210099
+insert -1850907
+insert 2800961
+extractMax
+insert -5767794
+extractMax
+extractMax
+extractMax
+insert 6959861
+insert 1298609
+insert 5005117
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4513444
+extractMax
+insert 5116456
+extractMax
+insert -5717540
+extractMax
+extractMax
+insert -6182528
+insert -8704329
+insert -5727997
+insert 2179646
+insert -1625660
+extractMax
+extractMax
+extractMax
+insert 4965754
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2274833
+extractMax
+insert 1914725
+insert 3195261
+insert 6405448
+extractMax
+extractMax
+insert -8844321
+insert 1901457
+extractMax
+extractMax
+insert -4484911
+insert -6868466
+insert -1654892
+insert -8778343
+insert -3145672
+extractMax
+insert 106600
+insert -2797310
+insert -6732936
+extractMax
+insert -103866
+insert -5102685
+insert -4018914
+extractMax
+extractMax
+insert 6025106
+insert 3152785
+insert 9911622
+insert -2552098
+insert 3068609
+insert 8437504
+insert -9955959
+extractMax
+insert 4558267
+insert -4818702
+insert 5809337
+insert 1765224
+insert 9377292
+insert 634860
+extractMax
+extractMax
+extractMax
+insert 2444220
+insert 6003697
+insert -8704566
+insert 9276569
+insert 1935846
+extractMax
+insert -7710588
+extractMax
+insert -4752693
+extractMax
+extractMax
+insert 750984
+extractMax
+insert 2703833
+extractMax
+insert 9495097
+insert -9186375
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4669419
+insert 8277438
+extractMax
+insert 5865208
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5113554
+insert 4306061
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6157652
+extractMax
+insert 2306265
+insert -3585798
+insert 3445052
+extractMax
+insert 7893308
+insert -7064179
+insert -6912678
+extractMax
+extractMax
+insert -2572269
+insert -7283957
+insert 6722268
+extractMax
+extractMax
+insert -4694021
+insert -7679603
+extractMax
+insert 1238170
+insert -4547294
+extractMax
+extractMax
+extractMax
+insert -1959351
+insert -9000110
+extractMax
+insert -8872195
+insert -5375999
+insert 9630138
+extractMax
+extractMax
+insert -8712071
+extractMax
+extractMax
+extractMax
+insert -7471403
+extractMax
+insert 4174633
+extractMax
+extractMax
+insert -6830722
+extractMax
+extractMax
+extractMax
+insert 2469881
+extractMax
+insert 6700755
+extractMax
+insert -2281577
+insert 8876044
+extractMax
+insert -7366129
+extractMax
+insert -3063882
+extractMax
+insert 9034813
+insert -6702991
+extractMax
+insert 9250256
+extractMax
+insert 3382051
+extractMax
+insert -750602
+insert -6309384
+insert -6560111
+extractMax
+insert -4510157
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7505514
+insert 7015510
+extractMax
+insert -7056349
+insert -1962728
+extractMax
+insert 7383531
+extractMax
+insert -4277556
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 428494
+insert 45881
+extractMax
+insert 2497605
+extractMax
+extractMax
+extractMax
+insert -7522595
+extractMax
+insert 2661837
+insert -9967719
+insert 2351496
+insert 4746652
+extractMax
+extractMax
+insert 2390596
+extractMax
+insert 3090066
+extractMax
+insert 3602117
+insert 9375119
+extractMax
+extractMax
+insert 4348278
+extractMax
+extractMax
+insert -8223461
+insert 1891280
+extractMax
+extractMax
+insert 3515882
+extractMax
+insert -8522867
+extractMax
+extractMax
+insert -4116099
+insert -481429
+extractMax
+insert -6912935
+extractMax
+insert -7952273
+insert -2273070
+insert 8152154
+extractMax
+insert -1657168
+insert -6977722
+extractMax
+insert -6613050
+insert -8696098
+insert 1910016
+insert -6967481
+insert -7431458
+insert -9427956
+extractMax
+extractMax
+insert -6627153
+extractMax
+extractMax
+insert 2443357
+extractMax
+insert 9551835
+insert 7897669
+insert -1471143
+insert -5108677
+insert 1416296
+insert -4566753
+insert 1349362
+insert -2506051
+extractMax
+insert 3147124
+extractMax
+insert 754342
+insert -6779393
+insert 7057031
+extractMax
+extractMax
+insert 5814007
+extractMax
+insert 7841542
+extractMax
+extractMax
+extractMax
+insert 2947300
+insert 919481
+insert 729989
+insert 1430697
+insert 6524214
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2208623
+extractMax
+extractMax
+insert 8220314
+extractMax
+extractMax
+insert 7143372
+extractMax
+extractMax
+extractMax
+insert -972339
+extractMax
+extractMax
+insert 5375872
+insert 2823389
+insert 5414612
+insert 2909423
+extractMax
+extractMax
+insert -3701176
+extractMax
+insert 7066295
+extractMax
+extractMax
+insert -4774130
+insert -7564681
+insert -8069461
+insert -4602909
+extractMax
+extractMax
+extractMax
+insert -5909266
+extractMax
+insert 4437622
+insert -3952936
+insert 7456625
+insert 9639925
+extractMax
+insert 4152534
+insert 5786250
+insert 1935870
+extractMax
+insert -6437386
+extractMax
+insert 553785
+extractMax
+insert -1094973
+insert -6456311
+extractMax
+insert -3115222
+insert -4392731
+insert -2375605
+extractMax
+insert 9542476
+extractMax
+insert 4488399
+insert 1109201
+extractMax
+insert 7287446
+extractMax
+insert 1683391
+insert 5971210
+insert 3959135
+extractMax
+insert 5323581
+insert 3748358
+insert 1858591
+extractMax
+insert 1651493
+extractMax
+insert 2990672
+insert -4040008
+extractMax
+insert -9881530
+insert 8462700
+extractMax
+extractMax
+extractMax
+insert -9699311
+extractMax
+extractMax
+extractMax
+insert -7449744
+insert 5750940
+extractMax
+insert -2028814
+insert -9227367
+extractMax
+insert 7627528
+insert -4093607
+extractMax
+insert -2009970
+extractMax
+insert -250059
+insert 2367970
+insert 3878733
+extractMax
+insert 9837840
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3856094
+insert -5347727
+insert 7422605
+extractMax
+insert 1882387
+insert 7134501
+insert 7685123
+extractMax
+insert -9344304
+insert 595286
+extractMax
+insert -6119559
+insert -5362649
+extractMax
+extractMax
+extractMax
+insert 8479942
+extractMax
+insert -6086826
+insert -387553
+extractMax
+insert 8044986
+insert -9232258
+insert -8354412
+insert 3504078
+extractMax
+extractMax
+insert 816688
+extractMax
+extractMax
+insert 2714157
+insert 8569377
+extractMax
+insert 4549697
+insert 8183271
+extractMax
+extractMax
+insert -5101216
+insert -3292012
+insert -4662306
+extractMax
+extractMax
+insert -5242772
+insert -5177496
+insert -875180
+extractMax
+extractMax
+insert 4453481
+extractMax
+insert -4227379
+insert 9903335
+extractMax
+extractMax
+insert 9636632
+insert -8523020
+insert 6590060
+insert -237778
+extractMax
+insert 6199810
+extractMax
+extractMax
+extractMax
+extractMax
+insert 9988956
+insert -2820049
+insert -8017220
+insert 9286425
+insert -2735161
+insert 6467248
+insert 9010771
+extractMax
+extractMax
+insert -4624776
+extractMax
+extractMax
+insert 3599922
+insert 9021704
+insert -3903885
+extractMax
+insert 4861171
+extractMax
+extractMax
+insert -571531
+extractMax
+insert 6934922
+insert -8299777
+extractMax
+extractMax
+extractMax
+insert -4101876
+extractMax
+insert -8550979
+insert 8353043
+extractMax
+insert -6570879
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8556306
+insert -3389238
+extractMax
+insert -5225193
+extractMax
+extractMax
+insert -4697836
+insert 7546995
+insert 8537841
+extractMax
+insert 2971064
+extractMax
+extractMax
+insert 3225442
+extractMax
+insert -6189027
+extractMax
+extractMax
+insert -7443717
+extractMax
+insert 2922565
+extractMax
+insert -3117612
+extractMax
+insert -3825840
+extractMax
+extractMax
+extractMax
+insert 6563759
+extractMax
+extractMax
+insert -8366119
+insert -5969180
+extractMax
+insert 4996131
+extractMax
+insert 3769785
+insert 7947617
+insert 3318315
+insert 9632410
+extractMax
+insert 4479195
+insert 7113999
+extractMax
+insert -579160
+insert 4982129
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3662845
+extractMax
+insert -3199794
+insert -7742593
+insert 5022756
+insert -2342437
+insert -2898706
+extractMax
+extractMax
+insert -2552831
+extractMax
+insert -3391973
+extractMax
+extractMax
+extractMax
+insert 4688632
+extractMax
+insert -1451749
+extractMax
+extractMax
+extractMax
+insert -2918288
+insert -4537026
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6965677
+insert -9363688
+insert -7157620
+extractMax
+insert -5003789
+insert 4528248
+insert -48490
+insert -6089259
+extractMax
+insert -2836734
+extractMax
+insert -3433457
+insert -1936019
+insert 1204953
+insert -3427795
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3197285
+extractMax
+insert 8648239
+extractMax
+insert -8194701
+insert -881696
+insert 9834167
+insert -6761681
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4419015
+extractMax
+insert -6941318
+extractMax
+extractMax
+insert 9311645
+insert 2346384
+insert -1578026
+extractMax
+insert -4729041
+insert 3293702
+extractMax
+insert 3328088
+extractMax
+extractMax
+insert -7093305
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2543308
+extractMax
+extractMax
+insert 6717107
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6656754
+insert 2503588
+extractMax
+extractMax
+insert -7263534
+extractMax
+insert -5959180
+extractMax
+insert 2584661
+insert -77812
+insert 5277577
+extractMax
+insert 1780921
+insert 7012560
+insert 7251925
+insert -1225386
+insert -3656545
+extractMax
+extractMax
+extractMax
+insert -6485587
+extractMax
+extractMax
+insert -4741733
+insert 3524240
+extractMax
+insert -5172764
+insert 5778181
+insert -5020435
+extractMax
+insert -5057993
+insert 3127904
+extractMax
+extractMax
+insert -8582772
+insert -2219913
+extractMax
+extractMax
+extractMax
+insert 1111493
+insert -3414561
+insert 2064551
+extractMax
+insert -7577478
+insert 4118650
+insert 3481629
+insert 2506389
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4005865
+extractMax
+insert 9535509
+insert 9838868
+insert -1630521
+insert 7997364
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3186535
+extractMax
+extractMax
+insert -7029295
+insert 3851183
+insert -6248186
+insert 5752921
+extractMax
+insert 8362972
+extractMax
+insert 5722404
+insert -9004271
+insert -8946129
+extractMax
+insert -1087471
+extractMax
+insert 2543534
+extractMax
+extractMax
+extractMax
+insert 1376482
+insert 9998279
+extractMax
+extractMax
+extractMax
+insert 7476588
+insert -682069
+insert 1450696
+extractMax
+extractMax
+insert -729157
+insert 9780914
+extractMax
+insert -1228970
+extractMax
+insert -657197
+insert -1634483
+insert 975026
+insert 2133695
+insert 1138879
+insert 3728143
+extractMax
+insert -4874980
+insert -7327037
+insert 3291167
+insert -9671005
+extractMax
+insert 7083835
+extractMax
+insert 4798363
+insert 1137511
+insert 2497078
+extractMax
+extractMax
+extractMax
+insert 7318758
+extractMax
+extractMax
+extractMax
+insert 8945828
+extractMax
+insert 2696436
+extractMax
+insert 940009
+insert 4948748
+insert -939456
+extractMax
+insert -2332334
+insert -6808693
+extractMax
+insert 6516933
+insert 7563040
+extractMax
+insert -2786287
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4315798
+insert 6641648
+insert 3353614
+insert -2838041
+insert 5411742
+insert -9802633
+insert 1687603
+insert -1339974
+insert -7891612
+extractMax
+insert -8880163
+extractMax
+insert -5652806
+insert -6766674
+insert -1189036
+extractMax
+insert -1206988
+insert 4156906
+insert -9952123
+insert 8416928
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8934420
+extractMax
+extractMax
+insert -8077230
+extractMax
+extractMax
+insert -5617686
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2006888
+insert 282379
+extractMax
+insert -8087032
+insert -1039096
+insert 390035
+insert -2077013
+extractMax
+insert -5050858
+insert 3015
+insert -5787366
+extractMax
+insert -9301902
+extractMax
+insert -1635158
+insert 5592435
+insert 6914781
+insert 4371988
+extractMax
+insert 9424046
+insert -9136375
+insert 9125533
+insert -6714208
+insert -4349315
+extractMax
+insert 2367446
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6686679
+extractMax
+insert -7020545
+extractMax
+insert 7521850
+insert -8948111
+extractMax
+insert 4804013
+insert -6519664
+extractMax
+insert 9368635
+extractMax
+insert 1485223
+insert 7139566
+insert -1926681
+insert 429390
+insert -6938921
+insert -2646504
+insert 1625899
+extractMax
+extractMax
+extractMax
+insert 1214728
+insert 2568048
+insert 2653503
+extractMax
+extractMax
+extractMax
+insert 2855776
+extractMax
+insert -4037553
+extractMax
+insert -9762386
+insert -1872075
+insert -1215818
+insert 9083483
+insert 7362233
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2442496
+extractMax
+insert -9364828
+insert 7312207
+extractMax
+insert -9532765
+insert 2806890
+extractMax
+insert 5118627
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3107162
+extractMax
+insert -6464411
+insert 5409830
+extractMax
+extractMax
+insert -6373361
+insert 9748232
+extractMax
+extractMax
+extractMax
+insert -531742
+extractMax
+insert 6825567
+insert -1398152
+extractMax
+insert 3332688
+extractMax
+insert -1469656
+insert 7812224
+insert 6495229
+insert 4328527
+insert -6218236
+extractMax
+insert -8379362
+insert 3069472
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6088165
+extractMax
+extractMax
+insert -2223417
+extractMax
+insert -943510
+extractMax
+insert -4594175
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 723474
+insert 2320621
+extractMax
+extractMax
+insert 3408898
+insert 605822
+insert -2948305
+insert -126719
+insert 5475465
+insert -8928138
+insert -1384127
+extractMax
+insert -8431460
+extractMax
+insert -756966
+extractMax
+insert 4350127
+extractMax
+insert -2181822
+extractMax
+insert -280537
+extractMax
+insert 3912030
+extractMax
+insert 5899795
+insert 7588742
+insert -409784
+insert -3604163
+insert -6957103
+extractMax
+extractMax
+insert 2774616
+insert -1107575
+insert -9466763
+extractMax
+extractMax
+insert -1141524
+insert -3566390
+insert -2649819
+extractMax
+extractMax
+insert -7604996
+insert -6753964
+insert -2072155
+insert 2982054
+extractMax
+insert 9981202
+insert 8943256
+extractMax
+extractMax
+extractMax
+insert 7099300
+insert -9068200
+insert -9910175
+extractMax
+extractMax
+insert 1427899
+extractMax
+insert -4973283
+extractMax
+extractMax
+extractMax
+insert -6122826
+insert -1817030
+insert 9464218
+extractMax
+insert 1487304
+extractMax
+insert 7643840
+insert 5437082
+extractMax
+insert -4348547
+insert -1909330
+insert -4497979
+extractMax
+insert -3954775
+extractMax
+insert 5431509
+extractMax
+insert -2216808
+insert -8424470
+insert 1759739
+insert 1109612
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1380514
+insert 5982909
+insert -5816391
+extractMax
+extractMax
+extractMax
+insert 3645302
+extractMax
+insert 544709
+insert 1292412
+extractMax
+insert 5437519
+insert -9480682
+extractMax
+extractMax
+insert 7821352
+insert 5983220
+insert -3507440
+insert -2861850
+insert 2065339
+extractMax
+extractMax
+insert -3394032
+insert -3503034
+insert -9267441
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -9583949
+insert -8311879
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6306845
+insert -5868902
+insert -3880961
+insert 2901037
+extractMax
+insert 9211471
+extractMax
+extractMax
+extractMax
+insert -3683208
+insert -1669103
+insert 5518779
+insert 9681869
+insert -9459580
+extractMax
+extractMax
+insert 3523444
+extractMax
+extractMax
+extractMax
+insert -9136102
+insert 179120
+extractMax
+insert 5389010
+insert 6896309
+extractMax
+insert -5003147
+extractMax
+insert 8019677
+extractMax
+extractMax
+insert 8931695
+insert -15342
+insert -4227252
+insert -5435896
+insert 4625750
+insert -6544467
+insert 2910270
+extractMax
+insert 6955442
+insert 3304735
+extractMax
+extractMax
+insert -5398870
+insert 3130827
+extractMax
+insert -5770743
+insert 5363308
+extractMax
+insert -4115830
+extractMax
+insert -2453529
+extractMax
+extractMax
+insert -3462556
+insert 3067146
+extractMax
+extractMax
+extractMax
+insert 2137211
+insert 1120993
+extractMax
+extractMax
+insert -5858620
+insert 3978495
+insert 4178410
+insert 9502056
+extractMax
+insert -8038390
+extractMax
+insert -1319332
+insert 4804953
+extractMax
+extractMax
+insert 1372263
+extractMax
+extractMax
+insert -7923694
+insert -8478444
+insert -9632409
+insert -4401877
+extractMax
+extractMax
+insert -5300339
+insert -3280843
+extractMax
+insert 6631252
+extractMax
+insert -42170
+extractMax
+insert -6374420
+extractMax
+extractMax
+insert 1028328
+extractMax
+insert 8909889
+insert 1130471
+extractMax
+extractMax
+extractMax
+insert 3504135
+insert 9669946
+extractMax
+insert 8725370
+extractMax
+extractMax
+insert -349791
+insert 7111780
+insert 1339829
+extractMax
+insert 7972140
+insert -2827930
+insert 7930243
+insert -4755044
+insert 750853
+insert -5360491
+insert -5025991
+insert -8037169
+extractMax
+extractMax
+insert -5182541
+insert 7866
+extractMax
+insert -5092357
+insert -6515779
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -585755
+extractMax
+insert 2700924
+insert 8632533
+extractMax
+insert 7865901
+extractMax
+insert 4544764
+insert 5709937
+insert -7987823
+insert 7762956
+insert -8399698
+extractMax
+extractMax
+extractMax
+insert 6426554
+insert 965724
+insert -9967411
+extractMax
+extractMax
+extractMax
+insert -3476369
+extractMax
+extractMax
+extractMax
+insert 6815625
+insert -9429336
+extractMax
+extractMax
+extractMax
+insert -3506317
+extractMax
+extractMax
+extractMax
+insert -8491968
+extractMax
+extractMax
+insert -7966361
+insert 6935553
+extractMax
+insert 811103
+extractMax
+insert 8328005
+extractMax
+insert 9393553
+insert -9174392
+insert 7070024
+extractMax
+insert -5660369
+extractMax
+insert -2368347
+extractMax
+insert -1865128
+insert 4942984
+insert -551163
+insert 298109
+insert 3551141
+extractMax
+extractMax
+extractMax
+insert -3033859
+extractMax
+insert 8752408
+insert -9382354
+extractMax
+extractMax
+extractMax
+insert 2936914
+extractMax
+insert -519881
+insert 1219180
+extractMax
+extractMax
+insert 5008649
+insert 5202230
+extractMax
+extractMax
+extractMax
+insert 6449688
+insert -4533610
+insert 755420
+insert 5465619
+insert 234119
+extractMax
+insert -3960119
+insert 328261
+extractMax
+insert -5064876
+insert -1231077
+extractMax
+extractMax
+insert 8314921
+insert -4760283
+insert -3758575
+insert 5263808
+extractMax
+insert 5381530
+insert -6249955
+insert 396248
+extractMax
+insert -6434199
+extractMax
+insert -8538741
+insert -3009864
+insert -2424086
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 2945252
+extractMax
+extractMax
+insert -9914022
+extractMax
+insert 9120747
+insert -6660975
+extractMax
+insert -2361484
+extractMax
+extractMax
+insert -7126594
+extractMax
+insert -4412298
+insert 491749
+insert -8453826
+extractMax
+insert -6018248
+insert -6784780
+extractMax
+insert -9769650
+extractMax
+insert -3034814
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4221502
+extractMax
+insert 838288
+insert 7911500
+insert -6582235
+extractMax
+insert -8750066
+extractMax
+extractMax
+insert 9807268
+insert -929834
+extractMax
+extractMax
+insert -673869
+insert 8311742
+insert 2352361
+extractMax
+insert -6149511
+insert -958798
+insert 605928
+extractMax
+extractMax
+insert 5898431
+extractMax
+insert 7136904
+insert -8445120
+extractMax
+extractMax
+insert 6684281
+extractMax
+extractMax
+insert 3876637
+extractMax
+insert 9847719
+insert 6602612
+insert 2997597
+extractMax
+insert 8457054
+insert 1163834
+insert -4974317
+extractMax
+extractMax
+insert -3131053
+extractMax
+extractMax
+extractMax
+insert 3920653
+insert -2538348
+insert 191127
+extractMax
+extractMax
+insert 1148231
+extractMax
+extractMax
+extractMax
+insert 2314517
+insert -6924804
+extractMax
+extractMax
+extractMax
+insert -2689743
+extractMax
+extractMax
+insert 9273154
+insert 311899
+extractMax
+insert -7087349
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1667819
+insert 5296202
+insert 5762147
+extractMax
+insert -3405577
+extractMax
+extractMax
+insert 8542404
+insert -8335085
+extractMax
+extractMax
+insert 609978
+extractMax
+extractMax
+extractMax
+insert -8680789
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2349399
+insert -3053899
+insert 5167014
+insert 7498065
+insert -6885545
+extractMax
+extractMax
+extractMax
+insert -9395327
+insert -4178590
+insert -5868850
+extractMax
+insert 2219489
+insert 1286956
+insert -1902968
+insert 8742585
+extractMax
+extractMax
+insert 1699060
+extractMax
+insert 3102528
+insert 9126584
+insert -78127
+insert -153474
+extractMax
+insert 5255384
+insert 2063011
+insert 2179874
+extractMax
+extractMax
+extractMax
+insert 8018474
+insert 8367256
+extractMax
+insert 7335911
+extractMax
+insert -5552535
+insert 758751
+insert 5140662
+extractMax
+extractMax
+extractMax
+insert 5933558
+extractMax
+extractMax
+insert 1274788
+extractMax
+extractMax
+extractMax
+insert -7241308
+insert 7019666
+insert -729198
+extractMax
+extractMax
+extractMax
+insert 5986738
+extractMax
+insert 6398055
+insert -9683268
+insert -5019869
+insert 5319992
+insert 9074652
+extractMax
+insert -9134538
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 4898796
+insert 6567878
+extractMax
+insert -7314604
+insert -4617722
+extractMax
+insert -1562347
+insert -9366257
+extractMax
+insert 9035546
+insert 262147
+extractMax
+extractMax
+extractMax
+extractMax
+insert -4399756
+insert 1094666
+insert 1558108
+insert 5605561
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2153822
+insert -4097500
+insert -1770567
+insert 425742
+insert -3311109
+insert 1508782
+insert 2042173
+extractMax
+insert 8116171
+insert -7591336
+extractMax
+insert -6959945
+insert -608347
+insert 812952
+extractMax
+insert 5215006
+insert -5216748
+extractMax
+insert -7837495
+insert 4562146
+extractMax
+insert -7961643
+extractMax
+insert 9615829
+insert 6555891
+insert -6225555
+insert 4896907
+insert 7327428
+insert 7535789
+extractMax
+insert 2828428
+extractMax
+insert -4498409
+extractMax
+insert 9038182
+insert 5272370
+insert 8082365
+insert -7249262
+extractMax
+insert -428696
+extractMax
+insert -4681576
+extractMax
+insert 4553088
+insert -717666
+insert -4868879
+insert -1413004
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6767799
+extractMax
+extractMax
+insert -1812218
+insert 5386255
+extractMax
+insert 4220191
+extractMax
+extractMax
+insert -7971512
+extractMax
+extractMax
+insert 2558602
+extractMax
+extractMax
+insert -1913359
+insert -7917606
+insert 9555728
+insert 8578285
+extractMax
+insert -8159058
+insert -5447653
+insert -5810995
+extractMax
+insert 8610053
+insert -3871504
+insert 3399176
+insert -4182701
+insert -3478953
+insert -5157306
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 3150848
+extractMax
+extractMax
+insert -7963258
+insert -1730845
+insert -8194121
+insert 3115581
+extractMax
+extractMax
+extractMax
+extractMax
+insert 285869
+extractMax
+insert -2064050
+extractMax
+insert 1320
+insert 9959706
+insert 8136803
+extractMax
+insert 1461424
+insert 7189192
+insert -2401198
+insert 3923812
+insert -4804836
+insert 8954213
+insert 8510778
+insert -5805731
+insert -3871193
+insert -3852107
+insert 29419
+extractMax
+extractMax
+extractMax
+insert 5965561
+extractMax
+insert 3826626
+extractMax
+extractMax
+insert -1690985
+insert -6345639
+insert 4971119
+insert -8274149
+extractMax
+extractMax
+insert -3410543
+insert -1153893
+extractMax
+extractMax
+extractMax
+insert 3822315
+extractMax
+insert 104591
+insert 9095831
+extractMax
+insert -6678043
+extractMax
+insert -7131763
+extractMax
+extractMax
+extractMax
+extractMax
+insert -5055811
+insert 8479233
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6307428
+insert -3432658
+extractMax
+extractMax
+insert -5621584
+extractMax
+insert 198723
+insert 2065820
+extractMax
+insert 4360852
+extractMax
+extractMax
+extractMax
+insert 8203814
+extractMax
+extractMax
+insert -3560078
+insert 49621
+extractMax
+extractMax
+insert -69222
+insert 9474811
+insert 8569534
+extractMax
+insert 825036
+insert -3590865
+insert -540351
+extractMax
+insert -9096484
+insert 8924490
+insert -481443
+extractMax
+extractMax
+extractMax
+insert 7167477
+extractMax
+insert -9205830
+extractMax
+insert 3317361
+insert 1133840
+extractMax
+extractMax
+insert 2314650
+extractMax
+extractMax
+extractMax
+insert 5959303
+insert 1298187
+insert -253605
+extractMax
+insert -5543894
+insert -3666126
+insert -8207958
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8632733
+extractMax
+insert 6813994
+extractMax
+insert 2055373
+extractMax
+insert 9530056
+extractMax
+insert 5728297
+extractMax
+extractMax
+extractMax
+insert -8433426
+insert 3658738
+extractMax
+insert -1196149
+insert -5785555
+extractMax
+extractMax
+extractMax
+insert -1907253
+insert -2131600
+insert -7565848
+insert 4943964
+insert 2134233
+extractMax
+insert 3782151
+insert -6352876
+insert -536394
+insert -8664405
+extractMax
+insert -9031327
+extractMax
+extractMax
+insert -6226300
+insert 7183560
+extractMax
+insert 6176747
+extractMax
+insert -2917492
+extractMax
+extractMax
+insert 8353898
+insert 9739587
+insert -9470771
+insert -8491395
+insert 9355090
+extractMax
+extractMax
+insert 5768358
+extractMax
+insert -1338068
+extractMax
+extractMax
+insert 513848
+insert 526790
+insert -5201932
+insert 5011582
+extractMax
+insert 2469502
+extractMax
+extractMax
+insert -5948671
+insert -860426
+extractMax
+insert 5154594
+extractMax
+extractMax
+extractMax
+insert 4662444
+insert -6860250
+insert -9795949
+insert 4229594
+insert -8764666
+extractMax
+insert -1525332
+extractMax
+insert -1927788
+extractMax
+extractMax
+insert 7835201
+extractMax
+extractMax
+insert 168303
+insert -7245508
+insert -2994378
+insert 2783292
+insert 5127061
+extractMax
+insert 4155018
+insert -840771
+insert -3623899
+insert 5375544
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 7861827
+insert 1437810
+insert 594625
+insert -2616797
+insert -7523742
+insert -4628683
+insert 8073905
+insert -6272273
+insert -5114476
+insert -5005562
+extractMax
+extractMax
+insert 8043418
+extractMax
+extractMax
+insert -1806099
+insert -3082529
+insert 5079685
+insert 2492411
+insert 3625172
+extractMax
+extractMax
+extractMax
+insert -9189787
+extractMax
+extractMax
+extractMax
+insert -5223446
+extractMax
+insert -4177363
+insert -428637
+extractMax
+insert 466681
+extractMax
+extractMax
+extractMax
+insert 2861748
+insert 6266921
+insert -7798810
+insert -2632142
+extractMax
+insert 4850079
+insert -2034956
+insert -4160262
+extractMax
+insert 8703398
+insert 1274430
+insert -7388413
+extractMax
+insert -6328886
+insert -9900914
+insert 8494103
+extractMax
+insert 7217463
+insert -4591959
+insert 3614170
+extractMax
+extractMax
+insert 393399
+extractMax
+insert -8366883
+insert -9589527
+insert 9059875
+insert 3072777
+extractMax
+extractMax
+extractMax
+insert -2665859
+extractMax
+insert -9240546
+insert -54259
+insert 1129456
+insert -2856390
+insert -4626527
+extractMax
+insert 6943901
+extractMax
+extractMax
+insert -9679864
+extractMax
+insert -3212374
+extractMax
+extractMax
+extractMax
+insert -2776430
+insert 7959975
+insert -5252797
+insert 5352484
+insert 9416816
+insert 9953643
+extractMax
+insert 7208041
+extractMax
+insert 3132504
+extractMax
+extractMax
+extractMax
+insert -2154647
+extractMax
+extractMax
+insert -3654415
+insert 2552399
+insert 7044339
+insert 161614
+extractMax
+extractMax
+extractMax
+insert 6801937
+extractMax
+extractMax
+insert -443866
+insert -417106
+insert -2748293
+extractMax
+insert -3635576
+insert 830030
+extractMax
+insert -4139146
+extractMax
+extractMax
+insert 1853679
+insert -9790808
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert 153746
+extractMax
+extractMax
+extractMax
+insert 839365
+insert 7723827
+insert 4048567
+insert -8877609
+insert 822142
+extractMax
+insert 3274131
+insert 7947078
+insert 6738018
+insert -7076318
+insert -8362422
+extractMax
+extractMax
+extractMax
+insert 1967575
+extractMax
+insert 8677575
+extractMax
+insert 5420599
+extractMax
+insert 1566597
+extractMax
+extractMax
+insert -7360492
+extractMax
+insert -4874746
+extractMax
+extractMax
+insert -2011844
+insert 3618831
+insert -1518923
+extractMax
+insert -6235780
+extractMax
+extractMax
+insert 4810002
+extractMax
+insert 257715
+extractMax
+extractMax
+insert 7938143
+insert 813844
+insert -8624387
+extractMax
+insert 8555550
+extractMax
+insert -9109226
+insert -1312022
+extractMax
+insert -8367967
+extractMax
+insert 7546265
+insert 8797189
+extractMax
+insert 2569100
+extractMax
+extractMax
+insert 5686744
+extractMax
+extractMax
+insert -3059118
+insert 4212308
+extractMax
+extractMax
+insert 211407
+insert 9533372
+extractMax
+extractMax
+extractMax
+insert -1042313
+extractMax
+extractMax
+insert 3807522
+insert 2459447
+insert -9764332
+extractMax
+extractMax
+insert -4780178
+insert 3912592
+extractMax
+insert 688670
+extractMax
+insert 6167921
+insert 6413749
+insert -3362591
+extractMax
+extractMax
+insert -3293500
+insert 5091259
+extractMax
+insert -5775110
+insert 3566338
+insert -4660485
+extractMax
+insert -6032548
+extractMax
+insert -7191153
+extractMax
+insert 8196810
+extractMax
+insert -625427
+insert 7328385
+extractMax
+extractMax
+insert -8561007
+insert 1260147
+extractMax
+extractMax
+extractMax
+insert -7959823
+insert -4137275
+insert -3662042
+insert 8836130
+extractMax
+insert -3067781
+insert 1922034
+extractMax
+insert -8549664
+extractMax
+insert -8539311
+insert 9841591
+extractMax
+insert 8627921
+insert 1803222
+extractMax
+extractMax
+insert -4869590
+insert -9700054
+insert 9922993
+extractMax
+extractMax
+extractMax
+insert -3390921
+extractMax
+insert 8750928
+extractMax
+extractMax
+extractMax
+insert -3640690
+insert 5944666
+extractMax
+insert -5995880
+extractMax
+extractMax
+extractMax
+insert -3851918
+extractMax
+extractMax
+insert -1893204
+extractMax
+insert 73982
+extractMax
+insert -7153866
+insert 215523
+extractMax
+insert -4368496
+extractMax
+insert -8459333
+insert 8048314
+insert -4670587
+extractMax
+insert 5599367
+extractMax
+extractMax
+insert 2140832
+extractMax
+extractMax
+insert -7075435
+extractMax
+extractMax
+insert 1578779
+extractMax
+insert -5554673
+extractMax
+insert 7015901
+insert 3483705
+insert -8953980
+insert -6936166
+insert 2623840
+insert 2567551
+insert -1587499
+insert -1573088
+insert -844171
+extractMax
+insert -2389661
+extractMax
+insert -4425909
+extractMax
+extractMax
+insert 842590
+extractMax
+extractMax
+extractMax
+extractMax
+insert 874285
+insert 109785
+insert -3798858
+extractMax
+extractMax
+insert -8677235
+extractMax
+extractMax
+insert 1569806
+extractMax
+insert 213567
+insert 4440619
+insert 2298350
+insert -8765904
+extractMax
+extractMax
+extractMax
+insert 4442445
+insert -9948802
+insert -1748496
+extractMax
+extractMax
+extractMax
+insert 6434987
+insert 2520223
+extractMax
+insert -8237139
+insert -7483999
+extractMax
+insert -6913500
+insert 4959343
+extractMax
+insert -4832768
+insert -6656166
+insert 647672
+extractMax
+insert -2022074
+insert -2550349
+extractMax
+extractMax
+insert -3720869
+insert 1644125
+extractMax
+insert 4803721
+insert -7100645
+extractMax
+insert 7794504
+insert 7394969
+extractMax
+insert -2344098
+insert 9595651
+insert 9184831
+extractMax
+extractMax
+extractMax
+extractMax
+insert -6227866
+insert -1930839
+extractMax
+insert 5536147
+insert -6548025
+extractMax
+insert -1003081
+insert -3635364
+extractMax
+extractMax
+extractMax
+insert -8443663
+extractMax
+extractMax
+extractMax
+insert 7494870
+insert 5635182
+extractMax
+extractMax
+extractMax
+insert -1775765
+insert -7112360
+extractMax
+insert 2275560
+insert 8015595
+insert 7005655
+extractMax
+extractMax
+insert 6435284
+insert 4836161
+insert -969489
+insert 8638912
+insert -4190104
+extractMax
+insert -7673481
+extractMax
+insert 3795669
+extractMax
+insert -6464359
+insert -2458331
+extractMax
+insert 9839435
+insert -3172692
+insert -6697048
+extractMax
+insert 8266986
+extractMax
+extractMax
+insert -4329644
+insert -8656085
+insert 5791883
+extractMax
+insert -3992042
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5896806
+extractMax
+extractMax
+insert -6855770
+extractMax
+extractMax
+extractMax
+insert 848174
+extractMax
+insert 2468426
+extractMax
+insert 3611181
+extractMax
+insert 3457511
+extractMax
+extractMax
+extractMax
+insert 3589985
+insert 9319544
+insert -8569853
+extractMax
+extractMax
+insert 4009890
+insert -7366380
+extractMax
+extractMax
+insert -7278307
+extractMax
+insert 3186524
+extractMax
+extractMax
+insert 4497566
+insert -8822948
+insert -7314946
+insert -1028270
+insert 323155
+insert 9518224
+extractMax
+insert 9946234
+insert 1678287
+insert -3314743
+insert 460524
+extractMax
+insert 5174694
+insert -7897459
+insert -5177130
+extractMax
+extractMax
+extractMax
+extractMax
+insert 6340872
+insert 3131521
+extractMax
+insert 2763805
+insert -4193693
+extractMax
+insert 1087710
+extractMax
+insert -764590
+insert -3088066
+insert -4712890
+insert 148125
+extractMax
+extractMax
+extractMax
+insert 630096
+insert 5856391
+extractMax
+extractMax
+extractMax
+insert -9883537
+insert 9192979
+insert 4072798
+insert -7194289
+extractMax
+extractMax
+insert 4779039
+insert 4157610
+insert -9047388
+extractMax
+insert 6089331
+insert 8117646
+extractMax
+extractMax
+insert 8767961
+insert -8833898
+insert -7475817
+extractMax
+insert -5253419
+insert 4848702
+insert -1375757
+extractMax
+insert 1699421
+extractMax
+extractMax
+extractMax
+insert 7747492
+insert 5888715
+extractMax
+insert -3384342
+insert -9411636
+extractMax
+insert -8884306
+extractMax
+insert -3635888
+extractMax
+insert -7348588
+insert -941343
+insert 9166905
+insert 6394469
+insert 3921027
+insert 4053403
+extractMax
+insert 4078109
+insert 7513869
+insert 3173892
+extractMax
+insert -3562822
+insert -3979249
+insert -342416
+extractMax
+insert 9280491
+extractMax
+extractMax
+insert 4899767
+extractMax
+insert 5882294
+insert -3302389
+insert -7474632
+insert -2385405
+extractMax
+insert -6988800
+insert 7209974
+insert -6668252
+extractMax
+insert -8190607
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8363053
+insert 8983778
+extractMax
+extractMax
+extractMax
+insert 9043297
+extractMax
+extractMax
+insert 8116141
+extractMax
+extractMax
+insert -9011211
+extractMax
+insert 1686998
+insert -1960095
+extractMax
+insert -3691312
+insert 7162105
+extractMax
+insert 569029
+extractMax
+insert 2208198
+insert 9134343
+extractMax
+extractMax
+insert -9008963
+insert -4049638
+extractMax
+insert 9157653
+insert 3447113
+insert -6205080
+insert 6636115
+insert 3365894
+extractMax
+extractMax
+insert 4457120
+extractMax
+insert 773323
+extractMax
+insert 3367265
+insert 4126046
+extractMax
+insert -8618531
+extractMax
+extractMax
+insert -264339
+extractMax
+extractMax
+extractMax
+insert 2197140
+insert 7102701
+extractMax
+extractMax
+extractMax
+insert -2886373
+extractMax
+extractMax
+extractMax
+insert 849337
+insert -945570
+insert -5857657
+extractMax
+insert 9948744
+extractMax
+extractMax
+insert -7767284
+extractMax
+insert 1507023
+extractMax
+insert -9965014
+extractMax
+insert -1556263
+insert -4962976
+insert 9774523
+insert -3129345
+insert 6001287
+insert 5570882
+extractMax
+insert 6272158
+extractMax
+insert 1816292
+insert -3663445
+insert -9287779
+extractMax
+insert 7023452
+insert 649812
+extractMax
+insert 1885753
+insert -3880285
+insert -5592498
+insert 2687795
+extractMax
+insert 658449
+extractMax
+extractMax
+insert 6735433
+insert 2518626
+insert 3132121
+extractMax
+insert 334617
+insert -7248622
+extractMax
+extractMax
+insert -3039988
+insert 4138123
+extractMax
+insert -5130450
+insert -4716276
+insert 1356519
+insert 4952865
+extractMax
+insert 514947
+extractMax
+insert 8708558
+extractMax
+extractMax
+insert -5405029
+extractMax
+insert 5893944
+extractMax
+insert -4463869
+insert 389065
+insert 9041835
+insert 1237653
+extractMax
+extractMax
+extractMax
+extractMax
+insert -8403330
+insert 5062177
+extractMax
+insert -596070
+insert 1039701
+insert 187295
+extractMax
+extractMax
+insert -5022558
+insert -72071
+insert 1065887
+extractMax
+extractMax
+insert 9359942
+insert -7756678
+insert -7237603
+insert 2759211
+insert -5820753
+insert -9030296
+insert -592581
+insert 555662
+insert 5844781
+insert -5531425
+extractMax
+extractMax
+insert -3636632
+insert -3669660
+insert 8343510
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -3248033
+extractMax
+extractMax
+extractMax
+insert 8626001
+insert -3290741
+insert 6896066
+insert -708661
+insert -7060210
+insert -4620421
+insert 3571697
+insert -2150474
+insert -5068039
+extractMax
+insert 5124321
+insert -6368337
+insert -4889991
+extractMax
+insert 3923209
+insert 8754375
+extractMax
+insert -7742785
+insert 1354744
+extractMax
+insert -5583353
+insert -4282130
+extractMax
+insert 5259800
+insert 3025462
+insert -7792746
+extractMax
+extractMax
+extractMax
+insert -2547560
+insert -6326870
+extractMax
+insert 5761024
+extractMax
+extractMax
+insert -5917298
+extractMax
+insert 9987599
+insert 6930766
+extractMax
+insert -2339698
+insert 8766521
+insert -448175
+extractMax
+insert 792662
+extractMax
+insert 9145876
+extractMax
+insert -8220784
+insert 287631
+extractMax
+extractMax
+insert 2547583
+insert 4876351
+insert -689952
+insert 5842618
+extractMax
+extractMax
+insert -9241558
+extractMax
+insert 9717533
+insert 4735862
+extractMax
+insert -6328332
+extractMax
+insert -2118429
+extractMax
+extractMax
+extractMax
+extractMax
+insert 1956445
+insert 8672977
+insert -1854163
+extractMax
+insert 3800184
+extractMax
+extractMax
+insert -115922
+insert -583107
+extractMax
+extractMax
+extractMax
+extractMax
+insert 8087996
+insert 2575635
+insert 5081015
+insert 5394120
+insert -9793847
+insert -7645719
+insert 9130742
+insert -5191111
+insert -1263578
+insert 5089450
+extractMax
+extractMax
+insert 323599
+extractMax
+insert 5992236
+extractMax
+insert 8221353
+extractMax
+insert 2067176
+insert -9393410
+extractMax
+insert 4021694
+insert 9969202
+insert -4797905
+extractMax
+extractMax
+insert -4018777
+insert -5332532
+insert -7344041
+insert 7032335
+extractMax
+extractMax
+insert -345447
+insert 7552036
+insert 9845964
+extractMax
+insert -2656119
+extractMax
+extractMax
+insert -9524320
+extractMax
+insert -6846267
+insert 3618779
+insert -3818654
+insert -4207701
+insert 3034975
+extractMax
+insert 2648201
+extractMax
+insert 4256530
+extractMax
+insert 3595061
+insert 2517853
+insert 2137110
+extractMax
+extractMax
+extractMax
+insert 9025588
+insert 8067402
+extractMax
+insert 9557758
+insert -3360299
+insert 616694
+insert 902481
+insert 4750858
+extractMax
+extractMax
+insert 9211996
+insert -3444127
+insert -8633397
+extractMax
+extractMax
+extractMax
+insert -7491180
+extractMax
+insert -908202
+extractMax
+insert -2163498
+extractMax
+insert 7562555
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -2122178
+insert 5398502
+extractMax
+extractMax
+insert 4023283
+insert 6484088
+insert -5870520
+extractMax
+extractMax
+extractMax
+insert 7811590
+insert 343227
+extractMax
+insert 7836594
+extractMax
+extractMax
+extractMax
+insert 2595050
+insert -677423
+extractMax
+insert -5121788
+insert -5605127
+extractMax
+insert -4050707
+insert 7564758
+extractMax
+extractMax
+insert -8195430
+extractMax
+extractMax
+insert 1023781
+insert -5757930
+insert -9113059
+insert -4366553
+extractMax
+extractMax
+insert -5538222
+insert 6053120
+extractMax
+extractMax
+extractMax
+insert -26949
+insert 5535185
+extractMax
+insert -8157569
+extractMax
+insert -1434106
+extractMax
+insert 1438412
+extractMax
+extractMax
+extractMax
+extractMax
+insert 5087547
+insert -2380252
+insert -8132428
+insert -3447777
+insert -4425047
+extractMax
+extractMax
+insert 7046617
+insert -1265412
+insert -5916299
+insert -6746952
+insert -3121950
+extractMax
+extractMax
+insert -4553608
+extractMax
+insert -3873803
+insert 6957386
+extractMax
+insert -6345791
+extractMax
+extractMax
+insert 889065
+insert 6495960
+insert 9432570
+extractMax
+insert 4277880
+extractMax
+extractMax
+extractMax
+insert -4915256
+insert 3256637
+insert 8802065
+insert -5434269
+insert 5172624
+insert -780371
+insert -9212153
+extractMax
+insert 4241681
+insert 1724716
+insert 3716123
+insert 8574684
+extractMax
+insert -5287107
+insert -7479822
+extractMax
+extractMax
+extractMax
+extractMax
+extractMax
+insert -1899359
+extractMax
+extractMax
+extractMax
+insert 7210315
+extractMax
+insert 2903147

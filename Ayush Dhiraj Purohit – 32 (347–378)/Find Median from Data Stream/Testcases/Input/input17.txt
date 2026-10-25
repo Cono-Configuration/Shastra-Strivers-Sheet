@@ -1,0 +1,19 @@
+18
+addNum 3
+findMedian
+findMedian
+findMedian
+findMedian
+addNum 18
+addNum 21
+addNum 24
+addNum 27
+addNum 30
+findMedian
+findMedian
+findMedian
+addNum 42
+addNum 45
+findMedian
+addNum 51
+findMedian

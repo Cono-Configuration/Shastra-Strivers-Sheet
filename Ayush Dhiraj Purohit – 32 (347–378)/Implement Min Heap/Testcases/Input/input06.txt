@@ -1,0 +1,8 @@
+7
+initializeHeap
+insert 7
+insert 7
+heapSize
+extractMin
+getMin
+heapSize

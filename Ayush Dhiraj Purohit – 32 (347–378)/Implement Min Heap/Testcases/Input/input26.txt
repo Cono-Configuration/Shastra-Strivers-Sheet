@@ -1,0 +1,163 @@
+162
+initializeHeap
+insert -27456
+heapSize
+extractMin
+insert 37752
+insert 91900
+insert 58106
+isEmpty
+changeKey 1 81975
+getMin
+changeKey 2 -59286
+extractMin
+isEmpty
+extractMin
+insert 19932
+extractMin
+extractMin
+insert 21611
+isEmpty
+heapSize
+insert 331
+isEmpty
+changeKey 1 -32909
+insert 9657
+insert 56900
+extractMin
+insert -20909
+insert 12008
+extractMin
+insert 38998
+insert 55047
+heapSize
+isEmpty
+insert 14488
+insert 45483
+insert 60726
+changeKey 2 14993
+changeKey 8 -1034
+insert 41950
+getMin
+getMin
+insert 38144
+insert 74513
+changeKey 6 12299
+heapSize
+heapSize
+changeKey 1 33916
+insert 61032
+insert -21984
+getMin
+extractMin
+getMin
+insert -60025
+extractMin
+insert 57123
+changeKey 9 -69853
+heapSize
+extractMin
+isEmpty
+insert 32771
+changeKey 9 79446
+insert -70052
+insert 25439
+insert 94317
+changeKey 4 -23028
+insert -56696
+changeKey 0 -92533
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+heapSize
+insert 56377
+insert 90745
+extractMin
+heapSize
+isEmpty
+insert -4757
+extractMin
+extractMin
+heapSize
+insert 47218
+extractMin
+isEmpty
+changeKey 6 38654
+getMin
+insert 14683
+insert -81134
+isEmpty
+getMin
+getMin
+insert -467
+insert -87034
+insert 49524
+changeKey 2 -81826
+heapSize
+extractMin
+heapSize
+insert 58639
+changeKey 15 -41220
+isEmpty
+changeKey 4 31432
+insert -92527
+insert -33482
+insert 76303
+heapSize
+insert 58412
+insert -11317
+insert -99097
+isEmpty
+extractMin
+extractMin
+isEmpty
+insert 31429
+changeKey 16 71943
+extractMin
+insert -7671
+insert -60807
+extractMin
+changeKey 1 99464
+isEmpty
+insert -75434
+heapSize
+insert -84886
+extractMin
+insert -89075
+isEmpty
+heapSize
+getMin
+getMin
+getMin
+heapSize
+extractMin
+changeKey 1 24921
+isEmpty
+isEmpty
+insert -37646
+insert 15056
+insert -59002
+extractMin
+getMin
+changeKey 2 35112
+extractMin
+insert -89525
+heapSize
+insert 47170
+isEmpty
+getMin
+heapSize
+getMin
+getMin
+insert 9884
+insert -10229
+isEmpty
+insert 92578
+heapSize
+heapSize
+extractMin
+insert 79665
+heapSize
+extractMin

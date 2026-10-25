@@ -1,0 +1,46 @@
+45
+addNum -814999999
+addNum -795505477
+addNum -488188175
+addNum -718700642
+addNum 944493765
+findMedian
+addNum -468692997
+findMedian
+addNum -578743960
+findMedian
+addNum 531061459
+findMedian
+addNum 51420626
+findMedian
+addNum -616585724
+findMedian
+addNum 495731298
+addNum 877383125
+addNum -555646829
+addNum -404054041
+findMedian
+findMedian
+findMedian
+addNum 557110057
+addNum 882636453
+addNum -33846583
+findMedian
+addNum -165841216
+addNum 77720424
+findMedian
+addNum -722799825
+findMedian
+findMedian
+addNum 599159206
+addNum -36688909
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian

@@ -1,0 +1,131 @@
+130
+postTweet 4 291
+getNewsFeed 1
+postTweet 3 292
+unfollow 6 4
+getNewsFeed 3
+getNewsFeed 14
+follow 1 13
+postTweet 6 293
+follow 17 15
+getNewsFeed 3
+getNewsFeed 7
+getNewsFeed 4
+unfollow 15 2
+postTweet 11 294
+postTweet 5 295
+follow 17 12
+postTweet 9 296
+getNewsFeed 4
+postTweet 4 297
+postTweet 12 298
+postTweet 14 299
+postTweet 11 300
+postTweet 6 301
+postTweet 6 302
+postTweet 11 303
+postTweet 8 304
+getNewsFeed 15
+postTweet 10 305
+follow 13 1
+postTweet 2 306
+postTweet 7 307
+getNewsFeed 3
+postTweet 10 308
+postTweet 16 309
+postTweet 13 310
+unfollow 16 5
+follow 12 8
+getNewsFeed 15
+getNewsFeed 6
+postTweet 4 311
+postTweet 7 312
+postTweet 14 313
+unfollow 10 13
+postTweet 5 314
+unfollow 2 12
+postTweet 7 315
+getNewsFeed 5
+follow 15 16
+postTweet 4 316
+postTweet 7 317
+follow 6 13
+getNewsFeed 15
+postTweet 5 318
+follow 15 8
+follow 15 16
+postTweet 15 319
+postTweet 15 320
+postTweet 12 321
+postTweet 8 322
+follow 1 3
+follow 15 11
+postTweet 11 323
+postTweet 17 324
+getNewsFeed 17
+getNewsFeed 7
+getNewsFeed 15
+getNewsFeed 2
+getNewsFeed 11
+getNewsFeed 15
+unfollow 15 16
+getNewsFeed 8
+postTweet 9 325
+getNewsFeed 2
+getNewsFeed 15
+postTweet 7 326
+postTweet 6 327
+postTweet 5 328
+getNewsFeed 17
+getNewsFeed 16
+follow 14 3
+postTweet 16 329
+getNewsFeed 8
+follow 16 11
+postTweet 10 330
+getNewsFeed 2
+postTweet 16 331
+unfollow 5 14
+getNewsFeed 17
+follow 11 17
+getNewsFeed 14
+postTweet 9 332
+postTweet 14 333
+postTweet 9 334
+postTweet 5 335
+postTweet 7 336
+getNewsFeed 4
+getNewsFeed 8
+getNewsFeed 5
+getNewsFeed 13
+follow 15 8
+unfollow 14 15
+postTweet 10 337
+getNewsFeed 9
+follow 10 13
+postTweet 17 338
+postTweet 12 339
+follow 2 4
+follow 11 12
+postTweet 13 340
+postTweet 13 341
+follow 3 6
+postTweet 12 342
+getNewsFeed 4
+getNewsFeed 5
+getNewsFeed 1
+getNewsFeed 3
+follow 11 2
+getNewsFeed 3
+getNewsFeed 1
+getNewsFeed 3
+postTweet 14 343
+getNewsFeed 5
+postTweet 17 344
+postTweet 4 345
+follow 11 8
+follow 10 15
+postTweet 14 346
+unfollow 11 7
+postTweet 12 347
+postTweet 4 348

@@ -1,0 +1,56 @@
+55
+initializeHeap
+insert 46091
+extractMax
+insert 51091
+changeKey 0 -11430
+getMax
+changeKey 0 -25394
+extractMax
+insert -63493
+isEmpty
+insert -22772
+extractMax
+isEmpty
+insert 62694
+insert -48340
+insert 44153
+insert -65012
+heapSize
+heapSize
+extractMax
+insert 33189
+extractMax
+insert 15308
+changeKey 4 23810
+heapSize
+insert -42770
+changeKey 0 -42446
+heapSize
+heapSize
+getMax
+getMax
+extractMax
+insert -35209
+extractMax
+getMax
+heapSize
+isEmpty
+extractMax
+isEmpty
+insert 64418
+getMax
+extractMax
+getMax
+insert 29657
+heapSize
+extractMax
+extractMax
+insert 87948
+extractMax
+extractMax
+getMax
+insert -61097
+getMax
+insert 15799
+insert 22775

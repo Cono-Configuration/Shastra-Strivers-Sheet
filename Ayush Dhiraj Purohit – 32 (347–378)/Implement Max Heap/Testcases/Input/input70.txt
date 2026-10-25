@@ -1,0 +1,10001 @@
+10000
+initializeHeap
+insert -3153525
+insert -9925964
+insert -6746655
+insert -7235487
+insert -154932
+insert 6459448
+insert 3639775
+insert 1413222
+insert -3943546
+insert -9261824
+insert 3523666
+insert 6534934
+insert 8849876
+insert 3297079
+insert -3030272
+insert 6202789
+insert 3019501
+insert 4527290
+insert 7999731
+insert -1623668
+insert 5573035
+insert -5872622
+insert -6891485
+insert 5482308
+insert -4910436
+insert 1490661
+insert 2868626
+insert 927046
+insert -238923
+insert -1285935
+insert -2150496
+insert -5435551
+insert -5193616
+insert -8406161
+insert 6386183
+insert 3554965
+insert 5552715
+insert 4439046
+insert -3566037
+insert 2045691
+insert -7083783
+insert -1334169
+insert -1173978
+insert 7141160
+insert 4239801
+insert -4315506
+insert -8669144
+insert 4086689
+insert -9368426
+insert -6801441
+insert 5648322
+insert -9474147
+insert -4350653
+insert -7075650
+insert -9414345
+insert 6594698
+insert -1981873
+insert -3726158
+insert 7224061
+insert 1383049
+insert 1013035
+insert -9347181
+insert -6880786
+insert -3337862
+insert 4317904
+insert -1207192
+insert 1045115
+insert -9250652
+insert -619913
+insert 9805044
+insert -6047370
+insert 7879766
+insert 620340
+insert -7087202
+insert -7520642
+insert -6065352
+insert -5525276
+insert -4134639
+insert -1704543
+insert -5311987
+insert 1889753
+insert -5225086
+insert -3802019
+insert -6132516
+insert 3116784
+insert 9874575
+insert -1595878
+insert -9005578
+insert -3482984
+insert 3196212
+insert -5534783
+insert -7099223
+insert 2956609
+insert -3777817
+insert 2506901
+insert -1524135
+insert 8813573
+insert 4368596
+insert -4757663
+insert -3155949
+insert 4860006
+insert -5178307
+insert -7123707
+insert -1424969
+insert 8042781
+insert 8475749
+insert 3571464
+insert -8304633
+insert 787344
+insert -33001
+insert 6673582
+insert -5248895
+insert -7950900
+insert -4983678
+insert -5356460
+insert -7012231
+insert -6728438
+insert -7512405
+insert 5106632
+insert -3459730
+insert -5831902
+insert -2483716
+insert -5949142
+insert -1673382
+insert 5915829
+insert 1568266
+insert 8712407
+insert 6200509
+insert -8406376
+insert -2850359
+insert -8544303
+insert 7880133
+insert 3566796
+insert 7855484
+insert 6669089
+insert 5609661
+insert 3600948
+insert 6575108
+insert 1959605
+insert 9421622
+insert -7925272
+insert 9564922
+insert -4962598
+insert 6841168
+insert 9831924
+insert -2743299
+insert -8129849
+insert -4228818
+insert -8448477
+insert -1160512
+insert 6311238
+insert -3683726
+insert -3253274
+insert 570112
+insert -6152316
+insert 3505624
+insert -6810811
+insert 1274182
+insert 6366427
+insert 6779196
+insert -3344846
+insert 5564727
+insert -6712143
+insert -474510
+insert 8070617
+insert 248996
+insert 1080856
+insert 5076964
+insert 1568111
+insert 1376219
+insert -3422503
+insert 5185319
+insert -6988155
+insert 3393077
+insert 9235602
+insert 9774670
+insert 2863922
+insert -5000567
+insert 4987781
+insert -5796812
+insert 9026535
+insert -4351392
+insert -8926517
+insert -9871092
+insert -9577870
+insert 8479132
+insert 8036636
+insert 3460180
+insert 6463791
+insert -702486
+insert 6789851
+insert -6297312
+insert 5813716
+insert 316346
+insert 4169773
+insert -4130334
+insert -7793004
+insert 3902322
+insert -1288822
+insert 3802194
+insert -3210382
+insert 4283907
+insert -2233715
+insert -381146
+insert 9075216
+insert -6769989
+insert -6139088
+insert -6743926
+insert 3625528
+insert 5620481
+insert 6580879
+insert -341936
+insert -7990845
+insert -6004371
+insert -5423569
+insert -3870427
+insert -2382700
+insert -4434350
+insert -6273184
+insert -5797163
+insert 2625709
+insert -1561871
+insert 8544220
+insert -3531731
+insert 8178076
+insert -4967434
+insert -3182677
+insert 7321181
+insert 2337503
+insert 8665905
+insert -8063236
+insert 9939093
+insert -6070517
+insert -5349015
+insert -4750133
+insert 2104557
+insert -5396764
+insert -6935174
+insert -8324084
+insert -1922130
+insert 7077903
+insert 3822142
+insert 9065652
+insert 9390571
+insert 7208364
+insert -8339951
+insert -6659053
+insert 6370003
+insert 1819483
+insert 5691052
+insert 4854218
+insert -5877394
+insert -4489160
+insert 7440202
+insert 5196108
+insert -7527172
+insert 5785719
+insert -4074818
+insert -5333579
+insert 6382089
+insert 892699
+insert 506784
+insert -9934609
+insert 6952513
+insert -4945063
+insert -2005669
+insert -4832852
+insert -4470082
+insert 612272
+insert 4955501
+insert 6926146
+insert -4374319
+insert -3448989
+insert -1354985
+insert 5511895
+insert -5004080
+insert 8289571
+insert -4316728
+insert 9082799
+insert 7647562
+insert -4785238
+insert -4148973
+insert -310693
+insert -4225011
+insert 4084885
+insert 9141045
+insert 9070133
+insert 2433759
+insert 1657351
+insert -376126
+insert -8323501
+insert -4958468
+insert -1610229
+insert -3096035
+insert -377244
+insert -5336922
+insert -5600514
+insert -9375099
+insert -4800737
+insert 3811223
+insert 484825
+insert -4546956
+insert 1644371
+insert 5199793
+insert 1174679
+insert 296448
+insert -9526340
+insert 2073598
+insert 8043545
+insert 6383583
+insert -7360606
+insert 6151784
+insert 7658049
+insert 5374573
+insert 596501
+insert -5270991
+insert -4370355
+insert 8704774
+insert 4600678
+insert -4272395
+insert 1561532
+insert 4917904
+insert 4112457
+insert -4849849
+insert 566558
+insert 9063389
+insert 8513340
+insert 1398098
+insert 1982829
+insert 3786638
+insert 433583
+insert 314717
+insert 8981371
+insert 3325729
+insert -9226578
+insert 9055259
+insert -4561563
+insert 7350335
+insert 1925317
+insert -8038391
+insert 4311654
+insert 9059794
+insert -7632116
+insert 1049434
+insert -7916261
+insert -4982289
+insert 9081335
+insert 5292628
+insert -9613677
+insert -7360684
+insert 6871736
+insert -9416916
+insert -9908476
+insert 3013945
+insert -998370
+insert -3343595
+insert -4717696
+insert 4032193
+insert 994707
+insert 5867970
+insert 5573733
+insert 7375193
+insert -7724167
+insert 4805399
+insert 4167776
+insert -2021179
+insert -1850289
+insert -5422411
+insert 7390764
+insert -9144702
+insert 1808691
+insert -2580235
+insert 976901
+insert -4719179
+insert 4880268
+insert -5019871
+insert -778252
+insert -8841594
+insert -6686580
+insert -9357046
+insert 9479052
+insert -2990909
+insert -658539
+insert -6532519
+insert 6880891
+insert -3675839
+insert -3547223
+insert 1059731
+insert 220535
+insert 2017122
+insert -1154732
+insert 9010815
+insert -9675920
+insert 1884054
+insert -5482336
+insert 2792362
+insert -7969610
+insert -5188994
+insert 1357947
+insert -6162655
+insert -2689947
+insert -9149589
+insert 2455477
+insert 1752614
+insert -2452715
+insert -1033558
+insert -5566994
+insert -7248159
+insert -8075842
+insert 4831903
+insert -4667794
+insert 7623502
+insert 5177467
+insert -699482
+insert -4502727
+insert 7318378
+insert -7722205
+insert -810478
+insert -6405685
+insert -9739110
+insert -3700316
+insert 7618318
+insert -7657454
+insert 9077174
+insert -6945780
+insert 7037815
+insert 699946
+insert -6780087
+insert 9764361
+insert -6424318
+insert -5386902
+insert -636733
+insert -9847622
+insert 6386827
+insert -6117822
+insert 8452673
+insert -5064821
+insert -132590
+insert -3175513
+insert -8686129
+insert -8189741
+insert -8927991
+insert -4662624
+insert 1509349
+insert -1310597
+insert 1079041
+insert -6020811
+insert -2060554
+insert 7152421
+insert 8885930
+insert -9325823
+insert 625292
+insert 8558611
+insert 2175473
+insert 5268378
+insert 5237045
+insert -3859959
+insert 19063
+insert 9031881
+insert -4225029
+insert -8647911
+insert 8586691
+insert 998121
+insert 5288733
+insert 9227013
+insert -8954207
+insert -8886646
+insert -7674673
+insert -8274992
+insert -5073520
+insert -8908064
+insert -3525099
+insert -6366022
+insert -3030255
+insert -6963232
+insert 1713072
+insert -5154400
+insert -632867
+insert -1887525
+insert 8661042
+insert -4826464
+insert 5333611
+insert 4865827
+insert -2596825
+insert -7022746
+insert 6528108
+insert -317291
+insert 3727745
+insert 4105027
+insert 2051290
+insert 1137378
+insert -2926011
+insert 3706376
+insert -4605295
+insert 6577903
+insert -8055118
+insert -4466275
+insert 6035181
+insert 5746672
+insert 55200
+insert -8963669
+insert 3321588
+insert 6530120
+insert -8033351
+insert -9879153
+insert -853276
+insert 4040204
+insert -3370732
+insert -3821075
+insert 6823868
+insert -5768919
+insert -4738219
+insert 932496
+insert -8662683
+insert -1136906
+insert 6201661
+insert 9366955
+insert -1865928
+insert 8721380
+insert -242536
+insert 2686962
+insert 1588096
+insert -5270693
+insert 8858753
+insert 7252819
+insert 9229501
+insert -1148801
+insert -9162746
+insert 8076013
+insert -2897572
+insert 4782527
+insert -2524949
+insert 7745157
+insert -9646656
+insert 9967002
+insert 8880983
+insert 6348031
+insert 7485542
+insert -5464364
+insert 4842386
+insert -1686272
+insert 429577
+insert -6339397
+insert -9207343
+insert -4020102
+insert 997389
+insert -4070597
+insert -9387485
+insert 6325298
+insert -1261324
+insert 9235740
+insert 6455638
+insert 1867955
+insert 630299
+insert 1239432
+insert 6909913
+insert 9396990
+insert 8554831
+insert 8183576
+insert 9043966
+insert 1606000
+insert 9137395
+insert -9539999
+insert -2852662
+insert -7875767
+insert -6278863
+insert 4455869
+insert 1475354
+insert 4761029
+insert -3920878
+insert 374157
+insert -8593300
+insert -4757458
+insert 2219841
+insert -2996262
+insert 9144210
+insert 4066044
+insert 99291
+insert 307770
+insert 7023457
+insert 2063124
+insert 1566621
+insert -5027290
+insert -5190582
+insert -8555046
+insert 5132869
+insert -7788370
+insert 9321248
+insert -2470372
+insert -2258958
+insert -6553325
+insert -3420300
+insert -2269935
+insert 7173930
+insert 4643418
+insert 7615393
+insert 1325134
+insert -8905842
+insert -6874329
+insert -6714140
+insert -5167799
+insert -7178150
+insert 6756248
+insert 357924
+insert -4284594
+insert -6442518
+insert 2085255
+insert -6516700
+insert -673023
+insert 2420899
+insert 9249783
+insert 420587
+insert 4911289
+insert 8932897
+insert -2919774
+insert 3097606
+insert -2018718
+insert -9075454
+insert 716639
+insert 8008121
+insert -2566941
+insert -2435718
+insert 8187870
+insert -9401045
+insert 8544898
+insert 7466119
+insert 4412742
+insert 8000161
+insert 4828670
+insert 5169789
+insert 4513648
+insert 9608623
+insert -6775707
+insert 7293990
+insert 7395723
+insert -2736580
+insert 9069114
+insert 9298233
+insert -1731642
+insert 960352
+insert 5370127
+insert -4561722
+insert -2493965
+insert -7849814
+insert 1892939
+insert -2330422
+insert 2211917
+insert 1913865
+insert -1249777
+insert -5887632
+insert 7191891
+insert 1159804
+insert -7758864
+insert -8993770
+insert -7500751
+insert -3915110
+insert -4905065
+insert 7237502
+insert -9878108
+insert -5071835
+insert 8089104
+insert -2161834
+insert -6371308
+insert 8918032
+insert -6127972
+insert 8797854
+insert 6302007
+insert -6077833
+insert 8027505
+insert -8635337
+insert 8593773
+insert 6573229
+insert 3347949
+insert -4226192
+insert -8898665
+insert 5344663
+insert -6846244
+insert 8025086
+insert 8426287
+insert 4957669
+insert 9309291
+insert 5052672
+insert -7171132
+insert -5775974
+insert -958817
+insert 7028178
+insert -3315244
+insert 1583725
+insert -2974628
+insert -6713882
+insert -7459055
+insert -5560066
+insert -1388675
+insert 9141202
+insert -2693789
+insert -8032522
+insert -1730730
+insert -4461866
+insert 637969
+insert 5931077
+insert 2924994
+insert -2910042
+insert 9110041
+insert -7690108
+insert -1418065
+insert 9900859
+insert -4040568
+insert -9797317
+insert 708532
+insert -287854
+insert -1522471
+insert 8658883
+insert -750270
+insert -224247
+insert 1443598
+insert -1947732
+insert -3258935
+insert 1416828
+insert 6461800
+insert -7334248
+insert -6266418
+insert -7307640
+insert 5353735
+insert 5777412
+insert 503874
+insert 8006328
+insert 9771964
+insert 4447670
+insert 8537287
+insert 3352537
+insert 5905193
+insert 6426853
+insert -3090523
+insert 6483819
+insert -3035158
+insert -8721976
+insert -8485944
+insert 1853544
+insert 8442113
+insert -5490458
+insert 5118541
+insert 6244659
+insert 2019342
+insert 4474503
+insert 6381584
+insert -5922160
+insert -2499124
+insert -9421334
+insert -4119840
+insert 6213150
+insert -5932701
+insert 9701120
+insert 2066076
+insert -4542095
+insert -3063143
+insert 319460
+insert -6918516
+insert 2687703
+insert 5840630
+insert -7134906
+insert -882399
+insert -1043484
+insert -7174163
+insert -9009187
+insert 3577771
+insert 8239805
+insert 1678113
+insert -5190211
+insert 6404053
+insert 7296900
+insert 5214543
+insert 59197
+insert 9367449
+insert -5992751
+insert -5297075
+insert -8997765
+insert -9534127
+insert 3567212
+insert -7159963
+insert 3403796
+insert -395577
+insert -6838992
+insert -932276
+insert -8023080
+insert -7114397
+insert 1874149
+insert 4828562
+insert -4805857
+insert -4045401
+insert 4298213
+insert -9775472
+insert -9709312
+insert -9277854
+insert -4111483
+insert -5119690
+insert 7575350
+insert 2864104
+insert 7438775
+insert 9044744
+insert -3893293
+insert -4950782
+insert -6265850
+insert -3518260
+insert 3190823
+insert -4189802
+insert -1389670
+insert -3719867
+insert 5680808
+insert 7558669
+insert 6634505
+insert 7820862
+insert 2902171
+insert -2194540
+insert 3933880
+insert -7747344
+insert -3317410
+insert -5418618
+insert 4782854
+insert -2785108
+insert 3221657
+insert 6187641
+insert 2609372
+insert 9139392
+insert -5905067
+insert -1777403
+insert 3801750
+insert -2290172
+insert -6095121
+insert -3660140
+insert 8637000
+insert 4760028
+insert 3851510
+insert -9413537
+insert 5993691
+insert 8491101
+insert -123390
+insert -9915774
+insert 2852612
+insert -2175094
+insert -4730823
+insert -7958318
+insert 1421451
+insert -3096527
+insert 9691327
+insert -890551
+insert 6978111
+insert -7274784
+insert -5991007
+insert 9092412
+insert -4962870
+insert 4880743
+insert -2436060
+insert 1777396
+insert -307436
+insert -1736904
+insert 4756178
+insert -8926103
+insert 7259730
+insert -6452673
+insert 3943861
+insert -5931520
+insert 2021669
+insert 4853331
+insert 681307
+insert 7575682
+insert -7580262
+insert 449855
+insert -9353042
+insert 1415375
+insert -6711348
+insert 3991203
+insert -1778231
+insert 9233967
+insert 5652136
+insert -9381738
+insert -3735244
+insert 4498134
+insert -714363
+insert 5135262
+insert -4572568
+insert 7081430
+insert 6445505
+insert -6349498
+insert -4127545
+insert -9095988
+insert -1451588
+insert 801474
+insert 2644361
+insert -6074135
+insert -3328831
+insert -4947264
+insert 7156936
+insert -8928633
+insert 3970314
+insert 2778942
+insert -9184683
+insert 8211067
+insert -1705736
+insert 9041050
+insert 5616110
+insert -2774767
+insert -4263896
+insert 9311096
+insert 7555094
+insert 9288951
+insert 8906489
+insert -2401994
+insert -3553609
+insert 8665183
+insert 6823683
+insert 3442997
+insert -8447842
+insert 2196216
+insert 1205911
+insert -6909260
+insert 2374004
+insert -895173
+insert 1279216
+insert -5869928
+insert 5537652
+insert -1303147
+insert 3117326
+insert -4928963
+insert -8571420
+insert -6435349
+insert -1828986
+insert 6996743
+insert -5731337
+insert -8025806
+insert 1520975
+insert 5940758
+insert 9349610
+insert 9818234
+insert 9450007
+insert 9873856
+insert 8867570
+insert -7993275
+insert 755874
+insert 6821372
+insert 2727321
+insert 8409330
+insert 7297385
+insert -2726283
+insert -1375553
+insert 3324578
+insert 9176352
+insert 2700216
+insert 1241312
+insert 7717767
+insert -7134858
+insert 1335919
+insert 5515047
+insert 9071423
+insert 7967917
+insert -1428661
+insert -4099514
+insert 8971930
+insert -9086501
+insert -1853449
+insert -8671816
+insert 9954169
+insert 1599149
+insert 7374579
+insert -3661940
+insert -8527458
+insert 9068006
+insert 4391163
+insert -360917
+insert 3391845
+insert 492286
+insert -1091688
+insert 2907595
+insert -3556077
+insert -8693951
+insert 9572523
+insert -518582
+insert 5805008
+insert 20267
+insert -5638061
+insert -9779397
+insert -7301797
+insert 2098690
+insert -6214134
+insert -5934575
+insert -5990534
+insert -6192816
+insert 5541650
+insert -2597396
+insert -9259225
+insert -8289398
+insert -2892684
+insert 3680160
+insert 290583
+insert 793685
+insert 1708292
+insert -8917727
+insert -3422206
+insert -7162170
+insert 5478712
+insert 3420394
+insert -6939471
+insert 2587973
+insert -2241485
+insert -2731582
+insert -3053011
+insert 931088
+insert -2886488
+insert -6721901
+insert -6852521
+insert 6869628
+insert -2684530
+insert -4390225
+insert 9804140
+insert -4393535
+insert 8529113
+insert 3990256
+insert -1419423
+insert -2236249
+insert -4001174
+insert 6670244
+insert -5581231
+insert -4294179
+insert 9936012
+insert -9134164
+insert -3855617
+insert 1330898
+insert -8435487
+insert 7143694
+insert -8999522
+insert 5356857
+insert 8016259
+insert 942779
+insert -1152579
+insert 1175906
+insert 7434194
+insert 6791061
+insert 6849266
+insert 9660822
+insert -5338682
+insert -4609029
+insert 148763
+insert 6743134
+insert -2440602
+insert 154836
+insert 6446924
+insert -691421
+insert -2927847
+insert 8842783
+insert -8948134
+insert 5954235
+insert -4164106
+insert -8884408
+insert -1105225
+insert -1341539
+insert -8929879
+insert -7077236
+insert 8704355
+insert 5351634
+insert -7833445
+insert 2904840
+insert 7939207
+insert -8100677
+insert -5231954
+insert -1259609
+insert -3130878
+insert -6751497
+insert -9101708
+insert 5196569
+insert 9533520
+insert -5918385
+insert -2292220
+insert -4501795
+insert -4991847
+insert 6658487
+insert -424512
+insert -1622282
+insert 7439399
+insert 1053531
+insert 4112375
+insert 5949361
+insert 5626244
+insert -1842279
+insert -7907034
+insert -7449528
+insert -8477835
+insert 3996975
+insert -518999
+insert 1035373
+insert 3875398
+insert 4940915
+insert 7312888
+insert -5449941
+insert 8903456
+insert -3240539
+insert -5473133
+insert -924553
+insert 2470966
+insert -3561298
+insert 824735
+insert 5473849
+insert 2338799
+insert -9729043
+insert 8358528
+insert -525505
+insert 8957314
+insert 3359550
+insert -4201120
+insert -5366812
+insert -6351880
+insert 7348197
+insert -6787743
+insert 6536372
+insert -9072612
+insert 6506322
+insert 8290038
+insert -6823556
+insert 6584592
+insert -3648022
+insert 2293858
+insert 4448811
+insert 707366
+insert -9473600
+insert -9490301
+insert 1861747
+insert 6840203
+insert -4416495
+insert -9964996
+insert -8408812
+insert 3318603
+insert 2228599
+insert 9920504
+insert -6698157
+insert 2944437
+insert -6339034
+insert 1795212
+insert -8331057
+insert -7542154
+insert -8860964
+insert 7134138
+insert -2529804
+insert -2605760
+insert -9420501
+insert 5594934
+insert 4288481
+insert -7702877
+insert -8428304
+insert 976607
+insert -8599664
+insert -203613
+insert -522548
+insert -1494806
+insert 9602270
+insert 2668940
+insert 9735786
+insert -6647556
+insert -2606474
+insert -4624988
+insert 7186022
+insert 5473542
+insert -9914512
+insert -5615578
+insert -9809619
+insert 1653275
+insert -5847871
+insert 2948747
+insert -7967217
+insert -1467359
+insert -2749514
+insert 7383627
+insert -4920646
+insert 6278490
+insert -7907565
+insert 2185372
+insert 6400796
+insert 3993386
+insert 9947077
+insert 1842156
+insert 3861403
+insert -5042984
+insert 4010590
+insert 3837768
+insert 1254884
+insert -4153203
+insert -773418
+insert 2178283
+insert -245113
+insert 8288001
+insert -7303423
+insert -8861959
+insert -6245987
+insert 9679636
+insert 7978889
+insert -5065275
+insert -9340156
+insert -2778349
+insert 9476835
+insert -4422947
+insert 2206198
+insert 2881898
+insert 3279364
+insert 7319133
+insert 6702743
+insert 3145502
+insert -3558148
+insert 759519
+insert 3527251
+insert 7045360
+insert -7173567
+insert -2309297
+insert 5353088
+insert -7295630
+insert 5065251
+insert 8999198
+insert 8433932
+insert 52212
+insert 4208514
+insert 4123252
+insert 6244196
+insert -1171311
+insert -1333678
+insert 9979241
+insert 6977701
+insert -6718466
+insert -7297958
+insert -2726772
+insert -2125603
+insert -1349208
+insert -3735091
+insert 2207346
+insert -6237092
+insert 4804042
+insert 5576574
+insert 7393769
+insert 1578589
+insert 5484465
+insert 2852063
+insert -8706086
+insert -917118
+insert 3116345
+insert 4335378
+insert -7446591
+insert 8594795
+insert -7603025
+insert -5184760
+insert 448738
+insert -9123080
+insert -5548033
+insert -1616305
+insert 9854394
+insert -6573312
+insert -346556
+insert -494325
+insert -7390426
+insert 4100714
+insert -9219354
+insert -4304060
+insert -3973761
+insert 8727304
+insert 8931310
+insert 8838917
+insert -3509902
+insert -374157
+insert 6847685
+insert 9152904
+insert 3314273
+insert -1615433
+insert -4496945
+insert 1096172
+insert 807073
+insert -3058392
+insert 5686021
+insert -2458136
+insert 6629050
+insert 9236617
+insert -6678159
+insert -3740825
+insert 1111473
+insert -7280246
+insert -9619097
+insert -771555
+insert 8644430
+insert 5301642
+insert -7368130
+insert -9192549
+insert -3828476
+insert -535874
+insert 9612757
+insert 7211914
+insert -5313544
+insert -1067155
+insert 2313799
+insert 1607869
+insert 2308764
+insert -3091319
+insert 2780117
+insert -8374901
+insert 319451
+insert 4020848
+insert -7613976
+insert 1190336
+insert -71816
+insert -7631826
+insert -9930331
+insert -9720860
+insert 7460576
+insert 1251460
+insert 8326656
+insert -9375060
+insert -5558669
+insert 6367115
+insert -5614622
+insert 7779379
+insert 2528699
+insert -3135536
+insert -7219315
+insert 5827987
+insert 3946833
+insert -8249364
+insert -122245
+insert 7310769
+insert -5306339
+insert -8365304
+insert 9387446
+insert -139164
+insert 3307141
+insert 7179466
+insert -3055819
+insert 4909607
+insert -1111968
+insert 416616
+insert 5388435
+insert -1680604
+insert 830812
+insert 300631
+insert 1217836
+insert 8248416
+insert 9735463
+insert 7600870
+insert -3720988
+insert 6585050
+insert 5722609
+insert 503021
+insert -7156551
+insert 6383096
+insert -8955522
+insert 9962666
+insert 9155923
+insert -3824005
+insert -44348
+insert -1668879
+insert -7681247
+insert 4979632
+insert 699575
+insert 7956102
+insert 7570274
+insert 5693270
+insert 9423481
+insert 7880564
+insert -8848886
+insert 7509423
+insert -3462864
+insert -9618198
+insert 9922132
+insert -9377486
+insert -928811
+insert -9637890
+insert -3503729
+insert -1049939
+insert 5546277
+insert 6463620
+insert 198139
+insert -6195829
+insert -5686540
+insert 4078623
+insert 5569730
+insert 8566116
+insert 3214304
+insert 3172491
+insert 1743358
+insert 5197026
+insert 8149503
+insert 7193369
+insert 4959130
+insert -2068557
+insert 1860215
+insert 4738977
+insert 4779539
+insert 3562398
+insert -348376
+insert -3015763
+insert -286378
+insert 8635238
+insert 9344800
+insert 9467786
+insert -4614346
+insert -7018165
+insert -6396070
+insert -4757374
+insert 6570838
+insert 283430
+insert -1037826
+insert -3792079
+insert 9647255
+insert -238405
+insert -832724
+insert 8645041
+insert 8422128
+insert -6585840
+insert 5629851
+insert -9856988
+insert 8601190
+insert 8970266
+insert 3369066
+insert 7092323
+insert 9857099
+insert 4368705
+insert 1634644
+insert 4669937
+insert -5920849
+insert -8668166
+insert -7104069
+insert -3976404
+insert -968240
+insert 6771410
+insert 6764845
+insert -3385398
+insert -2577286
+insert 3593373
+insert 2324015
+insert 8696754
+insert 1870275
+insert 7717586
+insert -5410907
+insert 7815556
+insert 972747
+insert 7261036
+insert 8489520
+insert -8454328
+insert -1829376
+insert -2014427
+insert 4723689
+insert -8198570
+insert 433220
+insert -5258806
+insert -1713628
+insert -4804336
+insert 7606738
+insert -9303596
+insert -1787352
+insert 8077720
+insert 1522532
+insert 4865462
+insert 788066
+insert -6402230
+insert 696358
+insert -1878442
+insert -1218281
+insert -3952217
+insert 207481
+insert -5597592
+insert -8672580
+insert 4035059
+insert -1455705
+insert 5718500
+insert -1631996
+insert -3121174
+insert 6501195
+insert 9722400
+insert 5754675
+insert 6665283
+insert 7484755
+insert -5240915
+insert -1374237
+insert 5211455
+insert 5454425
+insert 315437
+insert -8056483
+insert -5218247
+insert -6014569
+insert 5923705
+insert -532872
+insert -1235040
+insert 2166888
+insert 6204939
+insert -5124367
+insert 9281453
+insert 4130911
+insert 3304113
+insert 3183068
+insert -2274910
+insert -1678311
+insert 4986121
+insert -4037575
+insert 7086717
+insert -8699789
+insert -5433225
+insert 1266706
+insert 2800731
+insert -3818533
+insert -5542573
+insert -845486
+insert -1447092
+insert -2347497
+insert -9717712
+insert 1428443
+insert 5345802
+insert 4973716
+insert -2085516
+insert -4148681
+insert 671539
+insert 5905573
+insert 2772338
+insert -6303485
+insert 7720967
+insert -7760848
+insert -8334756
+insert 9116047
+insert 8777238
+insert 2420529
+insert 9264815
+insert -6519704
+insert -9701078
+insert 9287632
+insert 4893405
+insert -580210
+insert -7910887
+insert -7364545
+insert -5134874
+insert 5794043
+insert 9081511
+insert -8562249
+insert -6233427
+insert -7931219
+insert -3175682
+insert 1448761
+insert -4920796
+insert -2213415
+insert 9691699
+insert 2666601
+insert 8870081
+insert 1502468
+insert -6652144
+insert 9596754
+insert 5294267
+insert 303243
+insert -7957720
+insert 3266668
+insert 5436954
+insert -6986816
+insert -8737065
+insert 5691423
+insert 6461099
+insert -5380272
+insert 2274011
+insert -2626294
+insert -9558371
+insert -8745668
+insert -9970669
+insert 8828178
+insert -5981234
+insert 9379958
+insert 1358127
+insert 2868270
+insert -9056239
+insert 4920037
+insert -8905578
+insert 6337632
+insert -4502805
+insert -616667
+insert -7520664
+insert -1230190
+insert 7561757
+insert -8300746
+insert -7575007
+insert -5713100
+insert 5650632
+insert 6576787
+insert 1216399
+insert 7286122
+insert 9390825
+insert -6736028
+insert -1735658
+insert -1088611
+insert -1448271
+insert 8245844
+insert 1314258
+insert -7540770
+insert -3831397
+insert -5345485
+insert 5645233
+insert -8043431
+insert -6268524
+insert 6848018
+insert 3886949
+insert -4465617
+insert 5987389
+insert -3432178
+insert -3279507
+insert 5712671
+insert -7638738
+insert -6436809
+insert -1717394
+insert -3232689
+insert -1938382
+insert 8969337
+insert 8876672
+insert -8051052
+insert -3732047
+insert 2132717
+insert -8705244
+insert -9310479
+insert 7978171
+insert -997929
+insert -4596682
+insert 9018498
+insert -8784447
+insert -4455153
+insert 236623
+insert 4867534
+insert -5938372
+insert 1524229
+insert -6714864
+insert -8931305
+insert 3334945
+insert -4452280
+insert 7650616
+insert 2580391
+insert 5182528
+insert -6749134
+insert -2827443
+insert 222544
+insert -2250228
+insert 8719001
+insert -9752406
+insert 855710
+insert 7688342
+insert -7658235
+insert 7778304
+insert -8094065
+insert -8946005
+insert 3368985
+insert -6886739
+insert 568999
+insert -4929344
+insert 3167276
+insert -366615
+insert 6304376
+insert -541768
+insert 8425936
+insert 1031342
+insert 478811
+insert 802007
+insert -7640512
+insert 8120336
+insert 5832500
+insert 6563520
+insert 1048099
+insert -4343575
+insert 8608100
+insert 8912240
+insert -6598563
+insert -4139223
+insert -99505
+insert 9768785
+insert -2753657
+insert -8024581
+insert 316932
+insert 6177493
+insert -2481155
+insert 9576579
+insert 7392160
+insert -6003104
+insert -440297
+insert -1542165
+insert -7727792
+insert 6683798
+insert 7770261
+insert -4274710
+insert 2512611
+insert 2762077
+insert -4926681
+insert -6138054
+insert -3528385
+insert -2696394
+insert 3017049
+insert 3976986
+insert 5715024
+insert -4223091
+insert 6734757
+insert -7977745
+insert -9605821
+insert 7106524
+insert 8447612
+insert -9226469
+insert -9676866
+insert -7437014
+insert -3193373
+insert 1577322
+insert 7560561
+insert -565975
+insert 4256944
+insert -6567712
+insert -189462
+insert 7773323
+insert 7948745
+insert 2298033
+insert 5356292
+insert -3393118
+insert -7556093
+insert 9827189
+insert -4695059
+insert -5216060
+insert 5651238
+insert 5946864
+insert -6767131
+insert 7221359
+insert -4597890
+insert -3997000
+insert 7005261
+insert 4478836
+insert 1250143
+insert 5253198
+insert -5685286
+insert -1075286
+insert 7067575
+insert 7440009
+insert 9360901
+insert -6717174
+insert -5615320
+insert 4086881
+insert -5324749
+insert -3147121
+insert 593578
+insert 1061752
+insert 9133238
+insert 4856998
+insert -1270187
+insert -6646501
+insert 7142387
+insert -2855857
+insert 9279688
+insert 1796045
+insert 5064112
+insert -466666
+insert 4105525
+insert 7199379
+insert -7111551
+insert 787044
+insert -211909
+insert -8897109
+insert -1592659
+insert 9839465
+insert -5016809
+insert -3335657
+insert 6256649
+insert 2899288
+insert 5295135
+insert -2389522
+insert -6425998
+insert -648656
+insert -4036668
+insert 6840390
+insert -564597
+insert -4320051
+insert 6840849
+insert -1783478
+insert 8602624
+insert -4601044
+insert -5532831
+insert 8899139
+insert 5849709
+insert -5486445
+insert 9050398
+insert -5042427
+insert 9529651
+insert 7568545
+insert 8152376
+insert 7918887
+insert 4480267
+insert -3178027
+insert 5127575
+insert 2866228
+insert 937790
+insert 9961192
+insert -9712742
+insert -9926454
+insert -426159
+insert -9138843
+insert 2240404
+insert 9902957
+insert -5779691
+insert 236806
+insert 7058930
+insert -6050893
+insert -1883059
+insert -8273627
+insert -8459811
+insert 9678138
+insert -4713674
+insert -3242937
+insert -7429423
+insert 4756809
+insert -7461748
+insert -5323835
+insert -1261526
+insert 4918708
+insert -9763098
+insert -4017702
+insert -8502316
+insert 6423328
+insert 8185883
+insert 9997701
+insert -4492084
+insert -8838528
+insert 7657924
+insert -8764669
+insert -9748615
+insert -3843201
+insert 3125275
+insert 8026783
+insert -2541206
+insert -6135191
+insert -7222072
+insert -110938
+insert 7503851
+insert 4582985
+insert -6587070
+insert -324519
+insert 5622723
+insert 3488081
+insert -7088234
+insert -6734761
+insert -6195303
+insert 3961235
+insert -4831183
+insert 4855102
+insert -4292171
+insert 9851594
+insert -7097942
+insert 8153484
+insert 4356989
+insert 1836466
+insert 4305157
+insert -9357774
+insert -3613983
+insert 6056170
+insert -2164264
+insert -7411402
+insert 1465805
+insert -6060450
+insert -696361
+insert -2363395
+insert 3117384
+insert 3972139
+insert -402776
+insert -7226690
+insert 3829009
+insert 2835992
+insert 4905154
+insert -324565
+insert -3908531
+insert 22394
+insert -1006622
+insert 9037296
+insert -2978664
+insert -5550519
+insert 636575
+insert 8556750
+insert 2262634
+insert -1246435
+insert -4603834
+insert 5050181
+insert 3666380
+insert -5077556
+insert -364986
+insert -173663
+insert 8013969
+insert 1641528
+insert -5854307
+insert 6613925
+insert 673000
+insert -9625801
+insert -3590471
+insert 5694339
+insert 5625219
+insert -1232459
+insert 6121814
+insert -4290089
+insert 6245733
+insert -5248827
+insert 4719626
+insert 11764
+insert 7709988
+insert 1668230
+insert -3724729
+insert -2170782
+insert -1361665
+insert 507195
+insert -6821387
+insert -351463
+insert -890922
+insert 5907944
+insert 1493049
+insert 1320695
+insert -7216960
+insert 364984
+insert 7060507
+insert -3613501
+insert -1616941
+insert -8636370
+insert 39632
+insert -5144192
+insert -8001781
+insert -5413775
+insert 8539380
+insert 2667312
+insert -7365460
+insert 2451247
+insert -7460235
+insert 6900012
+insert -1207871
+insert -7618982
+insert 2068350
+insert 4665157
+insert 868758
+insert -9769886
+insert 1781757
+insert -4283298
+insert -5295923
+insert 4599823
+insert 1931477
+insert 5474172
+insert -6033418
+insert -4776252
+insert -2896362
+insert -1156401
+insert -9230335
+insert -7031503
+insert 9865009
+insert -9023830
+insert -6534709
+insert 4551054
+insert -1485831
+insert -5263365
+insert -4082099
+insert 9588652
+insert -2776264
+insert -3715768
+insert -3741451
+insert 294521
+insert 9120370
+insert 2986247
+insert 9402620
+insert -6079805
+insert 4747608
+insert -2634982
+insert 6509035
+insert 5572054
+insert 668669
+insert -1265173
+insert 6965303
+insert -3424625
+insert -5580947
+insert -2713287
+insert 8132603
+insert -6708488
+insert -8550764
+insert 9094483
+insert 8491838
+insert -2796292
+insert 1549019
+insert 2234066
+insert 3136744
+insert 6284509
+insert 5324338
+insert -9578930
+insert -6188424
+insert -357892
+insert -1785564
+insert 3944352
+insert 9849974
+insert -4944015
+insert 3853714
+insert 4336694
+insert 8304385
+insert 8249517
+insert 6488334
+insert -2353126
+insert 7458517
+insert -400001
+insert -5844342
+insert -9497170
+insert 1510265
+insert -2162395
+insert 3516267
+insert 8065555
+insert -8379532
+insert -8130506
+insert 2091414
+insert -4721256
+insert -5831387
+insert -1159657
+insert -5343074
+insert -7638488
+insert -2026881
+insert 815605
+insert -8609445
+insert -3578979
+insert -9427761
+insert 5356087
+insert 4684198
+insert 6718842
+insert -5939965
+insert 6095164
+insert -6409441
+insert 5284936
+insert 5019493
+insert -1234842
+insert -6843440
+insert 3877713
+insert -8742626
+insert 3416900
+insert 2080925
+insert 7733481
+insert 7633828
+insert 3510380
+insert -7983708
+insert -1487652
+insert 7939478
+insert -9790779
+insert 9478825
+insert -7264422
+insert -967751
+insert -5672358
+insert -9453532
+insert -8093326
+insert 4920692
+insert 4860473
+insert 5013488
+insert 4904348
+insert 1926508
+insert 1551367
+insert 1286879
+insert 8741018
+insert -5541561
+insert -1292430
+insert -5629180
+insert 3199250
+insert -7657028
+insert 1581316
+insert -4313187
+insert 8102848
+insert -3984085
+insert 7706802
+insert 9272388
+insert -7124671
+insert -1627805
+insert 4696952
+insert 8426904
+insert 8205137
+insert 4413045
+insert -7779653
+insert -9732529
+insert 5041970
+insert 4252473
+insert -6261869
+insert 2564515
+insert 3043674
+insert -4547929
+insert -8743329
+insert -5223751
+insert -5311591
+insert -7188242
+insert -33210
+insert 6449404
+insert 6109220
+insert 1430620
+insert 7225596
+insert -350512
+insert 9925182
+insert -1477838
+insert -8283628
+insert -9289585
+insert -1093281
+insert 5496293
+insert -9383544
+insert 7289790
+insert 409442
+insert -1166177
+insert -7677210
+insert -2064804
+insert 3201878
+insert 3700580
+insert -3408853
+insert -2271727
+insert -8122580
+insert 8031657
+insert -3818983
+insert -6145511
+insert 384669
+insert 9882737
+insert 9373265
+insert 4556740
+insert -6922093
+insert 420325
+insert -9842871
+insert -3494542
+insert 4077025
+insert -1784559
+insert 8340944
+insert 7777010
+insert 9672454
+insert 6280338
+insert -3831035
+insert -9764308
+insert 5897716
+insert 7291687
+insert -870681
+insert -2599055
+insert -7270356
+insert -6250663
+insert 8820199
+insert 1887464
+insert 8802171
+insert -4307180
+insert 4067287
+insert -9137760
+insert -2246726
+insert -3584839
+insert -3540101
+insert 1086574
+insert 5253914
+insert 1524256
+insert 8400650
+insert -5739773
+insert -5645354
+insert 3399428
+insert -2248229
+insert -2070820
+insert 6338405
+insert 8769537
+insert -1872969
+insert 7442948
+insert 4308181
+insert -9760879
+insert -2440138
+insert 4187691
+insert -7661406
+insert -2221085
+insert 2706642
+insert -1268587
+insert -8003817
+insert -7116527
+insert -3899770
+insert -78999
+insert -8725178
+insert 8291957
+insert -9665656
+insert -6551406
+insert 7469854
+insert -3276783
+insert 6650721
+insert 3017059
+insert 4978312
+insert -2870060
+insert 2294807
+insert -4887302
+insert 5947002
+insert -1831203
+insert 8388024
+insert -6072924
+insert 5116677
+insert 9348767
+insert 2308248
+insert 61505
+insert 3504115
+insert -369185
+insert -8000223
+insert -533233
+insert 7586211
+insert -2029675
+insert 2812896
+insert 6737500
+insert 3017890
+insert -5919641
+insert -1707896
+insert 2293014
+insert -6467716
+insert -8974303
+insert -1045148
+insert 9790066
+insert -2719744
+insert -3592415
+insert -259954
+insert -9327126
+insert 4660730
+insert -7299960
+insert 5641531
+insert -1133479
+insert 8745889
+insert -1060589
+insert -870061
+insert 8381324
+insert 3610685
+insert -7527701
+insert 6117258
+insert -3398383
+insert -2251922
+insert 726937
+insert 9383715
+insert 8762674
+insert 8933186
+insert 5784532
+insert 5821535
+insert 6941878
+insert -2072327
+insert -4500554
+insert -9341511
+insert -7796387
+insert 2519811
+insert -182290
+insert -9587225
+insert -6994589
+insert 2282248
+insert 5606512
+insert 9284763
+insert 2493291
+insert 4695387
+insert -4023226
+insert -2684308
+insert -9142853
+insert 1501519
+insert -5449733
+insert 8774662
+insert -9812448
+insert -6922729
+insert 1863388
+insert -8034572
+insert -2472809
+insert 7424407
+insert 6685418
+insert -5650873
+insert 8556152
+insert -1678624
+insert 1698023
+insert 2182011
+insert -1201553
+insert 7313510
+insert 1090947
+insert 2607288
+insert 8586396
+insert 5778236
+insert 1100891
+insert -1063901
+insert 3685544
+insert 313352
+insert -6601898
+insert -7413724
+insert 8482157
+insert 1809041
+insert -4308623
+insert -1709037
+insert -1287181
+insert 5676206
+insert 5350086
+insert 5788535
+insert -1724611
+insert 9278019
+insert 5817415
+insert -5370934
+insert 778592
+insert -5387
+insert 1773610
+insert 3368513
+insert 6064433
+insert -6254900
+insert 1367541
+insert -6720767
+insert 5477446
+insert -6242604
+insert -3747326
+insert -1253834
+insert -2619042
+insert -9162882
+insert 9457215
+insert 2353148
+insert -6834836
+insert 9532322
+insert -4329854
+insert 3267109
+insert -7887486
+insert -8272502
+insert -668856
+insert -9077088
+insert -8656614
+insert 6523568
+insert 4945748
+insert 4923201
+insert 1516628
+insert 1778020
+insert -3015070
+insert -2054965
+insert 7835493
+insert 1484079
+insert -823548
+insert -6297698
+insert -230640
+insert -3108704
+insert -7365393
+insert 76283
+insert 1629720
+insert -9479172
+insert -4003232
+insert 2264354
+insert 6940080
+insert 6959919
+insert 2523353
+insert 9694238
+insert 8239451
+insert 9444044
+insert -4822445
+insert -2098015
+insert 694154
+insert -107642
+insert -7066951
+insert 6903760
+insert 5781473
+insert -6972502
+insert -2491333
+insert 9764471
+insert -7203385
+insert 2739248
+insert 9491877
+insert 978057
+insert -9070145
+insert -9137441
+insert -3670447
+insert -1626735
+insert 9446999
+insert -6975256
+insert -1293661
+insert 9506117
+insert 2660249
+insert 958016
+insert 6744965
+insert -9802518
+insert 8029578
+insert -2105030
+insert 8607991
+insert 4792529
+insert 6220547
+insert 1808234
+insert -1346243
+insert 7109276
+insert -2326937
+insert 8144546
+insert -8086498
+insert 6492177
+insert 2128194
+insert -4787310
+insert -9772662
+insert 8572983
+insert -7756159
+insert 3935068
+insert 6278816
+insert 5283477
+insert -3400953
+insert -340047
+insert 851235
+insert 2582243
+insert 4300420
+insert -3111235
+insert -3460899
+insert 741747
+insert -5114048
+insert -9104809
+insert 8514961
+insert -763643
+insert 6850249
+insert -4277586
+insert -6682844
+insert 1514449
+insert 2397084
+insert 9790058
+insert -1757152
+insert -7433157
+insert -746393
+insert -4298452
+insert -1118820
+insert 8739033
+insert 9026078
+insert 1609233
+insert 2636505
+insert -8571039
+insert -5292456
+insert 5745327
+insert 6811165
+insert -4681570
+insert 7305074
+insert -6916926
+insert 153701
+insert -6569469
+insert 1076725
+insert -9989247
+insert -5347042
+insert 330954
+insert 3163990
+insert 7686330
+insert 5819159
+insert 2446288
+insert -5187636
+insert -2606442
+insert -7471340
+insert -3345133
+insert 5704012
+insert -5301227
+insert -3436450
+insert 1145306
+insert 9841930
+insert 6449857
+insert -9862460
+insert -9232683
+insert 5066666
+insert 7518039
+insert -6585426
+insert -3080550
+insert -3882954
+insert 4372618
+insert 6680081
+insert -3630617
+insert -9604251
+insert 9435281
+insert 9495361
+insert -1600631
+insert -6014886
+insert -3691271
+insert -6767725
+insert -3732831
+insert 9317099
+insert 8168635
+insert 3506611
+insert -9801534
+insert -6123436
+insert -1927071
+insert -1442093
+insert 3980352
+insert -3553145
+insert -4081130
+insert -4074518
+insert -8293841
+insert 1680208
+insert -7413342
+insert -9537414
+insert 5996094
+insert 1709413
+insert 3282160
+insert 7622402
+insert 5653819
+insert 918205
+insert 3636820
+insert -6161489
+insert -8450822
+insert 6116963
+insert -4325213
+insert 1363600
+insert -786726
+insert -8677088
+insert 2605881
+insert 4971581
+insert -1713821
+insert -7378507
+insert -9347805
+insert 7444165
+insert -5097437
+insert -9022954
+insert 7633469
+insert 8773090
+insert -2549144
+insert 4196892
+insert -6755019
+insert 9923955
+insert 9367008
+insert 575833
+insert -9886523
+insert -252566
+insert -21681
+insert 933495
+insert -6471005
+insert 750909
+insert 4780583
+insert 5528890
+insert 9639318
+insert -875381
+insert 2392781
+insert -7464947
+insert 7412251
+insert 8679004
+insert -7639683
+insert 5001575
+insert -142308
+insert 7484767
+insert 394482
+insert 4349167
+insert 9718523
+insert 6492567
+insert -8904929
+insert 7390272
+insert -3305214
+insert -7411176
+insert 7690797
+insert -5565591
+insert -4571808
+insert -6789342
+insert -5950420
+insert -339823
+insert 8061085
+insert 5472883
+insert 3946584
+insert -6621704
+insert -1779418
+insert -8048972
+insert -1356239
+insert 1643644
+insert 7199109
+insert 7056826
+insert -1339539
+insert 4507089
+insert -1459844
+insert -2373669
+insert -2956385
+insert -7991747
+insert 3074984
+insert 1821684
+insert -2278402
+insert -2496113
+insert -8030102
+insert 6812418
+insert 4932850
+insert -6701908
+insert -3992066
+insert 7901906
+insert -9670045
+insert -8873854
+insert 6159343
+insert 4349925
+insert -4355465
+insert 3930462
+insert -2337246
+insert -7188438
+insert -2922849
+insert 3236278
+insert -563313
+insert 7701855
+insert -7343155
+insert -4503388
+insert -5845297
+insert 2381224
+insert -5518508
+insert 905556
+insert 7405110
+insert -4131649
+insert -6053422
+insert 8141459
+insert 133699
+insert -9795452
+insert 9598926
+insert -2274315
+insert -6622951
+insert 5286900
+insert 7104952
+insert 6673570
+insert -7843119
+insert 7860883
+insert -4209872
+insert -6320253
+insert -2160943
+insert -5992408
+insert -3313072
+insert -6808279
+insert 800285
+insert -631483
+insert 6273129
+insert 8039065
+insert 9944501
+insert 9735245
+insert 4449868
+insert 1078602
+insert 5671209
+insert 3291222
+insert 9199351
+insert 7626935
+insert 6550069
+insert 4867823
+insert -9597265
+insert -5485501
+insert 7065040
+insert -1706167
+insert -5133459
+insert -3740544
+insert -3488228
+insert -9556153
+insert 9316002
+insert -806198
+insert 4073082
+insert -7674094
+insert 6026151
+insert -9255722
+insert 6201324
+insert 5512476
+insert -3341646
+insert 2353455
+insert -5480062
+insert -5675289
+insert -6182989
+insert -2467121
+insert -4705377
+insert -1799758
+insert 7166701
+insert -7705661
+insert -3190199
+insert -3872655
+insert -6011488
+insert 9991481
+insert 6645812
+insert 4291375
+insert -8916663
+insert -7268113
+insert 7707640
+insert 7794031
+insert 5073624
+insert 4458922
+insert 3009359
+insert 2721605
+insert -5614917
+insert 7738583
+insert -6250781
+insert 176075
+insert -5382591
+insert 5033163
+insert 6640721
+insert 3662499
+insert 8503435
+insert -4041644
+insert -3704807
+insert 5117159
+insert -6550200
+insert -1381239
+insert -4343573
+insert -4611974
+insert -5932453
+insert 5796555
+insert 2287072
+insert -5519596
+insert 7793763
+insert 3029404
+insert -7388680
+insert 8797194
+insert -5836643
+insert 5021958
+insert -3234696
+insert 4275281
+insert -2549864
+insert -3555622
+insert -2826848
+insert -1307246
+insert -3139713
+insert -4040233
+insert 5880062
+insert -4688423
+insert -2099736
+insert 7794686
+insert -7131849
+insert -7941293
+insert -7385300
+insert 7344287
+insert -3464739
+insert 1633728
+insert 5392448
+insert 8602364
+insert 4855563
+insert -8736104
+insert -4311818
+insert -7486513
+insert -6578795
+insert -8726679
+insert 2751333
+insert 1131604
+insert 35764
+insert -4718120
+insert -7089192
+insert 8236213
+insert 9251631
+insert 4119412
+insert -2021751
+insert -8217749
+insert 1715214
+insert 3458764
+insert -9706192
+insert -4174188
+insert 185229
+insert -1581538
+insert -1565872
+insert 8170941
+insert 3575219
+insert -1149779
+insert -9345830
+insert -1632963
+insert 2110101
+insert 4543390
+insert -5190947
+insert -9425879
+insert -5202503
+insert 3676496
+insert -8338767
+insert -2090727
+insert -1793948
+insert -1619061
+insert -7353293
+insert 848521
+insert 4328321
+insert -9342309
+insert -983448
+insert 5016975
+insert -9924868
+insert -2297235
+insert 9940996
+insert 9550706
+insert 5819748
+insert 1944641
+insert 753705
+insert -7417174
+insert -1302197
+insert 7911843
+insert 759890
+insert -7292563
+insert 6312540
+insert 5045047
+insert -4332642
+insert 7997705
+insert 1656406
+insert -8496308
+insert -9964103
+insert 9694493
+insert 9479704
+insert 6722707
+insert 5776675
+insert -5083511
+insert 2761076
+insert 7529574
+insert 5897767
+insert -7102177
+insert 4084489
+insert 6418403
+insert -5945500
+insert 1105577
+insert 9891424
+insert 4481465
+insert -3474661
+insert -9752970
+insert 9600224
+insert 2967015
+insert 709098
+insert -5905928
+insert 6530144
+insert 6644946
+insert 6235612
+insert 6041196
+insert 4840212
+insert -6365246
+insert 9517514
+insert -838080
+insert 1768418
+insert -111523
+insert 4252219
+insert 4126026
+insert 9554475
+insert -3759604
+insert 3319576
+insert -9365480
+insert 3656073
+insert -8748996
+insert -8227888
+insert -5064577
+insert 4532091
+insert 6120340
+insert -2350593
+insert 9884717
+insert 6260504
+insert 9346395
+insert 3869563
+insert 6630466
+insert 8494463
+insert -7995301
+insert -5683369
+insert 881992
+insert 2440947
+insert -9423594
+insert 7779780
+insert -8589671
+insert 1109924
+insert 3998981
+insert -3519373
+insert -2964017
+insert 5233049
+insert 7392806
+insert 9564961
+insert 6804670
+insert -3848800
+insert -3895036
+insert -5902307
+insert 3249446
+insert 4062387
+insert -4949624
+insert 3382847
+insert 5920121
+insert 5259616
+insert -2798599
+insert 1192758
+insert -4553884
+insert 6169852
+insert 5979372
+insert 5648605
+insert 7439727
+insert -6209916
+insert -543331
+insert 5530996
+insert 3262664
+insert 5593482
+insert 7972969
+insert 977868
+insert 7572529
+insert 8202766
+insert 6992127
+insert -740582
+insert -2162046
+insert 9952335
+insert 4256897
+insert -563485
+insert 6890831
+insert 479701
+insert 1653760
+insert 2647554
+insert -2247329
+insert -4385684
+insert -7789172
+insert -916881
+insert -8692592
+insert 8024250
+insert -6735359
+insert 848526
+insert 573404
+insert 1082821
+insert -1234949
+insert 5653103
+insert -19879
+insert -9099364
+insert -4848110
+insert 7550870
+insert -817212
+insert -401385
+insert 570438
+insert 261041
+insert 2962745
+insert -2101331
+insert 5309876
+insert 1223920
+insert 4306094
+insert 7459567
+insert -4247944
+insert -4088788
+insert 4641960
+insert 5209488
+insert -8733853
+insert 6712676
+insert -8250593
+insert 9393277
+insert 4779119
+insert 639126
+insert -2679558
+insert 8842244
+insert 3018782
+insert -6343572
+insert 8085719
+insert 8517430
+insert 9385098
+insert 6939297
+insert 8167670
+insert 6025198
+insert 8017372
+insert 2572471
+insert -1114256
+insert 100870
+insert 5467554
+insert 1382330
+insert -6256681
+insert 9267394
+insert 7186042
+insert -4027696
+insert 6507657
+insert -2778494
+insert -1132092
+insert 415242
+insert -6683240
+insert 1432556
+insert 5137284
+insert 5482588
+insert 2648186
+insert -157659
+insert -2877858
+insert -263949
+insert -6532122
+insert -9841029
+insert 4913710
+insert -2173722
+insert 9678813
+insert -6234330
+insert 1968070
+insert -1159037
+insert -5655941
+insert 5657419
+insert -5156276
+insert -6923964
+insert 609368
+insert -5251961
+insert -8768782
+insert -969204
+insert -3357317
+insert 9308854
+insert 72974
+insert 3118292
+insert 9466713
+insert -7212602
+insert 9261622
+insert -710521
+insert -2916781
+insert 2566710
+insert -2627857
+insert 8488763
+insert 2489612
+insert -4515401
+insert 6295367
+insert 4402233
+insert -7731595
+insert 8301249
+insert -8903082
+insert -4389570
+insert 5363411
+insert -7210097
+insert -1832566
+insert -869102
+insert -7906744
+insert 9044347
+insert -9359896
+insert -4568246
+insert -3230336
+insert -5133680
+insert -4355603
+insert 3104209
+insert -7835646
+insert 497933
+insert 8948185
+insert 8572942
+insert 9020326
+insert 2276767
+insert 2698233
+insert 991178
+insert -6157584
+insert 2493440
+insert -3288031
+insert -8426162
+insert 2440213
+insert 6624543
+insert 2542784
+insert -2886387
+insert -5121878
+insert 5323817
+insert -9032685
+insert 6850274
+insert 5931230
+insert 6145328
+insert 3230715
+insert 21883
+insert 6491868
+insert 3545034
+insert -6030232
+insert -1884157
+insert 3323853
+insert -1970163
+insert 7943153
+insert -4161152
+insert 5344254
+insert 8672598
+insert 8271567
+insert 9227162
+insert -6439851
+insert 6938140
+insert 6017796
+insert 6882891
+insert -8885028
+insert 434396
+insert 7060520
+insert 7210835
+insert -2670408
+insert -6022321
+insert -3431388
+insert 5342543
+insert 2824963
+insert -8221020
+insert 7827625
+insert 8205901
+insert -783515
+insert 4704033
+insert 4509321
+insert -7084486
+insert -6768525
+insert -6332788
+insert -3030795
+insert -249813
+insert 2420051
+insert 9010777
+insert 9562244
+insert -8410835
+insert 7043002
+insert 1860834
+insert 3658081
+insert 1883044
+insert 9171289
+insert 1368070
+insert 7051525
+insert 6401040
+insert 7908343
+insert -4054598
+insert 1313036
+insert -1115416
+insert -4442444
+insert -6243278
+insert 6540021
+insert 4163564
+insert -2965013
+insert -3738710
+insert -9971732
+insert -3833671
+insert -141827
+insert -3896383
+insert -4243576
+insert -9801550
+insert -8313287
+insert -3407776
+insert 5896497
+insert 3806191
+insert -5192347
+insert 4086069
+insert -3429989
+insert 3846535
+insert 8019977
+insert -5049781
+insert -9099201
+insert -3707357
+insert 3167715
+insert 8662256
+insert 8043673
+insert -5098181
+insert -8347376
+insert -1063855
+insert -3886832
+insert -9075142
+insert -6246807
+insert 8711185
+insert -8242434
+insert 6689176
+insert 4601163
+insert 5895209
+insert -8216861
+insert -4531531
+insert 7099905
+insert 1510825
+insert -8321126
+insert -3658535
+insert -3215515
+insert -4016170
+insert -5822063
+insert -8524923
+insert -5756934
+insert -8071677
+insert -3562244
+insert 6746815
+insert 4436021
+insert 9847668
+insert -5749547
+insert 6115197
+insert -2474715
+insert 1802281
+insert -6216884
+insert 14857
+insert -1780969
+insert -5669608
+insert 2330077
+insert 4109391
+insert 5271753
+insert 8316900
+insert 2110514
+insert 3724362
+insert 6621802
+insert -9983861
+insert 8109575
+insert -9750420
+insert -3938906
+insert -4745039
+insert -9038216
+insert 5342316
+insert 2080062
+insert 2928410
+insert -3761200
+insert 355490
+insert 5304903
+insert 7587056
+insert -105570
+insert -5982058
+insert 5453293
+insert 7045892
+insert 2975007
+insert -4687966
+insert -6445169
+insert 6445373
+insert 1857686
+insert -6441181
+insert 3132039
+insert -9857736
+insert -2012678
+insert 4905289
+insert -213601
+insert 5032546
+insert -3172946
+insert 7728724
+insert -2458482
+insert -4195338
+insert -7397544
+insert -3560987
+insert 439791
+insert 4242340
+insert -8971420
+insert 3164749
+insert 8897713
+insert -7769109
+insert -1006414
+insert -7315837
+insert -412373
+insert -2994682
+insert 6430652
+insert -3607967
+insert 9076843
+insert 981045
+insert -4760525
+insert 2256624
+insert 2295497
+insert -9699782
+insert -8550991
+insert 686161
+insert -3888031
+insert -2220867
+insert -9310804
+insert -9073121
+insert 6007842
+insert 3127055
+insert -1090672
+insert 2443175
+insert -66003
+insert -845117
+insert 4564028
+insert 3834736
+insert 7872485
+insert -4271078
+insert 3113696
+insert -5656627
+insert 3287853
+insert 7544844
+insert 7451496
+insert -8379022
+insert 9443339
+insert -9021882
+insert 9841955
+insert 9299833
+insert 374720
+insert -9790667
+insert -1853513
+insert 8213025
+insert 7018219
+insert -9751657
+insert 6860269
+insert 4768338
+insert -221718
+insert -6983360
+insert -4197263
+insert 4164475
+insert 8427975
+insert 1171556
+insert -873286
+insert -5758054
+insert -9344405
+insert -2438161
+insert -8252353
+insert 1692645
+insert -7642462
+insert -8544489
+insert 3782178
+insert -6115874
+insert 1726618
+insert 7849701
+insert -2857097
+insert -4930924
+insert 9777926
+insert -7216521
+insert 1480293
+insert -4510812
+insert 6078543
+insert 7745234
+insert -8855309
+insert -1067009
+insert 1281981
+insert -5316779
+insert 7059538
+insert -3415463
+insert 6618039
+insert -5533636
+insert -7053988
+insert -2874428
+insert -5282566
+insert 595153
+insert 9149152
+insert -9867
+insert -9240524
+insert -256712
+insert 6789825
+insert 5280379
+insert -9347940
+insert 7900706
+insert 2587237
+insert 4928872
+insert -8943425
+insert 2451217
+insert 7673385
+insert -5824810
+insert 9606747
+insert 6133457
+insert -3808549
+insert 7894786
+insert 1514805
+insert 7651777
+insert -8756452
+insert -5059561
+insert -1977089
+insert -1982923
+insert -7833284
+insert -2404870
+insert 5691490
+insert -261013
+insert -912660
+insert -5690044
+insert -4910468
+insert -4634636
+insert 1646495
+insert -286094
+insert -6688160
+insert 9493429
+insert -2790088
+insert 7909592
+insert -5740320
+insert -9371159
+insert -841097
+insert -1922913
+insert -7700425
+insert 6903504
+insert 3639570
+insert 2548608
+insert -2603663
+insert 9884595
+insert 8566864
+insert -4453741
+insert -4278025
+insert -2428095
+insert 4240045
+insert -8830529
+insert 508417
+insert -706274
+insert -1767682
+insert -8121525
+insert 9724606
+insert -5039485
+insert -6092964
+insert -1303710
+insert 3332557
+insert 6630018
+insert 3980962
+insert 6470829
+insert 5020677
+insert 6615288
+insert 3810796
+insert 669806
+insert 584317
+insert -1711636
+insert 6834651
+insert -8443944
+insert 8467955
+insert -5771263
+insert -3235027
+insert -483886
+insert 4721018
+insert 9041777
+insert 474579
+insert 5240423
+insert -8618959
+insert -4465884
+insert -918392
+insert 3460483
+insert -2277207
+insert 418170
+insert 2857460
+insert 5225506
+insert -5225353
+insert 5417443
+insert 9232368
+insert -5765943
+insert 404303
+insert 7972712
+insert 9977604
+insert 9298226
+insert 769791
+insert -6311143
+insert 4963798
+insert -6246200
+insert -7766031
+insert -9296535
+insert 5652842
+insert 6069
+insert -6108730
+insert 1421657
+insert -467043
+insert 5157385
+insert 5751388
+insert -6027699
+insert 5351427
+insert -4622642
+insert -2491325
+insert 8424996
+insert -1266600
+insert -2153398
+insert 1317790
+insert 1353007
+insert -5416625
+insert 7303054
+insert 7121070
+insert -147922
+insert -5783454
+insert -5158974
+insert -4280548
+insert -8262901
+insert 4847544
+insert -1814182
+insert 6867732
+insert 1184508
+insert -5982573
+insert 6892104
+insert 4992350
+insert -5412983
+insert -6827337
+insert -7707458
+insert -7536145
+insert -8413821
+insert -3976661
+insert 822446
+insert -3365532
+insert 9880301
+insert -6670664
+insert 6994987
+insert 5703887
+insert 8266616
+insert -1665814
+insert 8636268
+insert 3290362
+insert -9203032
+insert 9232181
+insert -6087488
+insert 3989554
+insert 3674283
+insert -7937523
+insert -5715153
+insert -6700981
+insert -1678042
+insert -8277207
+insert -5330096
+insert -6994876
+insert 5792865
+insert 3773573
+insert 6838402
+insert -6644873
+insert 564048
+insert 1126384
+insert -5596036
+insert -2595576
+insert 8895601
+insert -7773005
+insert -6164971
+insert -5115329
+insert 8989815
+insert -5328210
+insert -5751560
+insert -9481574
+insert -5414859
+insert -2830455
+insert 826750
+insert 1123500
+insert -9872488
+insert 2915638
+insert 4461557
+insert -2030898
+insert 2709047
+insert -5516691
+insert 6255213
+insert -156054
+insert -4903796
+insert -5106057
+insert 8652051
+insert 356770
+insert -141705
+insert 4574592
+insert -3858566
+insert 5224040
+insert 2421800
+insert 2741439
+insert 4428872
+insert 9942512
+insert -8207162
+insert 4922623
+insert 8689912
+insert 3692507
+insert 2698798
+insert -2360669
+insert -1481943
+insert 4853472
+insert -5587578
+insert 9655493
+insert -1767664
+insert 9830961
+insert 6183529
+insert 1937864
+insert 4194762
+insert -3969650
+insert -7003924
+insert 7118050
+insert 9267975
+insert -6459841
+insert -4657141
+insert 2503129
+insert 4471942
+insert -1273143
+insert 6579238
+insert -1966192
+insert 6653514
+insert 1112239
+insert 3816960
+insert -3537272
+insert -9999157
+insert -4650930
+insert 3018215
+insert 4365198
+insert -5787449
+insert 2365560
+insert 4183679
+insert -6327105
+insert 1979877
+insert 8332404
+insert 1341937
+insert 544484
+insert -7727492
+insert -8926559
+insert -1475647
+insert -5032849
+insert 8195993
+insert 4954900
+insert 210951
+insert 5105615
+insert -3788809
+insert -4617998
+insert -7882872
+insert 4865356
+insert -989030
+insert -1694576
+insert -6294203
+insert 4345655
+insert 6327785
+insert -1921903
+insert -6188557
+insert -2898574
+insert -4654759
+insert -2664743
+insert -6254922
+insert -9845705
+insert -7351089
+insert -909406
+insert 6371156
+insert -5691366
+insert 6549473
+insert -5766191
+insert -8207334
+insert 1834400
+insert 6968765
+insert -4145110
+insert 6708915
+insert -7276043
+insert -8710692
+insert 6160043
+insert 2206960
+insert -3338434
+insert 7383960
+insert -6590551
+insert 9734118
+insert 4609233
+insert -7016440
+insert -93485
+insert 989689
+insert -1716454
+insert -3578559
+insert 9091552
+insert 6799677
+insert 2574030
+insert 3193954
+insert 9197831
+insert -229897
+insert 5972637
+insert -734967
+insert -6322395
+insert 4818676
+insert 1006223
+insert 465614
+insert -8620517
+insert 4837110
+insert -3356067
+insert -2998841
+insert -745159
+insert -4427761
+insert -9906782
+insert -6622189
+insert -267506
+insert -4449245
+insert -7932854
+insert 9712692
+insert -3204268
+insert -9358954
+insert -5988564
+insert -4635765
+insert -7600460
+insert 243735
+insert -5830995
+insert 209208
+insert -2620499
+insert -2771959
+insert 8500469
+insert 5479444
+insert 8863689
+insert 748745
+insert 6319164
+insert -3628665
+insert 1978274
+insert -2926221
+insert -1155524
+insert 9809319
+insert 2531848
+insert -1092715
+insert -9600219
+insert 5843657
+insert -3957237
+insert -6157323
+insert 6942436
+insert 263619
+insert -6165652
+insert -7141581
+insert 6419437
+insert 4060850
+insert 1604396
+insert -9806357
+insert -3695648
+insert 7544016
+insert -4121788
+insert -6114790
+insert -9992389
+insert 9300348
+insert 3920541
+insert 4981100
+insert -1796195
+insert -696499
+insert 3609142
+insert -9674409
+insert -5959104
+insert -6487297
+insert -6000633
+insert -4691901
+insert -1222294
+insert -74548
+insert -6713697
+insert 4286814
+insert -1192579
+insert -2592913
+insert -9060754
+insert -4042123
+insert -9162812
+insert -5639693
+insert 522971
+insert -1905177
+insert 7732208
+insert -6875268
+insert 7243853
+insert -8092748
+insert 2349508
+insert 6645033
+insert 9613023
+insert -8962590
+insert -7368712
+insert 5235392
+insert -8509663
+insert -4195460
+insert -8258400
+insert -5692760
+insert -4518296
+insert 6263482
+insert -5341578
+insert 2796565
+insert -415492
+insert 6231125
+insert 4776891
+insert -4544313
+insert 5068648
+insert 97926
+insert 6083882
+insert -2617917
+insert -5184837
+insert -1761008
+insert 3274414
+insert -6454195
+insert -789865
+insert 1061587
+insert 6053177
+insert -6145399
+insert 9614311
+insert -5789527
+insert -3318076
+insert -452169
+insert 6144248
+insert 95781
+insert -7575899
+insert -2148745
+insert -1132267
+insert -7174449
+insert -4937418
+insert 282872
+insert 6067425
+insert 9016899
+insert -8575675
+insert -6965107
+insert 5076921
+insert -622626
+insert 2048052
+insert -2110774
+insert -8856101
+insert -5441906
+insert 9776611
+insert -1844548
+insert -7044620
+insert -9351584
+insert 2780204
+insert -7839118
+insert 3821125
+insert 2364793
+insert -9749095
+insert -4505231
+insert -2531347
+insert -7622763
+insert 6403797
+insert 8593325
+insert -2489642
+insert 6467476
+insert -8297470
+insert 6409618
+insert -5826204
+insert 8274520
+insert 8194982
+insert -8648680
+insert 2224102
+insert 2754759
+insert 2208173
+insert 3925443
+insert 132842
+insert 2541662
+insert 201281
+insert -3308024
+insert 6664330
+insert 4830355
+insert 5910165
+insert 3492374
+insert -8223085
+insert 2905756
+insert 8943071
+insert 477276
+insert -4725857
+insert -9912237
+insert -6435002
+insert 9632572
+insert -9501378
+insert -2742307
+insert -8034448
+insert -9683592
+insert -9800746
+insert 9094433
+insert -9837199
+insert -7539225
+insert 8305767
+insert -3761684
+insert 3494331
+insert -2266519
+insert 1028346
+insert 2376844
+insert -7918489
+insert 9112744
+insert -4352422
+insert -1764098
+insert -7535952
+insert -9661745
+insert 6761834
+insert 2593860
+insert -4182251
+insert -889027
+insert -2388375
+insert 3736709
+insert 992779
+insert -3886119
+insert 5143218
+insert 6943582
+insert 9144889
+insert 5866306
+insert 503272
+insert -5911229
+insert 5829155
+insert 8568196
+insert -281545
+insert -7784289
+insert 8883924
+insert 2954288
+insert -9913761
+insert 8065527
+insert -2109983
+insert 1570866
+insert 721451
+insert 5430254
+insert -9688267
+insert -5744587
+insert 9118270
+insert 4711716
+insert -5121913
+insert -8881525
+insert 8745344
+insert 6559998
+insert 5685378
+insert 8187322
+insert 6459808
+insert -2937531
+insert 2084216
+insert -1176157
+insert 9542659
+insert 6550391
+insert -615164
+insert -8001499
+insert 4480231
+insert 5455413
+insert 5535247
+insert 538216
+insert 6404560
+insert 3528566
+insert -6019909
+insert 2634476
+insert -943381
+insert -3581509
+insert 7839427
+insert -7011983
+insert 8418502
+insert 5118268
+insert -9460511
+insert -6092608
+insert 6283877
+insert -9478970
+insert 6441804
+insert -282324
+insert 2210901
+insert -4060826
+insert 5330237
+insert 7719888
+insert -1675200
+insert 1124537
+insert -9990481
+insert 1810230
+insert -7165436
+insert -9653723
+insert 4881090
+insert 667573
+insert -5405156
+insert -446212
+insert 2198178
+insert -6697708
+insert 2424182
+insert 8742955
+insert 4166270
+insert -7761076
+insert 6878522
+insert -4301448
+insert -7476739
+insert 8651679
+insert -1988297
+insert -4766720
+insert 3537164
+insert -7347496
+insert 6158945
+insert 4335014
+insert 6020662
+insert 3388455
+insert 3237933
+insert 9625855
+insert -5274342
+insert -2514438
+insert -351194
+insert -6429973
+insert 5410817
+insert 7796659
+insert -4091477
+insert -7638829
+insert -9312858
+insert -3491512
+insert -2378924
+insert -7428562
+insert 6645691
+insert 4687994
+insert -6951535
+insert 5095273
+insert 6354597
+insert -6834980
+insert 1250810
+insert 6449364
+insert 1456618
+insert -4433349
+insert -9057171
+insert -7188470
+insert -6309259
+insert 9244584
+insert -7394334
+insert 9885499
+insert 2302559
+insert 2973837
+insert 1743765
+insert 3361556
+insert -199119
+insert 3560268
+insert 892861
+insert -2445668
+insert -9980308
+insert 6175182
+insert 689773
+insert -9066743
+insert -2884055
+insert 3707659
+insert 3694124
+insert 1869536
+insert 5330399
+insert -143047
+insert 6220673
+insert 9890037
+insert -8702321
+insert -7444096
+insert -2831228
+insert -1603317
+insert 8513164
+insert 2729510
+insert -9588072
+insert -8564931
+insert 130750
+insert 4201922
+insert -6709238
+insert 5429639
+insert 4235627
+insert 7335895
+insert 4074887
+insert 1943355
+insert 6083242
+insert 9506566
+insert -9395075
+insert 3892329
+insert 4490334
+insert -7609428
+insert -7443084
+insert 2829772
+insert 8110775
+insert 4190670
+insert -6111172
+insert -6068630
+insert 2002478
+insert -123209
+insert -5553873
+insert -6082679
+insert 4097923
+insert 2339637
+insert -2750656
+insert -3683145
+insert 8960840
+insert 348384
+insert -4707460
+insert -8647099
+insert -9422641
+insert 8680314
+insert 5416091
+insert -1027828
+insert -7401851
+insert 5802814
+insert 3340521
+insert -77988
+insert 6613222
+insert -5311805
+insert 4702500
+insert -6244511
+insert 2854355
+insert 6561678
+insert 5513292
+insert 1542032
+insert -7919419
+insert 1439319
+insert 2085435
+insert 1541649
+insert -2034392
+insert -8025578
+insert 114779
+insert 9237017
+insert -6113734
+insert 966623
+insert 5946486
+insert -4214821
+insert 9770534
+insert 8300682
+insert 1509146
+insert -3714185
+insert -1626286
+insert -9083268
+insert -3364252
+insert 6796234
+insert 2676338
+insert -4162128
+insert 169788
+insert 8994002
+insert 2498333
+insert 2356924
+insert -8289500
+insert 7711547
+insert 756009
+insert -3985076
+insert -1975251
+insert 6114960
+insert -4472731
+insert -8325966
+insert 4215941
+insert 8578765
+insert 8974969
+insert 1704742
+insert 9849726
+insert -3127550
+insert 5431125
+insert 5765286
+insert 9282182
+insert -3154140
+insert 3565151
+insert -6411221
+insert 3869925
+insert 4485748
+insert -3077782
+insert -9779185
+insert 291008
+insert 9950830
+insert -1726894
+insert 7238488
+insert -6503662
+insert -1429768
+insert -30440
+insert -7449609
+insert 3890973
+insert 634376
+insert -65059
+insert 4650236
+insert 587478
+insert 501221
+insert 9177447
+insert 9674971
+insert 9311214
+insert 6718347
+insert -306023
+insert -507284
+insert -3327147
+insert -69039
+insert -5203514
+insert -6647278
+insert -5148136
+insert 8992141
+insert -3886776
+insert -6088334
+insert 2133729
+insert -7436259
+insert -6646770
+insert 5551905
+insert 3507232
+insert 8070792
+insert -4317242
+insert 9707299
+insert -1149816
+insert 8246718
+insert 3046423
+insert 9811732
+insert 4057163
+insert -1569125
+insert 7444414
+insert -6187901
+insert -9655202
+insert 890886
+insert 2067545
+insert 9709351
+insert 7739054
+insert 2550548
+insert -1799771
+insert -2025042
+insert -8324265
+insert -956228
+insert -6591829
+insert -6465829
+insert -9584876
+insert -5762176
+insert 5223980
+insert -3990949
+insert 9124044
+insert 5956714
+insert 9506188
+insert -6237037
+insert -4154514
+insert -8142563
+insert 1382085
+insert 5827693
+insert 8069085
+insert 3453767
+insert 8631972
+insert -5287669
+insert -9887421
+insert -5376605
+insert 8980002
+insert -2316361
+insert -5659320
+insert -6788505
+insert -7324771
+insert 3525946
+insert -2971041
+insert -6714572
+insert -3435473
+insert 6710349
+insert 4032471
+insert -2200502
+insert -5436931
+insert -7638903
+insert -3361272
+insert -1348662
+insert 396848
+insert 9319951
+insert -7080311
+insert -6397132
+insert -8744315
+insert -8221463
+insert 8078489
+insert -1532022
+insert -4493252
+insert 6137725
+insert 5288046
+insert 7509768
+insert -9952887
+insert 7091247
+insert -5894908
+insert 8595416
+insert -6982694
+insert 2182260
+insert -6284163
+insert -6078532
+insert -2180758
+insert 1986853
+insert -4626278
+insert 2862035
+insert -1552388
+insert 4311148
+insert -6960835
+insert -7655658
+insert 6264835
+insert 5150605
+insert 8713225
+insert -8363070
+insert -756695
+insert -7282877
+insert -560787
+insert -2288228
+insert -3287202
+insert -1700200
+insert 227529
+insert 4111570
+insert -742629
+insert -3630101
+insert -7459140
+insert -9009764
+insert -875249
+insert 6376457
+insert 595244
+insert 3799321
+insert 5031701
+insert 1528813
+insert -1703457
+insert 274149
+insert 9951832
+insert 9293026
+insert -3274732
+insert -5104798
+insert 1234686
+insert 446240
+insert -4177502
+insert -3038924
+insert 9412506
+insert -4017011
+insert -8196234
+insert -8697881
+insert -6239030
+insert 9001172
+insert 2492256
+insert -6317731
+insert -1438626
+insert 772060
+insert 1309779
+insert -3092977
+insert -2127026
+insert 9532750
+insert 6882330
+insert 9894608
+insert -4357725
+insert -3233268
+insert 7455970
+insert 4586003
+insert 63980
+insert 8757794
+insert 9727666
+insert -6680587
+insert 4939775
+insert 2455046
+insert 9832211
+insert 4678721
+insert -8611190
+insert 9665014
+insert -3888538
+insert 2908744
+insert 465569
+insert 8606197
+insert -2341248
+insert -2684856
+insert 1478486
+insert -6397071
+insert 7861462
+insert 4304549
+insert -4519554
+insert -1202254
+insert 6554617
+insert 2958368
+insert 9036404
+insert 6144294
+insert 3696856
+insert -8963063
+insert -1444156
+insert -9212541
+insert -7449631
+insert -3380705
+insert -9573859
+insert -4834290
+insert 8015724
+insert -1344940
+insert 1119338
+insert -5838971
+insert -1860525
+insert 1982026
+insert -4000053
+insert -5586528
+insert 2704585
+insert 2384279
+insert 1359418
+insert 8680314
+insert -587059
+insert -44380
+insert 9912688
+insert -7797831
+insert -6740039
+insert 7924630
+insert -6042923
+insert 6856468
+insert 1997422
+insert 7179002
+insert -4181005
+insert -6280933
+insert 6494068
+insert 1505029
+insert 5202444
+insert -2147119
+insert -6308560
+insert 7994082
+insert 9656029
+insert -5685650
+insert -4972191
+insert -3245543
+insert -2423991
+insert -4778537
+insert 6688922
+insert 3268912
+insert 2131718
+insert -2320106
+insert -4187803
+insert 1503956
+insert -7007408
+insert -5428517
+insert -9171657
+insert 6823294
+insert -375920
+insert -4622871
+insert -6093979
+insert 5814229
+insert 3060349
+insert -4272962
+insert -4216040
+insert -673356
+insert -1554989
+insert 8129898
+insert 8578139
+insert 6997684
+insert 4656129
+insert 5681855
+insert -3355707
+insert 928735
+insert 1052023
+insert -2371653
+insert 6131187
+insert -2253164
+insert 3234687
+insert -2736182
+insert -7099920
+insert -7550536
+insert -4074819
+insert 4208462
+insert -4128599
+insert -5376595
+insert 3650927
+insert -6570019
+insert 1063512
+insert -7052859
+insert -3087587
+insert 7489381
+insert 6780255
+insert 712945
+insert 4309440
+insert 3346791
+insert 9598426
+insert 4267999
+insert 448391
+insert 8717262
+insert -2581812
+insert 2268418
+insert 3371884
+insert -4996404
+insert -8047642
+insert 5390735
+insert -2163175
+insert 8406061
+insert -2619792
+insert 4506392
+insert 8410444
+insert -5038448
+insert -4784928
+insert -8520429
+insert -2320718
+insert 304400
+insert -8883554
+insert -297323
+insert -3413334
+insert 8149961
+insert 7348183
+insert -3594180
+insert -664097
+insert 2409865
+insert 9884931
+insert 7644130
+insert 2505360
+insert -3311243
+insert -5753370
+insert 6134326
+insert 8642275
+insert 1808689
+insert -8748402
+insert 628370
+insert 3272731
+insert -5926204
+insert 1621562
+insert -6136700
+insert 7673520
+insert -305624
+insert -1316117
+insert 6594083
+insert -6274335
+insert 8328380
+insert -1318813
+insert -2119615
+insert -4286571
+insert 2428721
+insert 6399111
+insert -2330748
+insert 3669493
+insert 262155
+insert -4728098
+insert 3258214
+insert -6213861
+insert -670222
+insert 6332423
+insert 6901610
+insert -2506986
+insert -2256112
+insert 2513935
+insert -7195155
+insert -4563354
+insert 2692604
+insert 7463266
+insert 9022560
+insert 3076055
+insert -9367537
+insert -7523351
+insert -2476560
+insert 4025924
+insert -3660571
+insert 8410128
+insert -9077784
+insert -2776558
+insert -8978602
+insert -3001973
+insert 9654041
+insert -3264882
+insert -1464006
+insert -9014921
+insert -8093638
+insert -852342
+insert -476009
+insert 4934636
+insert -9243711
+insert 3311083
+insert 2200544
+insert -3192929
+insert -6655972
+insert 6089151
+insert -2584076
+insert -2454089
+insert -2957934
+insert -7918726
+insert 2304853
+insert 4229439
+insert -2084926
+insert -3267405
+insert -4691369
+insert -7617964
+insert -5140784
+insert 687285
+insert -7232260
+insert 849527
+insert 432960
+insert 5540390
+insert -1736840
+insert 9672248
+insert 6041108
+insert -3348132
+insert -1652458
+insert 3574324
+insert 9223587
+insert 9974960
+insert 9442649
+insert 7030298
+insert 7483280
+insert -8341645
+insert 1709255
+insert 6658676
+insert -2074114
+insert 9973544
+insert 1268222
+insert -6529184
+insert 5438485
+insert 9158022
+insert -410147
+insert -8644812
+insert -5703006
+insert -7214307
+insert -9917992
+insert -1568920
+insert -883858
+insert -6583390
+insert 5009102
+insert 7763908
+insert -7918078
+insert -6658445
+insert -6447593
+insert -9396062
+insert 8059075
+insert -6947211
+insert 3982895
+insert 3781013
+insert -6530781
+insert 1346570
+insert 5055618
+insert -3587946
+insert 1467851
+insert 5784449
+insert 1501067
+insert -9562558
+insert -6385602
+insert -4563670
+insert 6643567
+insert 8916457
+insert -9287575
+insert -1293894
+insert 9343554
+insert -694280
+insert -6706157
+insert -9357891
+insert 7736537
+insert 3215718
+insert 2029369
+insert -4132413
+insert 2596910
+insert -9812463
+insert -3119403
+insert 7510213
+insert -735855
+insert 9981335
+insert 5486329
+insert -2989805
+insert 8452640
+insert 5657845
+insert -1330963
+insert 7116911
+insert 4737968
+insert 5218015
+insert 2701094
+insert -7230969
+insert -7590599
+insert 2096524
+insert -6678423
+insert -5673325
+insert -3582451
+insert -8894723
+insert -2046415
+insert -478452
+insert 2822907
+insert -5736686
+insert 1025354
+insert -8646280
+insert -2261201
+insert 1052465
+insert -2854786
+insert -3215073
+insert -8582491
+insert 1667815
+insert -4309633
+insert -4616889
+insert 853407
+insert 531352
+insert 2440575
+insert 3404248
+insert 4251175
+insert -5842630
+insert -5195019
+insert 7596290
+insert -5378572
+insert 4413422
+insert 7236392
+insert 5639993
+insert -5344553
+insert -3298927
+insert 6136534
+insert -1189798
+insert -5649347
+insert -6629813
+insert 6593322
+insert -4727789
+insert -2958594
+insert 8612276
+insert -3586174
+insert 6570449
+insert 4345767
+insert 3680805
+insert 9972367
+insert -7082152
+insert -8441552
+insert -8324195
+insert -9018926
+insert 6681635
+insert -8497944
+insert -9883901
+insert -3880268
+insert -5208157
+insert 2886152
+insert -6026422
+insert -6248045
+insert 5308435
+insert -5996509
+insert -7395435
+insert -8881568
+insert -8785795
+insert -1507784
+insert 6798183
+insert -7435949
+insert -6511862
+insert 2675796
+insert -7446009
+insert 1368873
+insert 6093019
+insert 8719664
+insert 3753860
+insert 5236374
+insert -2994761
+insert 1711928
+insert -5537258
+insert -3316821
+insert 6540
+insert -693428
+insert -8943403
+insert 4685302
+insert -1491247
+insert 7418629
+insert 7642997
+insert -6011009
+insert 7736400
+insert 7313521
+insert -8938796
+insert -5436917
+insert -2375298
+insert -618118
+insert 9833719
+insert -4378193
+insert -1917912
+insert -4072788
+insert 5765751
+insert 6492537
+insert -5678955
+insert -3695575
+insert 5436445
+insert 6655472
+insert -288109
+insert 7585716
+insert 3948434
+insert -9111946
+insert 64198
+insert 5145334
+insert 9039543
+insert -1657167
+insert 9226645
+insert -9547337
+insert -3280509
+insert -4789396
+insert -6328139
+insert -8271855
+insert -9140344
+insert -9499638
+insert 6793422
+insert 3168725
+insert -6849754
+insert 9251249
+insert -6113199
+insert 8317845
+insert -4670034
+insert -4162694
+insert -472663
+insert -2773929
+insert 9363
+insert -1043865
+insert -6857282
+insert 6610979
+insert -9060826
+insert 4196616
+insert 8015987
+insert -7731784
+insert -9529758
+insert 93023
+insert 7687988
+insert 555040
+insert -3285156
+insert 330444
+insert -937189
+insert -2623275
+insert 3831705
+insert 8674372
+insert 2221319
+insert -9840231
+insert -5975975
+insert -4281429
+insert 5473597
+insert -6186318
+insert 8312772
+insert 935051
+insert 3396917
+insert -641079
+insert 828359
+insert -9345564
+insert -2506525
+insert -9243309
+insert 9588267
+insert -3299391
+insert 9823403
+insert -8799073
+insert 3949600
+insert 2022992
+insert 5748330
+insert 6674409
+insert 373582
+insert 695429
+insert 3123620
+insert -522944
+insert 6925115
+insert -2489174
+insert -2515281
+insert -1138912
+insert 6026006
+insert 7109621
+insert -9513499
+insert 9325576
+insert -6133098
+insert 3996242
+insert 8657776
+insert -2095978
+insert 2298055
+insert 869562
+insert -659221
+insert -819310
+insert -8988097
+insert -9799129
+insert 9217522
+insert -4985628
+insert -1240944
+insert -507718
+insert -1132764
+insert 558545
+insert -7945008
+insert -7060293
+insert 2625965
+insert 923840
+insert 3612143
+insert 2689534
+insert -9763257
+insert 8255979
+insert 9242973
+insert 3799901
+insert -1240119
+insert 6570633
+insert 4715911
+insert -7978622
+insert -4142643
+insert 6562650
+insert 7851935
+insert -5352092
+insert -9662726
+insert 5668971
+insert -3743636
+insert 817605
+insert 2056277
+insert -1432192
+insert 9324381
+insert -5256031
+insert 4184958
+insert -2205910
+insert 4747206
+insert 3659009
+insert -7002792
+insert 3763859
+insert -5863666
+insert -2411520
+insert -7233144
+insert 2055791
+insert -3505842
+insert 1754321
+insert 7706376
+insert 6214743
+insert 4898470
+insert -1947545
+insert 4260848
+insert -3377677
+insert 9815228
+insert 6744533
+insert 8409036
+insert 156845
+insert 7773154
+insert 2744424
+insert -9285400
+insert -3177711
+insert 3004598
+insert 5416490
+insert -4061096
+insert 983376
+insert 2808670
+insert 8207934
+insert 4388446
+insert 8452768
+insert -2338391
+insert 1719852
+insert -7846082
+insert -920761
+insert 6336392
+insert 910699
+insert -491347
+insert 6982807
+insert 7531344
+insert 6929860
+insert -7752659
+insert 5485472
+insert -9407000
+insert -3962220
+insert -4691022
+insert 2773974
+insert -6813762
+insert 8366254
+insert -5633463
+insert 6249050
+insert 3497279
+insert -7281338
+insert 4907684
+insert 5737777
+insert 3449011
+insert -3357868
+insert -8771008
+insert -2644924
+insert 5864432
+insert 1476291
+insert 8989728
+insert -1689225
+insert -9187842
+insert -5048483
+insert -4959678
+insert -2253092
+insert -6286128
+insert -8521484
+insert -8825986
+insert -5307705
+insert 1747942
+insert -9805802
+insert 2615424
+insert 7194810
+insert -8783465
+insert 5026877
+insert 8478704
+insert 9258329
+insert -9882771
+insert 527111
+insert 8422589
+insert 7246946
+insert -6201807
+insert -383962
+insert -5121763
+insert -1805778
+insert -3976557
+insert 2075470
+insert 1197867
+insert -757002
+insert 2764507
+insert 8486955
+insert 4749335
+insert -1728275
+insert -2295750
+insert -6653343
+insert -6978906
+insert 6828623
+insert -3200960
+insert 6310152
+insert -8527614
+insert 7754129
+insert 5229275
+insert -4614172
+insert 8781203
+insert 3370627
+insert -9143670
+insert -1620255
+insert 4245574
+insert -7961991
+insert -6133178
+insert 2676353
+insert 1617785
+insert 3092714
+insert -5017069
+insert 4192065
+insert 9382650
+insert 1870318
+insert 1140385
+insert 4813233
+insert 1058389
+insert -9380247
+insert -9412228
+insert -9355552
+insert 6297832
+insert -7225902
+insert -8899455
+insert 468537
+insert -3309057
+insert -6700961
+insert 7673994
+insert 9297076
+insert -1144232
+insert 1136054
+insert -8534598
+insert 8106696
+insert -1330057
+insert -2877401
+insert 1152890
+insert -4662060
+insert 651421
+insert -9186052
+insert -1329109
+insert -7194032
+insert -8406067
+insert 6750107
+insert 3607186
+insert -2284152
+insert 4697110
+insert -1382280
+insert -8678499
+insert -6442652
+insert 5672482
+insert 9800926
+insert 2531579
+insert 8240528
+insert -5240383
+insert 2264389
+insert -2104755
+insert -8531050
+insert 209229
+insert 7165761
+insert -5177556
+insert 1557376
+insert 8925322
+insert -9532103
+insert -270713
+insert 3258130
+insert 6357184
+insert -6826982
+insert -5848866
+insert 1707608
+insert -9645556
+insert 1643332
+insert 7367711
+insert 5271749
+insert -1822871
+insert 9580181
+insert -8117124
+insert 4581877
+insert 9442458
+insert 2752354
+insert 3793431
+insert 5756395
+insert 9304099
+insert -7116740
+insert -3183104
+insert -2621592
+insert -3892495
+insert 4039488
+insert -6470517
+insert -658484
+insert 3666359
+insert -6897595
+insert -3445736
+insert 2788181
+insert -8462672
+insert 3809979
+insert -8838171
+insert -9300398
+insert 9394930
+insert -8009031
+insert -3112292
+insert 4164712
+insert -2144645
+insert 14617
+insert -6807627
+insert 7699469
+insert 3775968
+insert -9410249
+insert -3587342
+insert 6760751
+insert 5854677
+insert -5108487
+insert 6188237
+insert 879618
+insert -9831816
+insert 519833
+insert -8854362
+insert -7735512
+insert -8352799
+insert -4284304
+insert -3014409
+insert -4363117
+insert -8101853
+insert -7943501
+insert -6820923
+insert 4286625
+insert 3581184
+insert 4855264
+insert -4329576
+insert 1731443
+insert -4886891
+insert 346765
+insert -4186293
+insert 3323921
+insert -9118695
+insert -5489132
+insert -1544074
+insert -6998543
+insert 4864401
+insert -7949728
+insert -9805575
+insert 1910634
+insert 6493079
+insert 9688557
+insert -8953393
+insert 3130887
+insert -2419870
+insert 3874335
+insert 8568688
+insert -8679083
+insert -6794721
+insert -1741924
+insert 5729727
+insert 132627
+insert 2857835
+insert 8186053
+insert 7400235
+insert -3069641
+insert 6321480
+insert -2214761
+insert 4697391
+insert -4931541
+insert 3740251
+insert -9448622
+insert -16834
+insert 9444662
+insert 4596774
+insert -2615194
+insert 8687413
+insert -6117486
+insert 9173833
+insert -9178589
+insert -9948155
+insert 9363809
+insert 2699988
+insert -6044784
+insert -9815114
+insert -4741115
+insert 896073
+insert -5569643
+insert 2668989
+insert -1510964
+insert -318548
+insert 8739756
+insert -4285027
+insert -1706521
+insert -855648
+insert 464051
+insert -3419570
+insert -7848219
+insert 3642621
+insert -5668176
+insert -2098868
+insert -3340282
+insert 2110163
+insert -9366329
+insert -8987997
+insert -9059152
+insert 6995906
+insert 9169516
+insert -758590
+insert -6767839
+insert 1302982
+insert 4318056
+insert -6812528
+insert 5188633
+insert -5595973
+insert -1236879
+insert 9830906
+insert 9414208
+insert -2166909
+insert -2538251
+insert 995547
+insert 9824952
+insert -390598
+insert -9828999
+insert -2131629
+insert -3157888
+getMax
+changeKey 379 7899134
+changeKey 2829 -1357167
+getMax
+getMax
+getMax
+getMax
+changeKey 2214 7567623
+changeKey 1162 8714646
+changeKey 4543 -5533511
+getMax
+changeKey 1155 5267252
+changeKey 4764 810102
+changeKey 3435 8015621
+changeKey 970 -3575935
+getMax
+changeKey 2343 3696692
+getMax
+changeKey 936 -1401741
+heapSize
+changeKey 854 4185658
+changeKey 926 -4407116
+changeKey 185 8367225
+heapSize
+heapSize
+changeKey 560 -6108021
+changeKey 1957 5723678
+heapSize
+getMax
+changeKey 4341 6493618
+getMax
+getMax
+changeKey 949 -960507
+heapSize
+changeKey 2098 5448594
+changeKey 2617 -9302884
+changeKey 346 -2959168
+changeKey 3704 4014876
+getMax
+changeKey 89 -9148008
+changeKey 3987 -7720960
+getMax
+heapSize
+getMax
+getMax
+getMax
+changeKey 2967 -2516516
+changeKey 4372 9292645
+getMax
+changeKey 470 -996878
+heapSize
+heapSize
+changeKey 3241 -3575020
+heapSize
+changeKey 2936 -5343506
+changeKey 2974 -8645775
+getMax
+getMax
+heapSize
+changeKey 1503 -6985408
+getMax
+heapSize
+changeKey 3250 6029693
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 2482 -1990682
+getMax
+getMax
+getMax
+changeKey 4226 8893910
+getMax
+changeKey 4357 -9647527
+changeKey 821 -8450254
+changeKey 3356 1623857
+getMax
+getMax
+changeKey 2060 3911869
+changeKey 4399 -1937577
+getMax
+heapSize
+changeKey 674 -7212672
+getMax
+getMax
+changeKey 2488 -5566485
+changeKey 2241 9004244
+getMax
+changeKey 1886 -6657575
+changeKey 2658 -167714
+getMax
+getMax
+changeKey 4404 7264514
+heapSize
+changeKey 3685 -7692495
+changeKey 3659 3981196
+changeKey 2034 5692134
+changeKey 2987 1687517
+getMax
+heapSize
+heapSize
+getMax
+changeKey 925 -7172208
+changeKey 2770 2998393
+changeKey 4272 1861347
+getMax
+changeKey 3660 -1399647
+getMax
+changeKey 4569 8702003
+heapSize
+changeKey 4399 8912801
+getMax
+changeKey 2430 -4394130
+changeKey 4565 -1895620
+changeKey 913 4992619
+changeKey 636 9630840
+getMax
+changeKey 3620 -4745161
+changeKey 2061 -4763479
+getMax
+changeKey 4184 -7955680
+getMax
+getMax
+changeKey 2610 5180910
+changeKey 1698 -6189675
+heapSize
+getMax
+getMax
+changeKey 3695 984768
+changeKey 540 4147766
+changeKey 1620 -3761564
+changeKey 2774 2659302
+changeKey 3514 9530943
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 1872 -5519550
+changeKey 813 -1477841
+changeKey 1670 -3262637
+changeKey 4296 9032310
+changeKey 1796 1268711
+changeKey 4806 1735970
+changeKey 2093 -311298
+changeKey 3640 -4329659
+getMax
+changeKey 1398 5814344
+heapSize
+changeKey 612 -3025616
+getMax
+changeKey 3387 -1923085
+changeKey 3472 9457855
+getMax
+heapSize
+getMax
+changeKey 4934 -5823436
+getMax
+getMax
+changeKey 3640 7739362
+heapSize
+changeKey 2876 5526639
+changeKey 3561 8891402
+getMax
+changeKey 3996 8726844
+getMax
+getMax
+heapSize
+changeKey 4605 5150231
+changeKey 3741 3380304
+changeKey 4679 9395561
+heapSize
+heapSize
+changeKey 4291 958382
+changeKey 3276 1069044
+changeKey 1083 -8016761
+changeKey 948 5997921
+changeKey 3627 6237830
+heapSize
+changeKey 4105 1706748
+heapSize
+changeKey 4197 8314759
+changeKey 3041 2062218
+changeKey 301 5184131
+getMax
+changeKey 2663 3982182
+changeKey 811 -6241495
+heapSize
+changeKey 132 -7740095
+heapSize
+heapSize
+changeKey 3692 9012268
+changeKey 4831 -8050606
+changeKey 467 -8248170
+getMax
+changeKey 3249 -7551853
+getMax
+getMax
+changeKey 604 -7210314
+heapSize
+changeKey 3060 7053317
+changeKey 833 6457737
+changeKey 4893 6770490
+changeKey 567 1390572
+changeKey 1535 -5707914
+changeKey 3182 2141256
+getMax
+changeKey 799 9336431
+heapSize
+changeKey 3334 -6150599
+heapSize
+getMax
+changeKey 2633 7827466
+changeKey 3732 -2345146
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 1094 -9587959
+changeKey 4579 -3032448
+changeKey 1189 119286
+getMax
+changeKey 2211 5987943
+changeKey 2047 -6757337
+changeKey 4673 -127962
+changeKey 4306 -4374330
+changeKey 910 -7476412
+changeKey 4602 -3144882
+changeKey 1467 -9862196
+getMax
+getMax
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+getMax
+getMax
+changeKey 4792 7263794
+heapSize
+changeKey 489 4940762
+getMax
+getMax
+changeKey 14 2852646
+changeKey 2441 -5473754
+heapSize
+heapSize
+changeKey 2659 -4221733
+changeKey 2618 4026471
+heapSize
+changeKey 1703 8685586
+getMax
+getMax
+changeKey 3823 -4266892
+getMax
+heapSize
+getMax
+getMax
+getMax
+changeKey 4943 9594215
+changeKey 4388 -8970206
+heapSize
+getMax
+changeKey 1152 3698502
+changeKey 4434 8995670
+getMax
+getMax
+getMax
+changeKey 72 4729534
+changeKey 1047 -3137385
+changeKey 1166 9112913
+changeKey 2180 9342704
+getMax
+changeKey 2705 457017
+heapSize
+changeKey 3063 2216468
+getMax
+getMax
+changeKey 61 367493
+changeKey 1358 4261194
+changeKey 1647 2012510
+getMax
+changeKey 3328 -5226622
+heapSize
+getMax
+changeKey 2703 -3823034
+heapSize
+getMax
+changeKey 2133 -6051789
+changeKey 3100 9354699
+changeKey 2199 3298204
+changeKey 3726 1964905
+changeKey 2110 711846
+heapSize
+heapSize
+changeKey 4 1374759
+heapSize
+changeKey 4683 8843032
+changeKey 4479 1333065
+changeKey 2029 -9633010
+changeKey 2960 -9169461
+changeKey 4580 2691217
+changeKey 3345 5648044
+changeKey 1025 6748791
+changeKey 3657 -4958311
+getMax
+heapSize
+changeKey 2006 1882478
+getMax
+getMax
+changeKey 2661 1464951
+changeKey 3371 -9239883
+heapSize
+changeKey 2421 -2598562
+heapSize
+heapSize
+getMax
+getMax
+changeKey 3419 -5043566
+changeKey 4692 8926020
+changeKey 345 -5093942
+changeKey 4528 8830985
+heapSize
+heapSize
+changeKey 1400 6944367
+getMax
+changeKey 4987 -2919619
+heapSize
+changeKey 2715 -4279411
+getMax
+getMax
+changeKey 4727 630073
+getMax
+changeKey 2680 4533218
+changeKey 4322 6297823
+changeKey 2372 4768853
+heapSize
+changeKey 3412 -2987505
+changeKey 3469 -5692689
+getMax
+changeKey 714 1220742
+changeKey 2331 9500968
+heapSize
+changeKey 120 7375405
+changeKey 2041 4044640
+changeKey 3834 5270041
+changeKey 4253 -3176031
+changeKey 2496 4810065
+getMax
+heapSize
+changeKey 3692 -6822116
+changeKey 3467 -9678622
+getMax
+getMax
+getMax
+getMax
+changeKey 4154 7530054
+getMax
+getMax
+changeKey 4500 502220
+changeKey 2227 -7850548
+heapSize
+changeKey 3015 -7598815
+getMax
+heapSize
+changeKey 3626 1922692
+changeKey 3826 -7478435
+changeKey 623 6297332
+getMax
+getMax
+changeKey 1171 -7793166
+changeKey 2851 -415909
+changeKey 3565 9608560
+changeKey 4787 -512689
+getMax
+getMax
+changeKey 1540 -7507211
+getMax
+changeKey 479 -4295113
+changeKey 145 -2223039
+getMax
+heapSize
+heapSize
+changeKey 1022 -6915830
+changeKey 876 -1739568
+getMax
+changeKey 3021 637487
+changeKey 1515 -9412080
+changeKey 3082 1882249
+changeKey 1094 -7688883
+getMax
+changeKey 26 -8670985
+changeKey 1409 1583218
+changeKey 1329 -3234137
+getMax
+changeKey 4433 7429257
+getMax
+changeKey 1534 8411709
+changeKey 3406 7332340
+heapSize
+changeKey 626 -1293581
+heapSize
+getMax
+changeKey 1396 -4015842
+changeKey 4324 -8527084
+changeKey 2313 -3583843
+heapSize
+changeKey 4728 -1563606
+changeKey 621 -3020146
+changeKey 503 -391444
+changeKey 1387 6528281
+getMax
+changeKey 3663 1329828
+changeKey 3686 -1894310
+changeKey 3780 -6253496
+getMax
+heapSize
+changeKey 1696 -6408788
+heapSize
+getMax
+changeKey 2782 6840537
+changeKey 3416 1580395
+heapSize
+changeKey 3803 -7135468
+getMax
+changeKey 175 7910768
+heapSize
+getMax
+changeKey 2728 -8153576
+changeKey 167 -1495770
+getMax
+heapSize
+changeKey 1596 7035316
+heapSize
+getMax
+heapSize
+getMax
+changeKey 530 1812352
+getMax
+changeKey 3648 -8837438
+getMax
+heapSize
+changeKey 1275 8004212
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 1380 1192089
+changeKey 4471 -2524275
+changeKey 2171 4851498
+getMax
+changeKey 53 7314783
+changeKey 2713 5445513
+heapSize
+getMax
+changeKey 4658 3219505
+heapSize
+heapSize
+getMax
+changeKey 1501 -3801137
+changeKey 3707 -6546604
+getMax
+getMax
+changeKey 768 459253
+heapSize
+getMax
+heapSize
+changeKey 1192 -8682051
+changeKey 2713 4298329
+getMax
+heapSize
+heapSize
+getMax
+changeKey 2015 -5792761
+heapSize
+changeKey 384 -3429445
+getMax
+heapSize
+changeKey 213 -8546584
+getMax
+changeKey 4673 -5036993
+changeKey 2327 -7477194
+changeKey 1272 5072803
+changeKey 4475 -6875194
+changeKey 4721 821531
+changeKey 989 -7155034
+getMax
+changeKey 3464 -5712034
+getMax
+heapSize
+heapSize
+heapSize
+changeKey 1923 -95800
+heapSize
+getMax
+changeKey 1717 4284651
+changeKey 530 8406356
+getMax
+heapSize
+changeKey 2276 7979048
+heapSize
+heapSize
+changeKey 2396 -5076328
+heapSize
+changeKey 2210 -4856781
+heapSize
+changeKey 4791 8506024
+heapSize
+changeKey 3349 -9450842
+changeKey 1758 5167354
+changeKey 1912 3085139
+changeKey 4316 -1218825
+changeKey 3455 2422477
+changeKey 2196 9915261
+changeKey 4181 -6809682
+heapSize
+changeKey 2383 2263954
+heapSize
+changeKey 3418 -3935906
+changeKey 3491 2156596
+changeKey 2605 -699610
+heapSize
+changeKey 1481 -5776555
+heapSize
+getMax
+changeKey 2188 -4321582
+changeKey 2777 -2689755
+changeKey 4671 -2027988
+getMax
+changeKey 3421 -9477788
+changeKey 1603 3638181
+changeKey 1361 -2708118
+getMax
+changeKey 2866 8103194
+changeKey 2602 -2852978
+changeKey 3224 429110
+changeKey 3600 9831598
+changeKey 2910 7243752
+changeKey 3690 8621721
+getMax
+changeKey 3794 -2203103
+getMax
+changeKey 2820 9247918
+getMax
+getMax
+changeKey 87 1613206
+changeKey 1086 8705225
+heapSize
+changeKey 424 8956869
+getMax
+getMax
+changeKey 587 -9536824
+changeKey 4583 9853139
+changeKey 1464 7662588
+changeKey 95 96600
+getMax
+changeKey 4964 1291545
+heapSize
+changeKey 1163 3676055
+changeKey 1812 3959211
+heapSize
+heapSize
+getMax
+changeKey 3652 1296099
+getMax
+getMax
+heapSize
+getMax
+getMax
+heapSize
+changeKey 3295 -6992953
+getMax
+changeKey 1719 1002808
+getMax
+changeKey 217 -2284004
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 2683 -9057547
+changeKey 2785 -2154753
+changeKey 2010 8672144
+heapSize
+changeKey 2355 2517153
+changeKey 2793 -2469465
+getMax
+heapSize
+changeKey 28 8045963
+heapSize
+getMax
+heapSize
+changeKey 1205 -7059762
+changeKey 3181 -9333891
+getMax
+changeKey 4637 8909004
+changeKey 3117 -3643330
+changeKey 3582 -7671674
+getMax
+changeKey 1905 9593929
+changeKey 1308 -6061787
+changeKey 3090 -119710
+changeKey 3571 -7033476
+getMax
+heapSize
+getMax
+changeKey 670 -3959767
+getMax
+changeKey 2544 580334
+getMax
+changeKey 4745 -5671345
+heapSize
+changeKey 4826 -4588147
+changeKey 3389 -4685637
+getMax
+heapSize
+changeKey 3558 6809214
+getMax
+getMax
+changeKey 2428 2362938
+heapSize
+changeKey 4860 5454231
+changeKey 4809 -737286
+changeKey 1063 -9919774
+changeKey 4768 916509
+changeKey 1799 -866442
+getMax
+changeKey 1770 7861231
+getMax
+getMax
+getMax
+changeKey 4189 7252025
+getMax
+heapSize
+changeKey 2569 5760520
+changeKey 4247 -940473
+getMax
+changeKey 3750 -6606974
+changeKey 3368 913629
+changeKey 2926 -2624986
+changeKey 3988 -7426567
+changeKey 4396 -6225155
+heapSize
+changeKey 1304 -3262040
+getMax
+changeKey 2382 7084204
+changeKey 1222 -430799
+changeKey 2710 -8916943
+changeKey 2852 -7512791
+getMax
+changeKey 1197 -4662882
+changeKey 3458 8499536
+changeKey 3657 -7456036
+getMax
+changeKey 3392 -8289668
+changeKey 4000 6635917
+getMax
+changeKey 3000 9304147
+getMax
+getMax
+getMax
+heapSize
+heapSize
+changeKey 3134 -2310892
+changeKey 167 -2378346
+getMax
+getMax
+changeKey 1488 -5668288
+getMax
+changeKey 1459 -9048999
+getMax
+heapSize
+getMax
+changeKey 3485 -3994495
+heapSize
+getMax
+changeKey 4497 -7907475
+heapSize
+getMax
+getMax
+changeKey 4998 7118584
+changeKey 3137 4328151
+changeKey 2442 -4907485
+getMax
+heapSize
+getMax
+changeKey 2189 3862203
+changeKey 4577 591109
+changeKey 1708 -7029679
+getMax
+changeKey 3674 -6497961
+changeKey 1235 9432171
+changeKey 92 -1784619
+getMax
+getMax
+getMax
+getMax
+changeKey 3849 3815281
+changeKey 225 -6078941
+getMax
+changeKey 2420 -6353386
+changeKey 2227 6424768
+changeKey 2312 9511794
+heapSize
+getMax
+getMax
+heapSize
+getMax
+changeKey 2523 1609421
+changeKey 4063 -2544732
+changeKey 4480 -4832946
+changeKey 1440 2004762
+heapSize
+changeKey 18 -1520779
+changeKey 3331 1245767
+heapSize
+changeKey 2626 5291280
+getMax
+changeKey 525 9056781
+getMax
+changeKey 3633 9851587
+getMax
+changeKey 1281 8967903
+changeKey 3432 5576039
+changeKey 2756 -3965942
+changeKey 1779 -2744441
+changeKey 225 1347488
+getMax
+changeKey 3215 -5378443
+getMax
+changeKey 4732 4535568
+changeKey 1432 -1210832
+getMax
+getMax
+getMax
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+changeKey 2675 -2478315
+heapSize
+changeKey 363 -5129328
+changeKey 3296 -781465
+changeKey 2937 2626798
+getMax
+changeKey 4639 -6652553
+heapSize
+changeKey 2537 -4647429
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+heapSize
+getMax
+changeKey 964 9257328
+getMax
+getMax
+changeKey 3850 3281819
+heapSize
+changeKey 1401 7737736
+changeKey 521 -5363212
+changeKey 4113 -2983397
+heapSize
+heapSize
+changeKey 2233 -4413408
+getMax
+heapSize
+changeKey 2911 -6312839
+changeKey 1949 4541761
+getMax
+getMax
+changeKey 4243 -8942660
+changeKey 3133 -6485439
+getMax
+changeKey 1769 6719142
+changeKey 820 -3385903
+changeKey 2599 -7292522
+getMax
+getMax
+getMax
+getMax
+changeKey 1649 -6787897
+getMax
+getMax
+heapSize
+heapSize
+changeKey 3955 -776790
+getMax
+changeKey 4853 2067921
+changeKey 4834 8342119
+changeKey 325 -8173249
+getMax
+getMax
+changeKey 2213 4374112
+getMax
+getMax
+heapSize
+getMax
+getMax
+changeKey 3841 1477436
+changeKey 4697 -2968332
+getMax
+changeKey 1166 8183929
+changeKey 2269 9002494
+heapSize
+changeKey 834 4312326
+changeKey 975 5825118
+getMax
+getMax
+changeKey 324 7853732
+getMax
+getMax
+getMax
+changeKey 607 2514655
+changeKey 4419 9215109
+changeKey 779 7123373
+getMax
+getMax
+changeKey 3040 -2772278
+heapSize
+getMax
+changeKey 3761 754121
+changeKey 3713 2724895
+heapSize
+getMax
+changeKey 3234 -9333001
+getMax
+changeKey 3277 2089329
+heapSize
+getMax
+getMax
+changeKey 2287 3443381
+heapSize
+getMax
+changeKey 626 6004343
+changeKey 3501 2946335
+getMax
+heapSize
+getMax
+changeKey 2994 -9894309
+heapSize
+changeKey 339 -3916542
+heapSize
+changeKey 2101 7402205
+changeKey 2333 -987870
+changeKey 786 9414681
+changeKey 594 -2878266
+heapSize
+getMax
+getMax
+getMax
+changeKey 1090 7613283
+changeKey 1972 6882841
+getMax
+changeKey 4435 4170865
+heapSize
+changeKey 2467 -3514045
+changeKey 1658 -9741852
+changeKey 2872 16166
+changeKey 362 9651411
+getMax
+getMax
+heapSize
+getMax
+changeKey 3492 3185232
+getMax
+changeKey 4429 -9617032
+changeKey 521 -691686
+changeKey 2189 -4927648
+changeKey 182 -5113917
+heapSize
+getMax
+heapSize
+changeKey 4854 2590772
+heapSize
+getMax
+changeKey 178 -1471105
+changeKey 3195 -5733260
+getMax
+getMax
+getMax
+heapSize
+changeKey 26 5093898
+getMax
+heapSize
+changeKey 4747 4762583
+changeKey 262 -1574144
+changeKey 3568 -2362103
+changeKey 179 7746850
+changeKey 1974 -2022864
+changeKey 1122 9333230
+getMax
+getMax
+changeKey 384 -4116097
+getMax
+getMax
+changeKey 4241 9657367
+getMax
+changeKey 2089 4691195
+heapSize
+getMax
+changeKey 4328 9500612
+getMax
+heapSize
+changeKey 4247 -3682303
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+heapSize
+heapSize
+getMax
+getMax
+getMax
+getMax
+changeKey 2302 9589191
+getMax
+getMax
+heapSize
+changeKey 2261 -446694
+getMax
+changeKey 534 -7634012
+changeKey 1016 1129455
+getMax
+getMax
+heapSize
+changeKey 235 231546
+getMax
+changeKey 1469 4946534
+getMax
+getMax
+changeKey 1367 -5972450
+getMax
+changeKey 1990 -2553775
+changeKey 754 7322239
+getMax
+getMax
+changeKey 1437 5008396
+changeKey 1708 7286727
+heapSize
+changeKey 4203 9441880
+getMax
+getMax
+changeKey 2868 3829254
+heapSize
+changeKey 2743 -8059272
+getMax
+changeKey 1397 506999
+changeKey 2215 8975174
+changeKey 3500 3419078
+changeKey 3003 -9383820
+changeKey 1483 2275569
+getMax
+changeKey 2874 -4831365
+changeKey 2706 1114257
+changeKey 2278 -7877069
+getMax
+heapSize
+changeKey 3596 8000609
+getMax
+getMax
+getMax
+heapSize
+changeKey 475 -7349417
+changeKey 4966 -18526
+changeKey 2009 -7719973
+changeKey 3026 9194223
+heapSize
+changeKey 4572 -6293636
+changeKey 2821 -825330
+heapSize
+changeKey 1697 5879782
+getMax
+heapSize
+heapSize
+changeKey 2121 2418799
+changeKey 3805 -5660944
+getMax
+heapSize
+getMax
+heapSize
+heapSize
+getMax
+getMax
+changeKey 518 1259742
+heapSize
+changeKey 1823 6716744
+changeKey 1266 -4934606
+changeKey 3047 3804929
+getMax
+getMax
+heapSize
+getMax
+getMax
+changeKey 3590 -9663020
+changeKey 363 -1574214
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+getMax
+changeKey 2190 5131627
+getMax
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+heapSize
+changeKey 2271 4846360
+changeKey 335 5193825
+changeKey 80 4282447
+changeKey 3645 2187082
+heapSize
+getMax
+getMax
+changeKey 4989 -955143
+changeKey 1585 5055739
+getMax
+changeKey 3549 5069587
+changeKey 3808 2151971
+changeKey 2860 -442492
+heapSize
+changeKey 1577 -7357465
+getMax
+changeKey 2126 1174907
+changeKey 2496 -1506600
+changeKey 4783 2484960
+getMax
+changeKey 3083 8650040
+changeKey 3176 157207
+changeKey 4007 7117395
+heapSize
+changeKey 3450 -4076466
+getMax
+heapSize
+heapSize
+changeKey 4239 1598349
+changeKey 3913 6121661
+getMax
+changeKey 3744 1718061
+getMax
+changeKey 3885 -5179490
+changeKey 4434 644894
+changeKey 3463 -6552063
+heapSize
+heapSize
+heapSize
+changeKey 4541 2672472
+getMax
+getMax
+getMax
+getMax
+changeKey 4255 4463981
+getMax
+getMax
+changeKey 2312 1328261
+changeKey 1078 3767667
+changeKey 2483 -2243913
+changeKey 1015 -7343166
+heapSize
+changeKey 3630 3232827
+changeKey 156 2190396
+changeKey 3428 8484656
+changeKey 1211 328738
+changeKey 2196 -874158
+getMax
+changeKey 3031 -6870259
+getMax
+getMax
+changeKey 4199 -6327832
+getMax
+changeKey 4355 -6301490
+getMax
+changeKey 1412 -8159503
+getMax
+getMax
+changeKey 1665 -2124323
+heapSize
+changeKey 2024 -3476576
+getMax
+getMax
+getMax
+getMax
+getMax
+getMax
+changeKey 1275 -5468309
+heapSize
+getMax
+changeKey 2641 2876519
+heapSize
+changeKey 3580 6933606
+changeKey 4476 8546869
+changeKey 3507 -3570891
+getMax
+heapSize
+changeKey 3622 2177734
+getMax
+changeKey 2004 7095661
+heapSize
+getMax
+changeKey 2119 -3344324
+getMax
+heapSize
+changeKey 119 1425694
+heapSize
+changeKey 2689 3940815
+getMax
+getMax
+getMax
+changeKey 4225 -638884
+heapSize
+getMax
+changeKey 533 7175675
+changeKey 1425 6568421
+getMax
+heapSize
+changeKey 215 8619285
+changeKey 4829 1692538
+getMax
+getMax
+changeKey 1250 6539890
+heapSize
+getMax
+changeKey 198 -9539629
+heapSize
+changeKey 988 855375
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+heapSize
+changeKey 3869 -8999801
+changeKey 1892 5867440
+getMax
+changeKey 3990 2047642
+getMax
+changeKey 614 2539674
+changeKey 3671 -3034701
+changeKey 4298 7872265
+changeKey 2420 -3040794
+heapSize
+changeKey 2806 5078114
+changeKey 4162 -342141
+changeKey 1666 -9903774
+heapSize
+changeKey 125 606212
+changeKey 3798 -7430361
+changeKey 4359 -7836203
+getMax
+changeKey 5 2251328
+heapSize
+heapSize
+changeKey 1003 1532888
+getMax
+heapSize
+changeKey 2033 8443902
+getMax
+heapSize
+getMax
+changeKey 2232 -2605593
+changeKey 2331 -4614677
+getMax
+changeKey 1552 -9277144
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 3757 -6034713
+changeKey 1530 -7178335
+changeKey 4901 -3718570
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 463 -1129358
+getMax
+changeKey 875 7274841
+heapSize
+heapSize
+changeKey 4763 8083044
+getMax
+changeKey 1613 9528683
+changeKey 951 -9171905
+changeKey 2974 6516276
+changeKey 4933 9695758
+heapSize
+getMax
+changeKey 541 -9222594
+changeKey 4864 -3168669
+heapSize
+changeKey 2211 940262
+changeKey 2160 -2740263
+changeKey 3264 -7532318
+changeKey 3952 7911001
+heapSize
+heapSize
+changeKey 2502 -9375619
+heapSize
+getMax
+changeKey 3835 7062181
+changeKey 4443 6111710
+changeKey 1654 2420885
+getMax
+heapSize
+changeKey 221 -9858916
+changeKey 2436 6265345
+heapSize
+heapSize
+changeKey 2027 -788737
+changeKey 4424 -4884682
+heapSize
+changeKey 1555 -2016791
+changeKey 984 6257407
+getMax
+changeKey 3627 5731238
+heapSize
+heapSize
+changeKey 2106 -7706918
+changeKey 1720 2310200
+getMax
+getMax
+getMax
+changeKey 2617 4213919
+changeKey 704 -1996483
+getMax
+getMax
+heapSize
+changeKey 1898 -2823246
+getMax
+getMax
+heapSize
+changeKey 1900 4760213
+changeKey 3606 -2147543
+heapSize
+changeKey 1068 -9818792
+getMax
+getMax
+changeKey 1810 8449788
+getMax
+changeKey 4334 2156636
+heapSize
+getMax
+changeKey 3936 -4149290
+changeKey 3007 -5682640
+getMax
+changeKey 3611 -8752255
+getMax
+changeKey 4312 -5427352
+getMax
+getMax
+heapSize
+changeKey 1349 6450641
+heapSize
+changeKey 1287 2099747
+changeKey 1089 8525522
+getMax
+changeKey 62 2732886
+changeKey 4197 -6919575
+getMax
+changeKey 4574 6583689
+changeKey 953 5047120
+changeKey 998 -973839
+changeKey 2463 4125250
+heapSize
+getMax
+changeKey 800 -9861189
+changeKey 1425 1747165
+changeKey 2614 9817808
+changeKey 4743 7633995
+changeKey 4393 5081995
+getMax
+heapSize
+changeKey 904 -639401
+changeKey 2361 2423177
+changeKey 2323 -9923358
+heapSize
+changeKey 892 -2748489
+changeKey 2703 -5983564
+changeKey 4349 -7376338
+changeKey 4951 -323875
+changeKey 4765 5133119
+getMax
+changeKey 4713 -4155457
+getMax
+changeKey 1318 2597062
+getMax
+getMax
+heapSize
+changeKey 4396 -7501116
+changeKey 4127 -1887907
+getMax
+changeKey 2562 -1021085
+changeKey 2238 8104982
+changeKey 2960 -2415043
+changeKey 2190 -6831536
+changeKey 4262 -8595117
+changeKey 4694 1960149
+heapSize
+changeKey 1049 -5812632
+changeKey 1169 187777
+getMax
+changeKey 1029 -1346304
+heapSize
+changeKey 844 -1244673
+changeKey 368 -6970063
+heapSize
+getMax
+changeKey 3513 -6344338
+heapSize
+changeKey 2204 5965306
+changeKey 2521 -3288898
+getMax
+changeKey 1560 5977804
+getMax
+getMax
+changeKey 2439 -9294692
+changeKey 118 -9252276
+changeKey 2450 584579
+changeKey 4816 3352134
+changeKey 4776 -5072579
+heapSize
+heapSize
+changeKey 866 -1603148
+heapSize
+changeKey 3541 -1230250
+changeKey 542 -2457299
+heapSize
+heapSize
+getMax
+getMax
+getMax
+changeKey 3172 -1558609
+changeKey 756 4016916
+heapSize
+getMax
+changeKey 3046 4613509
+heapSize
+heapSize
+heapSize
+changeKey 3731 -9969360
+changeKey 4610 5595428
+heapSize
+getMax
+heapSize
+changeKey 819 -2854156
+getMax
+getMax
+changeKey 2782 -4298655
+heapSize
+getMax
+changeKey 2633 4070821
+getMax
+changeKey 328 -6339735
+getMax
+getMax
+heapSize
+changeKey 2788 -1623015
+changeKey 591 -821546
+heapSize
+changeKey 4408 5234021
+getMax
+changeKey 4580 3134222
+changeKey 69 1198805
+getMax
+changeKey 2732 3116598
+changeKey 2294 3264891
+heapSize
+heapSize
+changeKey 4804 -8806663
+changeKey 2163 2849610
+changeKey 3449 6999234
+changeKey 2603 2462045
+changeKey 1214 -9793788
+changeKey 4838 6129128
+getMax
+getMax
+changeKey 4214 -3652888
+changeKey 4772 -2441363
+changeKey 4393 -3108597
+heapSize
+heapSize
+getMax
+changeKey 2471 -443615
+changeKey 2724 -5552299
+heapSize
+changeKey 1517 -3123967
+getMax
+getMax
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+changeKey 3326 -6117224
+changeKey 585 4817178
+changeKey 2154 -23173
+getMax
+heapSize
+getMax
+heapSize
+changeKey 3052 5070341
+getMax
+getMax
+changeKey 3674 3823173
+heapSize
+getMax
+getMax
+changeKey 2088 4514803
+changeKey 3805 2017044
+changeKey 2160 8133375
+getMax
+heapSize
+getMax
+heapSize
+changeKey 2861 6292401
+getMax
+changeKey 4686 9819718
+changeKey 2187 -5525444
+heapSize
+changeKey 509 3427169
+changeKey 3491 9311107
+changeKey 3919 9668593
+heapSize
+getMax
+getMax
+changeKey 3003 9540576
+changeKey 3665 5982398
+getMax
+getMax
+changeKey 4591 -568576
+getMax
+getMax
+changeKey 3526 -7149959
+changeKey 1603 -3241774
+getMax
+changeKey 1387 -424789
+getMax
+getMax
+getMax
+changeKey 772 3978734
+getMax
+getMax
+changeKey 3886 5965476
+changeKey 267 3115364
+heapSize
+changeKey 1542 -4226828
+changeKey 2725 -7558146
+changeKey 1636 418214
+changeKey 2047 -9089955
+getMax
+changeKey 2720 -8029752
+changeKey 2056 6446938
+getMax
+changeKey 4325 2282096
+changeKey 2566 -3926672
+heapSize
+getMax
+getMax
+getMax
+changeKey 1158 -7289441
+getMax
+changeKey 2878 -6738838
+getMax
+getMax
+getMax
+getMax
+changeKey 1360 3018175
+getMax
+changeKey 1810 7012856
+getMax
+getMax
+changeKey 2923 5731453
+getMax
+changeKey 476 8971182
+changeKey 945 -8267412
+getMax
+getMax
+heapSize
+heapSize
+getMax
+heapSize
+getMax
+changeKey 263 -7118342
+changeKey 3553 -7007954
+getMax
+changeKey 2931 -4889632
+getMax
+changeKey 3514 -8919639
+changeKey 3714 -4017036
+changeKey 936 5156818
+changeKey 3424 2109665
+changeKey 1653 8056632
+changeKey 395 -5010696
+changeKey 289 1375707
+changeKey 676 1984160
+getMax
+changeKey 77 -4208422
+getMax
+changeKey 3158 -9302455
+changeKey 4017 -3750102
+changeKey 4556 -8197061
+getMax
+changeKey 343 5571527
+changeKey 2715 -1892750
+getMax
+heapSize
+getMax
+heapSize
+getMax
+changeKey 2157 -7824110
+changeKey 3709 3328719
+heapSize
+changeKey 27 1478674
+getMax
+getMax
+changeKey 2275 1451577
+changeKey 3278 -9553694
+changeKey 1766 -4871031
+getMax
+getMax
+changeKey 2518 -3747190
+changeKey 4866 -770276
+changeKey 4946 5608926
+heapSize
+changeKey 4000 -8144736
+changeKey 1253 -7296342
+heapSize
+getMax
+changeKey 3325 8125979
+changeKey 2646 5449751
+heapSize
+getMax
+getMax
+heapSize
+changeKey 3868 6353592
+heapSize
+getMax
+changeKey 18 3440306
+getMax
+changeKey 3807 -3849491
+heapSize
+getMax
+changeKey 525 -4077047
+getMax
+changeKey 4034 -6848557
+heapSize
+heapSize
+getMax
+changeKey 4867 -2892551
+getMax
+getMax
+changeKey 4982 4860925
+changeKey 1551 1212337
+changeKey 2484 3431129
+changeKey 1917 -6591688
+getMax
+changeKey 3525 8144666
+heapSize
+getMax
+changeKey 2650 -7838063
+getMax
+changeKey 2239 3721022
+getMax
+getMax
+changeKey 2373 7332433
+heapSize
+changeKey 1705 3268758
+getMax
+changeKey 3301 -6427169
+changeKey 496 -3970587
+changeKey 3784 5482723
+changeKey 2965 6390649
+changeKey 1154 -120907
+getMax
+getMax
+heapSize
+heapSize
+changeKey 2194 -4105869
+changeKey 4350 -9520381
+heapSize
+getMax
+getMax
+changeKey 316 9879091
+getMax
+changeKey 1041 -6954398
+changeKey 2568 5745973
+changeKey 3835 -745033
+changeKey 2705 2694048
+changeKey 4336 -2125061
+changeKey 3520 600793
+changeKey 684 -9416608
+changeKey 1843 -2314899
+changeKey 1168 377783
+heapSize
+changeKey 253 -7769839
+getMax
+changeKey 1032 5314356
+heapSize
+getMax
+heapSize
+changeKey 659 -417959
+changeKey 2947 6616221
+getMax
+getMax
+changeKey 2975 4632520
+changeKey 2446 -7708591
+changeKey 2487 -2289930
+getMax
+changeKey 3512 -734514
+heapSize
+getMax
+changeKey 380 5357460
+changeKey 4422 -8030229
+changeKey 2818 -9315745
+getMax
+getMax
+heapSize
+heapSize
+changeKey 1752 -5477439
+changeKey 746 7286886
+changeKey 45 2099847
+changeKey 2766 1412807
+changeKey 670 -845459
+changeKey 1875 3597045
+changeKey 1426 8298905
+getMax
+getMax
+changeKey 2741 1430919
+changeKey 2593 -7869888
+changeKey 2213 -9831099
+getMax
+getMax
+changeKey 4386 6911863
+getMax
+getMax
+getMax
+changeKey 1220 1002917
+heapSize
+changeKey 4411 -9497430
+changeKey 390 2510221
+changeKey 4782 -286404
+getMax
+heapSize
+getMax
+heapSize
+getMax
+changeKey 2572 48833
+heapSize
+heapSize
+getMax
+getMax
+getMax
+changeKey 256 4427974
+changeKey 3223 5765855
+heapSize
+changeKey 3622 869719
+changeKey 570 3874968
+getMax
+getMax
+getMax
+getMax
+changeKey 3179 -5814951
+changeKey 1281 -5037579
+getMax
+getMax
+changeKey 3674 4782791
+changeKey 3937 -8168549
+changeKey 1458 5472322
+getMax
+changeKey 3363 -8929895
+changeKey 2898 88824
+changeKey 2009 9161787
+getMax
+getMax
+changeKey 3787 3558669
+changeKey 4797 -4320505
+changeKey 3162 8222845
+heapSize
+getMax
+changeKey 4665 -121163
+heapSize
+changeKey 4586 3447102
+changeKey 2819 -5687539
+changeKey 3343 -7102321
+changeKey 4999 -8143545
+changeKey 2946 -2450766
+getMax
+changeKey 2691 -6703385
+changeKey 1064 2577267
+changeKey 4959 5555242
+changeKey 4366 2481042
+changeKey 1514 6847657
+heapSize
+heapSize
+changeKey 4218 -4475410
+getMax
+changeKey 2932 3274970
+heapSize
+heapSize
+heapSize
+changeKey 1657 6573990
+changeKey 4584 7277474
+changeKey 1059 -2768064
+changeKey 665 -24232
+getMax
+heapSize
+changeKey 124 9513036
+getMax
+getMax
+changeKey 284 2070754
+getMax
+getMax
+changeKey 1334 -5598642
+changeKey 2644 6938556
+changeKey 2853 -9439118
+changeKey 597 -9212845
+getMax
+getMax
+changeKey 557 5450896
+heapSize
+changeKey 2008 774626
+heapSize
+getMax
+heapSize
+changeKey 3969 -3503895
+getMax
+changeKey 1109 5447840
+heapSize
+heapSize
+heapSize
+changeKey 2709 1587748
+changeKey 4049 -2453638
+getMax
+getMax
+changeKey 2354 9165015
+getMax
+changeKey 2479 -999328
+changeKey 1392 5123913
+getMax
+changeKey 3038 1477983
+changeKey 1212 -5077485
+heapSize
+changeKey 2096 -294267
+changeKey 4268 -6643390
+heapSize
+getMax
+changeKey 2512 -6426509
+changeKey 4544 9927263
+changeKey 2884 -6481018
+getMax
+heapSize
+getMax
+changeKey 2026 -15558
+changeKey 219 8381324
+changeKey 3889 652257
+changeKey 2823 -3984712
+heapSize
+changeKey 3041 8733509
+heapSize
+getMax
+changeKey 4348 6928822
+getMax
+changeKey 550 7516428
+changeKey 2474 -2791703
+heapSize
+changeKey 4363 -6235077
+getMax
+changeKey 3625 8150990
+changeKey 4783 -2222049
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 4756 8599304
+changeKey 841 -340060
+getMax
+changeKey 375 3198249
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+changeKey 283 1108102
+heapSize
+getMax
+changeKey 1477 7487184
+changeKey 891 -2110656
+heapSize
+changeKey 4697 -346867
+changeKey 2126 9918515
+changeKey 4571 -5071701
+changeKey 4785 -2518089
+changeKey 3347 4049762
+changeKey 429 -1951209
+changeKey 3141 4908010
+heapSize
+changeKey 605 8895007
+heapSize
+changeKey 1878 3500942
+heapSize
+changeKey 963 1457635
+changeKey 272 -8890913
+getMax
+getMax
+changeKey 2590 2272470
+changeKey 222 5847482
+changeKey 4758 7990676
+changeKey 1730 616757
+changeKey 4084 9564844
+heapSize
+changeKey 772 4391274
+heapSize
+heapSize
+getMax
+getMax
+heapSize
+changeKey 4789 -3464402
+heapSize
+getMax
+getMax
+changeKey 504 3107388
+changeKey 3698 2797025
+heapSize
+changeKey 2508 6989461
+changeKey 4586 -3858377
+changeKey 3368 -9508189
+changeKey 1257 5900806
+heapSize
+heapSize
+changeKey 4760 8372614
+changeKey 2549 -5345583
+changeKey 2044 1942804
+heapSize
+getMax
+changeKey 1065 -8408561
+changeKey 451 -6492608
+heapSize
+heapSize
+changeKey 3825 -9163794
+changeKey 2025 -570293
+heapSize
+changeKey 3833 5718873
+heapSize
+heapSize
+heapSize
+changeKey 206 7124734
+heapSize
+getMax
+changeKey 3485 -5610488
+changeKey 2948 -8192391
+heapSize
+changeKey 3459 -8308423
+changeKey 129 -8556096
+getMax
+heapSize
+changeKey 2782 -6696786
+heapSize
+heapSize
+changeKey 750 8734564
+heapSize
+getMax
+changeKey 694 6783342
+getMax
+heapSize
+changeKey 2360 7325312
+getMax
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 2956 9703506
+changeKey 570 4339175
+changeKey 2762 3098248
+heapSize
+changeKey 4592 -4772063
+getMax
+getMax
+changeKey 4858 -8790220
+heapSize
+changeKey 3895 -1764854
+getMax
+getMax
+getMax
+changeKey 465 9975529
+changeKey 1133 3846565
+getMax
+heapSize
+heapSize
+getMax
+changeKey 4176 -5514104
+getMax
+changeKey 3257 -6767741
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 1554 1650559
+getMax
+changeKey 2152 -5879347
+changeKey 3850 9694533
+changeKey 4570 -277215
+heapSize
+changeKey 4789 -8259429
+changeKey 1793 2077306
+changeKey 3304 8923500
+heapSize
+changeKey 3368 9701642
+changeKey 297 5045968
+getMax
+getMax
+heapSize
+changeKey 4169 -5537934
+getMax
+changeKey 536 -1466746
+heapSize
+changeKey 1541 88712
+changeKey 3348 -3302738
+changeKey 3456 8198440
+changeKey 2173 -6016412
+changeKey 2744 9355742
+getMax
+changeKey 2453 -1733261
+getMax
+heapSize
+changeKey 4797 8011372
+getMax
+heapSize
+changeKey 3175 -8957456
+getMax
+heapSize
+changeKey 2412 7311229
+getMax
+changeKey 4263 7504448
+changeKey 4594 -4495099
+changeKey 2853 2080266
+changeKey 963 6704044
+changeKey 4621 -760422
+getMax
+getMax
+getMax
+changeKey 1527 5455049
+getMax
+changeKey 705 -8011102
+getMax
+changeKey 2635 -6557458
+changeKey 2343 -9757911
+getMax
+heapSize
+changeKey 2360 -7238822
+changeKey 1103 4079958
+getMax
+heapSize
+changeKey 1380 -995564
+getMax
+getMax
+changeKey 1271 3842457
+heapSize
+getMax
+changeKey 3793 -6856668
+changeKey 2621 1665001
+heapSize
+heapSize
+getMax
+changeKey 4789 3830317
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 384 -5669300
+changeKey 3918 9395795
+heapSize
+getMax
+changeKey 2921 -3161267
+getMax
+getMax
+changeKey 4897 4158829
+heapSize
+changeKey 1889 9713836
+getMax
+changeKey 717 2141863
+getMax
+changeKey 2856 3012930
+getMax
+heapSize
+getMax
+changeKey 205 8899653
+changeKey 202 9536607
+getMax
+getMax
+changeKey 1367 -5760936
+heapSize
+changeKey 2625 -7419572
+changeKey 3571 -5780909
+changeKey 964 -6759768
+changeKey 25 -6337176
+changeKey 1654 6041573
+heapSize
+changeKey 4508 281934
+getMax
+changeKey 4019 -8322550
+getMax
+getMax
+getMax
+changeKey 1453 1811507
+heapSize
+changeKey 3564 -1708696
+changeKey 275 -7926802
+getMax
+changeKey 2363 8678052
+changeKey 4224 6725331
+heapSize
+changeKey 3201 -5568744
+changeKey 1850 8437444
+changeKey 3983 7512299
+changeKey 2325 -5851347
+changeKey 4047 -1901216
+changeKey 1224 -2544618
+changeKey 2655 -24593
+changeKey 4366 947183
+changeKey 1529 -2103527
+getMax
+heapSize
+changeKey 2120 5285023
+heapSize
+changeKey 4199 -6507854
+getMax
+changeKey 2030 3553373
+changeKey 1967 -4867163
+changeKey 3345 -6450876
+heapSize
+changeKey 4803 270560
+getMax
+getMax
+heapSize
+changeKey 519 2732364
+getMax
+getMax
+changeKey 3231 5681138
+getMax
+changeKey 1683 -5947887
+changeKey 3673 -2187317
+changeKey 4902 4111904
+heapSize
+heapSize
+changeKey 3187 6607861
+changeKey 1462 7206713
+changeKey 2118 -7338525
+getMax
+changeKey 1769 -1911346
+getMax
+changeKey 2132 -2069784
+heapSize
+getMax
+getMax
+heapSize
+changeKey 590 -1380681
+getMax
+changeKey 279 -7346470
+changeKey 4390 7244538
+changeKey 3478 -5307247
+heapSize
+heapSize
+getMax
+changeKey 3563 -3911354
+changeKey 1907 2284075
+getMax
+changeKey 4568 6514989
+getMax
+changeKey 1381 3454467
+heapSize
+heapSize
+heapSize
+changeKey 1859 -8830900
+changeKey 1862 -7622332
+changeKey 2256 -1027075
+changeKey 1762 -2404527
+getMax
+changeKey 2217 -2097365
+changeKey 350 9468535
+changeKey 1112 9407158
+heapSize
+getMax
+changeKey 3147 -9502227
+getMax
+getMax
+getMax
+getMax
+changeKey 4244 5551003
+changeKey 4791 -2394747
+heapSize
+changeKey 453 4521363
+changeKey 1334 -2092121
+changeKey 760 2172662
+getMax
+changeKey 2188 -7876980
+changeKey 4431 -9289539
+changeKey 1679 5868716
+getMax
+getMax
+changeKey 761 6277914
+changeKey 1513 6408123
+changeKey 2072 -4124760
+changeKey 2644 8517462
+heapSize
+changeKey 413 1211838
+changeKey 2630 995414
+changeKey 3534 382438
+changeKey 1507 -2104914
+changeKey 4751 -7969349
+changeKey 1810 -5812332
+changeKey 826 -4747076
+changeKey 1152 -6175146
+changeKey 992 6875377
+heapSize
+getMax
+changeKey 1288 -3532412
+getMax
+heapSize
+heapSize
+getMax
+changeKey 772 5493519
+changeKey 4654 -3997404
+heapSize
+heapSize
+changeKey 2893 -3029812
+heapSize
+getMax
+getMax
+getMax
+heapSize
+heapSize
+changeKey 1245 6405782
+heapSize
+changeKey 4604 -3305134
+changeKey 333 -1905709
+changeKey 4538 -1978297
+getMax
+changeKey 3396 -1991934
+changeKey 697 -4850817
+changeKey 4643 -4785511
+heapSize
+getMax
+heapSize
+changeKey 4661 -5024121
+changeKey 4338 542462
+changeKey 233 1860505
+changeKey 1809 -9304983
+getMax
+heapSize
+changeKey 4919 -2943092
+changeKey 263 5950958
+changeKey 2725 -1392240
+getMax
+changeKey 4265 -4755076
+getMax
+heapSize
+heapSize
+changeKey 886 -4457166
+heapSize
+heapSize
+changeKey 482 2916593
+changeKey 4264 8394352
+getMax
+heapSize
+changeKey 1904 -645604
+heapSize
+getMax
+heapSize
+changeKey 862 7230136
+changeKey 1586 7720297
+getMax
+changeKey 2377 6174179
+getMax
+changeKey 3262 7247911
+heapSize
+heapSize
+changeKey 2879 6650669
+getMax
+changeKey 4960 -8520788
+getMax
+heapSize
+changeKey 2448 -7919135
+getMax
+changeKey 2439 -3723129
+changeKey 1402 -5495348
+changeKey 814 3826323
+changeKey 2952 1387169
+changeKey 2493 -5061525
+changeKey 426 2355889
+getMax
+heapSize
+changeKey 2426 -5461588
+changeKey 34 9419410
+getMax
+heapSize
+changeKey 2582 -1539266
+changeKey 1671 -4933999
+getMax
+getMax
+getMax
+changeKey 3373 2442618
+getMax
+getMax
+changeKey 985 -6899028
+getMax
+changeKey 2537 6911964
+changeKey 2273 3681673
+changeKey 4666 -5182761
+changeKey 3171 9539412
+changeKey 2765 4655213
+heapSize
+changeKey 4155 -3794302
+getMax
+heapSize
+changeKey 1412 -3710319
+changeKey 3023 8438970
+changeKey 4588 8331949
+getMax
+getMax
+getMax
+changeKey 4095 -7842300
+getMax
+changeKey 986 -5013270
+changeKey 4130 -9619413
+changeKey 3837 -6847428
+heapSize
+changeKey 2528 -9680789
+getMax
+heapSize
+changeKey 4400 9341551
+getMax
+getMax
+changeKey 1332 805608
+getMax
+getMax
+heapSize
+getMax
+getMax
+heapSize
+changeKey 3395 -8933160
+changeKey 544 3421294
+changeKey 417 5510100
+changeKey 973 -2033083
+getMax
+heapSize
+heapSize
+heapSize
+changeKey 2526 -7260021
+changeKey 2269 -3852394
+getMax
+changeKey 11 -3863793
+changeKey 2784 1063892
+changeKey 1120 -4720349
+changeKey 4280 -7267703
+getMax
+heapSize
+getMax
+getMax
+changeKey 3481 -8299823
+changeKey 3797 -9575585
+changeKey 1790 4170626
+changeKey 2758 4158869
+changeKey 3497 -6923771
+heapSize
+changeKey 2391 -4659841
+getMax
+changeKey 4710 -6164197
+getMax
+changeKey 2530 38753
+getMax
+changeKey 2135 4209905
+heapSize
+getMax
+changeKey 2664 2748237
+changeKey 2903 -828989
+changeKey 1013 -2328430
+heapSize
+changeKey 3173 5866039
+changeKey 2667 6950538
+changeKey 4561 -9497067
+changeKey 4795 4846110
+heapSize
+changeKey 2088 98871
+changeKey 197 1591871
+changeKey 2125 -7458477
+changeKey 4144 -4530412
+changeKey 2298 -6311896
+getMax
+changeKey 2883 -124387
+getMax
+changeKey 1552 -5650593
+getMax
+getMax
+changeKey 1691 -9966938
+changeKey 2784 2269784
+getMax
+getMax
+changeKey 2340 -4862432
+changeKey 3708 -5830232
+changeKey 2431 -6407521
+changeKey 790 9932863
+getMax
+changeKey 1438 -3459299
+changeKey 4110 7978860
+changeKey 4705 4498376
+changeKey 3722 6961960
+getMax
+heapSize
+changeKey 1191 1491758
+getMax
+changeKey 3635 -4233035
+changeKey 304 -103607
+getMax
+getMax
+changeKey 3755 -9907589
+changeKey 4583 6026596
+getMax
+getMax
+changeKey 4961 -9354625
+heapSize
+getMax
+changeKey 3578 -4445643
+changeKey 2783 -2321519
+changeKey 1295 505029
+changeKey 2818 3741779
+changeKey 4549 -299714
+getMax
+changeKey 1478 3189360
+changeKey 1809 -7838747
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 3110 -5526964
+changeKey 3678 -8913362
+heapSize
+heapSize
+getMax
+changeKey 3180 -2716090
+changeKey 4245 -6713794
+getMax
+getMax
+heapSize
+getMax
+changeKey 887 -7030438
+getMax
+heapSize
+getMax
+changeKey 4418 9559502
+getMax
+heapSize
+changeKey 1625 -3853966
+heapSize
+changeKey 675 -2308247
+changeKey 685 2153642
+getMax
+changeKey 1050 -1096202
+changeKey 3113 6260278
+changeKey 1503 9742302
+changeKey 2560 9848431
+heapSize
+changeKey 4842 5214581
+changeKey 78 -8244758
+getMax
+getMax
+changeKey 1324 5083287
+getMax
+changeKey 393 9204177
+changeKey 4515 -8226397
+changeKey 4184 1350033
+getMax
+getMax
+getMax
+changeKey 1982 3144647
+getMax
+changeKey 4149 1364926
+changeKey 1442 7927176
+changeKey 3108 -3300148
+getMax
+heapSize
+heapSize
+changeKey 1442 -7441533
+heapSize
+changeKey 2363 6761519
+changeKey 1408 -4956963
+changeKey 2947 3643046
+heapSize
+heapSize
+getMax
+changeKey 4722 -5580381
+getMax
+getMax
+getMax
+changeKey 1724 -4728081
+changeKey 26 8847800
+changeKey 3679 -7414794
+changeKey 4592 6402526
+getMax
+changeKey 1295 -5168132
+getMax
+getMax
+getMax
+changeKey 1986 -6027315
+getMax
+getMax
+getMax
+getMax
+changeKey 305 -844538
+getMax
+changeKey 441 519458
+changeKey 3861 -3689930
+changeKey 4087 8502504
+getMax
+changeKey 3970 2073470
+heapSize
+changeKey 1788 -1980276
+changeKey 2941 3343497
+heapSize
+changeKey 4725 -7144017
+changeKey 4268 -6328052
+getMax
+changeKey 513 -1762090
+getMax
+heapSize
+changeKey 1641 -2363026
+changeKey 4225 1023304
+changeKey 4930 -1664021
+changeKey 3496 8140557
+changeKey 4734 -3376621
+changeKey 1579 957704
+changeKey 2015 9635484
+heapSize
+changeKey 990 4369293
+heapSize
+heapSize
+changeKey 4311 9080893
+heapSize
+getMax
+heapSize
+changeKey 1955 9202285
+heapSize
+changeKey 1316 -2362807
+getMax
+changeKey 4278 -4336341
+getMax
+changeKey 187 -644001
+changeKey 4714 6729188
+changeKey 4190 -9892118
+heapSize
+changeKey 4428 -6711573
+getMax
+getMax
+changeKey 1459 -5927711
+getMax
+changeKey 3755 3124834
+changeKey 961 3333929
+changeKey 1973 5288290
+heapSize
+changeKey 1024 2547148
+changeKey 3842 622734
+changeKey 4035 -8571283
+heapSize
+getMax
+heapSize
+changeKey 1940 793509
+getMax
+changeKey 2048 1402797
+heapSize
+changeKey 724 7674885
+heapSize
+getMax
+changeKey 2454 -3717556
+changeKey 1358 188090
+heapSize
+getMax
+changeKey 3969 9483380
+changeKey 4768 447240
+changeKey 1907 -2110010
+heapSize
+getMax
+changeKey 3802 -6942125
+changeKey 2784 9430221
+heapSize
+changeKey 794 9738906
+getMax
+heapSize
+getMax
+changeKey 4945 -3527620
+changeKey 1889 1331962
+changeKey 1214 -2761253
+changeKey 1424 1741013
+changeKey 615 -3096794
+changeKey 2553 6074739
+heapSize
+getMax
+getMax
+changeKey 3029 -2312813
+getMax
+changeKey 3554 -4830854
+changeKey 1109 -8697896
+getMax
+changeKey 1871 1892287
+heapSize
+changeKey 249 9502971
+getMax
+changeKey 1315 6664942
+changeKey 3552 6053400
+changeKey 675 4043544
+getMax
+changeKey 3623 -423411
+changeKey 989 -7324766
+getMax
+changeKey 3342 8445170
+changeKey 1617 -487088
+getMax
+heapSize
+changeKey 309 -2636799
+changeKey 3514 -398596
+changeKey 1740 8089512
+changeKey 1966 -4473654
+changeKey 2342 -3723751
+changeKey 2068 9652738
+getMax
+getMax
+changeKey 454 -6544303
+heapSize
+changeKey 2772 -6092692
+heapSize
+changeKey 60 9181626
+changeKey 4720 6100532
+changeKey 792 3382141
+changeKey 350 -2834077
+getMax
+heapSize
+changeKey 2333 -2439950
+heapSize
+changeKey 1872 870041
+changeKey 3440 -1167337
+getMax
+getMax
+heapSize
+changeKey 862 8432907
+getMax
+changeKey 4283 6700739
+changeKey 2694 6500475
+changeKey 3124 7691964
+heapSize
+changeKey 4307 -7956439
+heapSize
+heapSize
+getMax
+changeKey 2646 3189899
+getMax
+changeKey 4025 2852373
+changeKey 2069 8037976
+heapSize
+getMax
+getMax
+getMax
+changeKey 4825 8405163
+getMax
+changeKey 3961 -1181370
+changeKey 2702 -3705245
+changeKey 775 -3500667
+changeKey 2503 3210223
+changeKey 2144 -5326895
+changeKey 2787 -8345056
+changeKey 2064 -382438
+changeKey 1617 -764095
+heapSize
+heapSize
+changeKey 3028 -7055442
+heapSize
+changeKey 3187 2476098
+changeKey 13 9292763
+getMax
+getMax
+changeKey 4635 -8979442
+changeKey 645 2659214
+changeKey 3002 8995236
+getMax
+heapSize
+heapSize
+getMax
+changeKey 1552 -5667617
+heapSize
+changeKey 82 -346536
+heapSize
+getMax
+changeKey 3794 -3829392
+changeKey 4874 -6177082
+getMax
+getMax
+getMax
+changeKey 3391 7697206
+changeKey 3598 5658066
+getMax
+changeKey 1171 325968
+heapSize
+changeKey 2419 -660244
+heapSize
+changeKey 3903 7902739
+changeKey 1767 4109517
+changeKey 1495 5615606
+changeKey 4014 -4369556
+getMax
+changeKey 2763 -1845594
+changeKey 2030 -2829759
+getMax
+heapSize
+heapSize
+changeKey 2448 -1757068
+changeKey 4321 9088483
+getMax
+changeKey 1977 -6176906
+changeKey 4955 -2497870
+getMax
+heapSize
+heapSize
+changeKey 563 -7022474
+changeKey 1216 -1875711
+changeKey 902 4963427
+heapSize
+getMax
+changeKey 1304 -314281
+getMax
+changeKey 1017 3652775
+changeKey 1052 4155211
+changeKey 1125 2890806
+getMax
+changeKey 2773 -7115789
+heapSize
+getMax
+getMax
+changeKey 3368 -7364667
+changeKey 2148 8397159
+heapSize
+getMax
+changeKey 856 6158482
+changeKey 2093 3380570
+changeKey 138 6173291
+getMax
+changeKey 4429 -3890644
+changeKey 4590 7766727
+changeKey 3509 4670284
+heapSize
+changeKey 913 6131847
+heapSize
+changeKey 3314 -1761166
+heapSize
+changeKey 4083 -1851558
+changeKey 3868 -6072431
+changeKey 251 1984186
+changeKey 3617 2383437
+changeKey 4295 -4889667
+heapSize
+changeKey 4148 -1301848
+changeKey 3481 1954919
+heapSize
+heapSize
+changeKey 2338 -1807351
+changeKey 4363 7743427
+getMax
+getMax
+heapSize
+heapSize
+changeKey 4881 9544423
+getMax
+getMax
+changeKey 918 -1341540
+getMax
+changeKey 169 3552789
+changeKey 4958 -3344321
+heapSize
+changeKey 1374 -3632444
+heapSize
+changeKey 1779 -1034677
+getMax
+heapSize
+changeKey 1905 -3886749
+changeKey 1135 -9668459
+changeKey 1305 1304413
+getMax
+changeKey 4881 5499044
+heapSize
+changeKey 4012 -7288557
+changeKey 1032 -6085168
+heapSize
+heapSize
+heapSize
+changeKey 983 -9503266
+changeKey 1851 4709027
+changeKey 2957 3298397
+getMax
+getMax
+changeKey 2333 -7777822
+changeKey 3700 -6629647
+getMax
+getMax
+heapSize
+changeKey 2446 5394164
+changeKey 4116 6159245
+heapSize
+heapSize
+changeKey 4200 -258550
+getMax
+getMax
+changeKey 803 5953690
+changeKey 3095 718537
+heapSize
+changeKey 4252 7265768
+changeKey 4899 -199134
+changeKey 1457 4206514
+heapSize
+changeKey 2338 -4491309
+changeKey 3479 -9414100
+heapSize
+getMax
+changeKey 740 9865336
+getMax
+changeKey 4567 -4796324
+changeKey 125 371987
+heapSize
+changeKey 776 1004276
+changeKey 2869 5930169
+changeKey 171 -3663437
+heapSize
+changeKey 2194 8727496
+getMax
+changeKey 2692 5823636
+changeKey 1234 -3598483
+changeKey 2593 7993966
+getMax
+changeKey 145 -8889419
+heapSize
+changeKey 3041 8271818
+changeKey 4342 7703684
+changeKey 3640 1016817
+heapSize
+getMax
+heapSize
+heapSize
+getMax
+changeKey 1885 -7408592
+changeKey 460 4786408
+changeKey 148 -713103
+heapSize
+heapSize
+heapSize
+getMax
+getMax
+changeKey 3856 -6441597
+changeKey 3977 2519040
+changeKey 2980 3749094
+changeKey 517 2077774
+changeKey 3585 5442422
+changeKey 401 -3501199
+changeKey 2731 -9201143
+changeKey 3948 -6104795
+changeKey 1450 -6532859
+heapSize
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 4331 2110807
+changeKey 1204 -7973355
+getMax
+changeKey 520 9825959
+heapSize
+heapSize
+getMax
+changeKey 3279 3099068
+changeKey 3401 -1727584
+changeKey 1638 9129171
+changeKey 3891 -3414367
+changeKey 2098 -8816221
+getMax
+changeKey 1176 3074170
+getMax
+changeKey 2230 -9886958
+heapSize
+heapSize
+changeKey 3842 8090758
+getMax
+heapSize
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 1356 2204776
+changeKey 1233 7870634
+changeKey 1831 -9075494
+getMax
+getMax
+heapSize
+heapSize
+changeKey 83 6825554
+changeKey 1871 486669
+getMax
+getMax
+changeKey 588 1410699
+getMax
+heapSize
+heapSize
+getMax
+changeKey 3722 8908422
+changeKey 2003 6556318
+getMax
+getMax
+changeKey 1629 -6932566
+heapSize
+changeKey 869 -6794240
+changeKey 1717 -1625958
+changeKey 1673 5443549
+changeKey 2701 3958603
+changeKey 3748 7307197
+changeKey 4948 -4944431
+changeKey 3472 -4394659
+getMax
+changeKey 4339 9295319
+changeKey 1699 852230
+changeKey 2070 1909375
+changeKey 1599 9288898
+getMax
+changeKey 1627 6467679
+heapSize
+changeKey 249 4119279
+changeKey 4915 -1410240
+heapSize
+heapSize
+changeKey 4434 -6033880
+getMax
+changeKey 4335 -3384488
+changeKey 3755 7691947
+changeKey 4759 9693681
+heapSize
+getMax
+changeKey 1607 -8132349
+changeKey 4183 -6144163
+getMax
+heapSize
+changeKey 4634 3643961
+getMax
+changeKey 574 -3431715
+getMax
+changeKey 539 -3887533
+heapSize
+changeKey 2653 1981673
+changeKey 4127 9193915
+heapSize
+getMax
+changeKey 3372 3797499
+changeKey 317 2472706
+changeKey 1971 1496991
+heapSize
+heapSize
+getMax
+getMax
+changeKey 390 -3647407
+getMax
+getMax
+getMax
+getMax
+getMax
+getMax
+heapSize
+changeKey 2569 7134795
+getMax
+heapSize
+getMax
+getMax
+changeKey 3431 -4311707
+getMax
+getMax
+heapSize
+getMax
+getMax
+changeKey 4604 -7873826
+getMax
+changeKey 4291 8311396
+getMax
+changeKey 4368 -5224124
+changeKey 4751 8283162
+changeKey 3964 -1919881
+heapSize
+getMax
+changeKey 4709 855458
+changeKey 3089 4204370
+changeKey 2657 1475277
+heapSize
+getMax
+changeKey 1844 3296743
+changeKey 3322 5951258
+changeKey 1996 3858768
+changeKey 273 9109266
+changeKey 1117 -7172710
+changeKey 4646 -336117
+getMax
+changeKey 4007 2044839
+getMax
+getMax
+changeKey 3902 -3244954
+changeKey 3461 -3802045
+getMax
+getMax
+getMax
+getMax
+heapSize
+changeKey 783 -3623430
+changeKey 385 -5536284
+heapSize
+heapSize
+heapSize
+changeKey 2504 8500043
+changeKey 1443 -5388005
+heapSize
+heapSize
+getMax
+changeKey 206 8741989
+changeKey 1612 -3661265
+getMax
+changeKey 2471 -1843569
+changeKey 2000 6427794
+heapSize
+changeKey 4234 5075311
+changeKey 2262 -1210728
+changeKey 1211 6572558
+changeKey 2586 1763418
+getMax
+getMax
+changeKey 4875 5820293
+changeKey 707 -9560065
+changeKey 3343 4875975
+getMax
+changeKey 527 1946276
+getMax
+changeKey 2180 -4872309
+heapSize
+getMax
+getMax
+changeKey 4705 -1592653
+getMax
+changeKey 3329 -954111
+heapSize
+heapSize
+changeKey 623 9315556
+changeKey 3491 1242720
+heapSize
+changeKey 1540 -2006919
+changeKey 388 -5249464
+getMax
+changeKey 3604 -5346751
+changeKey 4391 -481300
+changeKey 3923 5540138
+getMax
+getMax
+getMax
+changeKey 3136 9169180
+getMax
+heapSize
+getMax
+changeKey 2026 -409709
+getMax
+changeKey 1045 -1953973
+getMax
+changeKey 3 -7060577
+getMax
+changeKey 3154 8960274
+getMax
+changeKey 1254 30874
+changeKey 885 4187836
+getMax
+changeKey 928 771086
+heapSize
+changeKey 1753 -9684817
+getMax
+heapSize
+heapSize
+heapSize
+changeKey 2399 8329535
+heapSize
+getMax
+heapSize
+getMax
+getMax
+heapSize
+changeKey 1928 -4455788
+changeKey 2079 1027980
+heapSize
+changeKey 771 -8174537
+heapSize
+heapSize
+getMax
+getMax
+changeKey 2384 -1894879
+changeKey 1028 -8295533
+heapSize
+changeKey 4218 -3505273
+changeKey 2339 -6911393
+changeKey 45 -646274
+changeKey 4502 -1440093
+changeKey 2497 8614618
+changeKey 1258 1267766
+getMax
+heapSize
+getMax
+getMax
+heapSize
+changeKey 3283 -219794
+changeKey 1049 4373463
+changeKey 1698 1367113
+changeKey 3264 4090225
+changeKey 790 -9622258
+changeKey 1338 -4084276
+getMax
+getMax
+changeKey 3797 7048783
+getMax
+heapSize
+heapSize
+getMax
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+changeKey 3207 -1445486
+getMax
+heapSize
+changeKey 125 5728220
+heapSize
+changeKey 4711 3985808
+changeKey 3972 -2866341
+heapSize
+getMax
+changeKey 4322 4891968
+changeKey 69 -301401
+changeKey 4912 5263321
+heapSize
+changeKey 1253 3392204
+changeKey 3284 79768
+heapSize
+changeKey 864 4467148
+changeKey 422 -4541740
+getMax
+changeKey 3820 -1597508
+getMax
+changeKey 4653 4527583
+getMax
+changeKey 2719 2391497
+changeKey 2545 9545913
+getMax
+changeKey 1030 -4729084
+changeKey 1370 -7583148
+changeKey 2445 5200777
+heapSize
+getMax
+getMax
+changeKey 4895 2830861
+changeKey 3233 -1603521
+getMax
+getMax
+changeKey 3718 5770305
+changeKey 4004 -1600300
+heapSize
+changeKey 1697 5354973
+changeKey 4325 -7544727
+changeKey 843 -6989565
+heapSize
+heapSize
+changeKey 2056 -707493
+getMax
+changeKey 3328 1932851
+changeKey 549 -6369574
+changeKey 3905 -7172561
+heapSize
+changeKey 1756 5032629
+getMax
+getMax
+changeKey 507 -2772177
+changeKey 2484 -846067
+getMax
+changeKey 451 -6721323
+changeKey 675 -1479006
+changeKey 2903 1754370
+changeKey 2996 9748925
+getMax
+changeKey 2628 -8409120
+changeKey 2661 -8788381
+getMax
+getMax
+changeKey 4133 3879697
+getMax
+changeKey 3738 8860443
+changeKey 155 -9679006
+heapSize
+changeKey 430 -1466405
+changeKey 4776 -5103832
+getMax
+heapSize
+changeKey 3064 7789544
+heapSize
+getMax
+heapSize
+changeKey 655 -5665993
+getMax
+changeKey 1392 -150303
+getMax
+getMax
+heapSize
+changeKey 448 -9250657
+changeKey 4177 4875566
+heapSize
+heapSize
+heapSize
+changeKey 574 8021970
+heapSize
+changeKey 2805 -3597694
+changeKey 3867 -4818184
+getMax
+changeKey 3843 4448462
+changeKey 1045 6151449
+changeKey 978 -1950347
+heapSize
+changeKey 4846 -2783297
+changeKey 1118 5559741
+changeKey 350 -8931165
+heapSize
+changeKey 1998 -8010227
+getMax
+getMax
+changeKey 3051 -7252918
+changeKey 2345 -8816940
+changeKey 1054 -3435254
+getMax
+changeKey 2049 -8167211
+getMax
+heapSize
+getMax
+changeKey 4194 -1908919
+changeKey 3948 -3732254
+heapSize
+getMax
+heapSize
+changeKey 4156 3153873
+changeKey 4631 795970
+changeKey 648 -2052529
+changeKey 923 7872812
+changeKey 10 -4979122
+getMax
+heapSize
+changeKey 3006 -804848
+changeKey 4545 -1053211
+heapSize
+getMax
+getMax
+heapSize
+changeKey 500 623407
+getMax
+changeKey 2557 6147908
+getMax
+heapSize
+changeKey 1655 7658005
+heapSize
+changeKey 2182 -5922429
+changeKey 3928 207718
+changeKey 3513 -3858286
+changeKey 351 -249315
+changeKey 3827 -8311697
+getMax
+heapSize
+heapSize
+getMax
+changeKey 2619 659328
+heapSize
+getMax
+heapSize
+changeKey 3828 -9085114
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 4618 -5458068
+getMax
+getMax
+changeKey 4036 7923972
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+heapSize
+changeKey 2007 542322
+changeKey 3901 3505329
+changeKey 4164 3540401
+changeKey 1157 1012398
+heapSize
+getMax
+changeKey 1444 3961541
+getMax
+changeKey 2353 -8608966
+getMax
+getMax
+changeKey 1132 3635851
+getMax
+changeKey 3948 -9727550
+changeKey 4640 -522573
+changeKey 647 -2688591
+changeKey 2196 -4556218
+changeKey 833 1816617
+changeKey 1288 -6907829
+getMax
+changeKey 2964 2173350
+getMax
+getMax
+changeKey 2201 1047228
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 4167 -1653352
+heapSize
+changeKey 611 -873919
+heapSize
+getMax
+changeKey 1767 -3934521
+changeKey 284 -9431018
+changeKey 1772 3572345
+changeKey 2225 8540554
+changeKey 3840 -3655488
+changeKey 2607 -5558314
+getMax
+changeKey 254 -8628453
+changeKey 1233 3615684
+getMax
+changeKey 1881 7977479
+getMax
+getMax
+changeKey 29 9387135
+changeKey 3758 -8995235
+getMax
+getMax
+changeKey 3828 5718509
+getMax
+changeKey 3411 -2254302
+changeKey 511 7912372
+changeKey 1965 2853315
+changeKey 246 -6079099
+getMax
+changeKey 3764 -9260797
+changeKey 3685 8717441
+changeKey 1346 -1348330
+changeKey 4408 8599660
+changeKey 2116 5366891
+getMax
+getMax
+getMax
+getMax
+getMax
+changeKey 1274 7663969
+getMax
+changeKey 3755 9379937
+changeKey 3385 7887299
+changeKey 3609 -3847750
+changeKey 4333 -394300
+changeKey 524 -4394832
+getMax
+getMax
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 1424 -373517
+changeKey 1338 -6285549
+changeKey 3052 6998651
+getMax
+changeKey 3209 -4177320
+changeKey 892 9102534
+getMax
+changeKey 3914 -6695280
+heapSize
+heapSize
+heapSize
+changeKey 740 -3948147
+getMax
+changeKey 1032 6704168
+getMax
+changeKey 3706 -6418060
+heapSize
+changeKey 2640 4697931
+changeKey 1691 888189
+changeKey 1754 -7810705
+getMax
+changeKey 1251 -9390169
+getMax
+changeKey 3024 -3953341
+getMax
+changeKey 2575 -1921106
+changeKey 625 -2061806
+changeKey 2073 -724695
+changeKey 1263 1800140
+getMax
+changeKey 155 1860163
+heapSize
+changeKey 1061 416126
+changeKey 1834 -3994387
+heapSize
+getMax
+getMax
+changeKey 1083 5782573
+heapSize
+changeKey 780 -7828159
+changeKey 877 7210149
+changeKey 2072 -6446508
+changeKey 4418 5608629
+changeKey 1806 6834448
+heapSize
+heapSize
+getMax
+getMax
+changeKey 1397 9188387
+changeKey 1667 -9921923
+getMax
+getMax
+getMax
+getMax
+heapSize
+changeKey 3983 5054232
+changeKey 241 5652990
+changeKey 427 6912683
+getMax
+changeKey 3462 1560275
+changeKey 3805 -9394950
+changeKey 1420 1271752
+getMax
+heapSize
+heapSize
+getMax
+changeKey 2634 -4952477
+changeKey 4853 9723889
+heapSize
+getMax
+changeKey 2805 -7296163
+changeKey 1040 -84311
+heapSize
+getMax
+changeKey 651 -4419167
+getMax
+changeKey 2919 261818
+getMax
+changeKey 3051 9837428
+changeKey 2635 235146
+changeKey 584 5459160
+getMax
+changeKey 151 -6102847
+changeKey 1674 -2053556
+getMax
+getMax
+changeKey 1683 2765652
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+getMax
+getMax
+changeKey 2733 3531051
+getMax
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 926 -6788588
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 429 4589590
+changeKey 2025 2443190
+changeKey 2350 2862638
+changeKey 1087 -185525
+getMax
+heapSize
+heapSize
+heapSize
+heapSize
+heapSize
+heapSize
+changeKey 4606 -8159676
+heapSize
+changeKey 3687 2485085
+heapSize
+heapSize
+getMax
+changeKey 154 5907885
+getMax
+changeKey 3663 6061330
+changeKey 1934 1939383
+getMax
+changeKey 3508 -4883829
+changeKey 2611 -5082940
+changeKey 1950 2283264
+heapSize
+changeKey 3100 2143298
+getMax
+getMax
+changeKey 1182 -571774
+changeKey 2123 5207200
+heapSize
+changeKey 3842 -7574376
+getMax
+getMax
+heapSize
+getMax
+getMax
+heapSize
+getMax
+changeKey 2971 -9025939
+changeKey 2817 -6346518
+changeKey 2822 -8265586
+heapSize
+changeKey 3352 2450561
+changeKey 4792 -2716579
+changeKey 3640 4826548
+changeKey 681 9356547
+getMax
+changeKey 3461 7608582
+changeKey 2415 -3384377
+getMax
+changeKey 4065 -8503090
+changeKey 3907 9949845
+heapSize
+getMax
+heapSize
+changeKey 1890 7041578
+getMax
+changeKey 732 5688013
+changeKey 3335 1296618
+getMax
+changeKey 4475 521942
+getMax
+getMax
+heapSize
+heapSize
+changeKey 902 -9195362
+getMax
+changeKey 1531 -3723187
+changeKey 522 420858
+getMax
+getMax
+getMax
+changeKey 3474 1891506
+changeKey 551 4238752
+getMax
+heapSize
+changeKey 4539 9232416
+changeKey 3899 8732044
+heapSize
+changeKey 4246 -6685762
+getMax
+getMax
+heapSize
+heapSize
+changeKey 3215 4796726
+changeKey 2802 9202003
+getMax
+changeKey 4589 9890213
+heapSize
+changeKey 1266 8177222
+changeKey 1021 4249811
+getMax
+getMax
+heapSize
+getMax
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 1361 205069
+heapSize
+getMax
+changeKey 3246 1683933
+getMax
+changeKey 3545 -4594654
+changeKey 4654 -9867902
+heapSize
+getMax
+heapSize
+changeKey 3833 -805796
+getMax
+changeKey 3120 -7166260
+getMax
+changeKey 4024 -6130215
+heapSize
+heapSize
+changeKey 2209 3878461
+heapSize
+changeKey 4601 9168878
+getMax
+getMax
+getMax
+getMax
+changeKey 2437 1833759
+changeKey 1340 -428377
+changeKey 391 4788210
+changeKey 307 -3112002
+getMax
+heapSize
+changeKey 2887 507966
+getMax
+changeKey 2104 -7237198
+changeKey 1692 1279779
+heapSize
+changeKey 3727 -7988262
+changeKey 3569 8916748
+getMax
+heapSize
+changeKey 402 414963
+heapSize
+changeKey 231 -1709735
+changeKey 452 1390822
+changeKey 4351 5687151
+changeKey 4595 3918807
+heapSize
+heapSize
+getMax
+changeKey 1762 6703531
+getMax
+changeKey 2363 2490096
+changeKey 3042 9710919
+heapSize
+heapSize
+getMax
+getMax
+heapSize
+changeKey 3572 3226960
+heapSize
+changeKey 1011 3502039
+changeKey 4325 3839958
+getMax
+changeKey 1934 -6462316
+heapSize
+changeKey 3797 8353447
+heapSize
+getMax
+changeKey 3776 -5536749
+changeKey 840 -1785315
+getMax
+getMax
+getMax
+changeKey 4105 2663907
+heapSize
+getMax
+changeKey 164 5724064
+getMax
+heapSize
+changeKey 4077 1618619
+getMax
+changeKey 3646 -2258075
+heapSize
+heapSize
+changeKey 1249 -5721677
+heapSize
+getMax
+changeKey 2613 -9454552
+heapSize
+changeKey 2505 1080542
+changeKey 978 -6768187
+changeKey 3314 -3264551
+getMax
+getMax
+changeKey 220 -7184878
+heapSize
+changeKey 2235 9715490
+changeKey 3445 2279626
+heapSize
+changeKey 2795 9025648
+getMax
+changeKey 4287 5518986
+changeKey 3977 -1759484
+getMax
+getMax
+changeKey 1531 988634
+changeKey 925 9979899
+getMax
+changeKey 1527 9702661
+heapSize
+heapSize
+changeKey 3772 -9688934
+changeKey 3521 9172
+changeKey 4008 -4281849
+getMax
+changeKey 3369 -3646730
+changeKey 2792 -9276394
+getMax
+changeKey 3305 6759097
+getMax
+changeKey 816 4225267
+changeKey 1712 4252
+getMax
+getMax
+changeKey 184 -9719193
+getMax
+changeKey 3657 324059
+changeKey 1932 -8800387
+changeKey 1850 9983890
+changeKey 4966 -2748192
+getMax
+getMax
+getMax
+heapSize
+getMax
+heapSize
+changeKey 967 -878433
+heapSize
+changeKey 1316 1353283
+getMax
+changeKey 1104 2022772
+changeKey 2241 -4085644
+changeKey 1246 -722429
+changeKey 3203 -7616040
+getMax
+heapSize
+heapSize
+getMax
+heapSize
+getMax
+heapSize
+changeKey 2966 9112188
+getMax
+changeKey 4940 458873
+heapSize
+heapSize
+getMax
+heapSize
+heapSize
+changeKey 604 -4742940
+getMax
+changeKey 1233 4456443
+heapSize
+changeKey 3248 1765191
+changeKey 4134 771555
+changeKey 4957 -6429934
+changeKey 4290 624758
+changeKey 391 430585
+getMax
+getMax
+changeKey 3583 4181421
+changeKey 4006 -8212468
+changeKey 3281 -796098
+changeKey 4620 4579777
+heapSize
+getMax
+heapSize
+changeKey 1903 -1812174
+changeKey 4804 -1539563
+changeKey 1979 8002353
+heapSize
+changeKey 4174 6947396
+getMax
+changeKey 3900 -435523
+heapSize
+changeKey 695 8114219
+getMax
+getMax
+getMax
+getMax
+heapSize
+heapSize
+getMax
+changeKey 1997 -8816698
+getMax
+changeKey 921 2675013
+getMax
+getMax
+changeKey 2381 6578036
+changeKey 809 6251740
+changeKey 3462 -5263625
+changeKey 2741 -7150445
+getMax
+changeKey 4389 781553
+heapSize
+getMax
+changeKey 1769 -2548394
+changeKey 2465 -1890739
+heapSize
+changeKey 2939 -8577120
+changeKey 1008 -3625198
+heapSize
+heapSize
+heapSize
+getMax
+changeKey 270 5988337
+changeKey 3245 392414
+heapSize
+changeKey 3562 4061216
+heapSize
+changeKey 4573 -460986
+heapSize
+heapSize
+getMax
+heapSize
+changeKey 4642 -3169663
+changeKey 4463 8182647
+heapSize
+changeKey 3754 -5865134
+getMax
+changeKey 105 5809839
+changeKey 1155 4188828
+changeKey 3818 2075043
+heapSize
+changeKey 2564 604565
+heapSize
+changeKey 229 -7679537
+getMax
+changeKey 1564 -7839501
+changeKey 3786 8937910
+changeKey 4535 9667652
+changeKey 4488 -1784751
+getMax
+getMax
+changeKey 2797 8940193
+changeKey 4885 656424
+getMax
+heapSize
+getMax
+changeKey 86 46723
+changeKey 106 4098713
+heapSize
+getMax
+changeKey 2347 -5139377
+heapSize
+changeKey 3405 9704055
+heapSize
+heapSize
+changeKey 3303 379280
+changeKey 4155 9753137
+heapSize
+getMax
+getMax
+heapSize
+getMax
+changeKey 15 6122503
+getMax
+getMax
+getMax
+changeKey 3549 -288940
+changeKey 2219 8664258
+changeKey 296 8462651
+heapSize
+heapSize
+changeKey 1336 -515943
+heapSize
+getMax
+changeKey 426 -2111799
+heapSize
+changeKey 3232 -3574695
+heapSize
+changeKey 158 9118182
+changeKey 3338 3354347
+heapSize
+getMax
+changeKey 3689 -8194039
+getMax
+changeKey 166 -8941535
+getMax
+heapSize
+changeKey 3869 -5352666
+getMax
+changeKey 4036 6963229
+changeKey 4215 5112426
+changeKey 1166 9604692
+getMax
+heapSize
+changeKey 46 -47153
+getMax
+heapSize
+changeKey 1817 -1127048
+changeKey 1795 -8465646
+changeKey 4600 6005258
+changeKey 4596 -4411712
+getMax
+changeKey 3174 -4649387
+changeKey 3781 -8446409
+getMax
+getMax
+getMax
+changeKey 4538 -8178574
+changeKey 4293 -6337537
+heapSize
+changeKey 2432 9903031
+changeKey 3516 4224606
+changeKey 2327 7927506
+getMax
+getMax
+changeKey 2910 3063926
+changeKey 4319 9074510
+heapSize
+changeKey 3322 3453544
+changeKey 3460 -5979379
+heapSize
+getMax
+heapSize
+changeKey 2029 2455597
+changeKey 3360 8527274
+changeKey 3143 -8434742
+changeKey 2532 -5115357
+changeKey 4795 142703
+changeKey 4306 -3896107
+heapSize
+changeKey 1484 -8529505
+getMax
+changeKey 1839 -8975178
+changeKey 3177 88444
+heapSize
+heapSize
+changeKey 2285 3418889
+changeKey 1280 533949
+getMax
+getMax
+changeKey 4450 9327256
+changeKey 1788 5314740
+heapSize
+getMax
+getMax
+changeKey 2116 -2276496
+changeKey 3663 8201188
+changeKey 2158 -4939575
+changeKey 3812 -6385991
+changeKey 4501 1677481
+heapSize
+getMax
+getMax
+changeKey 2347 5849933
+changeKey 668 4678162
+getMax
+changeKey 1400 -4433299
+changeKey 2192 4246587
+changeKey 4384 -2911083
+changeKey 3447 9243293
+changeKey 3681 7734212
+getMax
+changeKey 4017 7496281
+changeKey 621 311803
+changeKey 456 -1841555
+heapSize
+getMax
+getMax
+changeKey 4890 3891007
+changeKey 280 4878967
+changeKey 1846 -1651927
+changeKey 770 4690326
+changeKey 1408 7339778
+getMax
+changeKey 2235 6720283
+changeKey 1249 -1136846
+getMax
+heapSize
+getMax
+getMax
+getMax
+changeKey 849 379022
+getMax
+getMax
+changeKey 4957 -8096283
+heapSize
+getMax
+changeKey 1858 5483515
+getMax
+changeKey 2467 -8704048
+heapSize
+changeKey 1951 9604737
+changeKey 3292 9818674
+getMax
+getMax
+getMax
+getMax
+getMax
+changeKey 1626 1541041
+changeKey 1552 -7634109
+changeKey 1767 -1502628
+heapSize
+heapSize
+changeKey 1330 4242157
+changeKey 3304 2431646
+changeKey 1720 3027014
+changeKey 4205 -4828556
+changeKey 749 -9630255
+changeKey 1033 -8567470
+changeKey 611 -1602704
+getMax
+changeKey 1799 -3215466
+changeKey 2989 -8826348
+getMax
+getMax
+changeKey 448 6772165
+changeKey 2625 -1140083
+getMax
+heapSize
+heapSize
+getMax
+changeKey 1103 -9861749
+getMax
+changeKey 966 3049879
+changeKey 3977 4768981
+changeKey 4947 3266852
+changeKey 1242 5282481
+changeKey 2582 4669288
+changeKey 2310 2184360
+changeKey 3553 -2016746
+changeKey 4373 5852390
+heapSize
+heapSize
+changeKey 3685 -9267302
+changeKey 2444 611078
+heapSize
+getMax
+changeKey 1863 8814772
+changeKey 1518 -2256236
+changeKey 3875 7783781
+getMax
+heapSize
+changeKey 2157 -481954
+changeKey 658 -8859445
+heapSize
+getMax
+heapSize
+changeKey 3453 -8895898
+changeKey 927 -5322600
+changeKey 4088 -3425679
+changeKey 2803 9908270
+changeKey 1520 -4684630
+changeKey 3039 -2662269
+heapSize
+changeKey 1472 7824575
+getMax
+getMax
+getMax
+getMax
+heapSize
+changeKey 3658 -3624006
+changeKey 1374 6347844
+getMax
+getMax
+getMax
+changeKey 2802 1322634
+changeKey 4757 6827380
+changeKey 426 1681680
+changeKey 528 8695965
+changeKey 395 -3889846
+changeKey 1046 -7652250
+heapSize
+heapSize
+getMax
+getMax
+getMax
+changeKey 3030 2988429
+changeKey 4678 -8624209
+heapSize
+getMax
+changeKey 3454 -2120123
+heapSize
+changeKey 1835 -6183716
+heapSize
+changeKey 1338 -4686295
+heapSize
+heapSize
+changeKey 2881 -3955263
+getMax
+heapSize
+changeKey 4371 -8746981
+heapSize
+changeKey 4099 4307343
+changeKey 4266 2115876
+getMax
+getMax
+changeKey 2309 1553487
+changeKey 2998 -8808383
+changeKey 2023 -8629252
+changeKey 3686 -8353541
+changeKey 1130 -9953059
+heapSize
+getMax
+changeKey 410 -5054849
+changeKey 1453 -4320567
+changeKey 3396 -2201137
+changeKey 2341 6140321
+getMax
+changeKey 920 9592502
+heapSize
+getMax
+changeKey 4389 64854
+changeKey 458 -6301272
+changeKey 2732 -2279726
+changeKey 2685 9678852
+changeKey 547 626939
+getMax
+changeKey 4124 -5918487
+changeKey 3922 -6111830
+changeKey 1220 4352931
+changeKey 2708 -3837231
+changeKey 2869 -8543678
+heapSize
+changeKey 2416 -9978724
+heapSize
+changeKey 569 2766243
+getMax
+heapSize
+heapSize
+changeKey 3038 3481286
+heapSize
+changeKey 2509 9579200
+getMax
+getMax
+heapSize
+getMax
+getMax
+heapSize
+heapSize
+changeKey 4728 -3423619
+getMax
+heapSize
+heapSize
+heapSize
+heapSize
+changeKey 2499 9976754
+getMax
+getMax
+changeKey 1496 -5753935
+changeKey 1398 4436531
+heapSize
+changeKey 3011 -5582048
+heapSize
+heapSize
+changeKey 2768 6600516
+getMax
+changeKey 3435 1348526
+heapSize
+changeKey 19 -1111182
+getMax
+heapSize
+changeKey 3692 499729
+heapSize
+heapSize
+changeKey 4112 8632935
+changeKey 3871 -7152856
+changeKey 4788 6157241
+getMax
+changeKey 3662 1840729
+getMax
+heapSize
+changeKey 3969 -3307502
+getMax
+heapSize
+changeKey 4463 -1042553
+changeKey 4642 -2601267
+changeKey 4968 4591950
+changeKey 2401 9277704
+heapSize
+heapSize
+changeKey 4412 -4483277
+changeKey 3828 3001187
+heapSize
+changeKey 984 2729202
+changeKey 1720 1303154
+changeKey 2893 3430193
+changeKey 3935 9252985
+getMax
+getMax
+changeKey 3633 6695069
+getMax
+getMax
+heapSize
+changeKey 643 -2714077
+changeKey 4607 -3448137
+changeKey 3797 -8178265
+getMax
+getMax
+changeKey 1874 8568782
+heapSize
+heapSize
+heapSize
+getMax
+changeKey 991 7982548
+changeKey 3364 -9774508
+changeKey 2103 7399426
+changeKey 914 6522321
+changeKey 3809 -6224574
+changeKey 30 9723265
+heapSize
+heapSize
+getMax
+changeKey 261 4501203
+changeKey 910 195917
+changeKey 3811 -4832881
+changeKey 2671 -202356
+changeKey 1456 6950957
+changeKey 2521 -4091741
+getMax
+changeKey 1788 -1034988
+heapSize
+getMax
+changeKey 851 6684337
+heapSize
+changeKey 2000 3924021
+changeKey 3113 -8865940
+heapSize
+changeKey 4630 -8949687
+getMax
+getMax
+changeKey 413 9626061
+heapSize
+getMax
+getMax
+changeKey 2184 8793794
+changeKey 4843 3999095
+changeKey 1224 -7337837
+changeKey 3353 -8952875
+getMax
+changeKey 1842 1727010
+getMax
+getMax
+getMax
+changeKey 3832 -9702414
+changeKey 3356 9862947
+getMax
+changeKey 2825 6386092
+getMax
+getMax
+changeKey 4209 6926604
+heapSize
+changeKey 839 4317681
+getMax
+getMax
+changeKey 3396 -7425721
+changeKey 731 7048508
+changeKey 1530 -4324295
+heapSize
+changeKey 2096 -1435523
+changeKey 3230 -4721448
+changeKey 770 3782024
+getMax
+changeKey 612 357898
+changeKey 625 4770981
+changeKey 4057 5381397
+changeKey 2799 -4284569
+heapSize
+changeKey 420 -7337600
+heapSize
+changeKey 4575 7084929
+getMax
+changeKey 2461 9388259
+getMax
+changeKey 4375 -902681
+heapSize
+changeKey 736 6196973
+changeKey 4441 7367541
+heapSize
+changeKey 3898 6078101
+changeKey 1432 -1120711
+getMax
+getMax
+heapSize
+changeKey 1662 -6193844
+changeKey 596 5701641
+getMax
+changeKey 4218 9349005
+getMax
+changeKey 2799 7478566
+heapSize
+heapSize
+heapSize
+changeKey 1605 -4164168
+changeKey 2559 507630
+heapSize
+changeKey 3877 -9250332
+heapSize
+heapSize
+getMax
+changeKey 3638 120555
+getMax
+getMax
+getMax
+changeKey 2209 -4238207
+changeKey 4727 -1307690
+heapSize
+changeKey 2400 8163018
+changeKey 663 -1594128
+heapSize
+changeKey 321 -1543887
+changeKey 1038 3078719
+changeKey 4644 -776327
+getMax
+changeKey 1318 1939301
+heapSize
+heapSize
+changeKey 426 3784861
+getMax
+changeKey 2219 -2692407
+changeKey 842 -5726820
+heapSize
+changeKey 1374 3965197
+changeKey 3536 4246946
+getMax
+changeKey 4568 -9632683
+heapSize
+heapSize
+getMax
+changeKey 3359 -7341819
+changeKey 1853 9812973
+changeKey 1662 -3412257
+changeKey 287 408339
+getMax
+changeKey 2510 9904835
+changeKey 3971 4717400
+heapSize
+changeKey 3898 8767542
+getMax
+heapSize
+getMax
+changeKey 70 -1192915
+changeKey 282 -8851049
+changeKey 4515 -5094574
+getMax
+heapSize
+changeKey 2754 -4275840
+heapSize
+heapSize
+changeKey 4351 -809699
+changeKey 1582 -6767239
+changeKey 4378 5649466
+getMax
+changeKey 3426 5583979
+changeKey 4403 -1068935
+changeKey 2459 -2361001
+getMax
+changeKey 465 437681
+changeKey 3090 6489729
+getMax
+changeKey 3375 -6408896
+heapSize
+changeKey 4551 8708104
+changeKey 4372 9148206
+changeKey 1997 8397734
+getMax
+changeKey 2936 -3113196
+heapSize
+changeKey 410 4872972
+getMax
+getMax
+changeKey 3847 3590638
+getMax
+getMax
+changeKey 3717 8042060
+changeKey 2270 9528906
+getMax
+changeKey 4098 9706280
+heapSize
+getMax
+heapSize
+changeKey 242 -4355353
+heapSize
+changeKey 1069 -7668326
+changeKey 3114 5072226
+changeKey 4251 7825601
+changeKey 1372 2240544
+getMax
+changeKey 4535 9636125
+changeKey 2430 1111514
+getMax
+changeKey 4664 884956
+getMax
+changeKey 1821 -4359726
+getMax
+changeKey 3955 -2756590
+changeKey 4114 -2533563
+heapSize
+changeKey 1721 7360824
+getMax
+changeKey 3004 -973531
+getMax
+changeKey 1504 8395096
+getMax
+heapSize
+changeKey 4323 9289538
+heapSize
+getMax
+heapSize
+changeKey 4422 -2007365
+changeKey 3375 5225489
+changeKey 1194 -6749630
+heapSize
+getMax
+changeKey 3656 -4275547
+heapSize
+changeKey 725 -521907
+changeKey 1874 6364930
+getMax
+getMax
+getMax
+heapSize
+getMax
+changeKey 2428 2905056
+changeKey 3725 4341730
+heapSize
+getMax
+getMax
+heapSize
+changeKey 4753 -8030620
+heapSize
+getMax
+getMax
+changeKey 2607 1295749
+changeKey 479 3189880
+heapSize
+getMax
+changeKey 2562 -5670011
+changeKey 405 2063725
+getMax
+changeKey 2914 5924695
+getMax
+getMax
+heapSize
+changeKey 685 4559257
+changeKey 2640 7212748
+changeKey 799 -577492
+heapSize
+changeKey 2601 -5889239
+changeKey 2160 2701145
+heapSize
+changeKey 2016 9799416
+getMax
+changeKey 972 -2734373
+heapSize
+getMax
+getMax
+getMax
+changeKey 2148 -7241590
+getMax
+heapSize
+heapSize
+changeKey 2666 7288124
+changeKey 4458 -8252336
+getMax
+changeKey 2354 -471747
+getMax
+getMax
+getMax
+changeKey 3357 -2013031
+changeKey 1746 2151462
+changeKey 1597 -456440
+heapSize
+changeKey 3946 -1951810
+changeKey 2504 -3382069
+changeKey 3956 4796174
+changeKey 3917 1320887
+getMax
+changeKey 4660 1424239
+changeKey 1017 6694026
+getMax
+getMax
+changeKey 2520 -2459783
+heapSize
+heapSize
+changeKey 2541 98568
+getMax
+getMax
+heapSize
+changeKey 3202 2133633
+changeKey 2396 -9492268
+heapSize
+heapSize
+changeKey 1894 -2697532
+getMax
+getMax
+changeKey 3563 2297430
+getMax
+getMax
+changeKey 786 -4951236
+changeKey 1002 7846258
+changeKey 1304 3665969
+getMax
+changeKey 3541 -4973328
+changeKey 4144 -9346694
+changeKey 2092 -4862604
+changeKey 343 -2608021
+changeKey 438 -556437
+changeKey 692 6740583
+changeKey 3113 3262493
+getMax
+getMax
+changeKey 4635 -4987948
+heapSize
+changeKey 3379 9419085
+changeKey 3771 -1665446
+changeKey 3446 6694892
+getMax
+heapSize
+heapSize
+getMax
+getMax
+changeKey 2785 8249444
+changeKey 3056 2491473
+getMax
+heapSize
+changeKey 3830 8060830
+heapSize
+heapSize
+changeKey 3695 3356172
+getMax
+heapSize
+changeKey 4151 1781712
+heapSize
+heapSize
+changeKey 694 -794889
+heapSize
+getMax
+heapSize
+changeKey 4434 4945274
+getMax
+changeKey 546 2223757
+getMax
+getMax
+getMax
+heapSize
+changeKey 2570 1169346
+changeKey 2946 5935598
+getMax
+changeKey 920 -6717921
+changeKey 4234 1581175
+getMax
+heapSize
+heapSize
+getMax
+getMax
+getMax
+heapSize
+changeKey 2495 1216139
+heapSize
+getMax
+getMax
+changeKey 1812 1787019
+changeKey 4296 8348108
+getMax
+getMax
+changeKey 3876 3899022
+getMax
+changeKey 1902 -8115961
+getMax
+getMax
+heapSize
+changeKey 264 -988640
+changeKey 1793 -4631980
+heapSize
+heapSize
+getMax
+getMax
+changeKey 1893 3190318
+changeKey 1099 3493573
+changeKey 4027 8123127
+getMax
+heapSize
+changeKey 3137 -9941344
+getMax
+changeKey 2628 -9779654
+changeKey 4563 9389158
+changeKey 4261 -4471870
+changeKey 2246 8012408
+changeKey 454 -9658654
+changeKey 4213 -4259278
+changeKey 595 8321233
+getMax
+getMax
+changeKey 3816 2754564
+getMax
+changeKey 3631 4629859
+changeKey 1259 9095604
+heapSize
+heapSize
+getMax
+heapSize
+getMax
+getMax
+getMax
+heapSize
+changeKey 3764 7282820
+changeKey 560 8132379
+changeKey 691 93750
+changeKey 986 -106955
+getMax
+heapSize
+heapSize
+heapSize
+getMax
+getMax
+changeKey 2460 3780548
+changeKey 201 -2045641
+heapSize
+changeKey 2546 4145863
+changeKey 269 3144003
+heapSize
+changeKey 4233 9821755
+changeKey 1338 8606552
+heapSize
+getMax
+changeKey 254 -7785824
+heapSize
+changeKey 4383 2996568
+changeKey 4502 -4282256
+heapSize
+changeKey 1202 -8108646
+changeKey 4834 -7592460
+heapSize
+changeKey 1990 -2328005
+changeKey 1779 2406820
+changeKey 4009 -8840950
+changeKey 2440 -6009288
+changeKey 3014 8512881
+getMax
+changeKey 3244 -798383
+heapSize
+changeKey 1981 339253
+changeKey 4940 -1163175
+getMax
+getMax
+getMax
+changeKey 585 3798607
+getMax
+changeKey 943 -3234722
+changeKey 1556 -8398375
+changeKey 2719 6146446
+heapSize
+changeKey 2879 3450273
+getMax
+changeKey 4044 6908762
+changeKey 4971 1355849
+getMax
+getMax
+changeKey 1625 4253171
+changeKey 2641 5819588
+changeKey 23 3877989
+heapSize
+changeKey 3763 -195745
+changeKey 830 -1154839
+changeKey 2260 7653529
+heapSize
+changeKey 3909 -6122788
+changeKey 2995 -6649034
+changeKey 1182 -5847272
+heapSize
+changeKey 1988 5586794
+getMax
+getMax
+changeKey 101 -4463015
+changeKey 695 -6031117
+changeKey 4676 -9163541
+changeKey 2392 6086387
+changeKey 1355 -5648588
+getMax
+changeKey 2933 4089733
+heapSize
+changeKey 559 -1411136
+changeKey 575 -3422211
+changeKey 1297 -7939289
+changeKey 1989 2286086
+changeKey 2970 4804508
+changeKey 1867 3131638
+changeKey 3046 3912774
+changeKey 4186 -8771661
+changeKey 1767 -5460984
+getMax
+heapSize
+heapSize
+changeKey 4294 3763542
+getMax
+changeKey 2241 -6488912
+heapSize
+changeKey 4732 9485229
+changeKey 172 6608747
+heapSize
+getMax
+changeKey 3563 3572631
+getMax
+changeKey 3282 -2054197
+getMax
+getMax
+changeKey 4820 -3339013
+changeKey 1619 -8488936
+changeKey 788 8091805
+getMax
+changeKey 2780 -7123733
+heapSize
+heapSize
+changeKey 3431 7147107
+getMax
+heapSize
+changeKey 1493 1437620
+changeKey 4345 5062135
+changeKey 198 -2497500
+changeKey 3171 1429135
+getMax
+changeKey 1088 297658
+changeKey 4434 3129061
+heapSize
+changeKey 716 2633252
+changeKey 3067 1092389
+changeKey 3661 5232151
+heapSize
+changeKey 4159 -6900722
+changeKey 2555 8184385
+changeKey 927 -7323886
+heapSize
+changeKey 869 313239
+changeKey 3956 6207085
+getMax
+changeKey 507 -625838
+getMax
+changeKey 541 1724207
+heapSize
+getMax
+getMax
+getMax
+changeKey 1534 -850942
+changeKey 4664 -2414908
+heapSize
+changeKey 974 3437849
+getMax
+changeKey 793 -7228269
+changeKey 4795 4773267
+getMax
+changeKey 3273 -5640525
+heapSize
+getMax
+getMax
+getMax
+changeKey 4394 -3760117
+heapSize
+heapSize
+changeKey 4884 -6265575
+getMax
+changeKey 2151 -7101574
+heapSize
+getMax
+changeKey 2607 -4034834
+changeKey 4874 -7242563
+heapSize
+getMax
+changeKey 1657 8179271
+changeKey 58 7341193
+changeKey 3963 7078498
+changeKey 3455 4573644
+changeKey 2754 9572052
+heapSize
+heapSize
+getMax
+heapSize
+getMax
+changeKey 2511 4320547
+heapSize
+changeKey 3626 9428005
+getMax
+changeKey 2603 -3118655
+changeKey 1373 4152703
+getMax
+heapSize
+getMax
+getMax
+changeKey 2779 6581528
+changeKey 244 7696375
+changeKey 1823 -2545876
+getMax
+changeKey 892 -1379882
+changeKey 2946 5083924
+changeKey 4117 289548
+changeKey 4623 8311153
+heapSize
+heapSize
+getMax
+changeKey 4098 3778163
+getMax
+heapSize
+getMax
+changeKey 3083 -4579853
+heapSize
+changeKey 2230 7423437
+changeKey 1860 9309374
+heapSize
+getMax
+heapSize
+changeKey 2926 5170471
+changeKey 1398 -6582492
+getMax
+getMax
+getMax
+changeKey 1696 -8832789
+getMax
+getMax
+getMax
+changeKey 4243 -5073563
+heapSize
+changeKey 1220 -7477084
+changeKey 3948 -7494188
+changeKey 3031 -3958828
+changeKey 3104 4206364
+changeKey 2970 5005835
+heapSize
+changeKey 1216 -4294752
+getMax
+changeKey 1025 -2423120
+getMax
+changeKey 2968 7924412
+changeKey 1818 3225892
+changeKey 1874 -8692203
+changeKey 3008 2388068
+getMax
+getMax
+getMax
+heapSize
+changeKey 4624 4039281
+changeKey 1 -3348725
+changeKey 2725 -466274
+getMax
+changeKey 1474 7140897
+changeKey 3667 -76290
+changeKey 4196 1747638
+getMax
+changeKey 2273 -2106207
+getMax
+changeKey 2934 -4385460
+heapSize
+changeKey 506 -25065
+heapSize
+changeKey 462 8977415
+changeKey 1422 5579413
+heapSize
+heapSize
+changeKey 257 -5299850
+changeKey 1401 5044335
+getMax
+changeKey 2696 2502359
+getMax
+changeKey 4166 -249778
+changeKey 191 -2352910
+heapSize
+getMax
+getMax
+changeKey 2728 6699165
+heapSize
+changeKey 7 7121970
+changeKey 1604 1199932
+changeKey 4549 7610213
+getMax
+heapSize
+changeKey 3032 7401031
+changeKey 2290 -1080094
+getMax
+getMax
+getMax
+heapSize
+changeKey 1749 -1437977
+changeKey 1489 5331761
+getMax
+changeKey 142 -2406000
+changeKey 3207 1649312
+changeKey 489 7114739
+changeKey 796 4330737
+getMax
+changeKey 2797 4596466
+getMax
+changeKey 699 1635320
+changeKey 2527 -4088367
+getMax
+changeKey 1958 -5939572
+changeKey 3580 7439729
+getMax
+changeKey 2747 65361
+heapSize
+changeKey 2216 8040593
+changeKey 3453 -5015686
+getMax
+changeKey 4806 -6309688
+changeKey 4224 -3637210
+getMax
+changeKey 3507 9600608
+heapSize
+heapSize
+changeKey 1082 4837395
+changeKey 3039 9697647
+changeKey 3046 6361389
+changeKey 2972 -7480984
+changeKey 3412 -5728437
+heapSize
+heapSize
+changeKey 1873 -3262346
+getMax
+heapSize
+changeKey 3744 8048128
+heapSize
+changeKey 2432 -8748143
+changeKey 4581 -3276983
+changeKey 2900 -4932068
+getMax
+changeKey 1930 -2860589
+getMax
+changeKey 963 -3726706
+getMax
+changeKey 2073 -8264969
+changeKey 4903 8475830
+changeKey 3732 7284143
+heapSize
+heapSize
+changeKey 561 -2544938
+changeKey 1959 4245162
+changeKey 1960 7338003
+getMax
+changeKey 4053 -186964
+changeKey 2815 -5033422
+getMax
+getMax
+getMax
+getMax
+changeKey 1601 6924311
+changeKey 380 7046767
+changeKey 653 4471373
+getMax
+getMax
+getMax
+changeKey 3152 -3337192
+getMax
+getMax
+getMax
+heapSize
+heapSize
+changeKey 2798 3907451
+changeKey 2671 -6262864
+heapSize
+getMax
+changeKey 1806 6452232
+changeKey 2897 -4863998
+changeKey 2908 -3810762
+getMax
+changeKey 2690 -2284208
+getMax
+getMax
+changeKey 2732 -1016146
+getMax
+changeKey 106 -3106723
+changeKey 1579 -3141850
+changeKey 376 7783313
+getMax
+getMax
+changeKey 1294 -1035808
+getMax
+getMax
+getMax
+getMax
+changeKey 3214 -3392679
+heapSize
+getMax
+heapSize
+changeKey 4022 5477600
+changeKey 992 -2853360
+changeKey 2969 -4696279
+changeKey 4206 -4748006
+getMax
+changeKey 2153 -3028380
+changeKey 3302 -6493729
+changeKey 2028 2655272
+changeKey 822 -6507484
+getMax
+changeKey 1904 6994195
+getMax
+changeKey 3340 -7957817
+getMax
+changeKey 2604 -4068417
+changeKey 1535 8785902
+changeKey 4337 9617079
+changeKey 566 3455287
+changeKey 2129 -5846802
+changeKey 2816 2311825
+changeKey 439 7601018
+changeKey 236 -5060693
+heapSize
+getMax
+changeKey 1535 8486801
+changeKey 1251 8242526
+getMax
+getMax
+getMax
+heapSize
+heapSize
+heapSize
+getMax
+changeKey 267 -6281468
+heapSize
+changeKey 1453 2325494
+getMax
+changeKey 2553 -4102737
+changeKey 4816 -7705908
+changeKey 1254 -1781253
+changeKey 664 -7011215
+changeKey 4745 7719421
+changeKey 3745 -1635252
+heapSize
+changeKey 124 -5682754
+heapSize
+getMax
+changeKey 4077 -5631129
+changeKey 908 -5840669
+changeKey 273 -7787344
+heapSize
+changeKey 3923 -1485466
+heapSize
+changeKey 4778 8492010
+changeKey 1917 -216662
+changeKey 1404 3326367
+changeKey 1876 -7440041
+heapSize
+heapSize
+changeKey 2183 3431306
+changeKey 1842 -7212923
+getMax
+heapSize
+changeKey 3800 -6434395
+getMax
+getMax
+getMax
+getMax
+changeKey 707 -8559104
+heapSize
+changeKey 2925 -9513698
+getMax
+changeKey 641 -1036564
+heapSize
+changeKey 3542 1461638
+changeKey 2646 686950
+changeKey 4123 8075583
+getMax
+changeKey 292 -9263147
+changeKey 1143 -8322114
+getMax
+changeKey 4631 865407
+heapSize
+changeKey 1812 3005755
+changeKey 4754 -1360470
+heapSize
+changeKey 1070 -7366367
+changeKey 3499 1241910
+getMax
+changeKey 3023 -3367242
+getMax
+changeKey 2427 8802755
+getMax
+changeKey 1058 -3452869
+heapSize
+changeKey 4179 2318831
+changeKey 1450 -8444348
+getMax
+getMax
+changeKey 2026 -4964806
+getMax
+changeKey 2093 5721246
+getMax
+changeKey 2137 1889635
+getMax
+getMax
+changeKey 4025 1318430
+heapSize
+changeKey 2901 5762701
+changeKey 4076 6756081
+changeKey 2401 9553563
+getMax
+getMax
+changeKey 1358 8500621
+changeKey 2978 -7581677
+changeKey 4682 8798209
+changeKey 1118 -5349663
+changeKey 2446 -4771054
+changeKey 4298 -9742466
+getMax
+getMax
+getMax

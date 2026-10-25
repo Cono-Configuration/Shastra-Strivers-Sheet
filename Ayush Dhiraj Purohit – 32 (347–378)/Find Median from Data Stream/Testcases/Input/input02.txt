@@ -1,0 +1,8 @@
+7
+addNum 10
+addNum 20
+addNum 30
+findMedian
+addNum 5
+addNum 15
+findMedian

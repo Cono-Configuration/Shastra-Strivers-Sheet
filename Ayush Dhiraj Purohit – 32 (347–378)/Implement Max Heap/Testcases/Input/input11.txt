@@ -1,0 +1,15 @@
+14
+initializeHeap
+insert -50
+insert 50
+insert -40
+insert 40
+insert -30
+insert 30
+insert -20
+insert 20
+getMax
+extractMax
+getMax
+extractMax
+getMax

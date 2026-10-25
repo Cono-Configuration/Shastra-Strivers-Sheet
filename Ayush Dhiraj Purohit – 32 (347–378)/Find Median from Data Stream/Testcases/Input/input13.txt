@@ -1,0 +1,49 @@
+48
+addNum -3
+findMedian
+addNum -9
+findMedian
+addNum -15
+addNum -18
+addNum -21
+addNum -24
+findMedian
+addNum -30
+addNum -33
+addNum -36
+findMedian
+findMedian
+addNum -45
+findMedian
+addNum -51
+addNum -54
+findMedian
+addNum -60
+addNum -63
+addNum -66
+findMedian
+findMedian
+addNum -75
+addNum -78
+findMedian
+findMedian
+findMedian
+addNum -90
+addNum -93
+findMedian
+addNum -99
+findMedian
+addNum -105
+addNum -108
+addNum -111
+addNum -114
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian
+findMedian

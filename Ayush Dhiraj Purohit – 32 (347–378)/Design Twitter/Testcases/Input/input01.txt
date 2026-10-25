@@ -1,0 +1,4 @@
+3
+getNewsFeed 1
+postTweet 1 101
+getNewsFeed 1

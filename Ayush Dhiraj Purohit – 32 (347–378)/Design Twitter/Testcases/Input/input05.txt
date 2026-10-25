@@ -1,0 +1,3 @@
+2
+unfollow 1 2
+getNewsFeed 1

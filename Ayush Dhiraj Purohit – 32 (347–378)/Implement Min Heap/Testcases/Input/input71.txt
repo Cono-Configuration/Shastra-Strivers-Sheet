@@ -1,0 +1,11501 @@
+11500
+initializeHeap
+insert -43368
+insert 1455
+extractMin
+extractMin
+insert 42825
+extractMin
+insert -22944
+extractMin
+insert -30901
+insert 78980
+insert 34655
+extractMin
+insert 41529
+extractMin
+insert -22100
+extractMin
+extractMin
+insert -83048
+insert 47777
+insert 56497
+extractMin
+extractMin
+insert 73672
+insert 94144
+insert -77943
+insert -13498
+insert 32802
+insert -95663
+extractMin
+insert 17349
+insert -99952
+insert -53602
+insert 83171
+extractMin
+insert 33657
+extractMin
+insert 708
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 92103
+insert -42673
+insert 59591
+insert -95945
+insert 84197
+insert -36252
+extractMin
+insert -64811
+insert -57066
+insert -34580
+extractMin
+insert -31728
+extractMin
+insert 4047
+extractMin
+extractMin
+insert -29112
+insert -84036
+insert 83691
+extractMin
+insert 24105
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -57381
+insert -80741
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34378
+extractMin
+insert 17819
+extractMin
+insert -71834
+extractMin
+insert -82575
+extractMin
+extractMin
+insert -68234
+extractMin
+extractMin
+insert 37294
+insert -62587
+insert -16190
+insert -65959
+extractMin
+extractMin
+insert 65403
+insert 64880
+extractMin
+insert 15375
+extractMin
+extractMin
+insert 66678
+extractMin
+insert 85851
+extractMin
+extractMin
+extractMin
+insert 17697
+insert -39022
+extractMin
+insert 78736
+insert 39225
+extractMin
+insert 8125
+extractMin
+extractMin
+extractMin
+extractMin
+insert 16328
+insert 82291
+extractMin
+extractMin
+insert 93045
+extractMin
+insert -90083
+insert -68935
+insert 92836
+extractMin
+insert 59588
+extractMin
+insert 582
+insert -37925
+insert -31470
+insert -17915
+extractMin
+extractMin
+insert -42431
+extractMin
+insert 68345
+insert 46577
+insert -11088
+extractMin
+extractMin
+insert 95043
+insert -62196
+insert 20441
+insert -85629
+insert -47111
+insert -29997
+insert 8889
+insert 87467
+extractMin
+extractMin
+insert -1008
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 20622
+extractMin
+extractMin
+insert 10070
+insert 6663
+insert 22587
+insert 886
+extractMin
+extractMin
+insert 89696
+extractMin
+extractMin
+insert 25682
+insert 84867
+extractMin
+insert 80103
+insert 79286
+extractMin
+extractMin
+insert -95122
+insert 98900
+insert -53965
+insert 92537
+extractMin
+insert 15976
+insert 30631
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 50044
+insert -69944
+extractMin
+extractMin
+extractMin
+extractMin
+insert 41908
+insert 95882
+insert 24031
+extractMin
+insert 41055
+insert -19707
+extractMin
+extractMin
+extractMin
+insert 56374
+insert 61660
+extractMin
+insert -8849
+insert -92439
+extractMin
+insert -72368
+extractMin
+insert 24533
+extractMin
+extractMin
+extractMin
+extractMin
+insert -4885
+extractMin
+insert 90184
+insert -42432
+extractMin
+insert -8955
+extractMin
+extractMin
+insert -56889
+insert 83804
+extractMin
+extractMin
+insert 25574
+extractMin
+extractMin
+insert 94950
+extractMin
+insert -35036
+extractMin
+insert 3369
+insert -97569
+insert -61808
+insert -29479
+extractMin
+insert 91957
+insert -5640
+extractMin
+extractMin
+insert 8908
+extractMin
+extractMin
+extractMin
+insert 72094
+extractMin
+insert -6993
+insert -25034
+extractMin
+insert -62671
+extractMin
+insert -72726
+extractMin
+extractMin
+extractMin
+insert -30853
+insert -7420
+extractMin
+extractMin
+insert 24279
+extractMin
+insert -88312
+extractMin
+extractMin
+insert 7129
+insert -89007
+insert -543
+insert -96332
+insert -40093
+extractMin
+extractMin
+insert 92116
+extractMin
+insert -90287
+insert 34011
+extractMin
+insert -34921
+insert 87241
+insert -82510
+extractMin
+extractMin
+insert -42277
+extractMin
+extractMin
+insert 3009
+insert -99833
+extractMin
+insert -61220
+insert -87449
+insert -69090
+insert 38681
+extractMin
+insert 91008
+insert -29787
+extractMin
+insert 4341
+extractMin
+insert 95714
+insert -60995
+insert 35463
+insert 22604
+insert 11097
+extractMin
+insert 8918
+insert -73727
+insert 2204
+insert 17514
+extractMin
+extractMin
+insert 1242
+extractMin
+insert -18713
+insert -99212
+insert -44054
+insert -82605
+insert 53856
+extractMin
+extractMin
+extractMin
+extractMin
+insert -58469
+extractMin
+insert 67006
+insert -50595
+insert -44675
+extractMin
+extractMin
+insert 27923
+extractMin
+extractMin
+extractMin
+extractMin
+insert -57680
+insert -81685
+extractMin
+insert 49861
+insert -34563
+insert 13763
+insert -89756
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 45489
+insert 19344
+extractMin
+insert 18900
+insert -72490
+insert -64637
+insert 53858
+insert -11655
+insert -17956
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -59745
+insert 95230
+insert 79133
+insert -23614
+extractMin
+insert -87807
+extractMin
+extractMin
+insert 27458
+extractMin
+extractMin
+extractMin
+insert -61418
+extractMin
+extractMin
+insert 83040
+insert 97448
+extractMin
+extractMin
+insert -90985
+insert 12836
+insert -19095
+insert -57395
+insert -99624
+extractMin
+insert 37534
+insert -38009
+insert 94918
+insert -79463
+insert 85673
+insert -58684
+insert -57685
+insert 88834
+insert 99090
+insert -53115
+extractMin
+insert 27936
+extractMin
+extractMin
+extractMin
+extractMin
+insert -23990
+insert -21075
+extractMin
+extractMin
+insert -96958
+insert -78484
+insert 72560
+insert 18234
+insert -34314
+extractMin
+extractMin
+insert 65432
+extractMin
+extractMin
+insert 61239
+insert 77804
+extractMin
+extractMin
+insert -32102
+insert -91523
+insert 67496
+insert -42883
+insert 16964
+extractMin
+insert -74319
+extractMin
+insert 66725
+insert 30759
+insert 22424
+insert -20352
+extractMin
+extractMin
+insert -90781
+extractMin
+extractMin
+insert 79579
+extractMin
+insert -76398
+extractMin
+insert -69610
+insert -97479
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 85838
+extractMin
+extractMin
+insert 44061
+insert -62636
+insert 88687
+extractMin
+insert -20550
+insert -28954
+insert 24315
+extractMin
+insert -71706
+extractMin
+extractMin
+extractMin
+insert -3149
+extractMin
+insert -21457
+extractMin
+insert -18948
+insert 95276
+extractMin
+insert -35617
+insert -9095
+insert -58534
+extractMin
+insert -49800
+extractMin
+extractMin
+extractMin
+insert 31925
+extractMin
+insert 8463
+insert 56623
+insert -18883
+extractMin
+insert -45131
+insert -93375
+insert -26280
+insert -6865
+insert -36750
+extractMin
+extractMin
+insert -47624
+insert 31299
+extractMin
+extractMin
+extractMin
+insert -60198
+insert 46997
+extractMin
+extractMin
+insert 43680
+insert -28925
+insert -74941
+insert 47109
+extractMin
+extractMin
+insert -40222
+extractMin
+insert 22761
+extractMin
+insert 57222
+insert -5887
+extractMin
+extractMin
+insert -91723
+extractMin
+extractMin
+insert 14105
+insert 70475
+insert 406
+insert 37900
+insert 46136
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 56383
+insert -81579
+insert 82145
+insert -2524
+insert 33422
+extractMin
+insert -6941
+extractMin
+extractMin
+insert -44361
+insert -36744
+insert 99916
+insert 98379
+extractMin
+insert 44123
+extractMin
+insert 76062
+extractMin
+extractMin
+extractMin
+extractMin
+insert 51292
+insert 26344
+insert -79556
+insert 95291
+extractMin
+extractMin
+insert -8589
+extractMin
+extractMin
+extractMin
+insert 69856
+extractMin
+insert -28252
+insert -57563
+insert 80524
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -4335
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 26005
+insert 21458
+insert 19009
+insert 64907
+insert 5615
+insert 72357
+insert -24282
+insert 76623
+extractMin
+insert 64096
+insert 37430
+extractMin
+insert 35463
+extractMin
+insert -40444
+extractMin
+insert -45337
+extractMin
+extractMin
+insert -97165
+insert -24056
+insert -51975
+extractMin
+extractMin
+insert -50658
+extractMin
+extractMin
+insert 63351
+insert -29276
+extractMin
+insert -60415
+extractMin
+insert 28583
+extractMin
+extractMin
+extractMin
+insert -89138
+extractMin
+insert 9547
+insert 50759
+insert 86435
+insert 65838
+insert -36365
+insert 75943
+insert 28867
+insert 90295
+insert 78183
+insert 73017
+insert -97705
+extractMin
+extractMin
+insert -27583
+extractMin
+extractMin
+insert 81977
+insert 58886
+extractMin
+extractMin
+extractMin
+insert 7268
+insert 6682
+insert 63555
+extractMin
+insert 44676
+extractMin
+insert 20086
+insert 77385
+insert 49535
+insert -31839
+extractMin
+insert 8470
+insert -56558
+insert -27868
+insert 63395
+insert -59270
+insert 27049
+extractMin
+extractMin
+insert -76068
+insert -15123
+extractMin
+insert 81158
+extractMin
+insert -7684
+insert -85047
+insert 22999
+insert 66133
+insert -10199
+insert 54389
+extractMin
+insert -64103
+insert 91967
+insert -27902
+extractMin
+extractMin
+insert -36185
+extractMin
+extractMin
+insert -68858
+extractMin
+extractMin
+insert -75138
+insert -17883
+extractMin
+insert -35956
+extractMin
+insert 27322
+extractMin
+insert 66529
+extractMin
+insert 61233
+extractMin
+insert 92276
+extractMin
+insert -74824
+extractMin
+extractMin
+extractMin
+insert 45794
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -82336
+insert 93562
+insert -36901
+insert -88225
+insert 28107
+extractMin
+insert -34424
+extractMin
+extractMin
+extractMin
+insert 78013
+insert 38434
+extractMin
+extractMin
+insert -32609
+insert -3238
+extractMin
+insert 25745
+insert -43757
+insert -29783
+insert 1383
+insert 65868
+insert 97876
+extractMin
+extractMin
+extractMin
+insert 84601
+insert -93469
+insert -23798
+insert 94514
+insert 18518
+insert 19665
+insert 55081
+insert 37708
+insert -36429
+insert -96413
+insert 69362
+insert 34494
+insert -26484
+insert -80010
+insert -50743
+extractMin
+extractMin
+insert 52415
+insert 47738
+insert 15340
+extractMin
+extractMin
+insert 50519
+insert 6703
+extractMin
+extractMin
+extractMin
+insert 7718
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 80981
+insert 59086
+insert -52899
+insert -68494
+extractMin
+extractMin
+insert -24185
+insert -83639
+insert 74760
+insert -92921
+insert -34022
+extractMin
+extractMin
+insert -35939
+insert -97495
+extractMin
+extractMin
+insert 98535
+extractMin
+extractMin
+insert -64423
+extractMin
+extractMin
+insert 59605
+extractMin
+insert 28697
+insert 42646
+extractMin
+insert 16681
+insert -97011
+insert 40193
+insert -80415
+insert -1175
+insert -67140
+insert -100
+insert -43663
+extractMin
+insert -34099
+extractMin
+extractMin
+insert -54740
+extractMin
+extractMin
+insert -8125
+insert -19636
+insert 42378
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 59212
+extractMin
+insert -17757
+insert -46470
+insert -44207
+insert 596
+extractMin
+insert -20058
+insert -40028
+insert 26880
+extractMin
+extractMin
+extractMin
+insert 83172
+extractMin
+extractMin
+extractMin
+insert 30134
+extractMin
+extractMin
+extractMin
+extractMin
+insert 71436
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 20694
+extractMin
+extractMin
+extractMin
+insert 6240
+insert 65544
+insert -94523
+extractMin
+insert -23369
+extractMin
+extractMin
+insert 44770
+insert -53215
+insert -15444
+extractMin
+insert -81494
+insert 60833
+extractMin
+extractMin
+extractMin
+insert -49435
+insert 30826
+insert -58486
+insert 8357
+extractMin
+extractMin
+insert 92637
+insert 79199
+insert 5416
+extractMin
+extractMin
+insert 69172
+insert 11930
+extractMin
+extractMin
+insert -31860
+extractMin
+extractMin
+extractMin
+insert 37835
+insert -52445
+insert 76198
+insert 30287
+insert 40139
+insert 17824
+insert -38413
+insert 9842
+insert 19777
+insert -7332
+insert -43861
+extractMin
+insert -18628
+extractMin
+extractMin
+extractMin
+insert -11405
+insert 66757
+insert -96985
+extractMin
+extractMin
+insert 85737
+extractMin
+insert 97413
+insert -47664
+insert -96064
+extractMin
+insert 23991
+extractMin
+insert -20403
+insert -51263
+insert 63603
+extractMin
+extractMin
+extractMin
+insert 98836
+extractMin
+insert -60983
+insert -31826
+extractMin
+insert 99077
+insert -39010
+insert 71320
+insert 420
+insert 29562
+insert -74407
+extractMin
+insert 93988
+extractMin
+insert 45014
+insert -15666
+extractMin
+extractMin
+insert -27695
+insert -88595
+insert -22337
+insert -41315
+insert -18693
+insert -70395
+insert 6649
+insert -4673
+insert 53473
+insert -32800
+extractMin
+extractMin
+insert 83480
+insert 71378
+insert -22347
+insert 51745
+extractMin
+extractMin
+insert 78855
+extractMin
+insert 80443
+extractMin
+extractMin
+insert 30848
+extractMin
+insert 3490
+insert -61830
+insert -94222
+insert 57437
+insert -16840
+insert 34857
+insert 37390
+insert -69158
+insert 79925
+insert -80703
+extractMin
+extractMin
+insert -19923
+insert 13204
+extractMin
+extractMin
+extractMin
+insert 1622
+extractMin
+insert -30345
+extractMin
+extractMin
+extractMin
+extractMin
+insert 449
+insert 2717
+extractMin
+insert 90254
+extractMin
+insert -38664
+extractMin
+insert -10584
+extractMin
+insert -81637
+insert -33222
+extractMin
+insert -832
+extractMin
+insert 9349
+extractMin
+insert 56986
+insert 20598
+extractMin
+extractMin
+extractMin
+extractMin
+insert -27486
+insert 45568
+extractMin
+insert 77452
+insert -44156
+insert 45660
+extractMin
+extractMin
+insert -61720
+insert -15592
+insert 82722
+insert -1827
+insert 51627
+extractMin
+extractMin
+insert -25013
+insert -79804
+insert -86210
+extractMin
+insert 62403
+insert 17038
+extractMin
+extractMin
+extractMin
+insert -57816
+extractMin
+insert 35829
+extractMin
+insert -58442
+extractMin
+insert 36512
+extractMin
+insert 51561
+extractMin
+extractMin
+insert 47094
+insert 51235
+extractMin
+insert 10863
+insert -86874
+extractMin
+insert 9710
+insert -53158
+extractMin
+extractMin
+extractMin
+insert 39484
+extractMin
+insert -24060
+insert -23755
+extractMin
+insert 98955
+insert 18414
+insert -69469
+insert -74047
+extractMin
+insert -15903
+extractMin
+extractMin
+extractMin
+insert 51939
+insert 13702
+extractMin
+extractMin
+insert 202
+insert -82816
+extractMin
+extractMin
+insert -28803
+insert 2461
+extractMin
+insert -86423
+extractMin
+insert 8476
+insert -70068
+extractMin
+insert 74787
+insert -38632
+insert -64039
+insert -32240
+insert 28639
+extractMin
+insert -20515
+insert -21652
+extractMin
+extractMin
+insert 69401
+insert 2621
+extractMin
+extractMin
+insert -16656
+insert 83231
+insert 74468
+extractMin
+extractMin
+insert 62191
+insert 26271
+extractMin
+insert 941
+extractMin
+insert 23576
+insert -54195
+extractMin
+insert -88712
+extractMin
+insert -85535
+insert 66164
+insert -67342
+insert -64138
+insert -93487
+insert -41889
+insert 64776
+insert 54751
+extractMin
+insert 3591
+insert -25803
+extractMin
+insert 14052
+insert 72971
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -37488
+extractMin
+insert -26964
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -57037
+extractMin
+insert 89105
+insert 98301
+insert 57271
+extractMin
+insert 79138
+extractMin
+extractMin
+insert 92034
+insert 7192
+insert 6589
+insert -16580
+insert -42439
+insert -728
+insert -3139
+insert -5219
+extractMin
+insert -82843
+insert 7268
+extractMin
+insert -99050
+extractMin
+insert -64972
+extractMin
+extractMin
+insert -15895
+insert -7529
+extractMin
+insert -81119
+extractMin
+insert -23278
+insert 63384
+extractMin
+extractMin
+insert 43143
+insert 53458
+extractMin
+insert -6704
+extractMin
+extractMin
+extractMin
+insert 97954
+insert -62511
+insert 26057
+insert 72339
+insert 27088
+extractMin
+insert -36384
+insert -323
+extractMin
+insert 41380
+insert 95867
+insert -48785
+insert 35998
+extractMin
+extractMin
+insert -84481
+insert 72014
+insert -779
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -43649
+insert -15944
+insert 10981
+insert 19497
+insert 6689
+extractMin
+insert -56527
+insert -60087
+insert 56438
+extractMin
+insert -81066
+insert -11447
+insert 24302
+extractMin
+extractMin
+insert -9305
+insert 63682
+insert -47948
+insert 16646
+extractMin
+insert 26829
+insert 19428
+insert -91892
+insert -63243
+insert -8949
+insert -56784
+extractMin
+insert 97843
+insert 75814
+extractMin
+extractMin
+insert -39292
+insert 18785
+insert -74668
+extractMin
+insert 69151
+insert 98585
+insert 15985
+insert -58705
+extractMin
+insert -31352
+extractMin
+extractMin
+extractMin
+insert -96695
+insert -30978
+insert -42354
+extractMin
+insert -18042
+insert 48838
+insert -43734
+extractMin
+insert -71294
+extractMin
+insert 19926
+insert 23172
+insert 13352
+extractMin
+insert 54174
+extractMin
+extractMin
+insert 46156
+extractMin
+insert 13804
+extractMin
+extractMin
+insert -52911
+insert 53841
+insert -89287
+insert 60921
+insert -21895
+extractMin
+extractMin
+insert -55726
+insert -73985
+insert -98985
+insert -11148
+insert 28275
+extractMin
+insert -10255
+extractMin
+insert 48216
+extractMin
+extractMin
+extractMin
+extractMin
+insert -4276
+insert 13320
+insert -68454
+insert 85754
+insert 48819
+insert -84846
+extractMin
+insert 27919
+extractMin
+insert -43578
+insert -23245
+insert -73989
+extractMin
+insert 60478
+insert 22854
+extractMin
+insert 91530
+insert 53721
+extractMin
+extractMin
+extractMin
+extractMin
+insert -9725
+extractMin
+insert -75446
+extractMin
+insert -45193
+insert -26108
+extractMin
+insert 31421
+extractMin
+extractMin
+insert -59887
+insert -10630
+extractMin
+insert 3894
+insert -7677
+extractMin
+extractMin
+insert -22151
+extractMin
+insert 76788
+extractMin
+extractMin
+insert -45622
+extractMin
+insert 25811
+extractMin
+extractMin
+extractMin
+insert -21922
+insert -95046
+insert -60684
+extractMin
+extractMin
+extractMin
+insert -44745
+extractMin
+insert 1865
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -7586
+extractMin
+insert -16063
+extractMin
+insert 65714
+extractMin
+insert 2472
+insert -1726
+extractMin
+insert -78653
+insert 19380
+insert 24728
+extractMin
+insert 80158
+extractMin
+extractMin
+insert -9569
+extractMin
+extractMin
+extractMin
+extractMin
+insert 73903
+insert 25806
+insert -22017
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -73761
+insert 11562
+extractMin
+extractMin
+insert 29256
+insert 63795
+extractMin
+extractMin
+extractMin
+insert 98871
+extractMin
+insert -16242
+extractMin
+insert -16794
+extractMin
+insert 45712
+insert -88921
+extractMin
+extractMin
+insert 88393
+insert 93615
+extractMin
+insert -66247
+insert 105
+extractMin
+insert -95190
+extractMin
+insert 65748
+extractMin
+insert -27022
+insert -55579
+insert 26515
+extractMin
+insert -87915
+insert -28542
+extractMin
+insert -83794
+insert 50381
+insert 11742
+extractMin
+insert -68626
+insert 51857
+insert -49567
+extractMin
+extractMin
+extractMin
+extractMin
+insert -37728
+insert 55994
+extractMin
+extractMin
+insert -71074
+insert -41817
+insert 94402
+insert 53313
+insert 39649
+insert -82288
+extractMin
+extractMin
+insert 88372
+insert 96713
+insert 55460
+insert -24430
+extractMin
+insert 73655
+insert 85567
+insert 66739
+insert 31161
+extractMin
+extractMin
+insert 71631
+insert 50811
+insert -31544
+insert 89260
+extractMin
+insert -82440
+insert 17800
+insert 91021
+insert -27871
+insert 23221
+insert 61272
+insert 35620
+insert -72454
+insert 57893
+extractMin
+insert 67292
+extractMin
+extractMin
+extractMin
+extractMin
+insert -6386
+extractMin
+extractMin
+insert -12950
+insert 32951
+extractMin
+insert 56765
+insert -44156
+extractMin
+insert -29538
+extractMin
+insert 32181
+extractMin
+insert -75292
+extractMin
+extractMin
+insert -94763
+extractMin
+extractMin
+insert -52412
+extractMin
+insert 6682
+extractMin
+extractMin
+extractMin
+extractMin
+insert -79113
+insert 46794
+insert -841
+insert -75158
+insert -33627
+extractMin
+insert 45473
+extractMin
+extractMin
+insert -90531
+extractMin
+extractMin
+extractMin
+insert -93749
+insert 33935
+insert -55473
+insert 5214
+extractMin
+insert 30275
+extractMin
+insert -65193
+insert 41007
+insert 10845
+extractMin
+insert -95707
+insert -52642
+extractMin
+insert -88042
+extractMin
+extractMin
+insert 26761
+insert 10733
+insert 56665
+extractMin
+extractMin
+insert 85577
+extractMin
+extractMin
+extractMin
+insert 80963
+insert -77824
+extractMin
+insert 68597
+extractMin
+extractMin
+insert 8939
+insert -51015
+extractMin
+insert -66456
+insert 54679
+extractMin
+extractMin
+extractMin
+insert -2934
+insert 47346
+extractMin
+insert -21082
+extractMin
+extractMin
+extractMin
+insert 17136
+insert -59573
+insert 24910
+extractMin
+insert 32336
+insert -75828
+insert 35632
+insert -5449
+extractMin
+insert 63760
+insert 91448
+extractMin
+insert -63018
+extractMin
+extractMin
+extractMin
+insert -68404
+insert 74853
+insert -74099
+insert -90745
+insert 15471
+extractMin
+extractMin
+insert 70919
+extractMin
+extractMin
+insert -7963
+extractMin
+insert -64010
+insert 60814
+insert 79981
+insert -66832
+extractMin
+insert -18790
+extractMin
+insert 11565
+extractMin
+extractMin
+extractMin
+insert 99565
+extractMin
+insert 97061
+insert 86077
+insert 70050
+extractMin
+insert 31903
+insert 57877
+extractMin
+insert 75201
+insert 42131
+insert -13401
+insert -83828
+extractMin
+extractMin
+insert 51373
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34529
+extractMin
+insert -81553
+extractMin
+insert 96438
+insert 78984
+extractMin
+extractMin
+insert 98958
+insert -66490
+insert 64787
+extractMin
+insert 25601
+insert 77062
+insert 83100
+insert -29892
+extractMin
+insert -99
+insert 94915
+insert 69208
+insert 37343
+extractMin
+insert 66967
+extractMin
+insert -4017
+extractMin
+insert -28869
+extractMin
+insert -80795
+extractMin
+extractMin
+insert 32714
+insert 84105
+extractMin
+extractMin
+extractMin
+insert 16899
+insert 13176
+insert 95074
+extractMin
+insert -92566
+insert -87179
+extractMin
+extractMin
+extractMin
+insert -93241
+insert 28202
+insert -91840
+extractMin
+insert 32930
+extractMin
+insert 34358
+insert 26253
+extractMin
+insert -93842
+insert -90854
+extractMin
+insert -19824
+insert -77144
+insert 39328
+insert -77426
+insert 82621
+insert 81388
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 92563
+extractMin
+insert -17711
+extractMin
+insert 21908
+extractMin
+insert -98868
+extractMin
+insert -9388
+extractMin
+extractMin
+insert -9093
+insert -69225
+insert 52142
+extractMin
+extractMin
+insert 41635
+insert 86973
+insert 94242
+extractMin
+insert -87551
+insert -9938
+insert 13596
+extractMin
+extractMin
+insert -89498
+insert 85148
+extractMin
+extractMin
+extractMin
+insert 8707
+extractMin
+insert -3487
+extractMin
+insert 94049
+insert 52797
+extractMin
+extractMin
+extractMin
+insert -48976
+insert -46128
+insert 58055
+extractMin
+insert 84357
+extractMin
+insert 7938
+extractMin
+insert -82503
+extractMin
+insert -48744
+extractMin
+insert 28641
+insert -69357
+extractMin
+insert -25657
+insert -99626
+insert 45069
+extractMin
+insert 60988
+extractMin
+extractMin
+insert 54123
+insert 40624
+extractMin
+extractMin
+extractMin
+extractMin
+insert -5256
+insert 4124
+insert 99727
+extractMin
+insert 31856
+extractMin
+insert -50959
+extractMin
+insert -86926
+insert -70272
+insert -20414
+extractMin
+extractMin
+insert -41762
+insert -59041
+insert -80953
+insert 27930
+insert -33888
+insert -45622
+extractMin
+insert -28169
+extractMin
+insert -23456
+insert -9454
+extractMin
+insert -88802
+insert -14137
+extractMin
+insert 90164
+insert 33765
+extractMin
+insert -78571
+extractMin
+insert -34018
+extractMin
+extractMin
+insert 33881
+insert -15287
+insert 85643
+extractMin
+extractMin
+insert -58760
+extractMin
+extractMin
+extractMin
+insert -71931
+extractMin
+extractMin
+extractMin
+extractMin
+insert 78838
+extractMin
+insert 36571
+insert 9240
+insert -63806
+extractMin
+extractMin
+extractMin
+insert 38521
+extractMin
+insert 65909
+extractMin
+insert -20226
+insert 3166
+extractMin
+insert 47796
+insert -21897
+insert 94364
+insert 37676
+insert -1841
+extractMin
+insert 30042
+extractMin
+extractMin
+extractMin
+extractMin
+insert -87357
+insert -42115
+insert -16609
+extractMin
+extractMin
+extractMin
+insert -95159
+extractMin
+extractMin
+extractMin
+insert -1404
+insert -67209
+insert -20490
+extractMin
+extractMin
+extractMin
+insert -61373
+insert -47840
+insert -86964
+extractMin
+insert -77253
+extractMin
+extractMin
+insert 32093
+extractMin
+insert -95370
+extractMin
+insert 81388
+insert -76414
+insert -51482
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 38218
+insert -72670
+extractMin
+insert -9805
+insert -28354
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 72938
+insert -94202
+extractMin
+insert -75574
+insert 18110
+insert 22650
+insert -56261
+insert 10843
+insert 99548
+extractMin
+extractMin
+insert 4016
+extractMin
+insert 17882
+insert 51740
+extractMin
+insert 51364
+extractMin
+extractMin
+extractMin
+extractMin
+insert 84447
+extractMin
+insert -68363
+insert -16163
+extractMin
+extractMin
+insert -69695
+extractMin
+insert 83684
+insert -75578
+insert -18609
+insert 65479
+insert 58702
+extractMin
+extractMin
+insert 24345
+extractMin
+insert -39481
+insert -2596
+extractMin
+insert -98389
+extractMin
+extractMin
+extractMin
+extractMin
+insert -68834
+insert 69678
+extractMin
+extractMin
+insert 99690
+extractMin
+extractMin
+insert 10873
+insert 65577
+insert -80012
+extractMin
+insert -43550
+insert -22161
+extractMin
+extractMin
+insert 77342
+insert 47799
+insert -16040
+extractMin
+extractMin
+insert -13712
+extractMin
+insert -48982
+extractMin
+insert -73956
+extractMin
+insert -52260
+extractMin
+extractMin
+insert -12186
+insert -69385
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -21968
+insert 68372
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -80313
+insert 98887
+extractMin
+insert 23534
+insert -57931
+insert 64258
+extractMin
+extractMin
+extractMin
+insert -53036
+extractMin
+extractMin
+extractMin
+insert 74831
+insert 96031
+insert -9951
+insert 8062
+insert -32506
+extractMin
+insert 88523
+insert -70807
+insert -61234
+extractMin
+insert -98954
+insert -32640
+extractMin
+insert -56013
+insert -4185
+extractMin
+extractMin
+insert 71398
+insert -66260
+extractMin
+insert -95525
+insert -84470
+insert -92622
+extractMin
+insert 85371
+insert 91371
+extractMin
+insert -24077
+extractMin
+insert -68214
+insert 29034
+extractMin
+insert -68012
+insert -82171
+insert -8585
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 36293
+extractMin
+extractMin
+insert 69453
+extractMin
+insert -88359
+extractMin
+insert 79965
+insert 84806
+extractMin
+extractMin
+extractMin
+insert 25150
+insert -60136
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -59007
+extractMin
+extractMin
+extractMin
+insert -93240
+insert 90507
+extractMin
+insert 59897
+extractMin
+extractMin
+insert 48216
+insert 45157
+insert -14667
+insert -71982
+extractMin
+insert -12196
+insert 82599
+insert -97894
+extractMin
+insert -33912
+insert 93322
+insert 22057
+insert -60297
+insert 15635
+insert -44617
+insert 52972
+insert -89123
+insert 89431
+insert 50367
+extractMin
+insert -20884
+insert -19547
+extractMin
+extractMin
+insert 47400
+extractMin
+insert -81544
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 7941
+extractMin
+extractMin
+extractMin
+insert 4212
+extractMin
+extractMin
+insert 26708
+insert -45084
+insert -8148
+insert -68506
+extractMin
+insert 75677
+extractMin
+insert -21159
+insert 22556
+insert 53750
+extractMin
+insert -76826
+extractMin
+insert 88629
+insert 93398
+extractMin
+insert -88118
+insert -7887
+insert 58338
+extractMin
+extractMin
+insert 61033
+insert -32616
+extractMin
+insert -57953
+extractMin
+extractMin
+extractMin
+extractMin
+insert -93830
+extractMin
+insert -58203
+insert -51020
+extractMin
+extractMin
+extractMin
+insert -59896
+insert -83142
+insert -59480
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 90397
+extractMin
+insert 44425
+insert -33766
+extractMin
+insert -17329
+extractMin
+insert 97342
+extractMin
+insert 64107
+extractMin
+extractMin
+insert 66595
+extractMin
+extractMin
+insert 712
+extractMin
+extractMin
+insert 60812
+insert -1976
+insert -65140
+insert -98833
+extractMin
+insert 53006
+insert -47991
+insert -31471
+insert -89417
+extractMin
+insert 38621
+insert 12258
+extractMin
+insert -75588
+insert 62739
+extractMin
+insert -81517
+extractMin
+extractMin
+insert 39213
+insert -63901
+insert -68743
+extractMin
+insert 4814
+insert 85248
+extractMin
+extractMin
+extractMin
+insert -32628
+extractMin
+insert 88743
+extractMin
+extractMin
+insert -56269
+extractMin
+insert -67870
+insert -65716
+extractMin
+extractMin
+extractMin
+insert 94120
+extractMin
+insert 42240
+extractMin
+insert -65407
+extractMin
+insert -95088
+extractMin
+extractMin
+extractMin
+insert 95550
+extractMin
+insert 67338
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -48824
+insert -50218
+insert 68715
+extractMin
+insert -478
+insert -15563
+insert -85741
+insert -8095
+extractMin
+insert 84764
+insert -34940
+insert 59549
+extractMin
+insert -855
+insert 23634
+insert -1942
+extractMin
+insert 29206
+extractMin
+insert -14298
+extractMin
+extractMin
+insert 46149
+insert 36256
+extractMin
+insert -72217
+insert -37165
+insert 31264
+extractMin
+insert -4405
+insert 34520
+insert -34418
+insert -66673
+extractMin
+insert 21383
+insert 37498
+extractMin
+extractMin
+insert -26738
+extractMin
+extractMin
+extractMin
+insert 25235
+insert -12809
+insert -7221
+insert 28470
+extractMin
+insert 19133
+insert -11799
+extractMin
+extractMin
+insert 26487
+insert -2466
+insert 54906
+extractMin
+insert 5240
+insert -91241
+insert -21844
+extractMin
+extractMin
+extractMin
+insert 53173
+insert 23107
+insert -25561
+insert -33894
+extractMin
+extractMin
+insert 3165
+extractMin
+extractMin
+insert 81409
+insert 4462
+extractMin
+extractMin
+extractMin
+insert -19987
+extractMin
+extractMin
+extractMin
+extractMin
+insert 23310
+extractMin
+insert 44109
+insert 29045
+insert -9374
+extractMin
+extractMin
+extractMin
+extractMin
+insert -67328
+extractMin
+extractMin
+insert -23600
+extractMin
+insert 45645
+extractMin
+extractMin
+extractMin
+insert -42874
+insert -32535
+insert 89139
+insert -31932
+insert 30611
+extractMin
+insert 92106
+insert -31626
+insert -76932
+insert -40884
+extractMin
+insert 34587
+insert -21572
+insert -69027
+insert 96464
+extractMin
+insert 72399
+extractMin
+extractMin
+extractMin
+insert 33338
+insert -3019
+insert 78794
+extractMin
+insert 18151
+extractMin
+extractMin
+extractMin
+insert 90932
+insert 93066
+insert 49903
+insert 56575
+extractMin
+insert -65920
+insert -29612
+extractMin
+extractMin
+insert -52576
+insert -17453
+extractMin
+extractMin
+insert 53151
+insert 48096
+insert -63182
+insert 26330
+extractMin
+insert -12964
+insert 49902
+insert 1985
+insert -4218
+extractMin
+insert -47456
+insert 36423
+extractMin
+insert -46799
+insert -51171
+insert -42629
+insert 81913
+extractMin
+extractMin
+insert -70964
+insert -16240
+insert -39857
+insert -2075
+insert 1967
+insert -11628
+insert 5487
+insert 70310
+insert 55346
+extractMin
+extractMin
+extractMin
+extractMin
+insert -90433
+insert -90783
+insert -72591
+insert -10955
+extractMin
+extractMin
+extractMin
+insert -32409
+extractMin
+insert -24185
+insert 43095
+insert 31190
+insert -1854
+insert -14462
+extractMin
+extractMin
+insert -54177
+insert 19571
+extractMin
+insert -35925
+extractMin
+insert -95039
+extractMin
+extractMin
+insert -15609
+extractMin
+extractMin
+extractMin
+insert 27532
+insert 49363
+extractMin
+insert -84842
+extractMin
+extractMin
+extractMin
+insert 5058
+extractMin
+extractMin
+insert 16777
+insert 60185
+extractMin
+insert -18557
+insert -58309
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -42657
+extractMin
+insert 8563
+insert -46855
+extractMin
+extractMin
+extractMin
+insert -49938
+extractMin
+extractMin
+extractMin
+extractMin
+insert -54537
+insert 15915
+insert 58020
+insert -32807
+insert -73457
+extractMin
+extractMin
+extractMin
+insert 59722
+insert -46894
+extractMin
+insert 50363
+extractMin
+extractMin
+insert -63861
+extractMin
+extractMin
+extractMin
+extractMin
+insert -54748
+extractMin
+insert 45708
+insert 92942
+insert -23798
+extractMin
+insert -87105
+insert 19947
+extractMin
+insert 55296
+insert -41488
+extractMin
+insert -43585
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -11695
+extractMin
+extractMin
+extractMin
+insert -71523
+insert 55949
+insert -65725
+insert -8329
+insert 30421
+extractMin
+extractMin
+extractMin
+insert 70128
+extractMin
+extractMin
+extractMin
+insert -56102
+insert -1192
+extractMin
+insert -28161
+insert 30045
+insert -51601
+insert -50887
+extractMin
+insert 1614
+insert -19537
+extractMin
+extractMin
+extractMin
+insert 44851
+extractMin
+insert -25115
+insert 22211
+extractMin
+extractMin
+insert -41067
+extractMin
+insert -70776
+insert 25806
+insert -33370
+insert 78270
+insert -5825
+extractMin
+extractMin
+insert 41425
+insert -63126
+extractMin
+insert 57820
+insert 52928
+insert -81778
+extractMin
+insert 73421
+insert 75886
+extractMin
+extractMin
+extractMin
+insert -12595
+insert 92386
+extractMin
+extractMin
+insert -87431
+extractMin
+extractMin
+insert 93020
+extractMin
+extractMin
+insert -88495
+extractMin
+extractMin
+insert 52310
+insert 78171
+extractMin
+extractMin
+insert -41649
+extractMin
+insert -98238
+extractMin
+extractMin
+insert -8111
+insert 64369
+insert -39023
+insert 72450
+insert -75489
+extractMin
+insert 7396
+extractMin
+extractMin
+extractMin
+extractMin
+insert 88978
+insert -31334
+insert 86355
+insert -53441
+extractMin
+insert 83955
+insert 66006
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 95973
+extractMin
+extractMin
+extractMin
+extractMin
+insert 61161
+extractMin
+extractMin
+insert 52298
+extractMin
+extractMin
+insert 8028
+insert -95916
+extractMin
+extractMin
+insert 32831
+insert 75737
+extractMin
+insert 27764
+insert -38827
+extractMin
+insert 43813
+insert 16664
+insert -45252
+insert 40385
+extractMin
+insert 40560
+insert -12435
+insert 52750
+extractMin
+insert 30970
+extractMin
+insert -94352
+insert 48891
+extractMin
+insert -85210
+extractMin
+insert 42668
+extractMin
+insert -17332
+insert -7152
+extractMin
+insert -33022
+insert 54871
+insert 46969
+extractMin
+insert 95764
+extractMin
+extractMin
+insert 99231
+extractMin
+extractMin
+insert -82045
+extractMin
+extractMin
+extractMin
+insert -9228
+insert 73165
+insert -28434
+insert -41745
+extractMin
+insert -4178
+extractMin
+extractMin
+insert 53260
+insert -17835
+extractMin
+insert 16291
+extractMin
+insert -76309
+insert 61457
+extractMin
+insert 85419
+extractMin
+extractMin
+insert 5721
+insert -37259
+insert -15908
+insert 20877
+insert 37601
+extractMin
+extractMin
+insert -90343
+insert -20050
+extractMin
+insert -96108
+insert -46665
+extractMin
+insert -39200
+insert 39192
+insert 66407
+insert 53059
+extractMin
+extractMin
+insert 66978
+extractMin
+insert 20769
+extractMin
+insert 63402
+insert -2296
+extractMin
+extractMin
+insert 33487
+extractMin
+extractMin
+insert -85974
+insert -38578
+insert 32735
+insert -85108
+insert -73510
+extractMin
+extractMin
+extractMin
+extractMin
+insert 53245
+extractMin
+extractMin
+extractMin
+insert -66706
+insert -11579
+insert 55833
+extractMin
+insert 29740
+insert 93427
+insert -5356
+insert -12371
+extractMin
+extractMin
+insert 71327
+insert -72733
+extractMin
+extractMin
+insert -76145
+extractMin
+extractMin
+insert 68595
+insert -11682
+extractMin
+insert -70261
+insert -31719
+extractMin
+extractMin
+insert -14133
+insert 28875
+extractMin
+extractMin
+insert 53030
+insert -44338
+insert -15301
+extractMin
+insert 90340
+extractMin
+extractMin
+extractMin
+insert 39753
+insert -82435
+insert -4894
+extractMin
+extractMin
+insert 93436
+extractMin
+extractMin
+extractMin
+insert -7812
+extractMin
+extractMin
+insert -67979
+insert 24333
+extractMin
+extractMin
+extractMin
+insert -2238
+extractMin
+extractMin
+insert -6992
+insert -32845
+insert 71389
+extractMin
+extractMin
+extractMin
+insert 50434
+insert -2530
+insert 16270
+extractMin
+extractMin
+insert 53489
+insert 85920
+extractMin
+extractMin
+extractMin
+insert 35443
+insert -17547
+extractMin
+extractMin
+extractMin
+extractMin
+insert 13753
+extractMin
+insert 31027
+extractMin
+insert -85986
+insert 31895
+extractMin
+extractMin
+insert 49665
+extractMin
+insert 9421
+insert 15176
+insert 88860
+insert -93591
+insert -67975
+extractMin
+insert 38447
+insert -74363
+extractMin
+insert 16128
+insert -11217
+extractMin
+insert -59527
+extractMin
+extractMin
+extractMin
+insert -33863
+insert 99218
+insert -9547
+insert 44218
+insert 16083
+insert -34799
+extractMin
+extractMin
+insert -46293
+insert 88878
+extractMin
+extractMin
+insert 9978
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 86987
+insert -87891
+extractMin
+extractMin
+insert -80095
+extractMin
+insert -32302
+insert 29580
+insert 75641
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -84732
+extractMin
+extractMin
+insert -29887
+insert -12642
+extractMin
+extractMin
+insert -17643
+extractMin
+insert 95487
+extractMin
+insert 30119
+insert -13011
+extractMin
+extractMin
+extractMin
+extractMin
+insert 36718
+insert -89761
+extractMin
+extractMin
+insert -48943
+extractMin
+extractMin
+insert -48501
+extractMin
+extractMin
+insert 16448
+insert 44150
+extractMin
+extractMin
+extractMin
+insert -67976
+insert -31972
+extractMin
+extractMin
+insert -73252
+extractMin
+insert -82093
+insert 15018
+insert 46239
+insert -98294
+extractMin
+insert 56929
+insert 17026
+insert -83981
+extractMin
+insert 37483
+extractMin
+insert 15953
+insert 40866
+extractMin
+insert -96313
+insert 9885
+extractMin
+insert 6862
+extractMin
+insert 46505
+insert 58659
+extractMin
+insert -77828
+extractMin
+insert -11115
+extractMin
+extractMin
+extractMin
+extractMin
+insert -26083
+insert 72954
+insert -71974
+insert -92455
+insert 29948
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 15824
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -12040
+insert -8650
+extractMin
+insert 85259
+insert 15893
+insert -37068
+insert -94059
+extractMin
+insert -73190
+insert -78052
+insert 50047
+extractMin
+insert -87835
+insert -45236
+insert -43492
+insert -63135
+insert -78097
+extractMin
+insert -82676
+extractMin
+extractMin
+extractMin
+insert 87237
+insert 25760
+extractMin
+insert -26163
+extractMin
+extractMin
+insert 57765
+insert 23047
+insert -72894
+insert -45077
+extractMin
+insert 55368
+insert -56390
+insert -87403
+insert 16919
+insert -59994
+insert -87305
+insert 42061
+insert 2305
+insert 66128
+insert 71398
+extractMin
+extractMin
+extractMin
+insert -53265
+insert -30622
+insert 97400
+insert -95853
+insert 59611
+insert 46031
+insert -59172
+extractMin
+insert 81803
+insert -2736
+insert -30538
+extractMin
+extractMin
+insert -29111
+insert 1646
+insert 31735
+insert -28530
+extractMin
+extractMin
+extractMin
+insert -58378
+extractMin
+extractMin
+extractMin
+insert -85472
+insert -64812
+extractMin
+insert -18768
+extractMin
+insert -24355
+insert 87472
+extractMin
+insert -34290
+insert -79266
+extractMin
+insert -1445
+extractMin
+insert 47050
+insert -20674
+insert -73927
+extractMin
+insert 26653
+insert -32387
+extractMin
+insert -53178
+insert -61285
+insert -4438
+insert 97888
+insert -93225
+insert 75840
+extractMin
+insert -33741
+extractMin
+extractMin
+extractMin
+insert -99636
+insert -95074
+extractMin
+insert -13587
+extractMin
+insert -56263
+insert -26821
+insert -50772
+insert -25220
+extractMin
+extractMin
+insert -16023
+extractMin
+extractMin
+insert -85725
+insert -75713
+insert 6849
+insert -5935
+extractMin
+extractMin
+insert 77900
+extractMin
+extractMin
+insert 40634
+insert 64795
+insert 81718
+extractMin
+insert -62981
+insert -48718
+insert -14049
+extractMin
+extractMin
+extractMin
+insert -55115
+extractMin
+insert -7989
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -61152
+insert -82919
+insert 70004
+extractMin
+insert 25862
+insert 20977
+insert -53656
+extractMin
+insert -23449
+extractMin
+extractMin
+insert -49575
+insert 63039
+extractMin
+insert 44576
+extractMin
+insert 18719
+insert 27878
+extractMin
+insert 64242
+insert -6617
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 71247
+insert -2733
+extractMin
+extractMin
+extractMin
+insert -56096
+extractMin
+extractMin
+extractMin
+insert 15755
+extractMin
+insert 51455
+insert 24831
+insert -16623
+extractMin
+extractMin
+extractMin
+extractMin
+insert 22305
+insert 23520
+insert -92833
+insert -77171
+insert -15127
+extractMin
+insert -7470
+insert -30999
+insert -26676
+insert 8375
+insert -66645
+extractMin
+insert 15736
+extractMin
+extractMin
+extractMin
+extractMin
+insert 7491
+extractMin
+insert 23764
+insert -44793
+insert 20582
+extractMin
+extractMin
+extractMin
+extractMin
+insert 94496
+insert 2630
+extractMin
+insert -3957
+insert 52403
+extractMin
+insert 26674
+insert -65747
+extractMin
+extractMin
+extractMin
+extractMin
+insert 32667
+insert -40378
+insert 31436
+insert -86163
+extractMin
+insert -27143
+extractMin
+insert -30670
+extractMin
+insert -38860
+extractMin
+insert -37329
+insert -74034
+insert -66920
+insert -54996
+extractMin
+extractMin
+insert -44202
+insert 55265
+extractMin
+extractMin
+insert 91486
+insert -57645
+extractMin
+extractMin
+insert -98843
+extractMin
+insert 59473
+insert 20454
+extractMin
+insert 9857
+extractMin
+insert 33806
+insert 54890
+extractMin
+insert -38825
+insert 43432
+extractMin
+extractMin
+insert -92266
+extractMin
+extractMin
+extractMin
+insert 74374
+insert -83204
+extractMin
+insert -54078
+extractMin
+extractMin
+extractMin
+insert -80218
+extractMin
+insert -68572
+extractMin
+insert -48299
+insert -79382
+insert 46778
+insert 78261
+insert 72640
+extractMin
+extractMin
+insert 35344
+insert 46890
+insert 67414
+extractMin
+insert 39380
+insert 39167
+insert 93877
+insert -38251
+extractMin
+insert -74283
+extractMin
+insert 51269
+insert 16690
+insert -95523
+insert 87815
+insert -31442
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -14790
+insert 33039
+insert 42508
+insert -57733
+extractMin
+insert 36201
+extractMin
+extractMin
+insert -45205
+extractMin
+insert 93278
+extractMin
+insert 68551
+extractMin
+extractMin
+extractMin
+insert -21501
+extractMin
+extractMin
+insert 33895
+insert 59693
+insert 30130
+extractMin
+insert 82374
+insert -78212
+extractMin
+insert -96868
+insert 56674
+insert 91759
+extractMin
+insert 21280
+insert 30311
+extractMin
+extractMin
+insert -29053
+extractMin
+insert -47168
+insert -50958
+insert 77800
+extractMin
+insert -86351
+extractMin
+insert -36866
+extractMin
+extractMin
+extractMin
+insert -46322
+insert 75724
+extractMin
+insert 43713
+extractMin
+extractMin
+extractMin
+insert -69672
+extractMin
+insert 20175
+insert -82786
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 15757
+extractMin
+insert 27694
+extractMin
+extractMin
+extractMin
+extractMin
+insert 10288
+extractMin
+insert 12281
+extractMin
+extractMin
+insert 5480
+insert -26194
+extractMin
+insert 35833
+insert 53353
+extractMin
+insert -52026
+insert 94386
+extractMin
+extractMin
+insert -7376
+insert 69850
+extractMin
+insert 87202
+extractMin
+insert 27381
+extractMin
+insert 83391
+extractMin
+insert -7671
+insert 28314
+extractMin
+insert -38930
+insert 89549
+insert -73876
+extractMin
+insert -63955
+insert -57775
+extractMin
+insert -4969
+extractMin
+extractMin
+extractMin
+extractMin
+insert -32786
+insert -80798
+insert -40916
+extractMin
+insert 19496
+insert -2747
+insert -89289
+extractMin
+insert -40147
+insert -46062
+insert 96302
+extractMin
+insert 91402
+insert -81063
+extractMin
+insert 65994
+insert -97368
+insert -10026
+extractMin
+extractMin
+insert 75510
+extractMin
+extractMin
+insert -27921
+extractMin
+insert -90373
+insert -65493
+insert 48257
+insert 97245
+insert -33634
+extractMin
+insert -67478
+insert -72289
+insert 71100
+insert 75585
+extractMin
+insert 29326
+extractMin
+extractMin
+insert 77713
+insert -53057
+extractMin
+insert 44365
+extractMin
+extractMin
+extractMin
+insert -62914
+insert -8331
+extractMin
+extractMin
+extractMin
+insert -1669
+extractMin
+insert -47113
+extractMin
+insert -2583
+insert -10067
+insert -17010
+insert -64204
+extractMin
+extractMin
+extractMin
+insert 16065
+insert -68710
+insert -58580
+extractMin
+extractMin
+extractMin
+insert 95996
+insert -86001
+insert 24324
+insert -95752
+insert 20675
+insert 21748
+extractMin
+insert -59426
+insert -15038
+insert 6970
+extractMin
+insert -63292
+insert 88720
+insert -59716
+insert -97466
+insert 1442
+insert -35239
+insert -56423
+extractMin
+insert -88023
+extractMin
+extractMin
+insert -9101
+insert 30258
+extractMin
+insert -23283
+extractMin
+insert 63978
+extractMin
+extractMin
+insert 49342
+extractMin
+insert 50609
+insert -44470
+insert -15619
+insert 3899
+insert 26050
+insert -92366
+insert -53440
+insert -65780
+extractMin
+insert -30597
+insert -77347
+insert 4137
+extractMin
+insert 41375
+insert -99421
+insert 84287
+insert -18321
+extractMin
+insert -22521
+extractMin
+insert 94875
+insert -58598
+extractMin
+insert -53736
+extractMin
+insert 64746
+extractMin
+insert 98995
+insert -45146
+insert -32494
+extractMin
+extractMin
+extractMin
+extractMin
+insert -2688
+extractMin
+extractMin
+extractMin
+insert -265
+insert -4085
+insert -93357
+insert 60569
+extractMin
+insert 31695
+insert 2224
+extractMin
+insert -95546
+extractMin
+extractMin
+extractMin
+extractMin
+insert -35008
+extractMin
+insert 56618
+insert -80184
+extractMin
+insert 42558
+insert -31874
+extractMin
+insert -84932
+extractMin
+extractMin
+extractMin
+extractMin
+insert 68135
+insert -26214
+insert -53479
+insert 42121
+insert 96952
+insert -35469
+insert -41456
+insert -80577
+insert -43634
+insert -2739
+insert 49538
+insert 49211
+extractMin
+insert 55680
+insert 56298
+insert 83936
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 69707
+insert -76600
+insert -66485
+extractMin
+insert -84744
+extractMin
+insert -69311
+insert -31041
+extractMin
+insert 2571
+extractMin
+insert -62800
+extractMin
+insert -49682
+insert 33945
+insert -59244
+extractMin
+extractMin
+insert 91733
+extractMin
+insert -58281
+insert 93023
+insert -14006
+insert 79031
+extractMin
+insert -21707
+insert 39671
+insert -88312
+extractMin
+insert -56609
+insert -45487
+extractMin
+insert -4090
+extractMin
+extractMin
+insert 16453
+extractMin
+extractMin
+insert 70682
+extractMin
+insert -68527
+insert 59496
+insert 94793
+insert 96031
+extractMin
+extractMin
+insert 6903
+insert 28263
+extractMin
+insert 82518
+insert 30767
+extractMin
+extractMin
+insert -58238
+extractMin
+extractMin
+insert -49665
+extractMin
+insert 37571
+insert -34200
+insert 81986
+extractMin
+insert -66302
+extractMin
+extractMin
+extractMin
+extractMin
+insert -9293
+insert -77353
+extractMin
+extractMin
+extractMin
+extractMin
+insert 91644
+extractMin
+extractMin
+extractMin
+extractMin
+insert -11388
+extractMin
+insert 43897
+insert 81890
+insert -89312
+extractMin
+insert -7020
+insert 95514
+extractMin
+insert -59540
+extractMin
+extractMin
+extractMin
+insert -48952
+extractMin
+insert -84752
+insert -52242
+insert -23231
+insert -8036
+extractMin
+extractMin
+insert 45891
+extractMin
+insert -23200
+extractMin
+extractMin
+extractMin
+extractMin
+insert -1106
+extractMin
+extractMin
+extractMin
+insert 79955
+extractMin
+insert -81006
+insert -17777
+extractMin
+insert 75574
+insert -30215
+insert -86270
+extractMin
+extractMin
+insert -66669
+extractMin
+insert -26344
+insert -32523
+insert 98476
+insert -85724
+extractMin
+extractMin
+extractMin
+extractMin
+insert 71476
+extractMin
+extractMin
+insert 37449
+extractMin
+extractMin
+insert -33199
+extractMin
+insert -45922
+insert -3858
+insert -58647
+extractMin
+insert 87469
+insert 62496
+extractMin
+extractMin
+extractMin
+insert -99137
+insert 68796
+extractMin
+extractMin
+extractMin
+insert -24407
+extractMin
+insert -78850
+insert 27896
+insert 36448
+extractMin
+extractMin
+insert -37234
+extractMin
+extractMin
+extractMin
+insert -49682
+insert 88669
+insert -86939
+insert 61371
+insert -29119
+extractMin
+insert 53230
+insert -85674
+insert -73265
+insert 4943
+insert 90517
+extractMin
+insert -88265
+insert 33557
+insert 88682
+insert 45685
+insert 82453
+insert 24834
+insert -41672
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -40243
+insert -46470
+extractMin
+extractMin
+insert 18348
+extractMin
+insert 7575
+extractMin
+extractMin
+insert -23129
+insert 89488
+extractMin
+insert -87661
+insert 94866
+insert 26860
+insert 37345
+extractMin
+extractMin
+insert 27350
+insert -32857
+insert 49781
+insert 7487
+extractMin
+extractMin
+extractMin
+insert 57466
+insert 83998
+insert -69719
+extractMin
+extractMin
+insert 38235
+insert 66119
+extractMin
+insert 65370
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 65894
+insert 64461
+insert 32409
+extractMin
+insert -82034
+insert -61562
+insert -50411
+insert -2678
+insert -64050
+extractMin
+insert -4727
+insert -73874
+extractMin
+insert -72326
+extractMin
+insert 55392
+insert -35078
+insert -55089
+extractMin
+insert 76006
+insert -923
+insert 67598
+insert -80641
+extractMin
+extractMin
+insert 64859
+insert 96783
+insert -4317
+insert 41059
+extractMin
+extractMin
+insert -95919
+insert -43391
+extractMin
+insert 77557
+extractMin
+insert -38017
+insert 3168
+insert -31040
+insert -55971
+extractMin
+extractMin
+extractMin
+extractMin
+insert -57712
+extractMin
+extractMin
+insert 3748
+insert 1006
+extractMin
+insert 62456
+extractMin
+insert 42585
+extractMin
+insert 18726
+extractMin
+insert 5705
+extractMin
+extractMin
+extractMin
+extractMin
+insert -7641
+extractMin
+insert -32492
+extractMin
+insert -66964
+insert -46722
+extractMin
+extractMin
+insert -53422
+extractMin
+insert 2651
+insert 64453
+insert -59599
+insert -96176
+insert -71827
+extractMin
+insert -87746
+extractMin
+insert -81644
+insert -44984
+insert 79280
+insert 27253
+insert -31089
+insert -41164
+extractMin
+insert -23860
+insert -1789
+extractMin
+insert -90051
+insert -84843
+insert -5340
+extractMin
+extractMin
+insert 16685
+extractMin
+insert -82830
+extractMin
+insert -78487
+extractMin
+insert -28731
+insert -16540
+extractMin
+insert 81506
+extractMin
+insert 58749
+insert 67989
+insert 88977
+extractMin
+extractMin
+extractMin
+insert 78529
+insert 76764
+insert -36357
+insert 18534
+insert -8642
+extractMin
+extractMin
+insert 87481
+insert 65389
+insert -81984
+insert -97072
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 57783
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 61354
+extractMin
+insert -88312
+insert 7381
+extractMin
+insert -26703
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -95132
+extractMin
+insert -54088
+insert -51308
+extractMin
+insert -38129
+insert 136
+extractMin
+insert 8067
+insert -47746
+insert -97832
+insert -78344
+insert -70692
+insert 7849
+extractMin
+extractMin
+insert 47666
+extractMin
+insert -51338
+insert 88218
+extractMin
+extractMin
+insert 78550
+extractMin
+extractMin
+insert 87938
+insert 59571
+insert 21286
+extractMin
+insert -93971
+insert -90345
+insert -10920
+insert -47901
+extractMin
+extractMin
+insert -42745
+insert -59538
+extractMin
+insert 88053
+extractMin
+insert -69478
+insert -49787
+insert 35431
+insert -11847
+insert -32666
+extractMin
+extractMin
+insert 21505
+insert 95503
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -73395
+insert -17403
+extractMin
+extractMin
+extractMin
+insert -94444
+insert -72974
+insert -55638
+extractMin
+extractMin
+insert 2700
+extractMin
+extractMin
+insert -44847
+extractMin
+extractMin
+insert -52851
+insert 69386
+insert 54676
+insert 23830
+insert 54589
+insert 81783
+insert -76878
+insert -85436
+insert -25338
+extractMin
+extractMin
+insert 75304
+insert 6543
+extractMin
+insert -25205
+insert -94591
+extractMin
+insert 54128
+insert -21154
+extractMin
+extractMin
+insert -1438
+insert 15855
+extractMin
+insert -5640
+insert -39167
+extractMin
+extractMin
+insert 78916
+extractMin
+extractMin
+extractMin
+extractMin
+insert 2336
+extractMin
+extractMin
+insert -59221
+insert -20697
+insert 14707
+insert 9460
+extractMin
+extractMin
+insert -46190
+insert 51402
+extractMin
+extractMin
+insert 30253
+insert -2095
+insert -56392
+extractMin
+extractMin
+insert -52460
+extractMin
+extractMin
+extractMin
+insert 86634
+extractMin
+extractMin
+insert 36575
+insert -90219
+extractMin
+insert 66742
+insert -93183
+extractMin
+insert 36499
+extractMin
+extractMin
+insert -69619
+insert 89352
+insert -11883
+insert 10578
+insert 7585
+extractMin
+insert 255
+extractMin
+insert 98743
+insert 98245
+extractMin
+extractMin
+insert 96306
+insert -62291
+extractMin
+insert 67133
+extractMin
+insert 18481
+insert 16854
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 92197
+insert -932
+insert 64662
+extractMin
+insert -5882
+extractMin
+extractMin
+extractMin
+insert -82555
+extractMin
+insert -37155
+insert -90636
+insert -31793
+insert 34687
+extractMin
+extractMin
+insert -25428
+extractMin
+insert 47685
+insert 8085
+extractMin
+insert 51699
+extractMin
+insert -75009
+extractMin
+insert 44782
+insert 70083
+extractMin
+insert -77333
+extractMin
+insert 20747
+insert -18574
+extractMin
+insert 21002
+extractMin
+insert -74446
+extractMin
+insert 38756
+insert 60151
+extractMin
+insert 50927
+insert 80185
+extractMin
+extractMin
+insert 38465
+extractMin
+extractMin
+insert 6864
+insert 45153
+insert 41314
+insert -28432
+extractMin
+insert 49726
+insert 62984
+extractMin
+extractMin
+extractMin
+insert -52765
+extractMin
+insert -81878
+insert 7251
+extractMin
+extractMin
+extractMin
+insert 19438
+extractMin
+insert 4889
+insert -17848
+insert 62275
+extractMin
+insert 62210
+insert -38545
+insert 89970
+insert -80944
+extractMin
+extractMin
+insert -92922
+insert -26427
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -97013
+extractMin
+insert 7569
+extractMin
+extractMin
+extractMin
+insert 53373
+insert -21687
+insert 92954
+extractMin
+insert 39427
+insert 28151
+insert 87736
+insert -49668
+insert -57793
+extractMin
+insert 66122
+insert -4229
+insert 30718
+extractMin
+extractMin
+insert -62387
+insert -83886
+insert -93321
+insert -59052
+extractMin
+extractMin
+insert 77462
+extractMin
+insert 45992
+insert 98977
+insert -66411
+extractMin
+insert -28582
+insert -31631
+extractMin
+insert 8980
+insert 27495
+insert -13877
+extractMin
+extractMin
+insert 72352
+insert -7489
+insert 74626
+extractMin
+insert 40333
+extractMin
+extractMin
+insert 95043
+insert 61395
+extractMin
+insert 63787
+extractMin
+extractMin
+insert -79893
+insert -14433
+insert 89390
+extractMin
+insert -32773
+extractMin
+insert -27896
+insert 69348
+insert 80447
+insert -86002
+extractMin
+insert 75721
+extractMin
+extractMin
+insert 84570
+insert -31885
+extractMin
+extractMin
+extractMin
+insert -94465
+extractMin
+insert 79524
+insert -57736
+extractMin
+extractMin
+insert -95843
+extractMin
+insert 87731
+extractMin
+insert 21702
+extractMin
+insert 18336
+insert -15696
+insert 18881
+insert 9491
+insert -61513
+insert -80568
+insert -28051
+extractMin
+extractMin
+extractMin
+insert 74824
+insert 78965
+extractMin
+insert 68851
+extractMin
+insert -36939
+insert 25290
+extractMin
+insert 18718
+insert -14918
+extractMin
+extractMin
+extractMin
+extractMin
+insert -96340
+insert -50965
+insert 79901
+extractMin
+insert 57743
+extractMin
+extractMin
+insert -21501
+extractMin
+insert 42474
+insert -93178
+extractMin
+extractMin
+insert 97960
+insert -50288
+extractMin
+insert 14516
+extractMin
+extractMin
+insert -57947
+extractMin
+insert -6535
+insert 8467
+insert 19258
+insert -47701
+insert -8969
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 65439
+insert 18680
+extractMin
+insert -97149
+insert 35535
+extractMin
+insert -86060
+insert 19571
+extractMin
+insert 92519
+extractMin
+insert 54946
+extractMin
+insert -57518
+insert -57572
+extractMin
+insert 31508
+insert 67022
+insert -68888
+extractMin
+insert -65825
+extractMin
+extractMin
+extractMin
+insert -16165
+extractMin
+extractMin
+insert 76623
+extractMin
+extractMin
+extractMin
+extractMin
+insert 22448
+extractMin
+insert 65185
+extractMin
+insert 49696
+insert -83685
+extractMin
+extractMin
+extractMin
+insert -46960
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -64030
+insert -71161
+insert 68212
+insert 40045
+extractMin
+extractMin
+insert -7272
+extractMin
+insert 23455
+extractMin
+extractMin
+extractMin
+extractMin
+insert -5486
+extractMin
+insert -12025
+extractMin
+insert -97997
+extractMin
+insert 83548
+insert 84133
+insert -27948
+insert -61370
+insert 40922
+insert 87156
+extractMin
+extractMin
+insert -89279
+insert -36615
+insert -14315
+extractMin
+insert -56072
+extractMin
+insert 52770
+insert 57287
+insert 39355
+insert -49923
+insert -74121
+insert -75247
+extractMin
+insert -18598
+insert -18491
+insert 36167
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 26646
+insert -20013
+insert -16191
+extractMin
+extractMin
+insert -97526
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -49154
+insert 67482
+extractMin
+insert 52774
+insert 89661
+extractMin
+extractMin
+extractMin
+insert -42478
+extractMin
+insert -62913
+extractMin
+extractMin
+insert -38815
+insert 7822
+extractMin
+extractMin
+insert 82511
+insert -71879
+insert -44324
+insert -7247
+extractMin
+insert 49535
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 46326
+extractMin
+insert 31656
+extractMin
+extractMin
+extractMin
+insert 20101
+extractMin
+extractMin
+extractMin
+insert -40546
+extractMin
+extractMin
+insert -42015
+extractMin
+insert -81777
+extractMin
+extractMin
+insert 44608
+insert 29737
+extractMin
+insert -18706
+insert -60472
+extractMin
+extractMin
+extractMin
+extractMin
+insert -60475
+insert 71956
+extractMin
+insert -92233
+extractMin
+insert 23305
+insert -32672
+extractMin
+extractMin
+insert 33369
+extractMin
+extractMin
+insert -9742
+extractMin
+insert 31464
+insert 78239
+extractMin
+extractMin
+insert 98527
+insert -32183
+extractMin
+insert -89876
+insert 9100
+insert 82241
+extractMin
+extractMin
+insert 15073
+extractMin
+extractMin
+extractMin
+extractMin
+insert -27049
+extractMin
+extractMin
+insert 40623
+extractMin
+extractMin
+insert -72074
+insert 44336
+extractMin
+insert -25660
+extractMin
+extractMin
+extractMin
+extractMin
+insert -76336
+insert -21542
+extractMin
+insert -17779
+insert -46958
+insert -49352
+insert 26970
+insert -60549
+extractMin
+insert 77413
+extractMin
+insert 19478
+extractMin
+extractMin
+extractMin
+extractMin
+insert -70793
+insert -98278
+insert -69123
+extractMin
+insert -57745
+insert -42554
+extractMin
+insert -14430
+insert -48600
+insert -41298
+insert -10095
+extractMin
+extractMin
+insert 66944
+extractMin
+extractMin
+insert 70066
+extractMin
+extractMin
+extractMin
+insert 36946
+insert -22723
+insert -84616
+extractMin
+insert -38317
+extractMin
+insert -94709
+insert 15150
+insert -97848
+insert -95473
+insert -3112
+insert 8520
+insert -11557
+insert -32084
+insert 17951
+insert 5810
+insert 31726
+extractMin
+extractMin
+extractMin
+extractMin
+insert -21814
+insert -48205
+extractMin
+insert -79745
+insert 34502
+insert 71959
+insert 78338
+insert 54824
+insert -44488
+insert 91951
+extractMin
+insert 38249
+insert -8524
+extractMin
+extractMin
+extractMin
+insert -451
+insert 80577
+insert 25816
+insert 96976
+insert 78317
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -67442
+insert -41387
+insert 93149
+extractMin
+insert 1437
+insert -86942
+insert 17352
+insert 28372
+insert -98052
+extractMin
+extractMin
+insert -19234
+extractMin
+insert -83482
+insert -12533
+extractMin
+insert -43542
+extractMin
+insert 60045
+insert -28882
+insert 57705
+extractMin
+insert 21107
+extractMin
+extractMin
+insert -46279
+insert 65096
+extractMin
+extractMin
+insert 11937
+insert -55525
+insert -86770
+extractMin
+extractMin
+insert -93676
+insert 95303
+extractMin
+extractMin
+insert 14769
+insert 5616
+insert 90814
+extractMin
+extractMin
+insert -52435
+insert 95949
+insert 3754
+insert 73833
+extractMin
+insert 92809
+insert -96494
+insert 38603
+insert -24907
+extractMin
+extractMin
+extractMin
+extractMin
+insert 21936
+extractMin
+insert -93130
+extractMin
+insert -85727
+insert 98831
+insert -48296
+insert 2064
+extractMin
+extractMin
+insert -33429
+extractMin
+extractMin
+insert -65380
+insert -74959
+insert 94341
+extractMin
+insert 3773
+extractMin
+insert 92923
+insert 6340
+extractMin
+extractMin
+insert -42557
+insert -29303
+extractMin
+extractMin
+insert 71657
+extractMin
+extractMin
+extractMin
+insert 20315
+insert -41939
+insert -86161
+insert -3043
+extractMin
+extractMin
+insert -25968
+insert -64382
+insert -82611
+extractMin
+insert -87947
+insert -37793
+extractMin
+insert 97236
+extractMin
+insert 24489
+insert 6323
+extractMin
+insert -83278
+extractMin
+extractMin
+insert 95794
+insert -20509
+extractMin
+extractMin
+insert 48627
+insert -38642
+extractMin
+insert -88897
+extractMin
+insert -50753
+insert -45022
+insert -52379
+extractMin
+insert -29262
+insert 79278
+extractMin
+extractMin
+insert 71736
+extractMin
+insert -79269
+extractMin
+insert 73086
+extractMin
+insert -88029
+insert 37158
+extractMin
+extractMin
+extractMin
+insert 93620
+insert -4430
+extractMin
+insert 64889
+insert 90388
+insert -48099
+insert 73942
+extractMin
+extractMin
+insert -63724
+extractMin
+insert 7460
+extractMin
+extractMin
+insert 89449
+insert -37145
+insert 79928
+extractMin
+insert -25403
+insert 9952
+insert 5299
+insert -67823
+insert 43579
+extractMin
+extractMin
+insert -58985
+extractMin
+insert 36808
+insert 79146
+extractMin
+insert -26803
+insert -93089
+insert 60637
+insert 26231
+insert -64301
+insert -91165
+extractMin
+insert -6608
+extractMin
+extractMin
+insert 43109
+extractMin
+insert 89690
+insert -18493
+extractMin
+extractMin
+insert 9807
+insert -82894
+extractMin
+extractMin
+insert 56713
+extractMin
+insert 47228
+extractMin
+insert 38440
+extractMin
+extractMin
+extractMin
+insert 6339
+insert -47969
+insert -1315
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -70029
+extractMin
+extractMin
+insert 39392
+insert -60008
+extractMin
+insert -91063
+extractMin
+extractMin
+insert 8099
+insert 94427
+insert 41003
+insert -775
+insert 75730
+insert -5373
+extractMin
+insert 49509
+insert 61496
+extractMin
+insert 87164
+extractMin
+insert 72845
+insert 78864
+insert -26633
+insert -38784
+extractMin
+extractMin
+insert 29632
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 23013
+extractMin
+extractMin
+insert 6366
+extractMin
+insert 30583
+extractMin
+extractMin
+extractMin
+insert -60106
+extractMin
+insert 66028
+insert -66579
+insert 91642
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -31558
+insert -9330
+insert 91737
+extractMin
+extractMin
+insert 82993
+extractMin
+insert -26096
+extractMin
+insert 43256
+extractMin
+insert -76422
+insert -14306
+insert -74376
+insert 15997
+insert -48608
+extractMin
+insert 78372
+insert -84536
+insert 53931
+extractMin
+insert -96824
+extractMin
+insert -97081
+insert 63450
+extractMin
+insert 63632
+insert 19554
+insert 88262
+insert -48502
+insert -75826
+insert -52269
+extractMin
+insert 78553
+insert 95932
+extractMin
+extractMin
+extractMin
+insert 38081
+insert 93363
+extractMin
+insert 80199
+insert 18062
+extractMin
+insert -33161
+extractMin
+insert -38029
+insert 12637
+extractMin
+insert 67410
+extractMin
+insert 57311
+insert 56831
+insert -45058
+extractMin
+insert -98226
+extractMin
+insert -36616
+insert -39749
+extractMin
+extractMin
+insert -99435
+insert 69645
+insert -74272
+extractMin
+insert -31054
+extractMin
+extractMin
+insert -2193
+insert 72552
+extractMin
+extractMin
+extractMin
+extractMin
+insert 90709
+extractMin
+insert 36435
+insert 82285
+insert -36204
+insert 23884
+extractMin
+insert 77765
+insert 20667
+insert 90523
+extractMin
+insert -77317
+extractMin
+insert -96251
+insert -64571
+extractMin
+insert -97857
+insert 79165
+insert 58215
+extractMin
+extractMin
+extractMin
+insert 45367
+insert 70328
+extractMin
+extractMin
+extractMin
+insert -52533
+insert -25596
+insert 48804
+extractMin
+insert 66122
+insert 42321
+insert -31612
+insert -54675
+insert 20421
+extractMin
+insert -98084
+insert -76612
+insert 19675
+insert 61298
+insert 39430
+extractMin
+extractMin
+insert 73096
+extractMin
+extractMin
+insert 78015
+extractMin
+extractMin
+insert 65827
+insert -82398
+insert 43118
+extractMin
+extractMin
+insert 64643
+insert 61488
+insert -70583
+insert -6779
+insert 26289
+extractMin
+insert 41016
+insert -7949
+insert 76530
+insert -53176
+extractMin
+extractMin
+insert -82520
+insert 69629
+insert -80406
+insert -39505
+insert 1949
+insert -29581
+insert -52577
+extractMin
+insert -90089
+extractMin
+extractMin
+extractMin
+insert -23276
+insert 94376
+extractMin
+insert 92195
+insert 18232
+insert -59465
+insert 62619
+extractMin
+insert 78262
+extractMin
+extractMin
+insert -74527
+insert 41257
+insert -31785
+extractMin
+insert 82071
+insert 86026
+extractMin
+insert -65483
+extractMin
+insert 79180
+extractMin
+extractMin
+insert -58642
+extractMin
+extractMin
+insert -46450
+insert 36110
+insert -49798
+insert 23667
+insert -10673
+extractMin
+insert 9884
+extractMin
+extractMin
+insert -29930
+insert 22211
+extractMin
+extractMin
+extractMin
+insert -76447
+insert 59688
+extractMin
+extractMin
+insert 5679
+extractMin
+insert 93489
+insert -64607
+extractMin
+insert -38580
+insert 49551
+extractMin
+insert -77469
+extractMin
+extractMin
+extractMin
+insert 44095
+extractMin
+insert -61109
+insert -19235
+extractMin
+extractMin
+insert 29481
+extractMin
+insert 65399
+insert -17542
+insert -9062
+extractMin
+extractMin
+extractMin
+insert 72045
+extractMin
+extractMin
+insert -43603
+insert -75717
+insert -53792
+insert -9091
+insert -50370
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 47489
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -24855
+insert 80002
+insert 33805
+extractMin
+insert 75075
+extractMin
+extractMin
+extractMin
+insert -48833
+insert -24802
+insert -62204
+extractMin
+insert -62782
+insert 62335
+insert 59490
+insert -38041
+insert -62389
+insert -69113
+insert -98502
+extractMin
+extractMin
+extractMin
+insert -46741
+extractMin
+insert 20840
+extractMin
+extractMin
+insert 52304
+extractMin
+extractMin
+insert -49843
+insert -42105
+insert 91205
+insert -35636
+extractMin
+extractMin
+extractMin
+extractMin
+insert -80450
+extractMin
+extractMin
+extractMin
+extractMin
+insert 38387
+insert 54070
+extractMin
+insert -86654
+insert 61617
+insert -36550
+extractMin
+extractMin
+insert 12506
+insert -22330
+insert -91093
+insert 31790
+extractMin
+extractMin
+extractMin
+extractMin
+insert 80092
+extractMin
+extractMin
+insert -46634
+extractMin
+extractMin
+extractMin
+insert -74850
+extractMin
+extractMin
+insert 78810
+insert 19109
+insert 26459
+insert 2994
+extractMin
+extractMin
+insert -67213
+insert 86187
+insert 3985
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 26632
+insert -41025
+insert 2543
+extractMin
+insert 32310
+insert -41164
+extractMin
+extractMin
+extractMin
+insert -65937
+insert 33527
+extractMin
+extractMin
+extractMin
+insert 30097
+extractMin
+extractMin
+extractMin
+insert 62476
+extractMin
+extractMin
+insert -37966
+extractMin
+extractMin
+insert -80900
+insert -75294
+insert 32484
+insert -83733
+insert 99851
+insert 39631
+insert -4846
+insert -92583
+extractMin
+extractMin
+insert 85687
+insert 86346
+extractMin
+insert 8416
+insert -97136
+extractMin
+extractMin
+extractMin
+extractMin
+insert 28837
+insert -24433
+extractMin
+extractMin
+extractMin
+insert 37070
+insert -19914
+extractMin
+extractMin
+extractMin
+insert 77442
+insert -7233
+insert -94364
+insert 53579
+extractMin
+extractMin
+insert -57921
+extractMin
+insert 43831
+extractMin
+extractMin
+extractMin
+insert -60245
+insert 28097
+extractMin
+extractMin
+extractMin
+insert 13709
+extractMin
+extractMin
+insert -51164
+extractMin
+insert 82061
+insert -23292
+insert -63678
+extractMin
+extractMin
+insert -90307
+extractMin
+insert 95249
+insert -53808
+insert -15822
+extractMin
+insert 58200
+insert -1038
+extractMin
+insert -62346
+insert -64775
+extractMin
+insert 60427
+extractMin
+extractMin
+insert 43684
+extractMin
+insert -58210
+insert 91918
+insert -19586
+insert 81736
+insert -47160
+extractMin
+insert -64029
+insert 36517
+extractMin
+extractMin
+extractMin
+insert -5980
+extractMin
+extractMin
+insert -57581
+insert 59101
+extractMin
+extractMin
+insert -20815
+insert 30607
+insert -23525
+extractMin
+insert -49100
+extractMin
+insert 57240
+insert -43283
+insert -99274
+extractMin
+extractMin
+extractMin
+insert 90571
+extractMin
+extractMin
+insert -42134
+extractMin
+insert -93662
+insert -26860
+insert 88248
+extractMin
+extractMin
+insert 40002
+insert -98841
+insert -30043
+insert 79056
+insert -28394
+extractMin
+extractMin
+extractMin
+insert 59914
+extractMin
+insert -72252
+insert 98085
+extractMin
+insert -28499
+insert 83054
+insert -64409
+extractMin
+extractMin
+extractMin
+insert 87564
+insert 68629
+extractMin
+extractMin
+extractMin
+insert -21401
+insert 83754
+insert -39928
+insert 62979
+extractMin
+insert 78776
+insert 61667
+insert -53628
+insert -86370
+extractMin
+extractMin
+insert -12160
+insert -27086
+insert 18725
+insert 9645
+insert 41506
+insert -57175
+extractMin
+extractMin
+insert 32033
+extractMin
+extractMin
+insert -9183
+insert 64060
+extractMin
+extractMin
+insert -85533
+insert 45203
+insert 28615
+extractMin
+insert 90516
+insert -70482
+extractMin
+insert -21730
+insert 89118
+insert -72757
+insert -29484
+extractMin
+insert -78309
+insert 1629
+extractMin
+extractMin
+extractMin
+insert -16895
+extractMin
+insert -34588
+insert -43864
+extractMin
+insert -47620
+insert 66073
+extractMin
+extractMin
+insert -69463
+insert 98335
+extractMin
+insert -32488
+extractMin
+extractMin
+extractMin
+insert -8831
+extractMin
+extractMin
+extractMin
+insert 59276
+insert -94797
+insert 83874
+insert -42078
+insert -71
+insert -26027
+extractMin
+insert 51464
+insert 57392
+insert -20868
+insert -12491
+extractMin
+insert -7657
+extractMin
+extractMin
+insert -54994
+extractMin
+extractMin
+extractMin
+insert 26969
+insert 15770
+insert 39151
+insert 41414
+extractMin
+insert 8300
+extractMin
+insert -81535
+insert -74658
+extractMin
+extractMin
+extractMin
+insert 76960
+extractMin
+insert 69431
+extractMin
+insert -59598
+insert -3403
+insert -16281
+insert -7801
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -73831
+insert -97474
+extractMin
+extractMin
+extractMin
+insert 60680
+insert -83783
+insert -86581
+extractMin
+insert -46688
+insert 2937
+insert -48460
+extractMin
+extractMin
+insert 41178
+extractMin
+extractMin
+extractMin
+insert 77031
+insert 8539
+insert 44707
+insert -90290
+extractMin
+extractMin
+insert -61642
+insert -62650
+extractMin
+extractMin
+insert 5201
+extractMin
+extractMin
+insert 82323
+insert 18058
+insert 3014
+insert -59689
+insert 38646
+extractMin
+insert 97535
+extractMin
+insert -49451
+extractMin
+insert -24573
+insert 78457
+insert 26822
+insert 14692
+insert 40022
+insert 38556
+extractMin
+extractMin
+extractMin
+extractMin
+insert -28194
+insert -55618
+insert -71863
+extractMin
+insert -63511
+extractMin
+extractMin
+insert 58761
+insert 79584
+insert 47954
+extractMin
+insert -69852
+extractMin
+extractMin
+insert -83870
+insert -7986
+insert -15586
+insert 72175
+insert -30920
+extractMin
+insert 93460
+extractMin
+insert 10821
+insert 50202
+insert 11735
+extractMin
+extractMin
+insert 68847
+extractMin
+insert -4503
+insert -80776
+extractMin
+extractMin
+insert -74658
+insert 55487
+extractMin
+insert 55234
+extractMin
+insert -45023
+insert -41209
+insert -13251
+insert -38651
+insert 82403
+extractMin
+insert 90508
+insert -76998
+extractMin
+insert 97510
+insert 96033
+extractMin
+insert -18389
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -4920
+extractMin
+insert -8559
+extractMin
+insert 29659
+extractMin
+extractMin
+insert -82405
+extractMin
+insert -94009
+extractMin
+insert 3
+insert -2868
+extractMin
+insert 1615
+insert -24178
+insert -78585
+insert 11971
+insert 35708
+insert -56078
+extractMin
+insert 8931
+extractMin
+insert -14093
+insert 38407
+insert 46425
+insert -69576
+insert -72201
+insert 20674
+insert -26468
+insert 84832
+extractMin
+insert -84788
+insert -33749
+extractMin
+insert -8079
+extractMin
+insert -7133
+insert -71341
+insert 67609
+insert -19246
+insert 79801
+insert -9354
+insert 88313
+insert 27625
+extractMin
+insert 82809
+insert 41155
+insert -46354
+extractMin
+insert -21534
+insert -63788
+insert -42485
+extractMin
+insert 88827
+insert 46216
+insert 41551
+insert -64725
+insert 76664
+extractMin
+extractMin
+extractMin
+insert -66434
+insert -49232
+insert 11231
+extractMin
+insert 57021
+insert 89851
+extractMin
+insert -43421
+insert 30160
+insert 96672
+extractMin
+insert -57004
+insert 13298
+insert -77475
+extractMin
+insert -3020
+extractMin
+insert 3556
+insert -127
+insert -51329
+insert -92534
+extractMin
+insert -10972
+insert 11538
+insert -12064
+insert 63087
+extractMin
+extractMin
+extractMin
+extractMin
+insert 73941
+extractMin
+insert -62312
+extractMin
+insert 60961
+insert 96889
+insert -17158
+insert 88907
+extractMin
+insert 50119
+insert 70000
+insert 20640
+extractMin
+insert -78033
+insert -87842
+insert 28446
+extractMin
+extractMin
+insert -57056
+insert 33493
+insert 14754
+insert -17219
+extractMin
+insert -93048
+extractMin
+insert 69873
+insert -20423
+extractMin
+insert 63944
+insert 13062
+insert -81444
+extractMin
+extractMin
+insert 92505
+extractMin
+extractMin
+extractMin
+extractMin
+insert -59355
+insert 42264
+insert 8760
+insert -21142
+insert 77341
+insert 22695
+insert 90788
+extractMin
+insert 45333
+extractMin
+insert 17395
+extractMin
+insert -91971
+extractMin
+insert -6449
+extractMin
+extractMin
+insert -50915
+insert 33246
+extractMin
+extractMin
+insert 71820
+insert 34185
+insert 44998
+extractMin
+insert 29553
+insert -61922
+insert -17143
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -87949
+insert -64436
+extractMin
+extractMin
+insert 52102
+extractMin
+extractMin
+insert 62302
+insert 2276
+extractMin
+insert -18194
+insert -26608
+insert 92676
+insert -87802
+extractMin
+extractMin
+insert -99209
+insert 70860
+extractMin
+insert 64957
+insert -30704
+extractMin
+extractMin
+extractMin
+insert 26646
+insert -63264
+extractMin
+extractMin
+extractMin
+extractMin
+insert -14648
+insert 52435
+extractMin
+insert -81489
+extractMin
+insert -24518
+insert 59521
+insert 58872
+extractMin
+insert 26406
+extractMin
+insert -7853
+extractMin
+insert -85865
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -93704
+insert -54019
+insert -79812
+extractMin
+extractMin
+extractMin
+insert 14318
+insert 54270
+insert 70578
+extractMin
+insert 24414
+extractMin
+extractMin
+insert -24730
+extractMin
+insert 4299
+insert 29512
+extractMin
+insert -54803
+extractMin
+insert -70900
+extractMin
+extractMin
+insert 49200
+insert -30233
+insert -82133
+insert -31850
+extractMin
+extractMin
+extractMin
+insert 65019
+extractMin
+extractMin
+insert -5959
+insert 9201
+insert -67850
+extractMin
+insert -5624
+insert -46700
+extractMin
+insert -8607
+extractMin
+insert -59428
+extractMin
+insert -55118
+insert -38751
+extractMin
+insert -38439
+extractMin
+extractMin
+insert 80410
+insert -52366
+extractMin
+extractMin
+insert 57210
+extractMin
+extractMin
+extractMin
+extractMin
+insert 49537
+insert -64140
+extractMin
+extractMin
+extractMin
+extractMin
+insert -12747
+extractMin
+extractMin
+extractMin
+insert 17493
+extractMin
+insert -624
+insert 35741
+insert -98630
+insert 52643
+insert -73477
+extractMin
+extractMin
+insert 61460
+insert 19426
+insert -23302
+insert 55736
+insert 46555
+insert 63123
+insert -72143
+insert 27912
+insert 99474
+insert -17874
+extractMin
+insert -74318
+extractMin
+extractMin
+extractMin
+extractMin
+insert -88556
+insert 81069
+insert 87837
+insert 93922
+insert 58333
+insert -27722
+insert 37658
+extractMin
+insert -28946
+extractMin
+insert -580
+extractMin
+insert 63081
+insert 82704
+extractMin
+insert -96994
+insert 74670
+extractMin
+insert 76949
+insert 90146
+insert -53305
+insert -4319
+insert 58977
+insert -52623
+insert -78569
+insert 87802
+insert 66905
+insert -5605
+insert -70541
+insert 65940
+insert -99842
+insert -24614
+insert 21216
+insert -7768
+extractMin
+extractMin
+extractMin
+insert -4762
+insert 8508
+insert 5746
+extractMin
+extractMin
+insert 61612
+insert 9945
+extractMin
+insert 61089
+insert 24724
+extractMin
+insert -66369
+extractMin
+extractMin
+insert -42241
+insert -57624
+insert -95250
+insert 59035
+insert 89349
+extractMin
+insert 71894
+insert -244
+extractMin
+extractMin
+insert -81863
+insert 4010
+insert 94507
+insert 76097
+extractMin
+insert 1795
+extractMin
+insert 38866
+extractMin
+insert 25399
+insert -63884
+insert -51820
+extractMin
+extractMin
+insert -15769
+extractMin
+insert -3612
+insert 19973
+extractMin
+extractMin
+extractMin
+insert 99579
+insert -96487
+insert -6834
+insert 14787
+extractMin
+insert -2211
+extractMin
+extractMin
+extractMin
+insert -14322
+insert 93081
+insert -53794
+extractMin
+extractMin
+insert 63589
+insert 46737
+extractMin
+extractMin
+insert -43857
+extractMin
+insert -84750
+insert -78807
+extractMin
+insert 23373
+extractMin
+extractMin
+insert 1332
+insert 65618
+insert -49712
+extractMin
+insert -60304
+insert -24860
+insert -11006
+extractMin
+extractMin
+insert 99140
+extractMin
+extractMin
+extractMin
+insert -71418
+insert 89087
+insert 30348
+insert -5876
+insert 59331
+insert 70844
+extractMin
+extractMin
+insert 80779
+extractMin
+extractMin
+insert -15672
+extractMin
+insert 38668
+insert -25451
+insert 41468
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -41496
+extractMin
+extractMin
+extractMin
+insert 21166
+insert -40848
+insert -17167
+extractMin
+extractMin
+extractMin
+extractMin
+insert -40455
+insert 70429
+extractMin
+extractMin
+insert -67487
+insert -33859
+extractMin
+insert -34723
+insert -57301
+extractMin
+insert -98819
+insert 4394
+insert -57629
+extractMin
+insert -13226
+insert -89116
+extractMin
+extractMin
+insert 56013
+extractMin
+insert 83816
+extractMin
+insert -26755
+insert 57469
+insert 70631
+extractMin
+insert -62803
+insert 63991
+insert 51666
+insert -29126
+insert -34197
+extractMin
+insert 63112
+insert 75685
+extractMin
+insert 47226
+insert 85860
+insert -58401
+insert -22944
+insert 66323
+insert 82642
+insert 24137
+extractMin
+insert 4645
+extractMin
+insert -2602
+insert 53862
+extractMin
+insert 80946
+insert 94722
+insert -83361
+insert -86488
+extractMin
+insert 30102
+extractMin
+insert -56217
+insert -68570
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 2125
+insert 28410
+extractMin
+extractMin
+insert 59244
+insert -37328
+insert 34661
+extractMin
+extractMin
+insert 5363
+insert -35018
+extractMin
+extractMin
+extractMin
+insert -7215
+insert -48727
+extractMin
+insert 13087
+insert -9184
+insert -49914
+insert -47659
+insert -4950
+insert 40155
+extractMin
+insert -35918
+insert 8968
+insert 96428
+insert -52099
+insert -52509
+insert 4215
+extractMin
+extractMin
+extractMin
+insert 87364
+extractMin
+insert -79715
+insert -49421
+extractMin
+extractMin
+insert 32416
+extractMin
+insert 12236
+extractMin
+extractMin
+insert -33380
+extractMin
+insert 61229
+insert -85170
+extractMin
+insert 82743
+insert 15713
+insert 6174
+insert 81924
+insert 14220
+extractMin
+insert -90909
+insert -78411
+insert 33319
+insert 87264
+insert 46888
+extractMin
+extractMin
+insert 70819
+insert -77407
+extractMin
+insert 69139
+extractMin
+insert 43616
+insert 44793
+extractMin
+insert 46453
+insert 9997
+insert 98661
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -25206
+insert -96999
+insert 85354
+extractMin
+insert -47279
+extractMin
+insert 1225
+insert -92770
+extractMin
+extractMin
+insert 16956
+extractMin
+insert -38941
+extractMin
+extractMin
+extractMin
+insert 47675
+insert 53718
+insert -47511
+extractMin
+extractMin
+insert -75181
+insert 2095
+insert -22093
+extractMin
+extractMin
+extractMin
+insert 90221
+extractMin
+extractMin
+extractMin
+insert -91248
+insert -58857
+insert 27828
+extractMin
+insert 15008
+extractMin
+extractMin
+extractMin
+insert -23100
+insert 85916
+insert -81667
+extractMin
+extractMin
+insert 96757
+extractMin
+insert 77808
+insert 72137
+insert -66573
+insert -46750
+insert 65038
+insert -79606
+extractMin
+extractMin
+insert 488
+extractMin
+extractMin
+insert -3582
+insert 18682
+insert 16690
+insert 74138
+insert 45186
+extractMin
+insert -59376
+insert -94256
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34348
+extractMin
+insert -46545
+extractMin
+insert 78672
+insert -39255
+insert -90562
+insert -20398
+insert 91720
+extractMin
+insert 40797
+insert -29911
+insert -43634
+extractMin
+extractMin
+insert -15336
+insert -36715
+insert -11178
+extractMin
+extractMin
+insert -70436
+insert 22817
+insert 1627
+insert -32585
+extractMin
+extractMin
+insert 11950
+extractMin
+insert 72487
+insert -46811
+extractMin
+extractMin
+extractMin
+extractMin
+insert 78876
+extractMin
+extractMin
+insert 54788
+extractMin
+insert -24679
+insert -60966
+insert 78660
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -11164
+extractMin
+extractMin
+extractMin
+insert -31702
+insert -60797
+insert -11156
+extractMin
+extractMin
+insert -24133
+insert -92512
+insert -65295
+insert -48717
+insert -33751
+extractMin
+insert 46016
+insert 79818
+insert 74992
+insert 11761
+extractMin
+insert -17778
+insert 28323
+insert -69482
+insert 82815
+extractMin
+insert -31810
+extractMin
+insert -36343
+insert 68720
+extractMin
+extractMin
+extractMin
+insert -11287
+extractMin
+extractMin
+insert -37817
+insert -65187
+insert -95852
+extractMin
+extractMin
+insert -76251
+extractMin
+extractMin
+extractMin
+insert -85012
+insert 56694
+insert 53476
+insert 1398
+insert 84864
+insert -81958
+insert -71321
+extractMin
+insert 60524
+insert -54795
+insert 13160
+insert 5470
+insert 11850
+insert 94929
+extractMin
+extractMin
+insert -57069
+extractMin
+extractMin
+extractMin
+extractMin
+insert 36161
+extractMin
+extractMin
+extractMin
+insert -18558
+extractMin
+insert 47861
+insert 4731
+insert 43941
+insert -37015
+insert 68964
+insert -97948
+extractMin
+extractMin
+extractMin
+insert 94891
+insert -47310
+extractMin
+extractMin
+extractMin
+insert -90407
+insert 60516
+insert 96815
+insert -45987
+insert 35357
+insert 3060
+insert 187
+extractMin
+insert 75253
+insert 76558
+extractMin
+extractMin
+insert -13111
+extractMin
+extractMin
+insert 34041
+extractMin
+extractMin
+insert -44830
+extractMin
+extractMin
+extractMin
+insert 19008
+insert 24010
+insert -6318
+insert 36225
+insert 71225
+extractMin
+insert 13267
+extractMin
+insert -79025
+insert 8426
+extractMin
+insert -48178
+extractMin
+insert -39233
+extractMin
+insert -44144
+insert 4530
+extractMin
+extractMin
+extractMin
+extractMin
+insert 88879
+extractMin
+insert -9046
+insert 4657
+insert 90265
+extractMin
+extractMin
+extractMin
+extractMin
+insert 30881
+insert -52430
+insert 46412
+insert -3053
+insert 12108
+extractMin
+insert 16797
+extractMin
+insert 16522
+extractMin
+insert 35079
+insert 16180
+insert 38430
+extractMin
+extractMin
+extractMin
+insert -62429
+extractMin
+insert 17360
+insert 5042
+extractMin
+extractMin
+insert 569
+insert 98320
+extractMin
+insert -55967
+extractMin
+insert -91189
+insert -51531
+extractMin
+extractMin
+insert -50523
+insert -7995
+insert -66703
+extractMin
+extractMin
+extractMin
+extractMin
+insert 12179
+insert 79641
+insert -81942
+insert -53231
+extractMin
+insert 10183
+extractMin
+insert -29188
+insert 61083
+extractMin
+insert 59028
+extractMin
+insert 72762
+insert -83400
+extractMin
+extractMin
+insert 50394
+extractMin
+insert -95986
+insert -62166
+extractMin
+insert 35213
+insert -39436
+extractMin
+extractMin
+insert 87058
+insert -85037
+insert -85443
+extractMin
+extractMin
+insert 487
+insert 74386
+extractMin
+extractMin
+extractMin
+insert -32038
+insert -20286
+extractMin
+extractMin
+insert -11344
+extractMin
+extractMin
+insert -68644
+extractMin
+extractMin
+extractMin
+extractMin
+insert -12485
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 13602
+extractMin
+extractMin
+insert 68218
+extractMin
+extractMin
+insert -22121
+extractMin
+insert 78494
+insert -18072
+insert -6431
+extractMin
+insert 54681
+extractMin
+extractMin
+insert 82905
+extractMin
+extractMin
+insert -7193
+insert 28314
+extractMin
+insert -76912
+insert 91927
+insert 81707
+extractMin
+extractMin
+insert 39889
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 91836
+insert -71753
+insert 62967
+insert 14892
+insert -69989
+extractMin
+extractMin
+extractMin
+extractMin
+insert 14238
+insert 2554
+insert 8411
+insert 95338
+extractMin
+insert -5899
+extractMin
+insert 20748
+extractMin
+extractMin
+extractMin
+extractMin
+insert 50718
+insert 33498
+extractMin
+insert -96174
+extractMin
+insert -83644
+insert 41030
+extractMin
+extractMin
+extractMin
+insert -77434
+extractMin
+insert 30661
+insert 59676
+insert -47562
+extractMin
+extractMin
+extractMin
+insert 10001
+insert -32624
+insert 30200
+insert 8814
+extractMin
+insert 78942
+extractMin
+insert -97638
+extractMin
+extractMin
+extractMin
+insert -77155
+extractMin
+extractMin
+extractMin
+extractMin
+insert -46512
+extractMin
+insert 27275
+extractMin
+extractMin
+insert 23859
+extractMin
+extractMin
+insert -97571
+insert 9421
+insert 25469
+insert 91262
+insert -49522
+extractMin
+insert 11438
+insert 8519
+insert -18082
+insert -99187
+insert 11779
+insert 94522
+insert 98954
+extractMin
+insert 85800
+extractMin
+extractMin
+extractMin
+extractMin
+insert 27805
+extractMin
+insert -84501
+extractMin
+insert -96606
+insert 11864
+insert 55656
+insert 8249
+extractMin
+insert 14719
+insert -58070
+insert -70517
+insert 22963
+insert -38189
+extractMin
+extractMin
+insert -77036
+extractMin
+insert -55529
+extractMin
+insert 45882
+extractMin
+insert 45065
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 33651
+extractMin
+insert -41043
+insert -32879
+extractMin
+extractMin
+extractMin
+insert 63045
+insert 7548
+extractMin
+insert 53077
+insert -98914
+extractMin
+insert -32890
+insert -59066
+extractMin
+insert -78806
+extractMin
+insert 56451
+insert -49354
+insert -30282
+extractMin
+insert -39137
+extractMin
+extractMin
+insert -46650
+extractMin
+extractMin
+insert -79576
+insert -20546
+extractMin
+insert 71767
+extractMin
+extractMin
+insert -18819
+extractMin
+extractMin
+extractMin
+extractMin
+insert 95683
+insert 34159
+insert 52707
+insert 55647
+insert -58601
+insert 88209
+insert -51459
+insert -9691
+insert -84454
+extractMin
+extractMin
+insert -57245
+insert -70038
+extractMin
+extractMin
+insert 17497
+insert -41750
+insert 1859
+extractMin
+extractMin
+insert -6676
+insert 56793
+insert -39002
+insert -95603
+extractMin
+insert -961
+insert -30972
+extractMin
+extractMin
+insert -8820
+extractMin
+extractMin
+insert -24189
+insert 19400
+extractMin
+insert -4983
+extractMin
+insert -2347
+insert -53272
+extractMin
+insert 17891
+insert 1795
+extractMin
+insert 75163
+insert -85437
+extractMin
+extractMin
+extractMin
+insert -88084
+insert -28428
+extractMin
+insert 67983
+insert -48415
+extractMin
+insert 77487
+insert 47923
+insert -66456
+extractMin
+extractMin
+insert -19127
+insert -81530
+insert 74168
+extractMin
+insert -3907
+insert 89437
+insert 62799
+insert 86396
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 35195
+insert -95417
+insert 91482
+insert -55422
+extractMin
+insert 61440
+insert 47559
+extractMin
+extractMin
+insert -40182
+insert -28255
+insert -36535
+extractMin
+insert -43182
+extractMin
+insert -52624
+insert 58611
+insert -9034
+extractMin
+insert 16290
+extractMin
+insert 15191
+insert 75771
+insert 55341
+extractMin
+insert 63093
+insert 61864
+extractMin
+extractMin
+insert -27094
+extractMin
+insert 82566
+extractMin
+extractMin
+extractMin
+insert -87596
+insert -46889
+extractMin
+insert -71456
+insert -85432
+insert -78893
+extractMin
+extractMin
+insert -33189
+insert -8422
+insert 83285
+insert -3093
+insert -63945
+insert 43206
+extractMin
+insert -81420
+insert 73569
+extractMin
+extractMin
+insert -25217
+insert 32226
+extractMin
+extractMin
+extractMin
+insert 26229
+extractMin
+insert 74788
+insert 65735
+insert -29759
+extractMin
+extractMin
+extractMin
+insert -66827
+insert 42674
+insert -19051
+insert -9611
+insert -41107
+extractMin
+insert 22306
+extractMin
+insert 20046
+extractMin
+insert -14658
+insert 41120
+insert 79162
+extractMin
+insert -50385
+insert 97733
+insert 67752
+extractMin
+extractMin
+insert 23692
+insert -74563
+insert -98781
+extractMin
+insert 60860
+insert 24246
+extractMin
+insert -41265
+insert 71949
+extractMin
+insert -31649
+extractMin
+extractMin
+insert 57340
+insert -25669
+extractMin
+extractMin
+insert 40548
+insert 20121
+insert -20397
+insert 43402
+extractMin
+insert -29012
+insert 13558
+extractMin
+insert -35801
+insert 60894
+insert -11958
+extractMin
+insert -98836
+insert 72268
+extractMin
+extractMin
+insert 48399
+insert 33934
+insert 85761
+extractMin
+extractMin
+extractMin
+insert 37158
+extractMin
+extractMin
+insert 30001
+insert -41420
+insert 67552
+extractMin
+extractMin
+insert 17449
+insert 47653
+insert -36827
+insert 46615
+extractMin
+extractMin
+insert -24280
+extractMin
+extractMin
+extractMin
+insert 16867
+extractMin
+insert 8330
+extractMin
+extractMin
+extractMin
+extractMin
+insert -14230
+insert -76693
+extractMin
+extractMin
+insert -82490
+extractMin
+insert -11555
+extractMin
+extractMin
+extractMin
+extractMin
+insert 33248
+extractMin
+extractMin
+extractMin
+insert -33145
+extractMin
+insert -65729
+extractMin
+insert 70972
+extractMin
+extractMin
+insert 34301
+insert -50239
+insert -84002
+extractMin
+insert -83466
+extractMin
+extractMin
+extractMin
+insert 91806
+extractMin
+extractMin
+insert 49060
+extractMin
+insert -3474
+extractMin
+extractMin
+extractMin
+extractMin
+insert 18678
+extractMin
+extractMin
+extractMin
+insert -51328
+insert 25224
+insert -52830
+extractMin
+extractMin
+extractMin
+insert 61644
+extractMin
+insert 37082
+insert -7137
+insert 48329
+insert -42257
+insert 17470
+extractMin
+insert -73330
+extractMin
+insert -9513
+extractMin
+extractMin
+insert -2016
+insert -74387
+insert 841
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 74040
+insert 41633
+insert -6278
+insert 3679
+insert -59902
+extractMin
+insert -52510
+insert 46003
+insert 56596
+extractMin
+extractMin
+extractMin
+extractMin
+insert -73581
+insert -92188
+extractMin
+extractMin
+extractMin
+extractMin
+insert -85139
+extractMin
+extractMin
+insert 99186
+extractMin
+insert 75012
+insert -71198
+insert 484
+insert -57697
+insert -66833
+extractMin
+extractMin
+insert 86619
+insert -38022
+insert 19508
+extractMin
+insert -21761
+insert -84243
+insert -39434
+extractMin
+extractMin
+extractMin
+extractMin
+insert 96702
+insert -49820
+insert -81059
+insert 27926
+extractMin
+insert -72412
+insert 38392
+insert -33694
+extractMin
+extractMin
+insert -35943
+insert -83763
+extractMin
+extractMin
+insert -35183
+insert -83490
+insert 85904
+insert -98005
+insert 10490
+extractMin
+insert 41763
+insert -10355
+insert 55036
+extractMin
+insert 46752
+insert 38564
+extractMin
+insert -92362
+insert 12084
+extractMin
+extractMin
+extractMin
+insert -16881
+insert -500
+insert -26037
+insert 41211
+insert -97122
+insert 43547
+insert 22649
+extractMin
+extractMin
+insert 2689
+extractMin
+insert -40641
+extractMin
+insert -89322
+insert 86404
+extractMin
+insert -91977
+extractMin
+insert 76413
+extractMin
+insert 77452
+insert 13193
+insert -32736
+insert -45782
+insert -91763
+insert -59837
+extractMin
+insert -98146
+extractMin
+insert 61590
+insert -58592
+extractMin
+insert 64747
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -43268
+insert -87292
+extractMin
+insert 11609
+insert 81610
+extractMin
+insert -10980
+insert 19008
+insert -11428
+extractMin
+insert 48352
+insert -92428
+extractMin
+extractMin
+insert 76593
+extractMin
+insert -72933
+insert 24629
+insert 46995
+extractMin
+insert 80583
+insert -95885
+extractMin
+extractMin
+extractMin
+insert 21489
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -50040
+extractMin
+extractMin
+extractMin
+insert -76975
+insert -2486
+extractMin
+insert 24454
+insert 1653
+extractMin
+extractMin
+insert 66107
+extractMin
+insert -55970
+extractMin
+insert 76175
+insert -32716
+insert -26795
+extractMin
+insert 57405
+extractMin
+extractMin
+insert 46023
+insert -58915
+insert 69978
+insert 24808
+extractMin
+insert 74494
+insert 1693
+insert 89679
+insert 68796
+insert 31027
+insert 44873
+extractMin
+insert 6684
+extractMin
+extractMin
+extractMin
+extractMin
+insert -22193
+extractMin
+extractMin
+insert -30869
+insert -4126
+extractMin
+extractMin
+extractMin
+insert -99258
+extractMin
+insert 48975
+extractMin
+extractMin
+insert 32772
+insert 25563
+extractMin
+insert 68379
+extractMin
+extractMin
+insert 38201
+insert -64876
+extractMin
+extractMin
+insert -99237
+insert 23527
+extractMin
+insert -8188
+extractMin
+extractMin
+insert 92960
+extractMin
+insert 18514
+extractMin
+extractMin
+extractMin
+insert 37816
+extractMin
+extractMin
+extractMin
+insert -99004
+insert 52727
+insert 44281
+extractMin
+extractMin
+extractMin
+insert -52709
+insert 27665
+extractMin
+extractMin
+extractMin
+insert -84877
+insert -56433
+extractMin
+insert 26222
+insert -68590
+insert -18387
+insert -2571
+insert 4020
+extractMin
+extractMin
+insert -10316
+extractMin
+insert 21758
+insert -15421
+insert -23283
+insert -57717
+extractMin
+insert 20144
+insert -77655
+extractMin
+extractMin
+extractMin
+insert -97091
+insert 79168
+extractMin
+insert 36824
+extractMin
+extractMin
+extractMin
+insert -37302
+insert 16169
+insert -33668
+extractMin
+extractMin
+insert 29780
+extractMin
+insert -91394
+insert 14895
+insert -95165
+extractMin
+insert 54198
+insert 44043
+insert -66693
+insert -6703
+insert 88413
+insert -73183
+insert 69508
+insert 44310
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -45917
+extractMin
+insert 12052
+insert 44784
+extractMin
+extractMin
+insert 19612
+insert 95378
+extractMin
+extractMin
+insert 39008
+extractMin
+insert 67381
+insert -36237
+insert -70374
+insert 62051
+insert 95730
+extractMin
+insert 62236
+insert 73858
+insert 70581
+insert -49036
+extractMin
+extractMin
+insert -53113
+insert -86625
+insert -19358
+insert -13058
+extractMin
+insert 38047
+insert -22731
+insert 71257
+insert -67368
+extractMin
+insert -18408
+insert 38167
+insert -45066
+extractMin
+insert -24964
+insert 68068
+insert -57158
+extractMin
+extractMin
+extractMin
+insert 18396
+extractMin
+extractMin
+extractMin
+insert -1958
+insert 350
+insert 8970
+extractMin
+insert 71918
+extractMin
+extractMin
+insert 80514
+insert -19228
+extractMin
+insert 74526
+insert 53760
+insert 69644
+insert 7449
+insert 13159
+insert 4047
+extractMin
+extractMin
+insert 71677
+extractMin
+extractMin
+insert 13401
+insert 35380
+extractMin
+extractMin
+extractMin
+insert 69226
+extractMin
+extractMin
+insert -56107
+insert 9055
+insert 80492
+insert -53984
+extractMin
+extractMin
+extractMin
+insert -11782
+insert -74575
+extractMin
+insert -44474
+insert 48131
+extractMin
+insert 78924
+insert -94274
+insert 6431
+extractMin
+extractMin
+extractMin
+insert -78069
+insert -34781
+insert 98410
+insert 97207
+insert 32619
+insert -23567
+extractMin
+extractMin
+insert 1969
+extractMin
+insert 63126
+insert 87947
+extractMin
+insert -63590
+extractMin
+extractMin
+insert -40151
+insert -58373
+extractMin
+insert 37983
+insert 27084
+extractMin
+extractMin
+extractMin
+insert -7957
+extractMin
+insert -6390
+extractMin
+extractMin
+extractMin
+insert -9820
+extractMin
+extractMin
+insert 33114
+extractMin
+insert -30024
+insert 62513
+extractMin
+extractMin
+insert 97446
+extractMin
+extractMin
+extractMin
+insert -10385
+extractMin
+insert -78876
+extractMin
+extractMin
+insert -90013
+extractMin
+extractMin
+insert 79424
+insert 87601
+extractMin
+insert 27395
+extractMin
+insert 9826
+insert -59011
+insert 152
+insert 58088
+insert 24147
+insert -3960
+extractMin
+insert -82525
+extractMin
+insert -86151
+insert 27819
+extractMin
+extractMin
+insert -82521
+extractMin
+extractMin
+extractMin
+extractMin
+insert -26352
+insert 34511
+extractMin
+insert -16062
+extractMin
+extractMin
+insert -72516
+insert -96076
+extractMin
+insert -65571
+insert 45372
+insert 64425
+insert -60979
+extractMin
+extractMin
+insert 49714
+insert -35646
+extractMin
+extractMin
+insert -54909
+extractMin
+extractMin
+insert -15215
+extractMin
+extractMin
+insert 90546
+insert -69714
+insert 47834
+insert 17404
+insert -78029
+extractMin
+insert 14072
+extractMin
+insert 90816
+insert -26767
+extractMin
+extractMin
+insert -70620
+insert -67961
+insert 66011
+extractMin
+insert -52913
+extractMin
+insert -2909
+insert 44580
+extractMin
+insert -84881
+insert -97496
+extractMin
+extractMin
+insert -42490
+insert 30335
+insert -97835
+extractMin
+insert -69303
+extractMin
+extractMin
+extractMin
+extractMin
+insert -15247
+extractMin
+insert -11496
+insert -4557
+insert 70867
+extractMin
+extractMin
+extractMin
+insert -26664
+extractMin
+extractMin
+insert 34987
+insert -5048
+insert 7325
+insert 7071
+insert 294
+insert 3378
+insert -4238
+extractMin
+extractMin
+insert -99913
+extractMin
+insert 61760
+extractMin
+extractMin
+insert -52747
+insert -43463
+insert 5529
+insert 27897
+extractMin
+extractMin
+extractMin
+insert 8846
+extractMin
+extractMin
+insert 39817
+extractMin
+extractMin
+insert 60057
+insert 765
+extractMin
+extractMin
+extractMin
+insert -63690
+insert -7660
+insert 46047
+insert -36969
+insert -15089
+insert 92667
+insert 18219
+insert 673
+insert 93584
+insert 45461
+insert -19828
+insert 98349
+extractMin
+insert -94406
+insert -22184
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -93237
+extractMin
+insert 73007
+insert 93579
+insert -10917
+insert -33443
+insert 93629
+insert -4290
+extractMin
+insert 19011
+insert -87517
+extractMin
+insert 60573
+insert -60674
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -68549
+extractMin
+insert 51309
+extractMin
+extractMin
+insert 81840
+insert 19150
+insert -75591
+extractMin
+extractMin
+insert 94424
+extractMin
+insert 65327
+extractMin
+extractMin
+extractMin
+insert 63796
+extractMin
+insert 7473
+insert 99282
+insert -80584
+extractMin
+extractMin
+extractMin
+insert 7003
+extractMin
+extractMin
+extractMin
+insert -38704
+extractMin
+extractMin
+extractMin
+insert -24211
+insert 2734
+extractMin
+insert -22541
+extractMin
+insert -93728
+extractMin
+insert 73789
+insert 17578
+extractMin
+insert -54691
+extractMin
+extractMin
+insert 39807
+extractMin
+insert 68857
+insert -34650
+extractMin
+insert -87793
+insert -3187
+insert -51758
+insert -70591
+extractMin
+insert 66903
+insert -23308
+insert 25905
+insert 13908
+insert -60633
+insert 94280
+extractMin
+insert 88813
+extractMin
+extractMin
+extractMin
+insert -86889
+insert 71210
+extractMin
+insert 32281
+extractMin
+extractMin
+extractMin
+insert 2413
+insert 93301
+extractMin
+extractMin
+insert 93435
+extractMin
+insert 20253
+insert -79359
+insert 31725
+extractMin
+extractMin
+extractMin
+extractMin
+insert 29153
+insert 11662
+extractMin
+insert 82491
+extractMin
+insert 45465
+extractMin
+insert -19384
+insert 38497
+insert -6628
+insert 77666
+extractMin
+insert -58198
+extractMin
+insert -57982
+extractMin
+insert -89390
+insert 76909
+insert -60226
+insert -36268
+extractMin
+insert -52607
+extractMin
+insert 24505
+extractMin
+extractMin
+insert 16626
+insert -915
+insert 93643
+extractMin
+insert -64569
+insert -33175
+insert 67511
+extractMin
+insert -70705
+insert -28737
+insert 46395
+insert 9678
+insert 30786
+insert 70588
+extractMin
+insert -85100
+insert 84006
+extractMin
+insert 14144
+insert 14852
+insert -72322
+insert -12093
+insert -35175
+insert 89641
+insert 93788
+insert -85932
+insert 30108
+insert 23419
+insert 9183
+extractMin
+extractMin
+insert 80990
+insert -809
+extractMin
+extractMin
+extractMin
+extractMin
+insert 33965
+extractMin
+insert -62497
+extractMin
+insert -866
+insert 33456
+insert 45000
+extractMin
+insert 76225
+extractMin
+insert 35922
+insert -82289
+extractMin
+insert 15548
+extractMin
+extractMin
+extractMin
+insert -34179
+insert 39269
+insert 3411
+insert -21281
+extractMin
+insert -37205
+insert 28653
+extractMin
+extractMin
+insert -48789
+extractMin
+insert 25655
+extractMin
+insert 86237
+extractMin
+extractMin
+insert -13829
+insert -23027
+insert -92984
+extractMin
+insert 52158
+extractMin
+extractMin
+insert 74859
+insert 45607
+insert 48584
+extractMin
+insert -23492
+insert 53760
+extractMin
+extractMin
+insert 85767
+insert -64292
+extractMin
+insert -46916
+insert 64986
+insert 35485
+insert 82130
+insert -16410
+extractMin
+insert -80947
+insert -41354
+extractMin
+insert 73318
+extractMin
+insert 81349
+insert -30975
+extractMin
+extractMin
+insert -7800
+extractMin
+insert -23254
+insert -6741
+insert -46099
+insert 44998
+insert 73454
+insert 6881
+extractMin
+insert 58660
+extractMin
+extractMin
+insert 60320
+extractMin
+extractMin
+insert -29503
+insert 55435
+extractMin
+extractMin
+insert 91752
+insert -21042
+extractMin
+insert -56849
+insert 68761
+extractMin
+extractMin
+insert -26292
+extractMin
+extractMin
+insert -35203
+insert 51067
+extractMin
+extractMin
+insert -21170
+extractMin
+extractMin
+insert -34465
+insert -32406
+insert 60642
+insert -76913
+extractMin
+insert -95649
+insert 15999
+extractMin
+extractMin
+extractMin
+insert -20608
+insert 73439
+extractMin
+insert 97894
+extractMin
+extractMin
+insert -91313
+extractMin
+insert 86641
+insert -34047
+insert 58346
+insert 50435
+insert 56224
+extractMin
+insert 45446
+insert 46043
+insert 95867
+extractMin
+insert 17682
+extractMin
+insert 22543
+extractMin
+insert 12113
+insert -954
+extractMin
+extractMin
+insert -23388
+insert -74645
+insert 80535
+extractMin
+insert 70618
+extractMin
+insert 47955
+insert -44325
+insert 31852
+insert -17099
+insert -34533
+extractMin
+insert 20749
+insert 78969
+insert 82605
+extractMin
+insert 45292
+extractMin
+extractMin
+extractMin
+insert -14718
+insert -46896
+insert -35123
+insert -64443
+extractMin
+extractMin
+insert -18052
+insert 82355
+insert 40637
+insert 82178
+extractMin
+insert 7139
+insert 60273
+extractMin
+insert 99540
+extractMin
+insert -60207
+extractMin
+insert 14946
+insert 37832
+insert 57261
+insert 25248
+insert -10708
+extractMin
+extractMin
+insert -43027
+insert 53067
+extractMin
+insert 23039
+insert 73064
+insert -86850
+insert -88051
+insert -25351
+extractMin
+extractMin
+insert -83866
+insert 73387
+insert 933
+extractMin
+extractMin
+extractMin
+insert 80186
+insert 65940
+extractMin
+insert 76158
+extractMin
+insert 43356
+extractMin
+insert -30977
+extractMin
+insert 15092
+insert -12668
+insert 93178
+extractMin
+extractMin
+insert 21708
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34215
+extractMin
+insert -70640
+insert 20642
+extractMin
+insert 25771
+insert 89750
+extractMin
+extractMin
+insert -36842
+insert -61861
+insert 42933
+insert -67717
+insert -68024
+insert 50267
+extractMin
+insert 33800
+insert -66347
+extractMin
+insert 85311
+insert 84785
+insert -34394
+insert 78009
+extractMin
+extractMin
+insert 18166
+insert -82507
+insert 19345
+insert -38705
+extractMin
+extractMin
+insert 17903
+insert -48411
+insert 37641
+insert 35240
+insert 34957
+extractMin
+insert 27185
+extractMin
+extractMin
+insert -91318
+extractMin
+extractMin
+insert -95177
+extractMin
+extractMin
+insert 54311
+insert 72533
+extractMin
+extractMin
+insert 58854
+extractMin
+insert 76329
+insert 49273
+insert -39181
+extractMin
+insert 31860
+insert 51331
+extractMin
+extractMin
+insert -89479
+insert -22367
+extractMin
+extractMin
+insert -10399
+extractMin
+insert 26300
+extractMin
+insert -72289
+insert -39984
+insert -46149
+extractMin
+extractMin
+extractMin
+insert -50556
+insert -50236
+extractMin
+insert -53525
+extractMin
+insert 63563
+insert -75144
+insert 71575
+insert 24419
+extractMin
+extractMin
+insert -72816
+extractMin
+extractMin
+insert -81991
+insert -6835
+extractMin
+insert -53226
+extractMin
+insert 37038
+extractMin
+extractMin
+extractMin
+insert 75333
+extractMin
+extractMin
+insert 33705
+extractMin
+extractMin
+insert -28326
+insert -22225
+extractMin
+insert 87188
+insert -50826
+extractMin
+insert -32498
+insert 41385
+insert 42969
+extractMin
+extractMin
+insert 80552
+insert -85950
+extractMin
+insert 66041
+insert 69894
+extractMin
+insert 28295
+extractMin
+extractMin
+insert 66558
+extractMin
+insert -26216
+insert 8441
+extractMin
+extractMin
+insert 70228
+insert 57098
+insert -67882
+extractMin
+insert 3048
+extractMin
+insert 20886
+insert 80691
+extractMin
+insert -11509
+insert -20240
+insert 91360
+extractMin
+extractMin
+extractMin
+extractMin
+insert -81892
+extractMin
+extractMin
+extractMin
+extractMin
+insert -75804
+extractMin
+extractMin
+insert -81501
+extractMin
+extractMin
+extractMin
+insert -72981
+extractMin
+extractMin
+extractMin
+insert -50400
+insert -57525
+extractMin
+insert -33815
+extractMin
+extractMin
+insert -94709
+extractMin
+insert 90130
+extractMin
+insert 50906
+insert -85487
+insert -23133
+insert 73090
+extractMin
+extractMin
+insert 77999
+extractMin
+insert -3619
+insert -35880
+extractMin
+insert -83673
+insert -89116
+extractMin
+extractMin
+insert 1304
+insert 98346
+insert -29923
+extractMin
+insert -12808
+insert -45675
+insert 28667
+insert -75208
+extractMin
+insert -29678
+extractMin
+extractMin
+extractMin
+insert 40265
+insert 69146
+extractMin
+insert 43006
+extractMin
+insert -98455
+insert -6320
+insert -35238
+insert 8450
+insert 63746
+insert -8449
+insert -99033
+insert 53627
+insert -85883
+insert -51275
+extractMin
+extractMin
+extractMin
+insert 6970
+insert -23529
+insert -10314
+insert 84200
+insert 16951
+insert -60191
+extractMin
+insert -35268
+insert -95138
+insert -87830
+insert 4984
+extractMin
+insert -79387
+insert -3934
+insert -27316
+extractMin
+insert -62331
+insert -69805
+insert -83783
+extractMin
+insert 37262
+extractMin
+extractMin
+insert -25448
+extractMin
+insert -10263
+insert 75723
+insert 33607
+extractMin
+insert -31846
+insert -53602
+extractMin
+extractMin
+insert -15857
+insert -83333
+extractMin
+insert -43966
+insert 61567
+extractMin
+extractMin
+insert -51903
+extractMin
+insert 50450
+insert 91776
+insert -43431
+extractMin
+insert -10402
+extractMin
+insert -60020
+extractMin
+insert 19848
+extractMin
+insert -37156
+insert 10997
+extractMin
+extractMin
+insert 25390
+insert 5572
+extractMin
+insert -89873
+extractMin
+extractMin
+insert 91195
+extractMin
+extractMin
+insert 24391
+extractMin
+insert 71314
+extractMin
+extractMin
+insert -66154
+insert -73504
+insert 52694
+insert 43755
+insert -47301
+extractMin
+insert 34102
+insert 92585
+insert -26506
+insert 45306
+extractMin
+insert -63510
+extractMin
+insert -40971
+insert -80325
+insert -87716
+insert -53221
+extractMin
+insert -50306
+extractMin
+extractMin
+extractMin
+extractMin
+insert -19565
+extractMin
+insert 65449
+extractMin
+extractMin
+extractMin
+insert -10621
+insert -89388
+insert -10548
+extractMin
+insert -16625
+insert -11392
+insert -41298
+extractMin
+insert 70272
+insert -77517
+insert -47701
+insert -34609
+insert 54531
+extractMin
+extractMin
+insert -63151
+extractMin
+extractMin
+insert 28557
+extractMin
+extractMin
+extractMin
+insert -18182
+insert -8335
+insert -48302
+insert 7452
+extractMin
+extractMin
+extractMin
+extractMin
+insert -20124
+extractMin
+insert 12471
+insert -62062
+insert 14462
+extractMin
+extractMin
+insert -4812
+insert -18428
+insert -43270
+extractMin
+extractMin
+extractMin
+insert -57319
+extractMin
+insert 78945
+extractMin
+extractMin
+insert 25011
+insert -28354
+insert 14555
+extractMin
+insert 66743
+extractMin
+insert 12798
+extractMin
+insert -88784
+insert -52063
+insert -46678
+insert 67271
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -36522
+insert 35706
+insert 49629
+extractMin
+insert -27221
+insert -39148
+insert 5432
+insert -78813
+extractMin
+insert -58655
+extractMin
+insert 84723
+extractMin
+insert -9173
+insert 37278
+extractMin
+insert 6745
+insert 47240
+insert -84557
+insert -51460
+insert -37400
+insert 86646
+extractMin
+extractMin
+insert 14340
+insert -8728
+insert -98079
+extractMin
+extractMin
+extractMin
+insert 5965
+extractMin
+insert -4176
+insert 95079
+extractMin
+extractMin
+extractMin
+extractMin
+insert -34296
+extractMin
+insert -8517
+extractMin
+insert 57479
+insert 67860
+extractMin
+extractMin
+insert 64732
+insert -38873
+extractMin
+extractMin
+extractMin
+extractMin
+insert -52584
+insert 86088
+insert 11468
+extractMin
+extractMin
+extractMin
+extractMin
+insert 67819
+extractMin
+extractMin
+insert 44104
+extractMin
+extractMin
+extractMin
+insert 66391
+insert -16692
+extractMin
+extractMin
+extractMin
+insert 12467
+insert -992
+extractMin
+insert 49213
+insert 35558
+insert 85986
+extractMin
+insert 42696
+insert 82716
+extractMin
+insert 41996
+insert 38356
+insert -67320
+insert 21947
+extractMin
+insert 45378
+extractMin
+extractMin
+extractMin
+extractMin
+insert -63067
+extractMin
+extractMin
+extractMin
+insert -14995
+insert -31176
+insert -29732
+insert 69342
+insert 8831
+insert 27130
+insert 3606
+insert -31839
+insert 93546
+extractMin
+extractMin
+insert -94123
+insert -44440
+extractMin
+extractMin
+insert -5424
+insert -99818
+insert 44449
+insert 69937
+extractMin
+extractMin
+extractMin
+insert 72584
+extractMin
+insert 15620
+extractMin
+insert 53852
+extractMin
+insert -42722
+extractMin
+extractMin
+insert 96791
+insert 68991
+extractMin
+insert 20515
+extractMin
+insert 47826
+extractMin
+extractMin
+insert -43659
+insert 29693
+extractMin
+insert 42094
+insert 29705
+extractMin
+insert -31644
+insert -87888
+insert -92843
+insert 176
+insert 12381
+insert -63023
+extractMin
+insert -22363
+extractMin
+extractMin
+extractMin
+insert 48723
+insert -92965
+insert -68292
+extractMin
+extractMin
+extractMin
+insert 44292
+insert 92468
+insert -74728
+insert -21351
+insert 44872
+insert -22974
+insert 93256
+insert 80670
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -92211
+insert 16972
+extractMin
+insert 10571
+extractMin
+insert 83587
+insert 51595
+extractMin
+insert 71936
+insert 54344
+extractMin
+extractMin
+insert 93108
+extractMin
+extractMin
+extractMin
+extractMin
+insert 92659
+extractMin
+extractMin
+insert -58722
+extractMin
+insert -41403
+insert -36831
+insert -52098
+insert -76631
+extractMin
+extractMin
+extractMin
+insert -46307
+insert 14852
+extractMin
+insert 44660
+extractMin
+extractMin
+insert -90151
+insert 38089
+insert -86081
+insert -51097
+extractMin
+insert -72048
+insert -66426
+insert -60074
+insert -82205
+extractMin
+extractMin
+insert -71745
+insert -33653
+extractMin
+extractMin
+extractMin
+extractMin
+insert -63640
+extractMin
+extractMin
+extractMin
+insert 80245
+extractMin
+insert -47911
+insert 7131
+insert 85316
+extractMin
+insert -8608
+extractMin
+insert 69529
+extractMin
+extractMin
+insert -62449
+insert -70898
+insert 29568
+insert 62414
+extractMin
+insert -52921
+insert -40775
+insert 84281
+insert -93785
+insert -56224
+insert -87220
+insert 92684
+insert 95085
+extractMin
+extractMin
+insert -86910
+extractMin
+insert -87024
+extractMin
+extractMin
+insert 78626
+extractMin
+insert 34021
+extractMin
+extractMin
+insert 3107
+extractMin
+insert 59679
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 59450
+insert -84229
+extractMin
+extractMin
+extractMin
+extractMin
+insert 67550
+insert 17826
+insert -10182
+extractMin
+insert 23378
+insert -90884
+insert 90250
+insert 11199
+insert 89305
+insert -9262
+insert 5932
+extractMin
+extractMin
+extractMin
+insert 3881
+insert -18398
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 61082
+extractMin
+extractMin
+extractMin
+insert 31539
+extractMin
+insert 37884
+extractMin
+insert 35128
+insert -39989
+extractMin
+insert -88463
+extractMin
+insert -26238
+extractMin
+extractMin
+extractMin
+insert -44789
+insert 19314
+extractMin
+insert 72514
+insert 77708
+insert 58536
+insert -53114
+insert -84622
+insert -41349
+insert 25236
+extractMin
+extractMin
+insert -56071
+insert -52505
+insert -9630
+extractMin
+insert -75026
+insert -8908
+extractMin
+extractMin
+extractMin
+insert 27804
+insert 95427
+extractMin
+insert -70649
+extractMin
+extractMin
+extractMin
+insert -2963
+insert 96844
+extractMin
+insert -87774
+insert -20909
+extractMin
+extractMin
+insert 27936
+extractMin
+insert 90513
+extractMin
+extractMin
+insert 92021
+extractMin
+extractMin
+insert 54747
+extractMin
+insert 77163
+insert 85544
+insert 82692
+extractMin
+extractMin
+insert 80119
+insert -81426
+extractMin
+insert -29072
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 42833
+extractMin
+insert 40055
+insert -93958
+extractMin
+insert 2174
+insert -57259
+extractMin
+insert -47153
+insert -11271
+insert -69019
+insert 33740
+insert 66627
+insert 83315
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -55904
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 9574
+insert 88218
+insert -19805
+insert 64783
+extractMin
+insert 22366
+insert -7727
+insert -92907
+extractMin
+extractMin
+insert -37763
+insert 13554
+extractMin
+extractMin
+extractMin
+extractMin
+insert -16984
+insert -57981
+extractMin
+insert 80095
+insert -67541
+extractMin
+insert 48806
+extractMin
+insert 39286
+extractMin
+extractMin
+extractMin
+insert 78589
+insert 86033
+extractMin
+insert -61828
+extractMin
+insert -33294
+insert -58096
+insert -20445
+extractMin
+insert 50433
+extractMin
+insert 6652
+extractMin
+insert 27840
+extractMin
+insert 10790
+extractMin
+extractMin
+extractMin
+insert -16167
+insert -82524
+extractMin
+extractMin
+extractMin
+insert -71522
+insert -84620
+insert 40929
+insert 86301
+extractMin
+extractMin
+insert 73156
+insert 61548
+extractMin
+insert 877
+insert -46827
+insert 68686
+extractMin
+extractMin
+extractMin
+insert 84366
+insert -87740
+extractMin
+extractMin
+insert -34814
+extractMin
+extractMin
+insert 57115
+extractMin
+extractMin
+insert -7325
+insert 27988
+insert 24279
+extractMin
+insert 52639
+extractMin
+extractMin
+extractMin
+extractMin
+insert -56122
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -62735
+insert -40583
+insert -78889
+insert 49724
+extractMin
+insert 91125
+extractMin
+insert -24488
+extractMin
+extractMin
+insert 11410
+extractMin
+insert -90340
+insert -23794
+extractMin
+insert -39149
+extractMin
+insert -55567
+extractMin
+extractMin
+insert 38507
+extractMin
+insert -97382
+extractMin
+insert 54064
+extractMin
+extractMin
+extractMin
+extractMin
+insert 58021
+extractMin
+insert -16643
+extractMin
+extractMin
+extractMin
+insert -93482
+insert -68347
+insert 10347
+extractMin
+insert 52804
+insert 83575
+insert 86812
+insert -77677
+extractMin
+insert -89195
+insert -34776
+extractMin
+insert 39602
+insert 3658
+extractMin
+extractMin
+insert -55373
+extractMin
+extractMin
+extractMin
+insert 99986
+insert -31101
+insert 87209
+insert 30177
+insert 19385
+insert -92560
+insert -1744
+insert -32635
+insert 90882
+extractMin
+insert 53281
+extractMin
+insert 13531
+extractMin
+extractMin
+insert 22272
+insert -28490
+insert 43191
+insert 12247
+insert 22464
+extractMin
+insert -29393
+insert 8281
+insert 25608
+extractMin
+insert -31304
+insert 27274
+insert -43182
+insert 43307
+insert 80921
+extractMin
+insert -13249
+insert 98448
+extractMin
+insert 89405
+insert -22665
+insert -10250
+insert 87566
+extractMin
+insert -40600
+extractMin
+insert 66015
+extractMin
+insert 92085
+insert 79631
+insert 51943
+extractMin
+insert 5019
+extractMin
+insert 34818
+extractMin
+extractMin
+insert 76409
+insert -87075
+extractMin
+insert 80584
+extractMin
+extractMin
+extractMin
+insert 11793
+insert -61879
+extractMin
+insert 28850
+insert -54091
+extractMin
+insert 29562
+extractMin
+insert -47813
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 56240
+insert 89007
+insert 18753
+extractMin
+extractMin
+extractMin
+insert 98665
+extractMin
+extractMin
+extractMin
+insert -996
+insert -79019
+extractMin
+insert 23261
+insert 21971
+insert 97460
+insert 20433
+extractMin
+insert 17329
+insert -53717
+insert 59848
+extractMin
+extractMin
+insert -241
+extractMin
+extractMin
+insert -37149
+extractMin
+extractMin
+extractMin
+insert 23732
+insert -23577
+extractMin
+extractMin
+insert -88656
+insert -20075
+insert -66787
+insert 43936
+extractMin
+insert -23324
+insert 31289
+insert -69676
+insert -93355
+insert 51439
+insert -93480
+insert 38533
+extractMin
+insert 27215
+insert -88111
+insert -10762
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 67611
+extractMin
+insert 816
+extractMin
+insert 72791
+extractMin
+extractMin
+insert 52696
+extractMin
+extractMin
+insert -83106
+insert 61269
+extractMin
+insert 31530
+extractMin
+insert -34641
+insert -17454
+extractMin
+insert 99899
+extractMin
+insert -75910
+insert 38340
+extractMin
+extractMin
+extractMin
+extractMin
+insert 90521
+insert -23858
+extractMin
+extractMin
+extractMin
+insert -45610
+insert 21289
+insert -29562
+extractMin
+insert -40320
+extractMin
+insert -11419
+extractMin
+insert 91943
+insert 52257
+extractMin
+insert -45912
+insert -52130
+insert 29333
+insert 99938
+insert 96637
+extractMin
+insert 11222
+extractMin
+extractMin
+insert 66889
+insert -64968
+insert 25488
+extractMin
+extractMin
+extractMin
+extractMin
+insert -81359
+extractMin
+extractMin
+extractMin
+insert 40219
+extractMin
+insert -22242
+extractMin
+insert 81606
+extractMin
+extractMin
+extractMin
+extractMin
+insert 13806
+extractMin
+extractMin
+insert 93460
+insert -11558
+extractMin
+insert 46877
+insert -61312
+insert -98168
+insert -35239
+extractMin
+insert 12084
+extractMin
+extractMin
+insert -63640
+extractMin
+extractMin
+insert -79651
+insert 49004
+extractMin
+insert -94842
+extractMin
+insert 70039
+insert -58179
+insert -652
+extractMin
+extractMin
+insert -33925
+extractMin
+insert -54318
+extractMin
+extractMin
+insert -73063
+extractMin
+extractMin
+extractMin
+extractMin
+insert -62660
+insert -75428
+extractMin
+insert 80834
+insert 95571
+extractMin
+extractMin
+insert -78599
+extractMin
+extractMin
+insert -68336
+insert 48550
+insert -54335
+insert -74762
+insert 19197
+insert 24199
+insert 29616
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -87182
+insert -55061
+extractMin
+insert 57953
+insert -95497
+insert 74791
+insert -5169
+insert -82377
+insert -25829
+insert -81593
+extractMin
+insert -94422
+extractMin
+extractMin
+extractMin
+extractMin
+insert -1991
+extractMin
+extractMin
+extractMin
+extractMin
+insert -74686
+insert 30344
+insert -6837
+insert 96574
+insert -72825
+insert -88562
+insert 39313
+extractMin
+extractMin
+extractMin
+insert -39956
+insert 31168
+insert 66775
+extractMin
+insert -46977
+extractMin
+extractMin
+extractMin
+insert -3653
+insert -84597
+insert -58933
+extractMin
+insert 99364
+insert 23867
+insert -83168
+extractMin
+insert -10022
+insert 29720
+insert 82114
+insert -32610
+extractMin
+extractMin
+insert 59062
+insert 27200
+insert -41502
+insert 86993
+extractMin
+insert 65656
+insert 78960
+insert -56401
+extractMin
+insert 60891
+insert 23757
+extractMin
+extractMin
+insert -58678
+insert 42097
+insert 68994
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -7235
+insert -63713
+extractMin
+insert 62112
+insert 20811
+insert 86718
+extractMin
+extractMin
+extractMin
+insert 38418
+insert 18656
+extractMin
+insert -20237
+insert -43162
+insert -34737
+insert 64918
+insert -33279
+extractMin
+insert 36882
+extractMin
+insert -56773
+insert -20522
+insert -82680
+insert 72526
+insert 43224
+extractMin
+insert 54517
+insert -97272
+insert -96495
+insert 30710
+insert 61821
+extractMin
+insert -5033
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -54800
+insert 30367
+insert 63701
+insert -82978
+insert 21755
+insert 31862
+extractMin
+extractMin
+extractMin
+insert -89175
+extractMin
+extractMin
+insert 84315
+insert 70759
+insert 45217
+extractMin
+insert 89884
+insert 84022
+insert 65503
+extractMin
+insert -94293
+extractMin
+extractMin
+insert -14301
+extractMin
+insert 17891
+extractMin
+extractMin
+insert -18022
+extractMin
+insert 39535
+extractMin
+insert -193
+insert -3426
+insert -1296
+extractMin
+insert -52140
+insert 62466
+insert -53676
+extractMin
+insert 6373
+insert 3543
+insert -96870
+extractMin
+insert -59378
+extractMin
+extractMin
+insert 11677
+insert 32002
+extractMin
+insert 59517
+insert 33596
+extractMin
+insert 26481
+insert -607
+insert 92650
+insert -67557
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 38885
+extractMin
+insert 84462
+extractMin
+insert 91958
+insert 73969
+extractMin
+extractMin
+insert -99364
+insert -61007
+extractMin
+insert -82823
+insert 15885
+insert -1514
+extractMin
+insert 15710
+insert 27987
+insert -20562
+extractMin
+extractMin
+extractMin
+extractMin
+insert -47339
+insert -86581
+insert -30708
+extractMin
+insert -86102
+insert -51645
+extractMin
+insert -49006
+insert -49570
+extractMin
+insert -47719
+extractMin
+insert 99746
+insert -75568
+extractMin
+insert -18883
+insert 18113
+extractMin
+insert 801
+insert -46751
+insert 94464
+insert -8494
+extractMin
+extractMin
+insert 7532
+extractMin
+insert -98938
+extractMin
+extractMin
+extractMin
+extractMin
+insert -5295
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 94796
+insert -12653
+insert 31745
+extractMin
+extractMin
+insert 68265
+extractMin
+insert 32452
+insert -6711
+extractMin
+insert 34884
+insert 40273
+extractMin
+insert 96176
+insert 49091
+extractMin
+extractMin
+insert 43945
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 81701
+insert -87684
+insert 44802
+insert 57716
+insert -45828
+insert 79753
+insert 55551
+extractMin
+extractMin
+insert -31541
+extractMin
+insert -26468
+extractMin
+insert -23378
+extractMin
+insert 43714
+insert -82042
+insert 35585
+insert 25622
+insert 43202
+extractMin
+extractMin
+insert 81504
+extractMin
+insert -74908
+extractMin
+insert -94121
+extractMin
+insert 77441
+insert -30846
+extractMin
+extractMin
+insert 68092
+insert -11768
+extractMin
+insert -2794
+extractMin
+extractMin
+insert -22997
+insert 41245
+extractMin
+extractMin
+extractMin
+insert -21262
+insert 86662
+extractMin
+extractMin
+extractMin
+extractMin
+insert -13267
+extractMin
+insert 37044
+insert 84194
+insert 24063
+insert 22722
+insert 30965
+insert 9836
+insert -31163
+insert -26340
+insert 75687
+insert -9684
+extractMin
+insert -63524
+insert -26307
+insert -46252
+insert -58288
+insert -83214
+extractMin
+insert -13509
+extractMin
+insert 54421
+extractMin
+insert -39481
+insert 88984
+insert 31054
+insert 20781
+insert 15799
+insert 40956
+insert 76716
+extractMin
+extractMin
+extractMin
+insert -80087
+insert 65958
+insert 31840
+extractMin
+extractMin
+extractMin
+extractMin
+insert 9463
+insert 47349
+extractMin
+extractMin
+extractMin
+insert -90022
+extractMin
+extractMin
+insert 54129
+extractMin
+extractMin
+insert -39654
+insert -25329
+insert 55165
+insert 24724
+insert 91951
+insert -77773
+extractMin
+extractMin
+extractMin
+insert 99368
+extractMin
+insert -92798
+extractMin
+insert -91270
+extractMin
+insert -17366
+extractMin
+extractMin
+extractMin
+extractMin
+insert -29592
+insert -38666
+insert 38227
+insert -84132
+extractMin
+insert -19269
+insert -71502
+insert -64835
+insert 3817
+extractMin
+insert 52785
+insert 39561
+insert -35324
+extractMin
+extractMin
+extractMin
+insert 39821
+extractMin
+insert -6192
+extractMin
+insert -75119
+insert -66665
+extractMin
+extractMin
+insert -94683
+insert -26924
+insert 80397
+insert 67607
+extractMin
+insert -17139
+extractMin
+insert 50500
+insert -7253
+insert -80505
+insert -37246
+insert 60168
+extractMin
+extractMin
+insert 61529
+extractMin
+extractMin
+insert 19307
+extractMin
+extractMin
+extractMin
+insert -23759
+extractMin
+insert 25986
+extractMin
+insert 33640
+insert -63431
+insert 24572
+insert 55293
+insert 96318
+extractMin
+extractMin
+insert -2389
+insert -73411
+extractMin
+insert 44729
+extractMin
+extractMin
+extractMin
+insert -62553
+insert 20181
+insert -58252
+extractMin
+insert -57374
+extractMin
+extractMin
+extractMin
+insert -16674
+insert 79315
+extractMin
+insert 67863
+extractMin
+extractMin
+insert -68232
+insert 53193
+insert 16658
+insert 62242
+insert -82328
+insert 32514
+extractMin
+extractMin
+insert -39990
+extractMin
+insert -75806
+extractMin
+insert -5515
+insert 41800
+insert -43022
+extractMin
+extractMin
+insert 15279
+insert 97439
+insert 69070
+extractMin
+insert -79610
+insert -70687
+extractMin
+insert 16924
+insert -50817
+insert -76596
+extractMin
+extractMin
+insert 37873
+insert -31939
+insert -10520
+insert -41442
+insert 77503
+extractMin
+extractMin
+extractMin
+extractMin
+insert -4664
+extractMin
+extractMin
+insert 2079
+insert -58203
+extractMin
+insert 24012
+insert -44501
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 78492
+insert 81317
+extractMin
+insert 73186
+insert 78014
+extractMin
+extractMin
+extractMin
+insert 96200
+extractMin
+insert 86509
+insert -89071
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -71395
+extractMin
+insert 49357
+insert -67735
+insert 82119
+insert 65809
+extractMin
+extractMin
+insert 73552
+extractMin
+extractMin
+insert -99282
+extractMin
+insert -23901
+extractMin
+insert 18971
+extractMin
+insert -8182
+extractMin
+insert 64857
+extractMin
+insert 22272
+insert 79870
+insert 15372
+insert 38055
+insert 35416
+insert 72287
+extractMin
+extractMin
+insert -31625
+extractMin
+insert -19862
+extractMin
+insert -64973
+insert -18660
+insert 4913
+insert 48807
+extractMin
+insert -99764
+insert -28346
+insert 54782
+insert -11010
+insert -1969
+insert 7494
+insert -31090
+insert 98218
+insert -72003
+insert -91999
+extractMin
+insert 21255
+insert 50462
+insert -5454
+insert -77331
+extractMin
+insert -87741
+extractMin
+insert 1388
+insert -5072
+insert -85752
+insert -7842
+extractMin
+insert 12252
+insert 62086
+extractMin
+insert -14742
+extractMin
+insert 33947
+insert -22493
+extractMin
+extractMin
+insert -4240
+extractMin
+extractMin
+extractMin
+insert -26120
+insert -66454
+extractMin
+insert -9044
+insert -84257
+insert -62978
+insert 47317
+insert -53135
+extractMin
+extractMin
+extractMin
+insert 86614
+insert -545
+extractMin
+extractMin
+insert -31463
+extractMin
+insert 14995
+extractMin
+extractMin
+insert -26959
+insert 66309
+insert -42179
+extractMin
+extractMin
+insert 97141
+insert -46640
+insert -55379
+insert -51993
+extractMin
+extractMin
+extractMin
+insert -10747
+insert 91071
+extractMin
+extractMin
+extractMin
+extractMin
+insert -94801
+extractMin
+insert -80578
+extractMin
+insert 69284
+insert 31460
+insert 21948
+extractMin
+extractMin
+extractMin
+insert -20368
+extractMin
+extractMin
+extractMin
+insert 85602
+insert 17200
+insert -37971
+extractMin
+insert -53649
+extractMin
+insert 67010
+extractMin
+extractMin
+insert 57804
+insert 16519
+extractMin
+insert -79448
+extractMin
+extractMin
+extractMin
+insert 51376
+insert 72388
+insert 56374
+extractMin
+extractMin
+insert -49510
+extractMin
+extractMin
+extractMin
+insert -15397
+extractMin
+extractMin
+extractMin
+insert 53593
+insert 61478
+insert -46145
+insert 32399
+insert 37953
+insert -41610
+insert 31127
+insert -38496
+insert 92464
+extractMin
+extractMin
+insert 63604
+extractMin
+insert -5833
+extractMin
+insert -95801
+extractMin
+extractMin
+insert -37578
+insert -71890
+insert 47010
+insert -1829
+insert 66684
+extractMin
+extractMin
+extractMin
+extractMin
+insert 27886
+insert 15526
+extractMin
+insert 73926
+insert -30473
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -98791
+extractMin
+insert -95452
+extractMin
+extractMin
+insert 67805
+extractMin
+extractMin
+insert -15040
+extractMin
+insert -69900
+extractMin
+extractMin
+insert -49324
+extractMin
+extractMin
+insert -30994
+extractMin
+insert 80009
+insert 88927
+extractMin
+insert 71204
+insert 97408
+insert 41026
+insert -96052
+extractMin
+insert 26826
+extractMin
+extractMin
+insert -27272
+insert 18930
+insert 44217
+extractMin
+insert -33796
+insert 36202
+insert 9321
+insert -51934
+insert 67044
+extractMin
+insert 29108
+extractMin
+extractMin
+insert 773
+extractMin
+insert 19097
+insert -28995
+extractMin
+insert 95035
+extractMin
+extractMin
+insert 41807
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 97946
+extractMin
+extractMin
+insert -42281
+insert 2344
+extractMin
+extractMin
+extractMin
+insert 95583
+insert 60381
+extractMin
+insert -77991
+insert -49003
+insert 84308
+insert -9605
+insert 88932
+insert -24873
+insert -62203
+insert -78517
+insert 80786
+extractMin
+extractMin
+extractMin
+insert 70720
+extractMin
+extractMin
+insert 5683
+insert -57200
+insert -39539
+extractMin
+insert 68498
+extractMin
+insert -18006
+extractMin
+insert -74600
+insert -71491
+extractMin
+insert -55275
+insert -24816
+extractMin
+extractMin
+insert 16552
+extractMin
+insert -72117
+extractMin
+insert -57405
+insert 11877
+insert 33653
+insert 39444
+insert 45655
+insert 36848
+insert 10928
+extractMin
+insert 55011
+insert -76368
+extractMin
+insert 95306
+extractMin
+insert 41566
+extractMin
+extractMin
+insert 50323
+insert 48966
+insert -29167
+extractMin
+extractMin
+extractMin
+insert -58056
+insert 87424
+extractMin
+extractMin
+extractMin
+insert 67239
+insert -57279
+insert -57440
+insert -27097
+insert 88226
+extractMin
+insert 97657
+insert -65150
+extractMin
+extractMin
+insert 14938
+insert -95122
+extractMin
+insert -54850
+extractMin
+insert -90359
+insert 12350
+extractMin
+extractMin
+insert 28924
+insert -36236
+extractMin
+insert 49
+insert -99119
+insert 84845
+extractMin
+extractMin
+extractMin
+extractMin
+insert 18718
+insert -30116
+insert 13625
+insert 37604
+extractMin
+extractMin
+insert -45892
+insert 57876
+insert 2377
+insert 60406
+extractMin
+extractMin
+insert 93505
+extractMin
+insert 85530
+insert 37350
+insert 73022
+insert 29940
+extractMin
+extractMin
+insert -8686
+extractMin
+insert 42613
+extractMin
+insert -40189
+extractMin
+insert 26874
+extractMin
+extractMin
+insert -46328
+extractMin
+extractMin
+extractMin
+insert 76022
+extractMin
+extractMin
+extractMin
+insert -33442
+extractMin
+extractMin
+insert 5133
+extractMin
+insert -99759
+insert 69033
+insert -94842
+extractMin
+extractMin
+insert 48638
+insert 81964
+insert -94794
+extractMin
+insert -67382
+extractMin
+insert -22186
+insert -13257
+insert -87452
+insert -95059
+extractMin
+insert 29337
+extractMin
+insert 26389
+extractMin
+extractMin
+extractMin
+extractMin
+insert 64646
+extractMin
+extractMin
+insert -4141
+extractMin
+insert -45843
+insert 87590
+insert -6587
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 41383
+insert -40481
+insert 33512
+insert 68071
+extractMin
+extractMin
+extractMin
+insert -72662
+extractMin
+insert -91469
+extractMin
+insert 93867
+extractMin
+insert -49647
+extractMin
+insert 49247
+insert 10241
+extractMin
+extractMin
+extractMin
+extractMin
+insert 73061
+extractMin
+extractMin
+insert 48814
+insert -10912
+insert -61925
+extractMin
+extractMin
+extractMin
+extractMin
+insert -55655
+extractMin
+insert -84339
+insert 89527
+insert 48242
+insert 3251
+insert 7109
+insert -86511
+insert -93447
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 13980
+insert -71455
+extractMin
+extractMin
+insert -52601
+insert -80263
+extractMin
+insert 58138
+extractMin
+insert 82834
+insert -74417
+insert 1505
+insert 29994
+insert -67981
+insert -20045
+extractMin
+extractMin
+insert -25171
+extractMin
+insert 20240
+extractMin
+insert -22891
+extractMin
+insert 95763
+extractMin
+extractMin
+extractMin
+insert -12886
+insert 28326
+insert -73138
+extractMin
+insert -56391
+insert -84272
+insert -68171
+insert -71833
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 71874
+insert 75030
+insert -99209
+extractMin
+insert 44763
+extractMin
+insert -98789
+insert 79839
+extractMin
+insert -21336
+insert 40981
+insert -15422
+extractMin
+insert 25430
+insert -48695
+extractMin
+extractMin
+extractMin
+insert 76951
+insert 62733
+insert -48117
+insert 41205
+insert 36065
+extractMin
+insert -26950
+insert -35188
+insert 84783
+insert -83387
+extractMin
+extractMin
+insert -16039
+insert -71537
+extractMin
+extractMin
+extractMin
+insert -76162
+extractMin
+extractMin
+extractMin
+insert -54468
+insert -99645
+insert -66784
+extractMin
+extractMin
+insert -9062
+extractMin
+extractMin
+extractMin
+insert -80576
+insert 83896
+insert -28076
+insert -85978
+extractMin
+extractMin
+insert 53575
+extractMin
+extractMin
+insert 35863
+insert 23811
+extractMin
+insert 83445
+insert -47876
+extractMin
+insert -53838
+extractMin
+insert 19788
+insert 711
+insert -70328
+extractMin
+extractMin
+insert 49678
+insert 32031
+insert -90932
+extractMin
+insert -32147
+insert 51669
+insert -68201
+insert -50587
+extractMin
+insert 48290
+insert 52951
+insert 36797
+insert 32900
+extractMin
+extractMin
+insert -59558
+insert 49405
+extractMin
+insert 63510
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -13402
+extractMin
+insert 886
+insert -92089
+extractMin
+extractMin
+insert 12118
+insert -52500
+insert 28583
+insert -54380
+insert 51828
+insert -92042
+extractMin
+insert -29610
+insert 80788
+insert 40152
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -36745
+insert -60028
+insert 26570
+extractMin
+insert -17323
+insert -9487
+extractMin
+insert -31272
+extractMin
+extractMin
+insert -47386
+insert -59065
+insert 27828
+extractMin
+insert 48186
+extractMin
+extractMin
+insert 87744
+extractMin
+insert 82073
+insert 90646
+extractMin
+insert -15262
+extractMin
+extractMin
+insert -37164
+insert -3714
+extractMin
+insert -92559
+extractMin
+extractMin
+extractMin
+insert 14924
+extractMin
+extractMin
+insert 40597
+extractMin
+insert 90585
+insert 98879
+extractMin
+extractMin
+extractMin
+insert 78220
+extractMin
+insert 60262
+extractMin
+extractMin
+insert 59692
+insert 7269
+insert 99729
+insert 39233
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 95356
+insert -86988
+extractMin
+extractMin
+extractMin
+extractMin
+insert -78780
+insert -61649
+insert 38082
+insert 87598
+extractMin
+insert 66591
+insert 98978
+extractMin
+insert 13450
+insert 1800
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34976
+extractMin
+insert -97221
+insert 34412
+extractMin
+extractMin
+insert -67390
+insert 34536
+insert -21650
+extractMin
+insert -26269
+insert 89578
+extractMin
+insert 61811
+extractMin
+insert -68645
+insert -35312
+extractMin
+extractMin
+extractMin
+insert 6628
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -80707
+insert 24889
+insert -88949
+insert 47493
+extractMin
+extractMin
+extractMin
+insert -47245
+insert 92622
+extractMin
+insert 22321
+extractMin
+extractMin
+extractMin
+insert 15810
+extractMin
+extractMin
+extractMin
+insert 73597
+insert 96186
+extractMin
+extractMin
+insert -81943
+extractMin
+insert -88019
+extractMin
+extractMin
+insert 60276
+insert -48048
+extractMin
+insert 74467
+insert -25097
+insert 26812
+insert 4630
+insert -70052
+insert -66190
+extractMin
+extractMin
+extractMin
+insert -32109
+insert 219
+extractMin
+extractMin
+insert -86178
+insert 15531
+insert 72108
+extractMin
+insert -26392
+insert -53562
+extractMin
+insert 56071
+extractMin
+extractMin
+extractMin
+extractMin
+insert 11501
+insert -31219
+insert -82480
+extractMin
+insert -93060
+extractMin
+insert -5299
+insert -22190
+insert -97847
+extractMin
+extractMin
+extractMin
+insert 53566
+extractMin
+extractMin
+extractMin
+extractMin
+insert -64497
+extractMin
+insert 66439
+insert 14233
+insert -44453
+extractMin
+extractMin
+insert 88967
+insert -87198
+extractMin
+extractMin
+insert 98895
+insert -95973
+extractMin
+insert 68030
+insert 49188
+extractMin
+extractMin
+insert -24066
+insert 17570
+insert -33900
+extractMin
+extractMin
+insert 39376
+extractMin
+insert 71647
+insert -13864
+extractMin
+insert 88986
+extractMin
+insert 85628
+insert 11886
+insert -59199
+insert -77214
+extractMin
+extractMin
+insert 94174
+extractMin
+insert -2517
+extractMin
+extractMin
+insert 82169
+insert -14895
+extractMin
+insert -5105
+extractMin
+insert 79044
+insert -62986
+insert -62800
+insert -64018
+extractMin
+insert 10908
+insert 7611
+extractMin
+extractMin
+extractMin
+insert 56011
+insert 3269
+insert 94890
+extractMin
+extractMin
+insert 36969
+insert -86486
+extractMin
+insert -62496
+extractMin
+insert -47221
+insert -88187
+insert -4683
+extractMin
+insert 95678
+extractMin
+insert 27414
+insert 90480
+extractMin
+insert 86926
+extractMin
+extractMin
+insert -87793
+insert 11979
+extractMin
+extractMin
+insert -93144
+insert 48570
+insert -13679
+insert 29050
+extractMin
+extractMin
+extractMin
+extractMin
+insert 34444
+insert -32085
+insert 57186
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -71391
+extractMin
+extractMin
+insert -72738
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 36438
+insert -75702
+extractMin
+insert 24445
+extractMin
+insert -56042
+extractMin
+insert 65605
+insert 35193
+insert 58060
+extractMin
+extractMin
+insert 45362
+extractMin
+insert -95069
+insert 63025
+insert 89443
+extractMin
+extractMin
+insert -91968
+extractMin
+insert 89068
+insert -54839
+insert -4752
+insert -75741
+extractMin
+insert 1623
+insert -12814
+insert -16537
+extractMin
+extractMin
+insert 85116
+extractMin
+insert 43366
+insert 69101
+extractMin
+extractMin
+insert 81720
+extractMin
+extractMin
+extractMin
+extractMin
+insert -21809
+insert 80102
+extractMin
+insert -7881
+insert -3562
+extractMin
+insert -26775
+insert -27596
+insert 43050
+extractMin
+extractMin
+extractMin
+insert -46845
+extractMin
+insert -61284
+extractMin
+insert -34637
+extractMin
+extractMin
+extractMin
+extractMin
+insert -67104
+extractMin
+extractMin
+extractMin
+insert -27112
+insert 19479
+extractMin
+extractMin
+extractMin
+insert 3203
+extractMin
+insert 1366
+insert 90547
+insert 82547
+insert -94401
+insert -80973
+insert 67055
+insert 82126
+insert 60748
+extractMin
+insert -42514
+insert -5922
+insert -38206
+insert 62156
+extractMin
+insert -87744
+extractMin
+insert 28704
+insert -88658
+insert 36715
+extractMin
+insert -28001
+insert -49716
+insert -60737
+insert -36974
+insert -1084
+insert 92396
+insert 4511
+insert -67409
+insert -22466
+insert 96178
+insert -28565
+extractMin
+extractMin
+insert 7534
+extractMin
+insert 61528
+insert -74716
+extractMin
+insert 16681
+insert 10895
+extractMin
+extractMin
+extractMin
+extractMin
+insert -51880
+extractMin
+extractMin
+extractMin
+insert 15346
+insert 5547
+insert 30672
+insert -14039
+extractMin
+insert 31190
+extractMin
+extractMin
+extractMin
+insert 94556
+insert 15644
+insert 27198
+insert -60421
+insert 12185
+extractMin
+insert -38089
+extractMin
+extractMin
+extractMin
+insert -36225
+extractMin
+extractMin
+insert -29979
+insert 11952
+extractMin
+extractMin
+extractMin
+insert 20994
+insert -26480
+extractMin
+extractMin
+insert -58276
+insert 51790
+extractMin
+extractMin
+insert 79460
+insert -39282
+extractMin
+insert -84470
+insert -40270
+extractMin
+insert 33184
+insert -31290
+insert -19256
+insert 34178
+extractMin
+insert -24655
+insert -6899
+extractMin
+extractMin
+insert -11213
+insert 45413
+insert -60240
+insert 84096
+insert -3901
+insert 53521
+insert 94923
+insert -24247
+extractMin
+insert -70200
+insert 42008
+insert 11019
+extractMin
+extractMin
+insert 14247
+extractMin
+insert 65004
+extractMin
+extractMin
+insert -7955
+extractMin
+extractMin
+insert 42562
+extractMin
+extractMin
+extractMin
+insert -50715
+insert -8629
+insert -42549
+extractMin
+extractMin
+extractMin
+insert -62871
+insert 36182
+insert 64751
+extractMin
+insert 43558
+insert 97621
+insert -55799
+extractMin
+extractMin
+extractMin
+extractMin
+insert -93105
+extractMin
+insert 47387
+insert 78178
+insert -69122
+insert -44576
+extractMin
+extractMin
+insert -59725
+insert 51170
+insert 21497
+insert -74076
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 8919
+insert 27108
+insert 6253
+extractMin
+extractMin
+extractMin
+extractMin
+insert 46125
+insert -35652
+extractMin
+insert 81947
+insert 62553
+extractMin
+extractMin
+extractMin
+extractMin
+insert 74313
+extractMin
+insert 63221
+extractMin
+insert 18647
+extractMin
+extractMin
+insert 65086
+insert -11687
+insert 3356
+insert 83089
+extractMin
+insert 28002
+insert 81779
+insert -37847
+insert -17226
+extractMin
+insert -54851
+extractMin
+extractMin
+insert -13107
+insert -18441
+extractMin
+insert -55120
+insert 50309
+extractMin
+insert 17280
+insert -60179
+insert 76940
+insert 56754
+insert 39288
+insert 20988
+extractMin
+extractMin
+insert 42694
+insert -6074
+insert 33184
+extractMin
+extractMin
+insert -44973
+extractMin
+insert -21544
+insert -67178
+extractMin
+insert 87988
+insert 94539
+insert -93818
+insert -28113
+extractMin
+extractMin
+insert -76315
+insert -58411
+insert -48678
+insert -19979
+extractMin
+extractMin
+insert -97399
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -47384
+insert -29420
+insert -87137
+extractMin
+insert -25870
+extractMin
+extractMin
+extractMin
+extractMin
+insert -84241
+extractMin
+insert -72672
+extractMin
+extractMin
+extractMin
+extractMin
+insert 20827
+insert 75468
+insert -45394
+extractMin
+insert -77991
+extractMin
+extractMin
+insert -86818
+insert -63046
+extractMin
+insert -69717
+insert -46028
+insert 57265
+insert -82577
+extractMin
+insert -90457
+extractMin
+insert -16274
+extractMin
+extractMin
+extractMin
+extractMin
+insert 40406
+insert -99521
+extractMin
+extractMin
+insert 58449
+extractMin
+extractMin
+extractMin
+extractMin
+insert -2979
+extractMin
+extractMin
+insert 40809
+extractMin
+insert -64116
+extractMin
+insert 5755
+extractMin
+insert -96047
+insert -47578
+insert 20553
+extractMin
+insert 74490
+insert 26142
+insert -92729
+insert -73494
+insert 62632
+extractMin
+extractMin
+insert 32116
+insert 61552
+insert -19139
+insert -19627
+extractMin
+insert -43276
+insert -80430
+extractMin
+insert 61190
+insert 57005
+extractMin
+insert -2202
+insert 96271
+insert -30458
+insert -40924
+insert 82006
+insert 5723
+insert -40772
+extractMin
+insert -85220
+insert -56823
+extractMin
+insert -32431
+insert -17965
+extractMin
+extractMin
+extractMin
+insert 90374
+insert -63539
+extractMin
+extractMin
+extractMin
+insert -69278
+extractMin
+extractMin
+extractMin
+extractMin
+insert -62938
+extractMin
+extractMin
+insert -61455
+extractMin
+extractMin
+insert -24522
+insert 71265
+extractMin
+extractMin
+extractMin
+extractMin
+insert 52216
+extractMin
+extractMin
+extractMin
+extractMin
+insert -40420
+insert -99480
+extractMin
+extractMin
+extractMin
+insert 51479
+insert -98407
+insert 44004
+insert 94166
+extractMin
+insert -68607
+extractMin
+extractMin
+extractMin
+insert 54035
+insert -2338
+insert 96430
+extractMin
+extractMin
+extractMin
+extractMin
+insert 7234
+extractMin
+insert 6283
+extractMin
+insert -23501
+extractMin
+extractMin
+insert -88586
+insert -13245
+insert -37423
+insert 77309
+insert 71428
+extractMin
+extractMin
+extractMin
+insert 64492
+extractMin
+extractMin
+extractMin
+extractMin
+insert 16714
+extractMin
+insert 12884
+insert 94998
+insert -94634
+extractMin
+extractMin
+insert 48348
+insert -6027
+extractMin
+extractMin
+insert 6845
+insert 25678
+insert 37642
+insert -80428
+insert -56002
+extractMin
+insert 4471
+insert -99623
+insert -36120
+extractMin
+insert -7875
+insert -2907
+insert 80661
+extractMin
+extractMin
+insert -76855
+insert 51829
+insert 2118
+insert -61738
+insert -41851
+insert -64964
+insert -56355
+extractMin
+insert 48889
+insert 79590
+insert -98662
+insert 62691
+insert 66801
+insert -71034
+extractMin
+extractMin
+extractMin
+insert -62178
+insert -99155
+insert -14076
+insert -31447
+insert 29451
+extractMin
+insert -15549
+extractMin
+insert -59748
+extractMin
+extractMin
+insert 42714
+extractMin
+insert -5437
+extractMin
+insert -11039
+insert -89349
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 26694
+insert -27009
+extractMin
+insert -43385
+extractMin
+extractMin
+extractMin
+extractMin
+insert 7044
+insert -4306
+extractMin
+extractMin
+extractMin
+extractMin
+insert -59651
+extractMin
+insert 5511
+insert -88602
+insert -60262
+extractMin
+insert -15691
+insert 26105
+insert -18039
+extractMin
+extractMin
+insert -74583
+insert 13753
+insert 13968
+extractMin
+extractMin
+insert -4541
+insert 13060
+extractMin
+insert -67925
+insert -52964
+extractMin
+extractMin
+extractMin
+insert -66915
+insert 89788
+extractMin
+insert 26216
+insert -78101
+insert -73128
+extractMin
+extractMin
+insert -18710
+extractMin
+extractMin
+extractMin
+insert 28288
+extractMin
+insert 73474
+extractMin
+extractMin
+insert 67184
+extractMin
+extractMin
+extractMin
+insert -38497
+extractMin
+insert -2100
+extractMin
+insert 17692
+insert -34148
+extractMin
+insert -70201
+extractMin
+insert 33411
+extractMin
+insert -65777
+insert -13204
+extractMin
+insert -53998
+extractMin
+insert 78322
+extractMin
+insert -54113
+insert -14649
+insert -64286
+extractMin
+insert -16817
+extractMin
+extractMin
+extractMin
+extractMin
+insert -2295
+insert -93980
+extractMin
+insert 34034
+insert -66530
+extractMin
+insert 73644
+extractMin
+insert 16575
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert -76211
+insert -60505
+extractMin
+insert -4536
+extractMin
+extractMin
+extractMin
+insert -23696
+extractMin
+insert -47037
+insert -73560
+insert 46386
+insert 42124
+extractMin
+extractMin
+insert 89347
+extractMin
+insert -19107
+extractMin
+insert 93932
+insert 67499
+extractMin
+extractMin
+insert 48207
+extractMin
+extractMin
+insert 75541
+insert -14224
+extractMin
+extractMin
+insert 9974
+extractMin
+insert -28913
+extractMin
+extractMin
+insert -24741
+insert 11396
+extractMin
+insert -14534
+extractMin
+insert -54758
+insert 24120
+insert 48500
+extractMin
+insert 36851
+insert -78331
+extractMin
+insert 85152
+insert 1619
+insert 2928
+insert -68288
+insert 64372
+insert 67884
+extractMin
+extractMin
+insert 66990
+extractMin
+extractMin
+insert -56804
+extractMin
+insert 47481
+insert -8162
+insert 23469
+insert -16819
+insert -83860
+insert -69651
+insert 47920
+insert -14008
+extractMin
+insert 41119
+extractMin
+insert 44884
+insert -80300
+insert -48202
+extractMin
+extractMin
+insert -91913
+extractMin
+insert -64190
+extractMin
+extractMin
+extractMin
+insert 46840
+insert 14279
+insert 20630
+insert -78567
+insert 15519
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+extractMin
+insert 84508
+extractMin
+extractMin
+insert -87400
+extractMin
+extractMin
+insert 38238
+extractMin
+extractMin
+extractMin
+insert -77928
+extractMin
+extractMin
+insert 72826
+insert -77665
+insert -85960
+insert 7775
+extractMin
+extractMin
+insert -7642
+extractMin
+insert -35869
+extractMin
+extractMin
+insert -80888
+insert -71722
+insert 26669
+insert 93996
+extractMin
+extractMin
+extractMin
+insert -13642
+extractMin
+insert -62846
+insert -62569
+insert -51085
+insert -66905
+extractMin
+insert 51870
+insert 81024
+insert 27099
+extractMin
+insert 54479
+extractMin
+insert 43536
+extractMin
+insert 4389
+insert 39910
+extractMin
+insert -22582
+insert -98105
+insert -77623
+extractMin
+insert 42280
+extractMin
+insert -13257
+insert 2216
+extractMin
+insert -15907
+extractMin
+insert -19538
+insert 69646
+insert 56294
+extractMin
+insert 23406
+insert 44627
+insert -50378
+extractMin
+insert -53812
+extractMin
+insert 84569
+insert 55409
+extractMin
+insert 12728
+insert -47292
+extractMin
+extractMin
+extractMin
+insert -3272
+extractMin
+extractMin
+extractMin
+insert 50145
+insert 40764
+extractMin
+insert 61940
+insert 67581
+extractMin
+insert -77510
+insert 5968
+extractMin
+insert 79992
+extractMin
+insert 41973
+insert 66325
+insert -27771
+extractMin
+insert -63942
+extractMin
+extractMin
+extractMin
+extractMin
+insert -51103
+insert -55670
+insert -84313
+extractMin
+insert -19949
+insert 28971
+insert -20212
+extractMin
+insert -54801
+insert 92462
+extractMin
+insert -25914
+insert -64058
+extractMin
+extractMin
+extractMin
+insert -22823
+extractMin
+insert 7314
+insert -92254
+extractMin
+insert -63915
+insert 57839
+insert -54618
+insert -3810
+extractMin
+extractMin
+insert -92771
+extractMin
+extractMin
+insert 9342
+insert 64533
+extractMin
+insert 48536
+insert 80211
+extractMin
+extractMin
+insert -10150
+insert 1025
+insert 28758
+extractMin
+extractMin
+insert 48493
+insert -81975
+insert 17251
+extractMin
+extractMin
+insert -56590
+extractMin
+insert 68336
+insert -130
+extractMin
+extractMin
+insert -64654
+insert -28571
+insert 89087
+insert 55739
+extractMin
+insert 92305
+extractMin
+extractMin
+extractMin
+extractMin
+insert 88362
+insert 76352
+insert 76534
+insert -18720
+insert -45295
+insert -35606
+insert -92690
+extractMin
+extractMin
+insert 73911
+extractMin
+extractMin
+insert 94905
+insert -80569
+insert -10152
+extractMin
+insert -39398
+extractMin
+extractMin
+insert -81775
+extractMin
+insert 31076
+insert -6814
+extractMin
+extractMin
+extractMin
+insert -10716
+extractMin
+insert -54649
+insert 45824

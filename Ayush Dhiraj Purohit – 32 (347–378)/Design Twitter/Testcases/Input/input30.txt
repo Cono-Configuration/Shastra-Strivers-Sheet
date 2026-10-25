@@ -1,0 +1,101 @@
+100
+postTweet 4 245
+postTweet 8 246
+postTweet 8 247
+follow 21 17
+postTweet 4 248
+getNewsFeed 12
+postTweet 16 249
+getNewsFeed 13
+postTweet 7 250
+postTweet 2 251
+getNewsFeed 2
+postTweet 13 252
+unfollow 3 7
+postTweet 21 253
+getNewsFeed 19
+getNewsFeed 11
+getNewsFeed 19
+getNewsFeed 17
+postTweet 19 254
+getNewsFeed 3
+getNewsFeed 11
+postTweet 3 255
+postTweet 9 256
+postTweet 14 257
+getNewsFeed 5
+postTweet 7 258
+getNewsFeed 4
+postTweet 4 259
+postTweet 15 260
+getNewsFeed 10
+follow 17 5
+postTweet 14 261
+postTweet 14 262
+postTweet 13 263
+follow 11 6
+getNewsFeed 10
+postTweet 6 264
+unfollow 3 17
+postTweet 18 265
+postTweet 4 266
+follow 5 15
+follow 14 10
+follow 12 21
+postTweet 16 267
+getNewsFeed 9
+follow 14 3
+follow 16 21
+getNewsFeed 8
+postTweet 10 268
+postTweet 3 269
+getNewsFeed 9
+unfollow 16 18
+follow 16 11
+unfollow 16 21
+postTweet 5 270
+unfollow 11 3
+postTweet 13 271
+getNewsFeed 16
+getNewsFeed 12
+follow 8 21
+postTweet 4 272
+unfollow 8 2
+postTweet 8 273
+follow 5 10
+postTweet 13 274
+postTweet 15 275
+postTweet 7 276
+postTweet 11 277
+getNewsFeed 11
+follow 8 13
+getNewsFeed 3
+postTweet 2 278
+unfollow 3 7
+postTweet 2 279
+follow 12 13
+postTweet 14 280
+postTweet 6 281
+postTweet 21 282
+postTweet 14 283
+postTweet 13 284
+postTweet 5 285
+postTweet 21 286
+getNewsFeed 6
+getNewsFeed 17
+getNewsFeed 5
+getNewsFeed 3
+postTweet 6 287
+follow 5 15
+getNewsFeed 20
+follow 20 18
+getNewsFeed 11
+unfollow 20 18
+getNewsFeed 6
+follow 7 6
+postTweet 3 288
+postTweet 6 289
+follow 10 4
+unfollow 2 20
+follow 10 19
+postTweet 6 290

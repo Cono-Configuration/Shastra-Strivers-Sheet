@@ -1,0 +1,27 @@
+26
+postTweet 2 13
+postTweet 1 14
+getNewsFeed 1
+postTweet 2 15
+postTweet 1 16
+postTweet 4 17
+unfollow 5 1
+postTweet 1 18
+postTweet 2 19
+getNewsFeed 1
+follow 4 3
+unfollow 2 4
+follow 3 5
+follow 4 3
+unfollow 4 1
+unfollow 2 1
+follow 3 5
+follow 3 4
+postTweet 2 20
+getNewsFeed 4
+follow 2 4
+follow 4 3
+getNewsFeed 5
+getNewsFeed 1
+postTweet 1 21
+getNewsFeed 3
